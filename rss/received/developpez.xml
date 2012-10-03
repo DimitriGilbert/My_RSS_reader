@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Developpez.com, le club des décideurs et professionnels en Informatique]]></title>
+    <link>http://www.developpez.com/index/rss</link>
+    <description><![CDATA[Club des décideurs et professionnels en informatique]]></description>
+    <pubDate>Mon, 16 Apr 2012 16:23:58 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Apr 2012 16:23:58 +0200</lastBuildDate>
+    <managingEditor>(www.developpez.com)</managingEditor>
+    <copyright>Copyright © 2000-2012 www.developpez.com</copyright>
+    <image>
+      <url>http://www.developpez.com/template/images/logo.gif</url>
+      <title><![CDATA[Developpez.com, le club des décideurs et professionnels en Informatique]]></title>
+      <link>http://www.developpez.com/index/rss</link>
+    </image>
+    <generator>www.developpez.com</generator>
+    <language>fr-FR</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Sécurité des mobiles pros : BlackBerry met la concurrence KO d'après Trend Micro, Boeing sort son Android ultra-sécurisé]]></title>
+      <link>http://www.developpez.com/actu/43345/Securite-des-mobiles-pros-BlackBerry-met-la-concurrence-KO-d-apres-Trend-Micro-Boeing-sort-son-Android-ultra-securise/</link>
+      <guid>http://www.developpez.com/actu/43345/Securite-des-mobiles-pros-BlackBerry-met-la-concurrence-KO-d-apres-Trend-Micro-Boeing-sort-son-Android-ultra-securise/</guid>
+      <description><![CDATA[Sécurité des mobiles professionnels : BlackBerry met la concurrence KO
+D'après Trend Micro, Boeing sort son Android ultra-sécurisé
+
+Quelles que soient les turbulences qu'il traverse, Research In Motion, le constructeur derrière BlackBerry, garde une réputation exceptionnelle dans la sécurité mobile.
+
+La semaine dernière, le canadien présentait par exemple une nouvelle fonctionnalité pour sa tablette PlayBook. Celle-ci intègre désormais des « caténaires », sorte d'espaces protégés inspirés des partitions disques, pour faire cohabiter sur un même appareil des contenus privés (non chiffrés et libres) et professionnels (chiffrés et gérer de manière centralisée par un adminis...]]></description>
+      <pubDate>Mon, 16 Apr 2012 13:18:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows Phone : le MarkePlace va évoluer pour s'adapter à la croissance, Microsoft annonce une mise à jour pour l'été]]></title>
+      <link>http://www.developpez.com/actu/43335/Windows-Phone-le-MarkePlace-va-evoluer-pour-s-adapter-a-la-croissance-Microsoft-annonce-une-mise-a-jour-pour-l-ete/</link>
+      <guid>http://www.developpez.com/actu/43335/Windows-Phone-le-MarkePlace-va-evoluer-pour-s-adapter-a-la-croissance-Microsoft-annonce-une-mise-a-jour-pour-l-ete/</guid>
+      <description><![CDATA[Windows Phone : le MarketPlace va évoluer pour s'adapter à la croissance
+Microsoft annonce une mise à jour pour l'été 
+
+
+La galerie d'applications Windows Phone a subi ces derniers mois un taux de croissance effréné. Au cours des trois premiers mois de l'année, plus de 29 000 nouvelles applications ont été soumises sur le MarketPlace (soit une augmentation de 60%), permettant à la galerie de franchir le seuil symbolique des 80 000 applications.  De plus, le nombre de galeries a doublé pendant ce temps, passant à 54.
+
+Le programme développeur compte désormais plus de 20 000 développeurs enregistrés. À ce rythme, la galerie va franchir la barre des 100 000 applications dans moins de 100 jours....]]></description>
+      <pubDate>Mon, 16 Apr 2012 12:34:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Google : "ne plus être soumis à la loi des États-Unis serait génial", son co-fondateur critique les plateformes fermées de Facebook et Apple]]></title>
+      <link>http://www.developpez.com/actu/43326/Google-ne-plus-etre-soumis-a-la-loi-des-tats-Unis-serait-genial-son-co-fondateur-critique-les-plateformes-fermees-de-Facebook-et-Apple/</link>
+      <guid>http://www.developpez.com/actu/43326/Google-ne-plus-etre-soumis-a-la-loi-des-tats-Unis-serait-genial-son-co-fondateur-critique-les-plateformes-fermees-de-Facebook-et-Apple/</guid>
+      <description><![CDATA[Google : « ne plus être soumis à la loi des États-Unis, ce serait génial »
+Son co-fondateur critique Facebook et Apple et se dit « plus inquiet que jamais » pour l'ouverture d'Internet
+
+
+« La liberté sur Internet est en danger ». Cette déclaration alarmiste ne vient pas du Parti Pirate ou de l'Electronic Frontier Foundation mais d'un acteur beaucoup plus étonnant : Sergey Brin, un des deux co-fondateurs de Google.
+
+Dans un entretien au quotidien britannique The Guardian, le jeune dirigeant (38 ans) s'en prend pêle-mêle aux gouvernements qui essayent de contrôler l'expression des citoyens, aux associations d'auteurs/compositeurs qui sous prétexte, d'après lui, de lutter c...]]></description>
+      <pubDate>Mon, 16 Apr 2012 11:18:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[De SAS Foundation à SAS BI : Comment créer son Dashboard KPI, Par Stéphane Colas]]></title>
+      <link>http://datametric.developpez.com/tutoriels/sas/sas-foundation-sas-bi-creer-dashboard-kpi/</link>
+      <guid>http://datametric.developpez.com/tutoriels/sas/sas-foundation-sas-bi-creer-dashboard-kpi/</guid>
+      <description><![CDATA[Bonsoir,
+
+je vous propose cet article sur la mise en place des Dashboard KPI avec SAS.
+
+N'hésitez pas à me faire part de vos retours....]]></description>
+      <pubDate>Mon, 16 Apr 2012 09:53:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Introduction à la bibliothèque de construction de graphe JGraphX,  par Patrick Briand]]></title>
+      <link>http://pbriand.developpez.com/tutoriels/java/JGraphX/Les%20bases/</link>
+      <guid>http://pbriand.developpez.com/tutoriels/java/JGraphX/Les%20bases/</guid>
+      <description><![CDATA[Bonjour à tous.
+
+Je vous propose mon tout premier article intitulé &quot;JGraphX: Les bases&quot; qui est disponible ici
+
+La librairie JGraphX permet de dessiner des graphes dans une JFrame. Cet article se limite à une présentation de cette  libraire en décrivant ses fonctions basiques. Si cet article génère un flot de questions important sur une utilisation plus approfondie de la libraire, un second article pourras alors être écrit pour aborder ces points.
+
+Toutes vos remarques seront les bienvenues.
+
+Bonne lecture....]]></description>
+      <pubDate>Mon, 16 Apr 2012 09:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Editeur de texte en Silverlight 4 (partie 2), un tutoriel de Peter Bull traduit par Deepin Prayag]]></title>
+      <link>http://deepin.developpez.com/tutoriels/silverlight/editeur-de-texte-partie2/</link>
+      <guid>http://deepin.developpez.com/tutoriels/silverlight/editeur-de-texte-partie2/</guid>
+      <description><![CDATA[Microsoft Silverlight 4 - Tutoriel 4 : Éditeur de texte (Partie 2)
+
+Ce tutoriel fait partie d'une série de niveau débutant-intermédiaire pour apprendre Silverlight 4 par le biais d'exemples pas à pas.
+
+Vous pourrez éventuellement retrouver tous les tutoriels de la série sur cette page. 
+
+N'hésitez pas à laisser vos commentaires et remarques !...]]></description>
+      <pubDate>Mon, 16 Apr 2012 08:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Casse-têtes en C#, un article de Jon Skeet sur les pièges du langage, traduit par Jean-Michel Ormes]]></title>
+      <link>http://jormes.developpez.com/traductions/pieges-csharp/</link>
+      <guid>http://jormes.developpez.com/traductions/pieges-csharp/</guid>
+      <description><![CDATA[Cette discussion est destinée à recueillir vos commentaires sur l'article Casse-têtes en C# (traduction de l'article C# Brainteasers de Jon Skeet)
+
+
+	Citation:
+	
+	
+		
+			
+				Régulièrement, je tombe sur une situation intéressante en C# qui donne des résultats surprenants. Cette page contient une liste d'exemples. Dans les exemples où il n'y a qu'un bout de code, nous supposerons que celui-ci est dans la m...]]></description>
+      <pubDate>Sun, 15 Apr 2012 08:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Logica cherche une dizaine de développeurs Java/JEE un peu partout en France et au Luxembourg]]></title>
+      <link>http://www.developpez.com/actu/43299/Logica-cherche-une-dizaine-de-developpeurs-Java-JEE-un-peu-partout-en-France-et-au-Luxembourg/</link>
+      <guid>http://www.developpez.com/actu/43299/Logica-cherche-une-dizaine-de-developpeurs-Java-JEE-un-peu-partout-en-France-et-au-Luxembourg/</guid>
+      <description><![CDATA[Logica cherche une dizaine de développeurs Java/JEE
+Un peu partout en France et au Luxembourg
+
+
+Cotée à la Bourse de Londres et d'Amsterdam, Logica est une entreprise de service en business et technologie qui compte plus de 40.000 collaborateurs.
+
+Ses activités principales regroupent le conseil en management, l'intégration de technologies et l'externalisation. Des conseils qu'elle promulgue à ses clients un peu partout dans le monde et en Europe.
+
+Pour accompagner l'évolution de l'IT (mobilité, montée en puissance des services web, etc.), Logica cherche de nouveaux profils. Et notamment en France.
+
+« Nos développeurs travaillent sur plusieurs projets dans une appr...]]></description>
+      <pubDate>Fri, 13 Apr 2012 16:07:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Blackberry OS 7.1 ouvre BBM aux développeurs pour « créer de la viralité » autour de leurs applications, des API pour le NFC]]></title>
+      <link>http://www.developpez.com/actu/43295/Blackberry-OS-7-1-ouvre-BBM-aux-developpeurs-pour-creer-de-la-viralite-autour-de-leurs-applications-des-API-pour-le-NFC/</link>
+      <guid>http://www.developpez.com/actu/43295/Blackberry-OS-7-1-ouvre-BBM-aux-developpeurs-pour-creer-de-la-viralite-autour-de-leurs-applications-des-API-pour-le-NFC/</guid>
+      <description><![CDATA[Blackberry OS 7.1 ouvre BBM aux développeurs
+Pour « créer  de la viralité» autour de leurs applications, des API pour le NFC
+
+Research In Motion ne va pas bien financièrement, mais RIM n'est pas mort pour autant. L'annonce de la version 7.1 de son BlackBerry OS montre en effet que le canadien est toujours prêt à se battre.
+
+Comment ? En étant toujours une référence pour les professionnels (support de tout type de messagerie, de protocoles et d'outils  d'Exchange à SAP en passant par Lync de Microsoft ou les technologies de Cisco) et en donnant de nouveaux outils aux développeurs.
+
+[IMG]http://ftp-developpez.com/gordon-fowler/BBPlateforme.png[/IMG]
+
+RIM a par exemple fai...]]></description>
+      <pubDate>Fri, 13 Apr 2012 15:06:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Office 2011 : Microsoft publie le Service Pack 2 pour Mac, qui améliore les performances et corrige des problèmes critiques]]></title>
+      <link>http://www.developpez.com/actu/43286/Office-2011-Microsoft-publie-le-Service-Pack-2-pour-Mac-qui-ameliore-les-performances-et-corrige-des-problemes-critiques/</link>
+      <guid>http://www.developpez.com/actu/43286/Office-2011-Microsoft-publie-le-Service-Pack-2-pour-Mac-qui-ameliore-les-performances-et-corrige-des-problemes-critiques/</guid>
+      <description><![CDATA[Office 2011 : Microsoft publie le Service Pack 2 pour Mac
+qui améliore les performances et corrige des problèmes critiques
+
+
+
+Microsoft vient de publier un Service Pack 2 (SP) pour la dernière version de sa suite bureautique Office 2011.
+
+Cette mise à jour apporte de nombreux correctifs et des améliorations pour Office 2011 Mac, et résout les problèmes d'incompatibilité avec Mac OS X Lion.
+
+Le  SP 2 offre aux applications de la suite une meilleure prise en charge du service de stockage Cloud de Microsoft Skydrive avec un accès aux documents se trouvant à la racine d'un dossier sur le service en ligne. Le mode plein écran de Lion est maintenant disponible pour toutes les ...]]></description>
+      <pubDate>Fri, 13 Apr 2012 15:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Google apporte une refonte à l'interface de son réseau social Google+, les développeurs mécontents]]></title>
+      <link>http://www.developpez.com/actu/43283/Google-apporte-une-refonte-a-l-interface-de-son-reseau-social-Google-les-developpeurs-mecontents/</link>
+      <guid>http://www.developpez.com/actu/43283/Google-apporte-une-refonte-a-l-interface-de-son-reseau-social-Google-les-developpeurs-mecontents/</guid>
+      <description><![CDATA[Google apporte une refonte à l'interface de Google+
+les développeurs mécontents  
+
+
+Google est aux trousses de Facebook, et ne souhaite pas se laisser distancer par le réseau social.
+
+Après la mise à jour de Facebook avec l'introduction de Timeline, c'est au tour du réseau social Google+ de subir un lifting complet de son interface.
+
+Le géant de la recherche a annoncé dans un billet de blog une refonte du design du site qui se rapproche un peu plus de Facebook.
+
+L'interface conçue autour de la simplification et de la personnalisation, dispose désormais d'un ruban à gauche de l'écran donnant accès aux fonctionnalités les plus usuelles comme les photos et les profil...]]></description>
+      <pubDate>Fri, 13 Apr 2012 14:04:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Les périodes de publication d'Office 15, IE 10 et Windows Phone 8 connues, la roadmap de Microsoft dévoilée accidentellement]]></title>
+      <link>http://www.developpez.com/actu/43270/Les-periodes-de-publication-d-Office-15-IE-10-et-Windows-Phone-8-connues-la-roadmap-de-Microsoft-devoilee-accidentellement/</link>
+      <guid>http://www.developpez.com/actu/43270/Les-periodes-de-publication-d-Office-15-IE-10-et-Windows-Phone-8-connues-la-roadmap-de-Microsoft-devoilee-accidentellement/</guid>
+      <description><![CDATA[Les périodes de publication d'Office 15, IE 10 et Windows Phone 8 connues,
+la roadmap de Microsoft dévoilée accidentellement
+
+
+
+Les probables dates de publication des versions finales de certains produits majeurs de Microsoft sont désormais connues.
+
+La fuite d'une feuille de route de l'entreprise prévoit la sortie de la suite bureautique Office 15 en début 2013 et le lancement de la mise à jour Windows Phone 8 à l'automne.
+
+La roadmap a été publiée accidentellement par  Martin Visser, directeur général de la startup SharePoint et mo...]]></description>
+      <pubDate>Fri, 13 Apr 2012 12:14:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Une introduction à Node.js, par Nicolargo]]></title>
+      <link>http://nodejs.developpez.com/tutoriels/javascript/introduction-node-js/</link>
+      <guid>http://nodejs.developpez.com/tutoriels/javascript/introduction-node-js/</guid>
+      <description><![CDATA[Node.js est un framework implémentant, côté serveur, la version 8 du moteur JavaScript de Google (pour une présentation rapide, je vous conseille de parcourir ces quelques slides).
+L'objectif de ce billet est d'installer Node.js sur votre machine GNU/Linux et d'exécuter votre premier programme (hello.js).]]></description>
+      <pubDate>Fri, 13 Apr 2012 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MySQL 5.6 : la préversion améliore la disponibilité, les performances et l'administration pour les applications Web, Cloud et embarquées]]></title>
+      <link>http://www.developpez.com/actu/43259/MySQL-5-6-la-preversion-ameliore-la-disponibilite-les-performances-et-l-administration-pour-les-applications-Web-Cloud-et-embarquees/</link>
+      <guid>http://www.developpez.com/actu/43259/MySQL-5-6-la-preversion-ameliore-la-disponibilite-les-performances-et-l-administration-pour-les-applications-Web-Cloud-et-embarquees/</guid>
+      <description><![CDATA[MySQL 5.6 : la préversion améliore la disponibilité, les performances et  l'administration
+pour les applications Web, Cloud et embarquées
+
+Mise à jour du 12/04/2012, par Hinault Romaric
+ 
+
+Une nouvelle version  intermédiaire de développement (DMR)  pour MySQL 5.6 vient d'être publiée par Oracle.
+
+La haute disponibilité est renforcée  dans cette mouture avec  de nouvelles fonctions de réplication basées sur des mécanismes d'autoréparation comme les identifiants globaux de transactions (GTID)  pour le suivi de l'avancement de la réplication sur une topologie de réplication et de nouveaux utilitaires de réplication MySQL pour f...]]></description>
+      <pubDate>Thu, 12 Apr 2012 15:24:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RIM : « nous ne mettons pas fin au téléchargement d'applications Android », il devient une « fonctionnalité pour développeurs »]]></title>
+      <link>http://www.developpez.com/actu/43255/RIM-nous-ne-mettons-pas-fin-au-telechargement-d-applications-Android-il-devient-une-fonctionnalite-pour-developpeurs/</link>
+      <guid>http://www.developpez.com/actu/43255/RIM-nous-ne-mettons-pas-fin-au-telechargement-d-applications-Android-il-devient-une-fonctionnalite-pour-developpeurs/</guid>
+      <description><![CDATA[RIM : « nous ne mettons pas fin à la possibilité de télécharger des applications Android »
+Elle « change de nature » et devient une fonctionnalité dédiée aux développeurs
+
+Mise à jour du 12/04/2012
+
+Après le début de tôlé provoqué par l'annonce de la fin de la possibilité de télécharger des applications Android directement depuis Google Play sur la Playbook (la tablette de RIM), le constructeur du BlackBerry a tenu à réagir en apportant quelques précisions.
+
+« Il y a eu beaucoup d'articles suite aux tweets que j'ai postés sur le chargement d'applications (NDR : Android) sur la tablette BlackBerry PlayBook. Malheureusement, 140 carac...]]></description>
+      <pubDate>Thu, 12 Apr 2012 14:51:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Java : Oracle dévoile la roadmap pour JDK 8, la publication de la version finale prévue pour septembre 2013]]></title>
+      <link>http://www.developpez.com/actu/43249/Java-Oracle-devoile-la-roadmap-pour-JDK-8-la-publication-de-la-version-finale-prevue-pour-septembre-2013/</link>
+      <guid>http://www.developpez.com/actu/43249/Java-Oracle-devoile-la-roadmap-pour-JDK-8-la-publication-de-la-version-finale-prevue-pour-septembre-2013/</guid>
+      <description><![CDATA[Oracle dévoile la roadmap pour JDK 8
+la publication de la version finale prévue pour septembre 2013
+
+Le mois dernier, Oracle a publié lors de la conférence Qcon une feuille de route pour Java qui prévoit une sortie de JDK 8 en 2013,  JDK 9 en 2015, JDK 10 en 2017, JDK 11 en 2019 et JDK 12 en 2022.
+
+La firme revient aujourd'hui fournir plus de détails et les dates de sortie de la prochaine version de la plateforme de développement.
+
+Mathias Axelsson, gestionnaire de versions du JDK chez Oracle a publié sur la liste de diffusion jdk8-dev, les dates de livraison des différentes préversions «Milestone» qui intégreront ...]]></description>
+      <pubDate>Thu, 12 Apr 2012 14:32:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La reconnaissance d'humeur bientôt intégrée à Kinect ? Microsoft envisage d'étendre les capacités du dispositif]]></title>
+      <link>http://www.developpez.com/actu/43244/La-reconnaissance-d-humeur-bientot-integree-a-Kinect-Microsoft-envisage-d-etendre-les-capacites-du-dispositif/</link>
+      <guid>http://www.developpez.com/actu/43244/La-reconnaissance-d-humeur-bientot-integree-a-Kinect-Microsoft-envisage-d-etendre-les-capacites-du-dispositif/</guid>
+      <description><![CDATA[La reconnaissance d'humeur bientôt intégrée à Kinect ?
+Microsoft envisage d'étendre les capacités du dispositif
+
+
+Kinect, le capteur de mouvements de Microsoft pour la Xbox  pourrait bientôt être doté de nouvelles interactions avec le joueur.
+
+[IMG]http://rdonfack.developpez.com/images/kinect.jpg[/IMG]
+
+En plus des caractéristiques de reconnaissance de mouvements, de reconnaissance visuelle et de reconnaissance vocale, le dispositif devrait être doté de fonctionnalités permettant la détection d'émotions.
+
+Microsoft plancherait actuellement sur l'intégration de cette fonctionnalité au sein du dispositif dans le futur, selon les déclarations de Kudo Tsunoda , vice-p...]]></description>
+      <pubDate>Thu, 12 Apr 2012 13:24:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apprendre à développer des applications métiers avec Eclipse Scout, par Jérémie Bresson]]></title>
+      <link>http://jmini.developpez.com/eclipse_scout/articles/premiers_pas/</link>
+      <guid>http://jmini.developpez.com/eclipse_scout/articles/premiers_pas/</guid>
+      <description><![CDATA[Je vous propose une présentation détaillée du framework Eclipse Scout : Premiers pas avec Eclipse Scout
+
+Le chapitre II illustre la réalisation complète d'une application à travers un exemple. 
+
+Le code source de l'exemple est disponible en téléchargement (sur Eclipse-Labs)
+
+Je vous invite à profiter de cette discussion pour des commentaires éventuels....]]></description>
+      <pubDate>Thu, 12 Apr 2012 09:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Modèle de liste hétérogène en QML, un article de Christophe Dumez traduit par Thibaut Cuvelier]]></title>
+      <link>http://christophe-dumez.developpez.com/tutoriels/qt/qml/modele-liste-heterogene/</link>
+      <guid>http://christophe-dumez.developpez.com/tutoriels/qt/qml/modele-liste-heterogene/</guid>
+      <description><![CDATA[On va montrer ici comment utiliser ListView pour afficher les données d'un modèle hétérogène. Le problème, ici, est que, en fonction du type de données, on aura un affichage différent, on utilisera donc différents délégués. Le truc est l'utilisation d'un délégué capable de détecter le type de données et ainsi adapter son affichage.
+
+Modèle de liste hétérogène en QML...]]></description>
+      <pubDate>Thu, 12 Apr 2012 08:42:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Le créateur de Minecraft dévoile 0x10c, un nouveau jeu ou l'utilisateur sera amené à programmer]]></title>
+      <link>http://www.developpez.com/actu/43240/Le-createur-de-Minecraft-devoile-0x10c-un-nouveau-jeu-ou-l-utilisateur-sera-amene-a-programmer/</link>
+      <guid>http://www.developpez.com/actu/43240/Le-createur-de-Minecraft-devoile-0x10c-un-nouveau-jeu-ou-l-utilisateur-sera-amene-a-programmer/</guid>
+      <description><![CDATA[Le créateur de Minecraft dévoile 0x10c
+ un nouveau jeu où l'utilisateur sera amené à programmer
+
+Après le succès de Minecraft, le créateur du jeu de construction mêlant action et réflexion dans un environnement pixélisé 3D  s'est lancé récemment dans un nouveau projet.
+ 
+Markus Persson a dévoilé un nouveau projet baptisé 0x10c, qui est une sorte de jeu de science-fiction où l'utilisateur tient les rênes d'un vaisseau spatial.
+
+0x10c reprend plusieurs idées ayant entrainé le succès de Minecraft, avec plusieurs contenus créés par l'utilisateur qui pourra personnaliser son environnement et un graphisme relativement simple. 
+
+[IMG]http://rdonfack.developpez.com/0x10c.jpg[/IM...]]></description>
+      <pubDate>Thu, 12 Apr 2012 05:51:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>

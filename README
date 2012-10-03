@@ -1,0 +1,9 @@
+My_RSS_reader is a simple php and javascript RSS feed reader, wich allows you to read your articles over the internet or simply sharing it on twitter, facebook or google+.
+I here you coming : "pfff, another one...!" to what i will answer "yes, and so wath :P"
+
+basicly i created it to replace briefMe (android and ios reader app) 'cause i forgot my Transformer charger...
+
+Quick Start
+just unzip the folder in a directory wich is on a web server running php 
+edit the fonction/main.php file to put the path to the root folder in the $path variable
+add a rss feed in the media/sites.xml and go to the index.html file through your favorite web browser :) 

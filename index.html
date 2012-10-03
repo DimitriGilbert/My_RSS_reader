@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" href="media/main.css" type="text/css" media="all" />
+		<title></title>
+	</head>
+	<body>
+		<div class="header"></div>
+		<div class="site">
+			<div class="access">
+				<div class="menu">
+					<div class="menu_item update" onclick="loadRSS();">
+						update
+					</div>
+					<div class="menu_item update" onclick="display_feed();">
+						Show feeds
+					</div>
+				</div>
+			</div>
+			<div class="site_liste" id="site_liste">
+				<div class="feed_list" id="feed_list"></div>
+				<div class="add_feed_form">
+					<div>
+						<label for="feed_id">Identifiant de la feed (pas d'espace svp ^^')</label>
+						<input type="text" id="feed_id" name="feed_id" />
+					</div>
+					<div>
+						<label for="feed_name">Nom de la feed</label>
+						<input type="text" id="feed_name" name="feed_name" />
+					</div>
+					<div>
+						<label for="feed_url">URL de la feed</label>
+						<input type="text" id="feed_url" name="feed_url" />
+					</div>
+					<div>
+						<input type="button" value="Ajouter" onclick="add_feed(docelid('feed_id').value,docelid('feed_name').value,docelid('feed_url').value)">
+					</div>
+				</div>
+			</div>
+			<div class="infos" id="infos"></div>
+			<div class="reader" id="reader"></div>
+			<div class="sharer" id="sharer">
+				<div id="tweet_share" class="tweet share" >tweet it !</div>
+				<div id="g_share" class="g share" >Google+</div>
+				<div id="fb_share" class="fb share">Facebook</div>
+			</div>
+		</div>
+		<div class="footer"></div>
+		<script type="text/javascript" src="media/jsinterface.js"></script>
+		<script type="text/javascript" src="media/main.js"></script>
+		<script type="text/javascript" >loadRSS()</script>
+	</body>
+</html>

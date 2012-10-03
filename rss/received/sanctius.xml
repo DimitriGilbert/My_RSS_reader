@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sanctius.net</title>
+	<atom:link href="http://www.sanctius.net/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.sanctius.net</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Apr 2012 12:24:29 +0000</lastBuildDate>
+	<language>fr</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Supprimer l&#8217;étrange espace blanc du nouveau Google+</title>
+		<link>http://www.sanctius.net/reseaux-sociaux/enlever-espace-plus.html</link>
+		<comments>http://www.sanctius.net/reseaux-sociaux/enlever-espace-plus.html#comments</comments>
+		<pubDate>Mon, 16 Apr 2012 12:24:29 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Réseaux Sociaux]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google plus]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11811</guid>
+		<description><![CDATA[Vous l&#8217;avez probablement remarqué, Google+ a subi un relooking plutôt impressionnant. Le design est beaucoup plus clair et ergonomique, mais un petit problème est cependant à noter : un espace blanc assez perturbant qui ne semble servir.. à rien. Je ne [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/reseaux-sociaux/enlever-espace-plus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Et si les filtres Instagram débarquaient sur Facebook ?</title>
+		<link>http://www.sanctius.net/divertissement/instagram-facebook-humour.html</link>
+		<comments>http://www.sanctius.net/divertissement/instagram-facebook-humour.html#comments</comments>
+		<pubDate>Sat, 14 Apr 2012 12:08:49 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Divertissement]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[infographie]]></category>
+		<category><![CDATA[instagram]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11800</guid>
+		<description><![CDATA[Vous l&#8217;avez probablement déjà appris, Facebook s&#8217;est offert Instagram pour la modique somme d&#8217;1 milliard de dollars. Non, ne perdez pas votre temps à essayer de vous représenter ce que cela vaut, c&#8217;est très difficilement imaginable pour le commun des mortels ! [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/divertissement/instagram-facebook-humour.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Récupérer les images d&#8217;un site internet</title>
+		<link>http://www.sanctius.net/outils/copier-photo-page.html</link>
+		<comments>http://www.sanctius.net/outils/copier-photo-page.html#comments</comments>
+		<pubDate>Fri, 13 Apr 2012 10:24:56 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Outils]]></category>
+		<category><![CDATA[application]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[navigateur]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11518</guid>
+		<description><![CDATA[Dans certains cas, il est intéressant de pouvoir sauvegarder les photos qui sont présentes sur une page d&#8217;un site internet. Le cas pratique sur lequel j&#8217;étais tombé était simple : récupérer les images d&#8217;un de mes blogs. Sachant que la [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/outils/copier-photo-page.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nouveau Coyote 2012 : alertes, fonctionnalités et prix</title>
+		<link>http://www.sanctius.net/high-tech/nouveau-coyote-2012.html</link>
+		<comments>http://www.sanctius.net/high-tech/nouveau-coyote-2012.html#comments</comments>
+		<pubDate>Wed, 11 Apr 2012 11:50:23 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[High-Tech]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11767</guid>
+		<description><![CDATA[Leader de l&#8217;assistance &#224; la conduite, Coyote System va lancer d&#8217;ici quelques jours (mi-Avril) son nouveau boitier apportant de nouvelles fonctionnalit&#233;s et encore plus de services. Le but est simple, assister le conducteur et lui rendre ses trajets en voiture [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/high-tech/nouveau-coyote-2012.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photographie : outil pour ajouter des Copyright</title>
+		<link>http://www.sanctius.net/outils/logiciel-droit-auteur.html</link>
+		<comments>http://www.sanctius.net/outils/logiciel-droit-auteur.html#comments</comments>
+		<pubDate>Sun, 08 Apr 2012 12:31:23 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Outils]]></category>
+		<category><![CDATA[application]]></category>
+		<category><![CDATA[filigrane]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11489</guid>
+		<description><![CDATA[Si vous êtes photographe et que vous souhaitez publier vos photos en ligne (par exemple sur Flickr ou encore sur Deviantart) vous allez peut être vouloir ajouter une protection. C&#8217;est légitime ! Alors pour protéger des photos contre le vol, [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/outils/logiciel-droit-auteur.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>7 astuces SEO pour Tumblr</title>
+		<link>http://www.sanctius.net/blogging/optimiser-code-tumblr.html</link>
+		<comments>http://www.sanctius.net/blogging/optimiser-code-tumblr.html#comments</comments>
+		<pubDate>Fri, 06 Apr 2012 11:39:54 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Blogging]]></category>
+		<category><![CDATA[conseils et astuces]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[seo]]></category>
+		<category><![CDATA[Tumblr]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11381</guid>
+		<description><![CDATA[Si vous utilisez Tumblr comme outil de blogging et que vous êtes un minimum soucieux du positionnement de votre blog sur les moteurs de recherche, vous connaissez probablement la problématique SEO de ce service. Les blogs tournants sur Tumblr pouvant être modifié [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/blogging/optimiser-code-tumblr.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Android : Instagram est désormais disponible</title>
+		<link>http://www.sanctius.net/mobile-2/instagram-android.html</link>
+		<comments>http://www.sanctius.net/mobile-2/instagram-android.html#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 17:24:13 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[instagram]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11751</guid>
+		<description><![CDATA[Les heureux possesseurs d&#8217;un mobile tournant sous Android seront ravis d&#8217;apprendre que l&#8217;application Instagram est dès à présent disponible sur Google Play. Après avoir conquis près de 30 millions d&#8217;utilisateurs avec l&#8217;Iphone, l&#8217;application &#8211; qui permet de prendre des photos [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/mobile-2/instagram-android.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Booster votre E-reputation avec le Social Bookmarking !</title>
+		<link>http://www.sanctius.net/internet/infographie-social-bookmarking.html</link>
+		<comments>http://www.sanctius.net/internet/infographie-social-bookmarking.html#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 12:00:41 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[infographie]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11546</guid>
+		<description><![CDATA[Partager sur le web n&#8217;a jamais été aussi simple depuis quelques temps, avec notamment les apparitions de Scoop It, Visual.Ly, Pearltrees ou plus récemment de Pinterest. Ce dernier existant déjà depuis un petit temps, mais le besoin en socialisation étant [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/internet/infographie-social-bookmarking.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Visiter les studios Harry Potter à Londres</title>
+		<link>http://www.sanctius.net/insolite/tournage-films-warnerbros.html</link>
+		<comments>http://www.sanctius.net/insolite/tournage-films-warnerbros.html#comments</comments>
+		<pubDate>Sat, 31 Mar 2012 09:42:29 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Insolite]]></category>
+		<category><![CDATA[harry potter]]></category>
+		<category><![CDATA[visite]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11604</guid>
+		<description><![CDATA[Quel fan du célèbre sorcier, Harry Potter, n&#8217;a jamais rêvé de se rendre dans la célèbre école de Poudlard ? A mon avis, chaque lecteur du livre s&#8217;est déjà imaginé fouler le dortoir de Griffondor ou encore déjeuner dans la Grande Salle. [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/insolite/tournage-films-warnerbros.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 alternatives à Instagram sur Android</title>
+		<link>http://www.sanctius.net/smartphones/alternatives-instagram-android.html</link>
+		<comments>http://www.sanctius.net/smartphones/alternatives-instagram-android.html#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 16:58:08 +0000</pubDate>
+		<dc:creator>Yoann</dc:creator>
+				<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[application]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[retouche photo]]></category>
+
+		<guid isPermaLink="false">http://www.sanctius.net/?p=11498</guid>
+		<description><![CDATA[Instagram devrait arriver sous peu sur Android et devrait dès lors révolutionner la façon de partager la photographie pour ces utilisateurs. Néanmoins, si vous n&#8217;êtes pas patient ou si vous voulez tout simplement profiter d&#8217;une application pour customiser vos images, [...]]]></description>
+		<wfw:commentRss>http://www.sanctius.net/smartphones/alternatives-instagram-android.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

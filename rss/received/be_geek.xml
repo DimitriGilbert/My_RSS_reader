@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2frenchfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+
+<channel>
+	<title>Be Geek</title>
+	
+	<link>http://www.begeek.fr</link>
+	<description>Actualité Geek, Web, Mobile, HighTech</description>
+	<lastBuildDate>Mon, 16 Apr 2012 13:50:01 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/be-geek" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="be-geek" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">be-geek</feedburner:emailServiceId><feedburner:feedburnerHostname xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://add.my.yahoo.com/content?lg=fr&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2Fbe-geek" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/bn/intatm_fr_1.gif">Subscribe with Mon Yahoo!</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fbe-geek" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.bloglines.com/sub/http://feeds.feedburner.com/be-geek" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fbe-geek" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fbe-geek" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fbe-geek" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><item>
+		<title>Navigateurs : Chrome rattrape Firefox en France</title>
+		<link>http://www.begeek.fr/navigateurs-chrome-rattrape-firefox-en-france-58643</link>
+		<comments>http://www.begeek.fr/navigateurs-chrome-rattrape-firefox-en-france-58643#comments</comments>
+		<pubDate>Mon, 16 Apr 2012 13:50:01 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Internet]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58643</guid>
+		<description><![CDATA[Médiamétrie-eStat a publié les résultats d&#8217;une étude s&#8217;intéressant aux navigateurs utilisés en France au mois de ]]></description>
+			<content:encoded><![CDATA[<p><strong>Médiamétrie-eStat</strong> a publié les résultats d&#8217;une étude s&#8217;intéressant aux <strong>navigateurs utilisés en France au mois de mars</strong>.</p>
+<p><img class="alignnone size-full wp-image-58644" title="browser-wars" src="http://media.begeek.fr/wp-content/uploads/2012/04/browser-wars-600x430.jpg" alt="browser-wars" width="633" height="443" /></p>
+<p>Ce sont les quatre acteurs principaux du marché sans distinction de version qui ont été au centre de cette enquête. Les chiffres présentés dans cette étude portent sur les navigateurs utilisés pour visiter le panel des sites du classement CybereStat, il convient donc de prendre ces résultats avec recul.</p>
+<p>Parmi les évolutions, la plus notable reste celle de <strong><a href="http://begeek.fr/tag/chrome">Chrome</a></strong>, le <strong>navigateur de <a href="http://begeek.fr/tag/google">Google</a> a gagné 9 points sur un an</strong>. Au mois de mars le navigateur a engendré <strong>24,4% de parts de visites</strong>. De son côté, <strong><a href="http://begeek.fr/tag/firefox">Firefox</a></strong> continu de chuter avec -2,4 points sur un an et une <strong>part de marché de 27,8%</strong>. Les deux concurrents sont plus que jamais au coude à coude avec seulement 3,4 points de différence.</p>
+<p><strong><a href="http://begeek.fr/tag/safari">Safari</a></strong> progresse lui aussi et s&#8217;offre une évolution de + 4 points sur un an, avec <strong>11,8% de part de marché</strong> en mars dernier. Une progression qui s&#8217;explique notamment par l&#8217;essor des <strong><a href="http://begeek.fr/tag/iphone">iPhone</a></strong> et <strong><a href="http://begeek.fr/tag/ipad">iPad</a></strong>.</p>
+<p>Le grand perdant reste <strong><a href="http://begeek.fr/tag/internet-explorer">Internet Explorer</a></strong>, avec un recul de 10,7 points sur un an et une <strong>part de marché qui atteint 33,8%</strong>. Malgré cette baisse d&#8217;activité il reste le leader sur le marché français.</p>
+<p>Parmi les sites qui ont servis de supports pour l&#8217;étude on retrouve par exemple, <strong>pagesjaunes.fr, skyrock.com et jeuxvideo.com</strong>, qui sont les leaders en terme de nombre de visites.</p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/navigateurs-chrome-rattrape-firefox-en-france-58643">Permalink</a> |
+<a href="http://www.begeek.fr/navigateurs-chrome-rattrape-firefox-en-france-58643#comments">Pas de commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/gOgQwZ4mojs" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/navigateurs-chrome-rattrape-firefox-en-france-58643/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Un live action trailer pour Prototype 2</title>
+		<link>http://www.begeek.fr/un-live-action-trailer-pour-prototype-2-58624</link>
+		<comments>http://www.begeek.fr/un-live-action-trailer-pour-prototype-2-58624#comments</comments>
+		<pubDate>Mon, 16 Apr 2012 11:38:02 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[Jeux Vidéo]]></category>
+		<category><![CDATA[Activision]]></category>
+		<category><![CDATA[Prototype]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58624</guid>
+		<description><![CDATA[Activision a mis en ligne en fin de semaine dernière un nouveau trailer pour le titre ]]></description>
+			<content:encoded><![CDATA[<p><img class="alignnone size-large wp-image-58625" title="Prototype_2" src="http://media.begeek.fr/wp-content/uploads/2012/04/Prototype_2_logo-650x365.jpg" alt="Prototype_2" width="650" height="365" /></p>
+<p><strong><a href="http://begeek.fr/tag/activision">Activision</a></strong> a mis en ligne en fin de semaine dernière un nouveau trailer pour le titre <strong>Prototype 2</strong>. Une nouvelle bande annonce qui se présente sous la forme d&#8217;un <strong>live action trailer</strong>, c&#8217;est à dire avec de vrais acteurs.</p>
+<p>Le second opus qui est bien la suite du premier connaîtra un changement de personnage principal. Ainsi dans le second volet, les joueurs incarneront <strong>James Heller</strong>, ancien soldat qui se retrouve contaminé par <strong>Alex Mercer</strong> qui n&#8217;est autre que le héros du premier volet.</p>
+<p>Les deux &nbsp;&raquo; hommes &nbsp;&raquo; se livreront une bataille sans merci, car pour le nouveau venu, Alex Mercer est le responsable de la mort de sa famille. </p>
+<p>Nous vous proposons de découvrir tout cela en attendant l&#8217;arrivée de <strong>Prototype 2</strong> prévue pour le <strong>24 avril prochain</strong> sur <strong><a href="http://begeek.fr/tag/playstation-3">PlayStation 3</a></strong>, <strong><a href="http://begeek.fr/tag/xbox-360">Xbox 360</a></strong> et PC.</p>
+<p><iframe width="640" height="360" src="http://www.youtube.com/embed/vu5AiVqkfZ8" frameborder="0" allowfullscreen></iframe></p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/un-live-action-trailer-pour-prototype-2-58624">Permalink</a> |
+<a href="http://www.begeek.fr/un-live-action-trailer-pour-prototype-2-58624#comments">Pas de commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/cMKeWxZdb-Y" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/un-live-action-trailer-pour-prototype-2-58624/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Un Konami Code sur le site de François Bayrou</title>
+		<link>http://www.begeek.fr/un-konami-code-sur-le-site-de-francois-bayrou-58627</link>
+		<comments>http://www.begeek.fr/un-konami-code-sur-le-site-de-francois-bayrou-58627#comments</comments>
+		<pubDate>Mon, 16 Apr 2012 11:29:55 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Konami Code]]></category>
+		<category><![CDATA[Présidentielles]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58627</guid>
+		<description><![CDATA[Alors que nous vous parlions de l&#8217;importance capitale d&#8217;Internet dans la campagne des candidats à la ]]></description>
+			<content:encoded><![CDATA[<p>Alors que nous vous parlions de <a href="http://www.begeek.fr/election-presidentielle-performances-des-sites-des-candidats-58611">l&#8217;importance capitale d&#8217;Internet dans la campagne des candidats à la présidentielle ce matin</a>, <strong>François Bayrou</strong> a fait dans l&#8217;originalité.</p>
+<p><img class="alignnone size-large wp-image-58628" title="François Bayrou" src="http://media.begeek.fr/wp-content/uploads/2012/04/1334519222une-Fran__ois_Bayrou-01-650x379.jpg" alt="François Bayrou" width="650" height="379" /></p>
+<p>En effet, le candidat a caché dans son site web le célèbre <strong><a href="http://fr.wikipedia.org/wiki/Code_Konami">Konami Code</a> qui active un contenu secret</strong> lorsqu&#8217;il est exécuté correctement.</p>
+<p>Pour rappel, il suffit de réaliser la combinaison suivante <small><kbd>↑</kbd></small> <small><kbd>↑</kbd></small> <small><kbd>↓</kbd></small> <small><kbd>↓</kbd></small> <small><kbd>←</kbd></small> <small><kbd>→</kbd></small> <small><kbd>←</kbd></small> <small><kbd>→</kbd></small> <small><kbd>B</kbd></small> <small><kbd>A </kbd></small> directement depuis la page d&#8217;accueil du site.</p>
+<p>Une fois qu&#8217;il a été correctement exécuté, une petite <strong>vidéo en 8-bit </strong>se lance pour nous compter les aventures d&#8217;<strong>un &nbsp;&raquo; héros &nbsp;&raquo; voulant sauver son pays du Sarkozysme</strong>.</p>
+<p>Pour voir tout ça de vous même rendez vous sur le site de François Bayrou par <a href="http://www.bayrou.fr/">ici</a>.</p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/un-konami-code-sur-le-site-de-francois-bayrou-58627">Permalink</a> |
+<a href="http://www.begeek.fr/un-konami-code-sur-le-site-de-francois-bayrou-58627#comments">5 commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/PuX3VgOYqmE" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/un-konami-code-sur-le-site-de-francois-bayrou-58627/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Election présidentielle : performances des sites des candidats</title>
+		<link>http://www.begeek.fr/election-presidentielle-performances-des-sites-des-candidats-58611</link>
+		<comments>http://www.begeek.fr/election-presidentielle-performances-des-sites-des-candidats-58611#comments</comments>
+		<pubDate>Mon, 16 Apr 2012 10:45:07 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Présidentielles]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58611</guid>
+		<description><![CDATA[En 2008, Internet a joué un rôle essentiel dans la présidentielle américaine, pour certains analystes la ]]></description>
+			<content:encoded><![CDATA[<p>En 2008, Internet a joué un rôle essentiel dans la présidentielle américaine, pour certains analystes la <strong>stratégie web a été déterminante dans l&#8217;élection de Barack Obama</strong>.</p>
+<p><img class="alignnone size-large wp-image-58613" title="Compuware" src="http://media.begeek.fr/wp-content/uploads/2012/04/Compuware-3-D-White-SM-650x531.jpg" alt="Compuware" width="650" height="531" /></p>
+<p>A l&#8217;époque son site Internet avait supporté <strong>200 000 évènements et accueilli 400 000 articles durant la campagne</strong>. De même il a été à l&#8217;origine du recrutement de quelques 35 000 volontaires, dont 10 000 le jour de l&#8217;annonce de la candidature du président actuel. Un intérêt massif des internautes qui est passé par une disponibilité sans faille et des performances irréprochables, la page d&#8217;accueil s&#8217;affichait en moins de trois secondes.</p>
+<p>A l&#8217;approche du premier tour, <strong>une étude a été menée sur les sites Internet des candidats à la présidentielle française</strong>. Ainsi la performance et la disponibilité des sites web des principaux candidats ont été mesurées du 29 Mars  au 3 Avril par <strong>Compuware</strong>, le spécialiste de la performance applicative.</p>
+<p>Résultats obtenus suite à cette enquête pour les candidats en tête :</p>
+<ul>
+<li>Le site de Marine Le Pen  arrive en tête, avec une moyenne de 3,21 secondes de temps d&#8217;affichage et une disponibilité parfaite à 100%.  Il devance ainsi celui de François Hollande et de Jean-Luc  Mélenchon.</li>
+<li>Le site officiel de François Hollande affiche une performance de 3.49 secondes et une disponibilité de 99,12%.</li>
+<li>« Place au peuple » de Jean-Luc Mélenchon  affiche une performance moyenne de 4,58  secondes et une disponibilité quasi parfaite de 99,71 %.</li>
+<li>« La France forte » de Nicolas Sarkozy a une vitesse moyenne de 5 secondes (médiocre) mais  surtout une disponibilité inquiétante à 96,77 %.</li>
+</ul>
+<p>Résultats pour les autres candidats testés :</p>
+<ul>
+<li>Eva Joly 5.263 Temps de réponse (sec) 100 disponibilité (%)</li>
+<li>François Bayrou 5.528 Temps de réponse (sec) 100 disponibilité (%)</li>
+</ul>
+<p>Des temps de réponses qui pour certains laissent encore à désirer, surtout lorsque l&#8217;on sait qu&#8217;à titre comparatif, <strong>40% des acheteurs en ligne passent à la concurrence après avoir attendu plus de 4 secondes sur une page web</strong>. On peut donc se demander s&#8217;il en est de même pour les candidats à la présidentielle.</p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/election-presidentielle-performances-des-sites-des-candidats-58611">Permalink</a> |
+<a href="http://www.begeek.fr/election-presidentielle-performances-des-sites-des-candidats-58611#comments">Un commentaire</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/9ROusQiX8Hg" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/election-presidentielle-performances-des-sites-des-candidats-58611/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Le Samsung Galaxy S III pourrait être présenté le 3 mai prochain</title>
+		<link>http://www.begeek.fr/le-samsung-galaxy-s-iii-pourrait-etre-presente-le-3-mai-prochain-58603</link>
+		<comments>http://www.begeek.fr/le-samsung-galaxy-s-iii-pourrait-etre-presente-le-3-mai-prochain-58603#comments</comments>
+		<pubDate>Mon, 16 Apr 2012 09:06:32 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Galaxy S III]]></category>
+		<category><![CDATA[Samsung]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58603</guid>
+		<description><![CDATA[Le Samsung Galaxy S III qui fait tourner la tête des utilisateurs Android pourrait être présenté ]]></description>
+			<content:encoded><![CDATA[<p>Le <strong><a href="http://www.begeek.fr/tag/samsung-galaxy-s-iii">Samsung Galaxy S III</a></strong> qui fait tourner la tête des utilisateurs <a href="http://www.begeek.fr/tag/android">Android</a> pourrait être <strong>présenté le 3 mai prochain</strong>. En effet, plusieurs journaux anglais ont reçu une invitation en vue d&#8217;une présentation à Londres qui se déroulera à cette date.</p>
+<p><img class="alignnone size-large wp-image-58605" title="Samsung_Galaxy_S_III" src="http://media.begeek.fr/wp-content/uploads/2012/04/Samsung_Galaxy_S_III_press_render-650x509.jpg" alt="Samsung_Galaxy_S_III" width="650" height="509" /></p>
+<p>Sur cette invitation on peut lire le message suivant : <strong><em>&laquo;&nbsp;</em> <em>Venez rencontrer le prochain Galaxy &nbsp;&raquo;</em></strong>, une annonce assez explicite qui devrait en réjouir plus d&#8217;un. Il est fort envisageable qu&#8217;il s&#8217;agisse bien du Galaxy S III dans la mesure où le constructeur coréen souhaite prendre de cour <strong><a href="http://www.begeek.fr/tag/apple">Apple</a></strong> dont la date de sortie de  l&#8217;<strong><a href="http://www.begeek.fr/tag/iphone-5">iPhone 5</a></strong> n&#8217;est toujours pas connue.</p>
+<p>Un lancement stratégique pour <a href="http://www.begeek.fr/tag/samsung-marques"target="_blank"title="Samsung" >Samsung</a>, qui pourrait alors prendre l&#8217;avantage sur la firme de Cupertino avec laquelle il est à égalité sur le marché du smartphone. C&#8217;est d&#8217;autant plus vrai que les deux précédentes versions du Galaxy S se sont écoulées à plusieurs dizaines millions d&#8217;unités à travers le monde, il s&#8217;agit donc d&#8217;un lancement décisif.</p>
+<p>Même s&#8217;il est difficile de savoir pour le moment ce à quoi les utilisateurs doivent s&#8217;attendre, le smartphone devrait embarquer selon les derniers bruits de couloir, <strong>un écran de 4,7 pouces Super Amoled Plus</strong> ( 1280 x 720 pixels ), un <strong>processeur quad-core cadencé à 1,5 Ghz</strong>, 1 Go de mémoire vive, un APN de 12 Mégapixels et un modem 3G+, le tout fonctionnant sous <strong><a href="http://www.begeek.fr/tag/android"target="_blank"title="Android" >Android</a> 4.0 Ice Cream Sandwich</strong>.</p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/le-samsung-galaxy-s-iii-pourrait-etre-presente-le-3-mai-prochain-58603">Permalink</a> |
+<a href="http://www.begeek.fr/le-samsung-galaxy-s-iii-pourrait-etre-presente-le-3-mai-prochain-58603#comments">Un commentaire</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/LRcKzDW50c8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/le-samsung-galaxy-s-iii-pourrait-etre-presente-le-3-mai-prochain-58603/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Données utilisateur : Facebook fait un effort de transparence</title>
+		<link>http://www.begeek.fr/donnees-utilisateur-facebook-fait-un-effort-de-transparence-58593</link>
+		<comments>http://www.begeek.fr/donnees-utilisateur-facebook-fait-un-effort-de-transparence-58593#comments</comments>
+		<pubDate>Mon, 16 Apr 2012 08:41:19 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[protection des données]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58593</guid>
+		<description><![CDATA[Facebook fait un effort de transparence, le réseau social a annoncé il y a peu qu&#8217;il ]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://begeek.fr/tag/facebook">Facebook</a> fait un effort de transparence</strong>, le réseau social a annoncé il y a peu qu&#8217;il <strong>fournira plus de données personnelles aux utilisateurs</strong> qui souhaitent consulter leurs archives.</p>
+<p><img class="alignnone size-large wp-image-58594" title="facebook" src="http://media.begeek.fr/wp-content/uploads/2012/04/facebook-650x365.jpg" alt="facebook" width="650" height="365" /></p>
+<p>C&#8217;est sur son blog que la firme de Palo Alto a déclaré que les types de données présentés dans les archives utilisateurs allaient être élargis. Des informations que tout utilisateur peut récupérer par l&#8217;intermédiaire de la fonction <strong>« Télécharger vos données »</strong>.</p>
+<p>Cette fonctionnalité qui a été lancée en 2010, permet à un utilisateur de récupérer un fichier comportant toutes les photos chargées sur le site, mais aussi ses contributions, statuts, liste d&#8217;amis ou encore messages électroniques. Dorénavant ce dossier intégrera également les anciens noms utilisés, les requêtes adressées à des utilisateurs ainsi que la liste des adresses IP utilisées.</p>
+<p>Une démarche qui intervient suite à des plaintes déposées auprès de l&#8217;Autorité de protection des données en Irlande, pays dans lequel se situe le siège européen de <a href="http://www.begeek.fr/tag/facebook"target="_blank"rel="external"title="Facebook" >Facebook</a>. C&#8217;est le collectif <strong><strong>«</strong> Europe vs Facebook <strong>»</strong></strong> présidé par l&#8217;autrichien Max Schrems qui a déposé une <strong>vingtaine de plaintes à l&#8217;encontre du réseau social</strong>.</p>
+<p>« <em>Nous sommes heureux que les utilisateurs de Facebook aient maintenant un accès plus grand à leurs données, mais Facebook n’est toujours pas en règle avec la législation européenne. </em><em>Avec le changement, Facebook va seulement offrir l’accès à 39 catégories de données, alors qu’il conserve au moins 84 catégories de ce type sur chaque utilisateurs</em>. »</p>
+<p>Le litige entre les deux parties a démarré en 2010 lorsque Max Schrems s&#8217;est rendu compte du volume important de données conservées par Facebook. En effet, ce dernier avait reçu un CD-ROM en provenance de la société de <a href="http://www.begeek.fr/facebook-mark-zuckerberg-fait-don-de-la-moitie-de-sa-fortune-27050"target="_blank"title="Mark Zuckerberg" >Mark Zuckerberg</a> sur lequel étaient stockées 1200 pages contenant des données dont le président du collectif pensait qu&#8217;elles n&#8217;étaient pas gardées.</p>
+<p>Des informations qui comprenaient par exemple des extraits de conversations, de posts, ou de contenus préalablement supprimés.</p>
+<p>A ce jour selon le collectif, <strong>40 000 utilisateurs ont demandé au réseau social de leur fournir les archives de leur compte</strong>.</p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/donnees-utilisateur-facebook-fait-un-effort-de-transparence-58593">Permalink</a> |
+<a href="http://www.begeek.fr/donnees-utilisateur-facebook-fait-un-effort-de-transparence-58593#comments">Pas de commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/mY7N-k85T_s" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/donnees-utilisateur-facebook-fait-un-effort-de-transparence-58593/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Thor et Captain America dans un nouvel extrait pour The Avengers</title>
+		<link>http://www.begeek.fr/thor-et-captain-america-dans-un-nouvel-extrait-pour-the-avengers-58588</link>
+		<comments>http://www.begeek.fr/thor-et-captain-america-dans-un-nouvel-extrait-pour-the-avengers-58588#comments</comments>
+		<pubDate>Sun, 15 Apr 2012 18:49:54 +0000</pubDate>
+		<dc:creator>Benjamin</dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[The Avengers]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58588</guid>
+		<description><![CDATA[Le nouveau Marvel sort dans quelques jours, et la production accentue le buzz sur le film ]]></description>
+			<content:encoded><![CDATA[<p><img src="http://media.begeek.fr/wp-content/uploads/2012/04/The-Avengers-Thor-et-Captain-America-650x303.jpg" alt="" title="The-Avengers-Thor-et-Captain-America-650x303" width="650" height="303" class="alignnone size-full wp-image-58590" /></p>
+<p>Le nouveau Marvel sort dans quelques jours, et la production accentue le buzz sur le film en dévoilant plusieurs scènes. La semaine dernière, <a href="http://www.24matins.fr/deux-spots-tv-pour-the-avengers-13799">2 spots publicitaires avait été diffusés sur les chaines américaines.</a></p>
+<p>Un nouvel extrait fait son apparition aujourd&#8217;hui, une bataille entre des robots, <strong>Thor et Captain America</strong>. Le film s&#8217;annonce superbe et la presse est déjà unanime <em>&laquo;&nbsp;Le meilleur de tous les MARVEL&nbsp;&raquo;</em></p>
+<p>Le film <strong>The Avengers</strong> dure plus de 2h20 et sortira en salles le 25 avril 2012.</p>
+<p><iframe frameborder="0" width="650" height="270" src="http://www.dailymotion.com/embed/video/xq4jky_the-avengers-extrait-another-bout-thor-captain-america-vo-hd_shortfilms?syndication=110330"></iframe></p>
+<hr />
+<p><small>© Benjamin pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/thor-et-captain-america-dans-un-nouvel-extrait-pour-the-avengers-58588">Permalink</a> |
+<a href="http://www.begeek.fr/thor-et-captain-america-dans-un-nouvel-extrait-pour-the-avengers-58588#comments">Pas de commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/DhI8-KWSH7s" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/thor-et-captain-america-dans-un-nouvel-extrait-pour-the-avengers-58588/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nokia règle le bug du Nokia Lumia 900</title>
+		<link>http://www.begeek.fr/nokia-regle-le-bug-du-nokia-lumia-900-58583</link>
+		<comments>http://www.begeek.fr/nokia-regle-le-bug-du-nokia-lumia-900-58583#comments</comments>
+		<pubDate>Sun, 15 Apr 2012 17:50:21 +0000</pubDate>
+		<dc:creator>Benjamin</dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[nokia lumia 900]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58583</guid>
+		<description><![CDATA[Un problème de perte de connectivité sur certains mobiles Nokia Lumia 900 bloquait certains utilisateurs. Nokia ]]></description>
+			<content:encoded><![CDATA[<p><img src="http://media.begeek.fr/wp-content/uploads/2012/04/Nokia-Lumia-900.jpg" alt="" title="Nokia Lumia 900" width="605" height="411" /></p>
+<p>Un problème de perte de connectivité sur certains mobiles <strong>Nokia Lumia 900</strong> bloquait certains utilisateurs. Nokia vient d&#8217;annoncer avoir résolu ce problème qui affectait le Nokia Lumia 900. Le mobile avait quelques problèmes avec les réseaux mobiles de quatrième génération ou 4G avec notamment une perte de signal.</p>
+<p>Le <strong>Nokia Lumia 900</strong> avait été lancé la semaine dernière aux Etats-Unis, <a href="http://www.begeek.fr/nokia-lance-son-lumia-900-a-new-york-58329">un lancement magnifique au coeur de Time Square à New York.</a> C&#8217;est le troisième mobile de la marque finlandaise qui fonctionne avec le système d&#8217;exploitation Windows Phone.</p>
+<p>Autres informations pour Nokia, mercredi dernier l&#8217;action en bourse avait décroché de 14,5 % et la situation, selon certains analystes, devrait s&#8217;aggraver au deuxième trimestre.</p>
+<p><iframe width="650" height="360" src="http://www.youtube.com/embed/b6XwuP4krdk" frameborder="0" allowfullscreen></iframe></p>
+<hr />
+<p><small>© Benjamin pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/nokia-regle-le-bug-du-nokia-lumia-900-58583">Permalink</a> |
+<a href="http://www.begeek.fr/nokia-regle-le-bug-du-nokia-lumia-900-58583#comments">Pas de commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/XBArmcY3kA8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/nokia-regle-le-bug-du-nokia-lumia-900-58583/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Philippe Starck et Apple : une collaboration pour un projet « révolutionnaire »</title>
+		<link>http://www.begeek.fr/philippe-starck-et-apple-une-collaboration-pour-un-projet-revolutionnaire-58573</link>
+		<comments>http://www.begeek.fr/philippe-starck-et-apple-une-collaboration-pour-un-projet-revolutionnaire-58573#comments</comments>
+		<pubDate>Fri, 13 Apr 2012 13:51:21 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[High tech]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Design]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58573</guid>
+		<description><![CDATA[Le designer français Philippe Starck a déclaré aujourd&#8217;hui sur France Info qu&#8217;il travaillait en collaboration avec ]]></description>
+			<content:encoded><![CDATA[<p>Le designer français <strong>Philippe Starck</strong> a déclaré aujourd&#8217;hui sur <em>France Info</em> <strong>qu&#8217;il travaillait en collaboration avec le géant de l&#8217;informatique <a href="http://begeek.fr/tag/apple">Apple</a></strong> sur un <strong>projet <strong>«</strong> révolutionnaire <strong>»</strong></strong>.</p>
+<p><img class="alignnone size-large wp-image-58574" title="Philippe Starck" src="http://media.begeek.fr/wp-content/uploads/2012/04/DEDON_PLAY_STARCK_1-650x433.jpg" alt="Philippe Starck" width="650" height="433" /></p>
+<p>Selon ce dernier, ce fameux projet pourrait voir le jour à la fin de l&#8217;année, il a déclaré dans l’émission « <em>Tout et son contraire</em> » « <em>En effet, il y a un gros projet ensemble qui va sortir dans huit mois</em> ». Pour l&#8217;instant nous n&#8217;avons pas plus de détails puisque Philippe Starck respecte la politique du silence radio appliquée depuis de nombreuses années par la firme de Cupertino.</p>
+<p>Le designer connu dans le monde entier pour avoir créé le design de nombreux bâtiments et objets de la vie quotidienne affirme avoir <strong>rencontré plusieurs fois et de manière régulière Steve Jobs</strong>.</p>
+<p>« <em>Pendant sept ans, je suis venu le voir une fois par mois à Palo Alto et d&#8217;ailleurs j&#8217;y vais lundi, parce que même s&#8217;il est mort, maintenant je vais voir sa femme. On aimait bien parler ensemble de choses intéressantes</em> ».</p>
+<p>Un projet qui devrait une fois encore affoler la communauté <a href="http://www.begeek.fr/tag/apple"target="_blank"title="Apple" >Apple</a> et lancer les rumeurs les plus folles, peut être s&#8217;agit il du très attendu <strong>téléviseur Apple</strong> ?</p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/philippe-starck-et-apple-une-collaboration-pour-un-projet-revolutionnaire-58573">Permalink</a> |
+<a href="http://www.begeek.fr/philippe-starck-et-apple-une-collaboration-pour-un-projet-revolutionnaire-58573#comments">6 commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/eEYr3jQc-mI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/philippe-starck-et-apple-une-collaboration-pour-un-projet-revolutionnaire-58573/feed</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Tippexperience : l’ours et le chasseur fêtent leur premier anniversaire</title>
+		<link>http://www.begeek.fr/tippexperience-lours-et-le-chasseur-fetent-leur-premier-anniversaire-58567</link>
+		<comments>http://www.begeek.fr/tippexperience-lours-et-le-chasseur-fetent-leur-premier-anniversaire-58567#comments</comments>
+		<pubDate>Fri, 13 Apr 2012 13:30:57 +0000</pubDate>
+		<dc:creator>Rémy</dc:creator>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Buzz]]></category>
+		<category><![CDATA[Youtube]]></category>
+
+		<guid isPermaLink="false">http://www.begeek.fr/?p=58567</guid>
+		<description><![CDATA[Il y a un an, l&#8217;agence Buzzman générait 50 millions de vues sur YouTube avec sa ]]></description>
+			<content:encoded><![CDATA[<p>Il y a un an, l&#8217;agence <strong>Buzzman</strong> générait <strong>50 millions de vues</strong> sur <strong><a href="http://begeek.fr/tag/youtube">YouTube</a></strong> avec sa série de vidéos <strong>Tippexperience</strong> réalisée pour promouvoir la marque de <strong>correcteur Tipp-Ex</strong>.</p>
+<p><img class="alignnone size-large wp-image-58568" title="tippexperience 2012" src="http://media.begeek.fr/wp-content/uploads/2012/04/tippexperience-2012-650x343.jpg" alt="tippexperience 2012" width="650" height="343" /></p>
+<p>Une campagne innovante et géniale qui <strong>proposait aux personnes visionnant la vidéo d&#8217;en changer l&#8217;issue</strong>. Ainsi les internautes étaient invités à saisir des mots clés dans un champ spécial dans le titre de la vidéo, afin d&#8217;avoir une version personnalisée donnant l&#8217;impression de créer la vidéo.</p>
+<p>Puisque c&#8217;était il y a un an, <strong>l&#8217;ours et le chasseur</strong> qui étaient les héros de ces vidéos interactives, fêtent aujourd&#8217;hui leur premier anniversaire et reviennent pour l&#8217;occasion. Cette fois alors qu&#8217;un astéroïde s’apprête à rayer de la carte la Terre, vous serez amené à voyager dans le temps et à revivre des évènements historiques tels que la préhistoire, l’antiquité, la seconde guerre mondiale, en changeant simplement la date de l&#8217;anniversaire.</p>
+<p>Au travers de cette nouvelle campagne, Buzzman propose <strong>46 nouvelles vidéos</strong>, aussi créatives que drôles. Nous vous invitons à découvrir tout cela dans la suite.</p>
+<p>Merci à Perlu pour la News !</p>
+<p><iframe width="640" height="360" src="http://www.youtube.com/embed/eQtai7HMbuQ" frameborder="0" allowfullscreen></iframe></p>
+<hr />
+<p><small>© Rémy pour <a href="http://www.begeek.fr">Be Geek</a>, 2012. |
+<a href="http://www.begeek.fr/tippexperience-lours-et-le-chasseur-fetent-leur-premier-anniversaire-58567">Permalink</a> |
+<a href="http://www.begeek.fr/tippexperience-lours-et-le-chasseur-fetent-leur-premier-anniversaire-58567#comments">Pas de commentaires</a>
+<br/>
+</small></p><img src="http://feeds.feedburner.com/~r/be-geek/~4/KZcaO1TRIfA" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.begeek.fr/tippexperience-lours-et-le-chasseur-fetent-leur-premier-anniversaire-58567/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss><!-- Dynamic page generated in 0.515 seconds. --><!-- Cached page generated by WP-Super-Cache on 2012-04-16 15:58:42 -->

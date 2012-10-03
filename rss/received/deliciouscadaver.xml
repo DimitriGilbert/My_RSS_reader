@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog référencement &#124; SEO Black Hat</title>
+	<atom:link href="http://www.deliciouscadaver.com/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.deliciouscadaver.com</link>
+	<description>Boîte A Outils pour les Référenceurs</description>
+	<lastBuildDate>Wed, 22 Feb 2012 01:14:37 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.3</generator>
+		<item>
+		<title>Le SEO &#171;&#160;White Hat&#160;&#187;, une vaste fumisterie&#8230;</title>
+		<link>http://www.deliciouscadaver.com/le-seo-white-hat-une-vaste-fumisterie.html</link>
+		<comments>http://www.deliciouscadaver.com/le-seo-white-hat-une-vaste-fumisterie.html#comments</comments>
+		<pubDate>Wed, 22 Feb 2012 01:14:37 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=919</guid>
+		<description><![CDATA[Voici un article qui a defrayé la chronique outre atlantique il y a quelques mois, si bien que le célèbrissime Rand s&#8217;est fendu d&#8217;une réponse, loin d&#8217;être convaincante à mes yeux, malgré toute la sympathie que m&#8217;inspire le célèbre Rand. Voilà pourquoi j&#8217;ai préféré relayer l&#8217;article original, la réponse pouvant être trouvée à la fin [...]]]></description>
+			<content:encoded><![CDATA[<p></p><p><strong><em><a href="http://www.krisroadruck.com/rants/whitehat-seo-is-a-joke/">Voici un article qui a defrayé la chronique outre atlantique</a> il y a quelques mois, si bien que le célèbrissime Rand s&#8217;est fendu d&#8217;une réponse, loin d&#8217;être convaincante à mes yeux, malgré toute la sympathie que m&#8217;inspire le célèbre Rand. Voilà pourquoi j&#8217;ai préféré relayer l&#8217;article original, la réponse pouvant être trouvée à la fin de l&#8217;article.</em></strong></p>
+<p>Vous savez, il fut un temps où j&#8217;adorais me donner le titre de whitehat. J&#8217;étais fier de faire partie de CETTE communauté. Je riais de ces sales grey/black hat et leur bêtise à croire qu&#8217;il pouvaient tromper les gens. Je veux dire, ne savaient-ils pourtant pas que leurs trucs débiles ne pouvaient que faire bannir leurs sites ?</p>
+<p>Puis plus tard, j&#8217;ai réalisé qu&#8217;il n&#8217;y avait en fait que 2 sortes de white hat : d&#8217;une part ceux qui se plaignaient d&#8217;avoir tout fait comme il faut (&laquo;&nbsp;by the book&nbsp;&raquo;) et qui se faisaient botter le derrière par des &laquo;&nbsp;techniques non-éthiques&nbsp;&raquo;, et d&#8217;autre part ceux qui s&#8217;attribuaient des réussites qui ne dépendaient pas d&#8217;eux.</p>
+<p>Je veux dire que les sites sur, ou pour lesquels, ils travaillent ne récoltent pas tellement de liens de qualité et de positionnement à cause de leur travail au quotidien, mais bien plutôt parce que les sites sur lesquels ils bossent ont la chance d&#8217;être sur une niche qui intéresse et amuse les bloggeurs ou les journalistes.</p>
+<p>C&#8217;est facile de prêcher &laquo;&nbsp;faîtes du bon contenu&nbsp;&raquo; quand vous avez un bon sujet. Mais tout le monde s&#8217;en fout des toilettes qui ne se bouchent pas, ou des oxymètres de pouls, ou des correcteurs de diodes monophase. Bien sûr, vous pouvez peut-être récupérer 1 ou 2 liens spontanés, mais vous n&#8217;aurez jamais l&#8217;ancre parfaite que vous recherchez.</p>
+<p>Quand j&#8217;ai découvert cela, j&#8217;ai commencé à flirter avec des techniques greyhat. Et vous savez ce que j&#8217;ai découvert ? Elles fonctionnent ! Mais plus que ça, avec un peu de bon sens elles fonctionnent p*** de bien. Aucun de mes sites n&#8217;a été banni. Et une fois que j&#8217;ai compris cela, j&#8217;étais comme l&#8217;aveugle qui a recouvré la vue. Parce que j&#8217;ai compris que chacun de ceux qui sont sur la première page sur n&#8217;importe quelle niche un peu compétitive ne JOUAIENT PAS selon les règles white hat.</p>
+<p>Pourtant, j&#8217;ai toujours continué à participer dans mes petites communautés white hat, espérant glaner des trucs utiles, ou juste pour apprécier la compagnie. Le problème était que, plus j&#8217;étudiais et j&#8217;appliquais le greyhat, plus tout ça commençait à me taper sur le système, à savoir les conseils à la mords-moi-le-noeud et les soi-disant experts SEO qui donnaient des conseils à des débutants qui n&#8217;avaient aucun moyen de savoir que le conseil auquel ils allaient s&#8217;accrocher allait les garder au fond des SERPs pour des décennies. Le white hat n&#8217;est pas simplement &laquo;&nbsp;plus lent&nbsp;&raquo;. C&#8217;est de la pensée magique. C&#8217;est complètement irresponsable.</p>
+<p>Si tu factures tes clients pour un service et que tu n&#8217;es pas compétitif, alors tu les arnaques. C&#8217;est aussi simple que ça. Je sais que vous autres whitehats êtes en train de vous tortiller dans vos chaises en agitant vos petits poings en disant &laquo;&nbsp;Ce n&#8217;est pas pérenne. Notre stratégie est basée sur des résultats long terme&nbsp;&raquo;. Non, c&#8217;est faux. Votre stratégie est basée sur de la pensée magique et sur l&#8217;espoir qu&#8217;un jour Google fera votre boulot à votre place. Tant que Google n&#8217;appliquera pas ses règles, il n&#8217;y en a aucune. Et aussi longtemps que c&#8217;est vrai, tous ceux qui n&#8217;attendent pas que ces règles soient appliquées vont ranker. Et pas ceux qui attendent. Vous avez une obligation vis-à-vis de vos clients de faire tout ce qui est en votre pouvoir pour les positionner, en utilisant les méthodes les plus efficaces qui sont à votre portée.</p>
+<p>Vous savez, ce qui me fait toujours marrer, ce sont les white hat qui accusent les autres d&#8217;être des charlatans. FLASH INFO! Vous êtes précisément les charlatans. Chaque fois que vous envoyez votre facture mensuelle à votre client sans avoir rien fait pour le positionner, excepté envoyer une ou deux demandes de liens et sorti un ou deux articles de blog, vous les arnaquez. Vous êtes précisément la raison pour laquelle personne ne croit que le SEO fonctionne. Parce que vos méthodes ne servent à rien. En tout cas tant que les méthodes que vous n&#8217;appliquez pas, ELLES, fonctionnent.</p>
+<p>A propos, juste comme ça : si votre offre principale est le contenu de qualité, VOUS N&#8217;ETES PAS UN SEO, vous êtes un rédacteur. Si vous facturez à votre client des prix de SEO pour des services de rédaction, vous les arnaquez. Si vous n&#8217;avez ni formation, ni d&#8217;étude en littérature, et que vous offrez vos services à votre client plutôt que de lui conseiller d&#8217;embaucher quelqu&#8217;un qui est effectivement chevronné en rédaction et entraîné à écrire, vous êtes un arnaqueur.</p>
+<p>A l&#8217;exception près de très gros sites, la plupart des optimisations onsite à réaliser sur un site peuvent être identifiées et compilées dans un audit, c&#8217;est une question de jours. L&#8217;implémentation dans la plupart des cas ne prendra pas plus de temps et n&#8217;a même pas vraiment besoin d&#8217;être réalisée par un SEO si le rapport d&#8217;audit est assez clair. Ce qui nous reste, c&#8217;est la stratégie de contenu et le SEO off-site. La stratégie de contenu est juste de la &#8230; STRATEGIE, qui peut être confiée à un rédacteur compétent. Si vous continuez à facturer votre client après cet élément et que vous ne vous battez pas avec tous les outils disponibles, et que vous ne leur recommandez même pas quelqu&#8217;un en mesure de proposer ça, vous ne lui rendez pas service. Si vous ne les informez pas du tout que Google</p>
+<p>P.S. Fermez-la à propos de Demand Media. La seule raison pour laquelle vous remuez cette question, c&#8217;est parce que vous n&#8217;arrivez pas à les dépasser. eHow n&#8217;est pas plus une content farm que squidoo, hubpages, CNN, huffpo ou encore plein d&#8217;autres sites. Si vous saviez comment positionner vos sites, vous seriez en première position et eHow n&#8217;aurait pas d&#8217;importance.</p>
+<p>P.S.2. Arrêtez de m&#8217;envoyer des demandes par email de type &laquo;&nbsp;link building manuel white hat&nbsp;&raquo;. CA N&#8217;EXISTE PAS. Vous avez soit le linkbuilding white hat (peu efficace), ou le linkbuilding manuel (définitivement grey hat, à base d&#8217;annuaires, de CP, et souvent efficace). Choisissez. Ou mieux, tiens, arrêtez de mentionner la couleur du chapeau dans vos emails et dîtes précisément ce que vous voulez.</p>
+<p>Avertissement :</p>
+<p>Avant de vous énerver et de vous défendre sans raison contre moi, notez ces deux points : premièrement, je connais des &laquo;&nbsp;whitehats&nbsp;&raquo; extrêmement malins qui savent réfléchir &laquo;&nbsp;outside the box&nbsp;&raquo;. Ces gars ne me gênent pas. Ils sont extrêmement rares. Deuxièmement, dans mon entreprise, j&#8217;offre à mes clients les types de liens qu&#8217;ils préfèrent. S&#8217;ils veulent du plus blanc que neige, on leur propose. La seule différence, c&#8217;est que je les informe des différents avantages et risques de TOUTES les stratégies et je les laisse faire des choix ECLAIRÉS, plutôt que de la ramener à longueur de journée avec mes techniques &laquo;&nbsp;éthiques&nbsp;&raquo; et &laquo;&nbsp;whitehat&nbsp;&raquo; qui ne sont que des termes qui me permettent de masquer mes graves lacunes en linkbuilding. Voilà. C&#8217;est dit. MAINTENANT vous pouvez vous lâcher.</p>
+<p><strong><em>Afin d&#8217;être juste, pour ceux qui veulent lire la réponse (si quelqu&#8217;un la traduit, je ferai le lien), voici l&#8217;article de Rand : <a href="http://www.seomoz.org/blog/white-hat-seo-it-fing-works-12421">http://www.seomoz.org/blog/white-hat-seo-it-fing-works-12421</a></em></strong></p>
+<p><strong><em>Mon avis personnel (512banque) et quelques éléments en vrac :</em></strong></p>
+<ul>
+<li><em>Complètement d&#8217;accord avec l&#8217;auteur, et à mon avis, Rand Fishkin répond à côté. <strong>Il ne faut pas opposer &laquo;&nbsp;bon contenu&nbsp;&raquo; et &laquo;&nbsp;black hat&nbsp;&raquo; : le BH marche encore mieux sur des sites de bonne qualité</strong> voire officiels (c&#8217;est le principe du google bombing). Donc le onsite, je suis d&#8217;accord mais en principe ça doit être réglé rapidement. </em></li>
+<li><em>Pour poursuivre la réflexion, lisez l&#8217;excellent billet de Axe Net sur le <a href="http://blog.axe-net.fr/bienvenue-chez-les-gris-seo/">grey hat seo</a>.</em></li>
+<li><em>Autre élément : OUI je suis content que le marché du SEO soit tenu par des &laquo;&nbsp;whitehat&nbsp;&raquo;. Car quand je passe après une grosse agence (&laquo;&nbsp;ils m&#8217;ont pris x € et ça n&#8217;a rien donné !) et que je fais quelques CP, une campagne seohackers.org et une dizaine de spam commentaires, je passe pour un magicien&#8230;</em></li>
+<li><em>Loin de mépriser l&#8217;optimisation onsite, je la considère comme une condition sine qua non, et le contenu de vraie qualité comme un prérequis. Pour ceux qui se demandent ce que je considère comme du contenu de qualité, <a href="http://www.amazon.fr/Kindle-liseuse-int%C3%A9gr%C3%A9-affichage-%C3%A9lectronique/dp/B0051QVF7A">jetez un oeil à la page produit Kindle d&#8217;amazon</a>.</em></li>
+<li><em>Dernier élément : si vous voulez vous former aux méthodes avancées d&#8217;optimisaiton onsite et offsite, inscrivez-vous à <a href="http://www.seohighlevel.com/">la formation seo high level</a> les 23 et 24 Mars 2012 à Paris. Il y a 20 places au total et déjà 16 places sont prises.</em></li>
+</ul>
+<h3>Et la sécurité informatique ?</h3>
+<p>Depuis que <a href="http://www.zataz.com/news/19847/hubble-nasa-vulnerability.html">mon ami qui a hacké la NASA</a> m&#8217;a fait découvrir la sécurité informatique, j&#8217;ai jeté un oeil à cette histoire de white hat et black hat en sécu, le monde qui a inventé ces termes. Et devinez quoi ? Le <strong>hacker white hat cherche des failles</strong> dans des systèmes et <strong>les communique aux propriétaires dans une optique d&#8217;amélioration</strong>. Le <strong>hacker black hat cherche des failles pour tirer profit</strong> (en monétisant, en faisant fuiter ou tout simplement en détruisant les informations) des systèmes des autres. Quant au grey, son coeur balance entre les deux et parfois il prévient les propriétaires, parfois il s&#8217;amuse un peu. Deux remarques :</p>
+<ul>
+<li><strong>Aussi bien chez le white que chez le black, il y a une démarche active de hacking</strong>, c&#8217;est-à-dire de décorticage et de découverte de comment un système (algorithme ?) fonctionne&#8230; Et non pas un recrachage des normes de sécurité existantes.</li>
+<li>En sécu, celui qui exploite les failles d&#8217;un système pour ses intérêts personnels est considéré unanimement comme un black hat. Et si appliqué au SEO on considérait que<strong> l&#8217;optimisation onpage dans le but de ranker sur Google, c&#8217;était l&#8217;exploitation (certes sur son propre site) d&#8217;une faiblesse &laquo;&nbsp;ou faille&nbsp;&raquo; de Google</strong> ? On ne serait pas considéré comme black hat ?</li>
+</ul>
+<p>Chers amis du monde de la sécurité, votre avis est le bienvenu.</p>
+<p>Pour ma part, ce sera la dernière fois que je répondrai à cette polémique stérile et délibérément entretenue par certains, de masturbation intellectuelle de black-or-white SEO (<a href="http://www.youtube.com/watch?v=F2AitTPI5U0">peut-être par nostalgie</a> ?).</p>
+<p>La saison du troll est officiellement ouverte.</p>
+<p><a href="http://www.deliciouscadaver.com/script-php-de-verification-de-liens-automatique-backlink-checker.html">echange de liens automatique</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/le-seo-white-hat-une-vaste-fumisterie.html/feed</wfw:commentRss>
+		<slash:comments>48</slash:comments>
+		</item>
+		<item>
+		<title>La technique de la guirlande</title>
+		<link>http://www.deliciouscadaver.com/la-technique-de-la-guirlande.html</link>
+		<comments>http://www.deliciouscadaver.com/la-technique-de-la-guirlande.html#comments</comments>
+		<pubDate>Wed, 16 Nov 2011 00:23:58 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Backlinks]]></category>
+		<category><![CDATA[Techniques]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=934</guid>
+		<description><![CDATA[Quand on crée moults splogs et autres profils forum, on se retrouve avec un problème de taille : leur indexation. En effet, loin de viser systématiquement le PR et la qualité, le black hat est amené à viser, entre autres, la valeur atomique d&#8217;une page : toute page indexée envoie une valeur infime de jus, [...]]]></description>
+			<content:encoded><![CDATA[<p><a class="post_image_link" href="http://www.deliciouscadaver.com/la-technique-de-la-guirlande.html" title="Permanent link to La technique de la guirlande"><img class="post_image aligncenter frame" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/11/technique-guirlande.jpg" width="600" height="187" alt="technique guirlande" /></a>
+</p><p>Quand on crée moults splogs et autres profils forum, on se retrouve avec un problème de taille : leur indexation.</p>
+<p>En effet, loin de viser <strong>systématiquement</strong> le PR et la qualité, le black hat est amené à viser, entre autres, la valeur atomique d&#8217;une page : toute page indexée envoie une valeur infime de jus, mais une valeur quand même. Dès lors, il devient aisé d&#8217;automatiser la création de ces milliers de pages. Elles fourniront également un fort signal positif  qui réside dans la diversité des hôtes : plein de backlinks depuis plein de domaines et plein d&#8217;IP différentes, même avec peu de contexte et peu de jus entrant, cela apporte du positif, quoi qu&#8217;on en dise.</p>
+<p>Mais voilà, il faut indexer tout ce bousin, et c&#8217;est souvent là que le bât blesse.</p>
+<p>Certains ont choisi la méthode pétition : plan circulant depuis des années entre initiés, les pétitions ont été cramées suite à une utilisation massive &#8211; entre autres &#8211; lors des concours de référencement. Il suffisait de signer une pétition et d&#8217;y laisser son backlink, il était validé automatiquement dans la foulée.</p>
+<p>Ainsi, d&#8217;un backlink par signature (bien), on a assisté à plusieurs dizaines de backlinks par signature (pas bien)&#8230; Hum. Désormais, pétition rime avec &laquo;&nbsp;omg j&#8217;ai jamais vu autant de spam en une seule page&nbsp;&raquo;.</p>
+<h3>Oui mais comment faire alors ?</h3>
+<p>Si certains font du spam commentaire intensif (j&#8217;ai entendu parler d&#8217;un million de backlinks créés&#8230;), moi j&#8217;ai choisi la technique de la guirlande, une pure t@rlouzerie 2011 imaginée en regardant l&#8217;émission &laquo;&nbsp;pimp my ride&nbsp;&raquo;, pendant que je mangeais une barre chocolatée en imaginant à quoi pourrait ressembler ma 205 après quelques subwoofers de 500W RMS.</p>
+<p>En quoi consiste la <strong>technique de la guirlande</strong> ? Hé bien c&#8217;est très simple, il s&#8217;agit de cibler des pages avec un minimum de modération (comme ça les pages restent de qualité) et à soumettre tout simplement un lien, en toute amitié. Un lien, ou plus, si affinités. Un peu comme dans inception, un lien dans un lien dans un lien dans&#8230; :</p>
+<blockquote><p>Par Emilie le 16 Novembre 2011 :</p>
+<p>Merci pour votre article, je ne manquerai pas de le transmettre à certains de mes contacts sur skype ! Je suis arrivée ici grâce à <a rel="nofollow" href="http://www.url1.com/">w</a><a rel="nofollow" href="http://www.url2.com/">w</a><a rel="nofollow" href="http://www.url3.com/">w</a><a rel="nofollow" href="http://www.url4.com/">.</a><a rel="nofollow" href="http://www.url5.com/">g</a><a rel="nofollow" href="http://www.url6.com/">o</a><a rel="nofollow" href="http://www.url7.com/">o</a><a rel="nofollow" href="http://www.url8.com/">g</a><a rel="nofollow" href="http://www.url9.com/">l</a><a rel="nofollow" href="http://www.url10.com/">e</a><a rel="nofollow" href="http://www.url11.com/">.</a><a rel="nofollow" href="http://www.url12.com/">f</a><a rel="nofollow" href="http://www.url13.com/">r</a></p></blockquote>
+<p>Si vous n&#8217;avez pas compris de quoi je veux parler, passez votre curseur sur le<del>s</del> lien<del>s</del> du commentaire précédent&#8230; Ca y est ?</p>
+<p><img class="aligncenter size-full wp-image-935" title="yo-dawg-seo" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/11/yo-dawg-seo.jpg" alt="" width="500" height="323" /></p>
+<p>Bonne indexation !</p>
+<p><a href="http://www.deliciouscadaver.com/se-proteger-de-lhadopi-proxies-scrapebox-quel-vpn-choisir.html">proxy scrapebox</a> <a href="http://www.deliciouscadaver.com/imacros-ou-le-black-hat-pour-noobs.html">apprendre imacros</a> <a href="http://www.deliciouscadaver.com">seo white hat</a> <a href="http://www.deliciouscadaver.com/uspin-ultimate-spin-content-spinning">content spinning</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/la-technique-de-la-guirlande.html/feed</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+		</item>
+		<item>
+		<title>SEO : êtes-vous vautour ou coucou ?</title>
+		<link>http://www.deliciouscadaver.com/seo-etes-vous-vautour-ou-coucou.html</link>
+		<comments>http://www.deliciouscadaver.com/seo-etes-vous-vautour-ou-coucou.html#comments</comments>
+		<pubDate>Wed, 09 Nov 2011 09:32:14 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Techniques]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=930</guid>
+		<description><![CDATA[Au lieu de perdre du temps à repartir de zéro, il est parfois beaucoup plus intéressant de &#171;&#160;recycler&#160;&#187;. Je m&#8217;explique. L&#8217;astuce est bien connue par les &#171;&#160;site flippers&#160;&#187; : récupérer un nom de domaine libre, ou le &#171;&#160;snapper&#160;&#187; pour le récupérer dès qu&#8217;il est libre, afin de récupérer toute l&#8217;ancienneté et toute la puissance dudit [...]]]></description>
+			<content:encoded><![CDATA[<p><a class="post_image_link" href="http://www.deliciouscadaver.com/seo-etes-vous-vautour-ou-coucou.html" title="Permanent link to SEO : êtes-vous vautour ou coucou ?"><img class="post_image aligncenter frame" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/11/vautour-vs-coucou.jpg" width="550" height="357" alt="vautour coucou" /></a>
+</p><p>Au lieu de perdre du temps à repartir de zéro, il est parfois beaucoup plus intéressant de &laquo;&nbsp;recycler&nbsp;&raquo;. Je m&#8217;explique.</p>
+<p>L&#8217;astuce est bien connue par les &laquo;&nbsp;site flippers&nbsp;&raquo; : récupérer un nom de domaine libre, ou le &laquo;&nbsp;snapper&nbsp;&raquo; pour le récupérer dès qu&#8217;il est libre, afin de récupérer toute l&#8217;ancienneté et toute la puissance dudit nom de domaine.</p>
+<p>L&#8217;idée est d&#8217;aller un peu plus loin et de prolonger cette logique également aux ressources &laquo;&nbsp;gratuites&nbsp;&raquo; accessibles par tous : blogs, identifiants de forum, etc. On peut avoir deux approches, la logique &laquo;&nbsp;vautour&nbsp;&raquo; apparenté à un charognard, et l&#8217;approche beaucoup plus aggressive dite du &laquo;&nbsp;coucou&nbsp;&raquo; qui malgré son nom qui prête à sourir relève d&#8217;une véritable logique d&#8217;enfoiré. Saleté de coucou.</p>
+<p>Hier sur twitter, j&#8217;ai fait passer un lien vers un blog PR5 que j&#8217;avais créé quelques minutes auparavant. Je vais maintenant aller plus loin et vous expliquer comment généraliser le bouzin.</p>
+<h3>La technique du vautour</h3>
+<p>Le vautour ne chasse pas. Il se nourrit des cadavres d&#8217;animaux chassés par d&#8217;autres et/ou morts de maladie.</p>
+<p>Appliqué au SEO : trouvez un nom de domaine (ça, on connaît) mais également une ressources gratuite comme un blog, qui a été modéré/fermé, et qui a du PR et des inlinks et recréez-le.</p>
+<p>Pour cela, le scrap via google ou via d&#8217;autres moteurs, et la vérification des entêtes avec Scrapebox ou des tools homemade, seront vos amis.</p>
+<h3>La technique du coucou</h3>
+<p>Si vous êtes un oisillon et que vous avez un coucou dans votre nid à vos côtés, vous êtes vraiment mal barré.</p>
+<p>Le coucou parasite les nids des autres oiseaux. Les oeufs de coucous sont &laquo;&nbsp;largués&nbsp;&raquo; dans les nids des autres oiseaux, et une fois l&#8217;oeuf éclos, le bébé coucou va littéralement chasser les autres oiseaux en les faisant tomber du nid, afin d&#8217;être le seul à pouvoir bénéficier de la nourriture que les parents oiseaux rapportent.</p>
+<p>Appliqué au SEO : trouvez un blog qui fait du spam et qui a de nombreux inlinks. Faîtes un spam report auprès des admin de la plateforme : &laquo;&nbsp;ouin, ce site (d&#8217;un certain monsieur koolioo ? <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' />  ) fait du spam, <a href="http://www.youtube.com/watch?v=OWMo013ps9k#t=1m24s">c&#8217;est digoulasse</a>&laquo;&nbsp;. Une fois le site fermé, là vous pouvez récupérer l&#8217;url ainsi libérée et tous les inlinks qui vont bien.</p>
+<p>Mais attention, ce que vous faîtes aux autres, on peut vous le faire à vous. Restez sur vos gardes <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+<p><a href="http://www.deliciouscadaver.com/imacros-ou-le-black-hat-pour-noobs.html">apprendre imacros</a> <a href="http://www.deliciouscadaver.com/se-proteger-de-lhadopi-proxies-scrapebox-quel-vpn-choisir.html">hadopi vpn</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/seo-etes-vous-vautour-ou-coucou.html/feed</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>La formation, le suggest, et la caille</title>
+		<link>http://www.deliciouscadaver.com/la-formation-le-suggest-et-la-caille.html</link>
+		<comments>http://www.deliciouscadaver.com/la-formation-le-suggest-et-la-caille.html#comments</comments>
+		<pubDate>Wed, 12 Oct 2011 12:17:12 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Techniques]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=921</guid>
+		<description><![CDATA[L&#8217;équipe de ranking metrics pour souligner la pertinence et la qualité de leur formation, a commis ceci sur leur site web : Loin de moi l&#8217;idée de contester cette assertion et dire que leur formation n&#8217;est pas bonne, puisque je n&#8217;y ai pas assisté. Le but de cet article n&#8217;est d&#8217;ailleurs pas de me prononcer [...]]]></description>
+			<content:encoded><![CDATA[<p></p><p>L&#8217;équipe de ranking metrics pour souligner la pertinence et la qualité de leur formation, a commis ceci sur leur site web :</p>
+<p style="text-align: center;"><a href="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/formaref-ranking-metrics.jpg"><img class="aligncenter size-full wp-image-922" style="border: 1px solid black;" title="formaref-ranking-metrics" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/formaref-ranking-metrics.jpg" alt="" width="465" height="299" /></a></p>
+<p>Loin de moi l&#8217;idée de contester cette assertion et dire que leur formation n&#8217;est pas bonne, puisque je n&#8217;y ai pas assisté. <strong>Le but de cet article n&#8217;est d&#8217;ailleurs pas de me prononcer sur le fond</strong> mais juste sur l&#8217;idée de &laquo;&nbsp;puisque Google le dit, c&#8217;est que ça doit être vrai&nbsp;&raquo;.</p>
+<p>C&#8217;est faux, archi faux, et je déprogramme systématiquement tous mes clients quand je le peux. Que ceux qui ont lu Robert Cialdini &laquo;&nbsp;Influence et Manipulation&nbsp;&raquo; se souviennent de l&#8217;image de la caille : la caille est un oiseau capable de prendre soin d&#8217;un magnétophone, uniquement parce que ce dernier émet le même son que ses petits. Elle se base uniquement sur un indicateur, le &laquo;&nbsp;tchip tchip&nbsp;&raquo; que fait le magnétophone pour l&#8217; &laquo;&nbsp;authentifier&nbsp;&raquo; en tant que oisillon légitime. Nous fonctionnons tous les jours avec des &laquo;&nbsp;tchip tchip&nbsp;&raquo; pour donner de la légitimité aux gens.. La blouse blanche, le costard, la voiture, les témoignages&#8230;</p>
+<p>Un site est bien placé ? Ca peut se falsifier. Un site a de nombreux backlinks ? Ca peut se falsifier. Un compte a de nombreux followers/likes ? Ca peut se falsifier. Un site a de nombreux votes ? Ca peut se falsifier. Un site a un bon alexa rank ? <a href="http://www.theblackmelvyn.com/2009/05/booster-alexa-rank/">Ca peut se falsifier</a>. Des suggestions google sont positives ou négatives ? Ca peut se falsifier. La preuve.</p>
+<p style="text-align: center;"><a href="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/formaref.jpg"><img class="aligncenter size-full wp-image-923" style="border: 1px solid black;" title="formaref" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/formaref.jpg" alt="" width="545" height="395" /></a></p>
+<p>Messieurs de chez ranking metrics, n&#8217;y voyez aucune offense, c&#8217;est juste un petit taunt inoffensif et un droit de réponse vous est évidemment réservé <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+<p>J&#8217;entends déjà les &laquo;&nbsp;c&#8217;est nul&nbsp;&raquo;, &laquo;&nbsp;t&#8217;as vraiment du temps à perdre&nbsp;&raquo;, &laquo;&nbsp;ça  sert à quoi&nbsp;&raquo;&#8230; Oui c&#8217;est nul, oui j&#8217;ai du temps à perdre, et ça ne sert  à rien, cherchez pas..</p>
+<p><img class="aligncenter size-full wp-image-924" title="for_the_lulz2" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/for_the_lulz2.jpg" alt="" width="255" height="238" /></p>
+<p><a href="http://www.deliciouscadaver.com/se-proteger-de-lhadopi-proxies-scrapebox-quel-vpn-choisir.html">quel vpn choisir</a> <a href="http://www.deliciouscadaver.com/imacros-ou-le-black-hat-pour-noobs.html">apprendre imacros</a> <a href="http://www.deliciouscadaver.com/script-php-de-verification-de-liens-automatique-backlink-checker.html">script verification backlink</a> <a href="http://www.deliciouscadaver.com">referencement google</a> <a href="http://www.deliciouscadaver.com/uspin-ultimate-spin-content-spinning">content spinning</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/la-formation-le-suggest-et-la-caille.html/feed</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+		</item>
+		<item>
+		<title>Comment doubler votre efficacité SEO avec un Assistant Virtuel</title>
+		<link>http://www.deliciouscadaver.com/comment-doubler-votre-efficacite-seo-avec-un-assistant-virtuel.html</link>
+		<comments>http://www.deliciouscadaver.com/comment-doubler-votre-efficacite-seo-avec-un-assistant-virtuel.html#comments</comments>
+		<pubDate>Mon, 10 Oct 2011 11:34:49 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Techniques]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=868</guid>
+		<description><![CDATA[Ceci est un article invité, rédigé par Jean aka webmarketing junkie, voyageur à plein temps qui vit de ses sites web depuis 2003, et auteur du guide &#171;&#160;Travaillez en Slip&#160;&#187; (http://www.travaillezenslip.com/book) Vous pouvez certainement gagner plusieurs heures par jour en confiant vos tâches répétitives à un &#171;&#160;assistant virtuel&#160;&#187;. Surtout si vous êtes référenceur, et que [...]]]></description>
+			<content:encoded><![CDATA[<p></p><p><em>Ceci est un article invité, rédigé par Jean aka webmarketing junkie, voyageur à plein temps qui vit de ses sites web depuis 2003, et auteur du guide &laquo;&nbsp;Travaillez en Slip&nbsp;&raquo; (<a href="http://www.travaillezenslip.com/book">http://www.travaillezenslip.com/book</a>)</em></p>
+<p>Vous pouvez certainement gagner plusieurs heures par jour en confiant vos tâches répétitives à un &laquo;&nbsp;assistant virtuel&nbsp;&raquo;.</p>
+<p>Surtout si vous êtes référenceur, et que vous passez une bonne partie de vos journées à remplir des formulaires et à soumettre des sites ici et là.</p>
+<h3>Un assistant virtuel, c&#8217;est quoi ?</h3>
+<p>C&#8217;est quelqu&#8217;un qui travaille pour vous à distance. De l&#8217;autre bout du monde, ou du coin de la rue.</p>
+<p>Il peut faire tout ce que vous lui demandez, à condition que ça ne nécessite aucune présence physique : recherche et compilation de données, coups de fil, saisie, mise en page, prise de rendez-vous, mise à jour de pages web&#8230;</p>
+<h3>Comment recruter un VA ?</h3>
+<p>Deux choix sont possibles : recruter vous-même votre VA, en passant par un site comme <a href="http://www.odesk.com">Odesk</a>, ou faire appel à une entreprise qui propose un service &laquo;&nbsp;non-stop&nbsp;&raquo;, comme <a href="http://www.timesvr.com">Timesvr</a>, dont les équipes sont disponibles jour et nuit.</p>
+<p>C&#8217;est une bonne idée de recruter votre propre assistant si les tâches que vous allez lui confier nécessitent un apprentissage.</p>
+<p>Au contraire, s&#8217;il s&#8217;agit de tâches simples, choisissez la deuxième option : vous gagnerez en rapidité.</p>
+<h3>Que déléguer, et comment le faire ?</h3>
+<p>Pendant une semaine, mesurez le temps que vous passez sur chacun des postes de votre activité.</p>
+<p>Il suffit d&#8217;utiliser un outil comme <a href="http://www.rescuetime.com">RescueTime</a> qui mesure automatiquement le temps que vous passez sur chacune de vos applications, et sur les sites que vous visitez.<br />
+Il vous reste ensuite à les classer par catégories pour identifier les tâches chronophages qui ne demandent pas de compétences particulières.</p>
+<p>Pour chacune de ces tâches, rédigez un tutoriel détaillé, étape par étapes, avec des captures d&#8217;écran et des explications claires.</p>
+<p>Il ne vous reste plus qu&#8217;à envoyer ces tutos à votre assistant. Ou à les utiliser comme modèles d&#8217;e-mails lorsque vous transférez un message à votre VA pour effectuer une action demandée par un client ou un partenaire (modification d&#8217;un compte-client, remboursement&#8230;).</p>
+<p>Pensez aussi à lui confier des tâches récurrentes : tous les jours, suivre les comptes Twitter qui vous ont mentionné, ou accepter les demandes d&#8217;amis sur Facebook, par exemple.</p>
+<h3>Le principe des 80/20</h3>
+<p>Le temps que vous gagnez, vous pouvez enfin le consacrer aux tâches dans lesquelles vous faites la différence, celles pour lesquelles vous êtes irremplaçables.</p>
+<p>Souvent, 20% de nos actions produisent 80% des résultats. Déléguer les tâches techniques et administratives vous permet de doubler ou de tripler le temps que vous pouvez consacrer aux actions les plus efficaces. Sans travailler plus&#8230;</p>
+<p>Par Jean, voyageur à plein temps qui vit de ses sites web depuis 2003, et auteur du guide &laquo;&nbsp;Travaillez en Slip&nbsp;&raquo; (<a href="http://www.travaillezenslip.com/book">http://www.travaillezenslip.com/book</a>)</p>
+<h3>Ajout 512banque :</h3>
+<p><em>De mon point de vue, la tâche la plus chronophage reste évidemment la rédaction de contenu, mais il est possible d&#8217;aller plus loin. Attention, plus vous déléguez de la stratégie, plus vous allez devoir &laquo;&nbsp;intégrer&nbsp;&raquo; la personne dans votre équipe, et réellement la former.</em></p>
+<p><em>Pour faire simple :</em></p>
+<ul>
+<li><em>liste de choses extrêmement basiques à faire : amazon mechanical turk</em></li>
+<li><em>stratégie, recherche de sites, création de backlinks avancée : embauche</em></li>
+</ul>
+<p><em>Dernier élément, notre choix est limité en tant que francophones : alors que les anglophones peuvent se tourner vers les indiens, pakistanais, philippins, nous devrons nous tourner principalement vers l&#8217;Afrique francophone si on veut trouver des coûts équivalents.</em></p>
+<p><a href="http://www.deliciouscadaver.com/script-php-de-verification-de-liens-automatique-backlink-checker.html">echange de liens automatique</a> <a href="http://www.deliciouscadaver.com/se-proteger-de-lhadopi-proxies-scrapebox-quel-vpn-choisir.html">hadopi vpn</a> <a href="http://www.deliciouscadaver.com">referencement black hat</a> <a href="http://www.deliciouscadaver.com/imacros-ou-le-black-hat-pour-noobs.html">tutorial imacros</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/comment-doubler-votre-efficacite-seo-avec-un-assistant-virtuel.html/feed</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Revolusyn : test vidéo et critique</title>
+		<link>http://www.deliciouscadaver.com/revolusyn-test-video-et-critique.html</link>
+		<comments>http://www.deliciouscadaver.com/revolusyn-test-video-et-critique.html#comments</comments>
+		<pubDate>Mon, 03 Oct 2011 23:52:43 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Outils]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=886</guid>
+		<description><![CDATA[La dernière fois, j&#8217;ai vu passer dans ma timeline un nouvel outil d&#8217;aide au content spinning baptisé &#171;&#160;Revolusyn&#160;&#187; . Cet outil est destiné à l&#8217;aide à la saisie et à la création de textes propres &#171;&#160;prêts à spinner&#160;&#187;. Voici donc une petite vidéo, et une petite synthèse, organisée par catégories : Ergonomie + Interface léchée [...]]]></description>
+			<content:encoded><![CDATA[<p></p><p>La dernière fois, j&#8217;ai vu passer dans <a rel="nofollow" href="http://twitter.com/512banque">ma timeline</a> un nouvel outil d&#8217;aide au content spinning baptisé &laquo;&nbsp;<a href="http://www.deliciouscadaver.com/revolusyn">Revolusyn</a>&nbsp;&raquo; . Cet outil est destiné à l&#8217;aide à la saisie et à la création de textes propres &laquo;&nbsp;prêts à spinner&nbsp;&raquo;.</p>
+<p>Voici donc une petite vidéo, et une petite synthèse, organisée par catégories :<br />
+<iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/xlgk8y"></iframe></p>
+<h2>Ergonomie</h2>
+<p><span style="color: #008000;">+ Interface léchée et travaillée, professionnelle,</span></p>
+<p><span style="color: #008000;">+ Système de review &laquo;&nbsp;phrase par phrase&nbsp;&raquo; bien pensé,</span></p>
+<p><span style="color: #008000;">+ Génération de x phrases à partir de la phrase en cours intelligent et très pratique pour la correction. Quand on spinne, on sait qu&#8217;il faut se corriger au fur et à mesure, car &laquo;&nbsp;corriger&nbsp;&raquo; un texte spin est mission impossible.</span></p>
+<p><span style="color: #008000;">+ On peut regrouper les expressions (si l&#8217;outil a séparé en deux mots, on peut les regrouper en une seule expression à synonymiser)</span></p>
+<p><span style="color: #008000;">+ Système de sauvegarde de textes en ligne</span></p>
+<p><del><span style="color: #ff0000;">- Interface de Toolspin un peu à l&#8217;arrache, mérite d&#8217;être retravaillé pour les plus exigents</span></del><span style="color: #ff0000;"><span style="color: #003300;"> Edit : ok</span><br />
+</span></p>
+<p><del><span style="color: #ff0000;">- Manque un système de calcul de longueur minimale / maximale des spins. Allez un peu d&#8217;effort, </span><a href="http://www.deliciouscadaver.com/connaitre-les-longueurs-minimale-et-maximale-dun-spin.html"><span style="color: #ff0000;">j&#8217;ai déjà fait le boulot</span></a></del><span style="color: #ff0000;"><del> <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </del> <span style="color: #003300;">Edit : ok implémenté</span><br />
+</span></p>
+<p><span style="color: #ff0000;"><del>- Manque un système de sauvegarde auto systématique, pour éviter les déconvenues lors de crash navigateur.</del></span> Edit : ok<span style="color: #ff0000;"><del></del></span>, à partir de 3 phrases en fait</p>
+<p><span style="color: #ff0000;">- De la même manière qu&#8217;on peut regrouper des expressions, on devrait pouvoir les exploser (les séparer) quand la reconnaissance a été mal faite. Pour moi c&#8217;est le point le plus problématique pour l&#8217;instant.</span></p>
+<h2>Puissance de l&#8217;outil</h2>
+<p><span style="color: #008000;">+ Recherche de synonymes qui gère les verbes conjugués</span></p>
+<p><span style="color: #008000;">+ Scrap de flickr, ajout de locutions adverbiales</span></p>
+<p><del><span style="color: #ff0000;">- Manque cruel d&#8217;une API, aussi bien pour les bidouilleurs/utilisateurs avancés qui veulent pluguer Revolusyn sur leurs tools existants, que pour ceux souhaitant générer des textes un peu plus &laquo;&nbsp;crades&nbsp;&raquo; (par exemple &laquo;&nbsp;autospinner&nbsp;&raquo; un texte pour créer de la bouillie quand je poste sur </span><a href="http://www.linkjuice.fr"><span style="color: #ff0000;">linkjuice.fr</span></a><span style="color: #ff0000;">&#8230; Eh oui c&#8217;est mon côté polisson&#8230; Non je rigole, t&#8217;inquiète pas Didier)</span></del> Edit : ok implémenté</p>
+<p><span style="color: #ff0000;">- Thésaurus un peu léger, à approfondir impérativement</span></p>
+<p><span style="color: #ff0000;">- Rapidité peut mieux faire</span></p>
+<h2><span style="color: #ff0000;"><span style="color: #000000;">Remarques sur Toolspin</span><br />
+</span></h2>
+<p><span style="color: #ff0000;"><span style="color: #000000;"> Toolspin génère très rapidement des pâtés énormes pour des variations minuscules (ex : supprimer 1 phrase sur 3), variations intéressantes.</span></span></p>
+<p><span style="color: #ff0000;"><span style="color: #000000;">En réalité on pourrait gagner pas mal de temps en utilisant une syntaxe de spin légèrement différente sur des points secondaires (comme celle de Uspin), par exemple pour mélanger facilement l&#8217;ordre des paragraphes (balise [blocks]), ou spinner facilement les balises html (balise [tag] comme du bbcode) etc.</span></span></p>
+<p><span style="color: #ff0000;"><span style="color: #000000;">D&#8217;un autre côté, la syntaxe de sortie de Toolspin est &laquo;&nbsp;universelle&nbsp;&raquo;, ce qui n&#8217;est pas le cas de Uspin. Cette remarque sur Toolspin ne rentre donc pas dans un aspect positif/négatif, étant donné que c&#8217;est une question de point de vue avant tout (praticité vs universalité).<br />
+</span></span></p>
+<h2>Conclusion</h2>
+<p>Quand j&#8217;ai montré cet outil à ma team, ils étaient enchantés. A choisir, entre un outil, certes qui mérite d&#8217;être approfondi, mais plutôt chiadé, et The Best Spinner qui est d&#8217;une inutilité totale en Français, ou pire, le bloc-notes, il n&#8217;y a pas photo.</p>
+<p>Autre élément qui compte à mes yeux, cet outil fait partie d&#8217;une offre commerciale. Donc s&#8217;il y a des revenus, de surcroît récurrents, et que la promotion est assurée entre autres par l&#8217;affiliation, on peut légitimement s&#8217;attendre à un suivi, un support et des updates. Ce qui est beaucoup moins certain dans le cas de projets opensource/expérimentaux.</p>
+<p>En conclusion, oui je me suis pris l&#8217;outil (comme 3/4 des outils qui passent d&#8217;ailleurs). Ensuite vais-je l&#8217;utiliser ? C&#8217;est une autre question. Pour l&#8217;instant, je suis assez enthousiaste, et je me donne quelques semaines pour voir si je l&#8217;adopte ou pas <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+<h3><a href="http://www.deliciouscadaver.com/revolusyn">&gt; en savoir plus sur revolusyn</a></h3>
+<p><a href="http://www.deliciouscadaver.com">referencement google</a> <a href="http://www.deliciouscadaver.com/uspin-ultimate-spin-content-spinning">content spinning</a> <a href="http://www.deliciouscadaver.com/script-php-de-verification-de-liens-automatique-backlink-checker.html">script verification liens</a> <a href="http://www.deliciouscadaver.com/se-proteger-de-lhadopi-proxies-scrapebox-quel-vpn-choisir.html">proxy scrapebox</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/revolusyn-test-video-et-critique.html/feed</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Donner plus de poids à ses backlinks, un exemple concret</title>
+		<link>http://www.deliciouscadaver.com/donner-plus-de-poids-a-ses-backlinks-un-exemple-concret.html</link>
+		<comments>http://www.deliciouscadaver.com/donner-plus-de-poids-a-ses-backlinks-un-exemple-concret.html#comments</comments>
+		<pubDate>Mon, 03 Oct 2011 10:08:51 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Techniques]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=879</guid>
+		<description><![CDATA[Aujourd&#8217;hui, j&#8217;ai le plaisir d&#8217;accueillir popov301, un gars sympa qui habite dans une banlieue parisienne pourrie qui va nous montrer comment donner du poids à ses backlinks. Pourquoi ? Parce qu&#8217;entre un backlink paumé sur une page isolée et crawlée une fois par an, et un backlink sur une page bien pertinente et massivement linkée [...]]]></description>
+			<content:encoded><![CDATA[<p></p><p><em>Aujourd&#8217;hui, j&#8217;ai le plaisir d&#8217;accueillir <a rel="nofollow" href="http://twitter.com/popov301">popov301</a>, un gars sympa <del>qui habite dans une banlieue parisienne pourrie</del> qui va nous montrer comment donner du poids à ses backlinks.</em></p>
+<p><em>Pourquoi ? Parce qu&#8217;entre un <strong>backlink paumé sur une page isolée et crawlée une fois par an</strong>, et un backlink <strong>sur une page bien pertinente et massivement linkée par le reste du site</strong>, il y a tout un monde.<br />
+</em></p>
+<p><em>On va donc voir comment choper des beaux backlinks et faire en sorte que ceux-ci soient &laquo;&nbsp;populaires&nbsp;&raquo;.</em></p>
+<p><em>Evidemment, vous connaissez la politique du blog : donner des pistes de réflexion à généraliser pour que les créatifs puissent en tirer vraiment profit. Il ne faut jamais se contenter du &laquo;&nbsp;je lis, j&#8217;applique et je m&#8217;arrête là&nbsp;&raquo;&#8230; Bonne lecture !<br />
+</em></p>
+<p>Academia.edu est un site permettant aux chercheurs/étudiants de partager leurs connaissances/résultats de recherche. Sur le principe d’un réseau social, on peut suivre et être suivi par des utilisateurs.</p>
+<p>L’idée est d’utiliser la force du maillage interne d’un site populaire.</p>
+<p><strong>Etape 1 –</strong> On va repérer les utilisateurs « populaires » (Page Rank), et contrôler au passage que leurs pages avec listing des followers soit bien indéxées (scrapebox est ton ami). Le site fonctionne pas mal avec des sous domaines, donc :</p>
+<p>site:academia.edu followers.</p>
+<p>On se retrouve ainsi avec des url d’utilisateur possédant des tronches d’Harry Potter, que l’on peut trier par PR.</p>
+<p><a rel="nofollow" href="http://team.academia.edu/RyanFitzgerald/Followers">http://team.academia.edu/RyanFitzgerald/Followers</a></p>
+<p><strong>Etape 2</strong> – On supprime à la volée le /Followers des urls, car seul le profil nous intéresse.</p>
+<p><strong>Etape 3</strong> – Ouverture d’un compte et création d’un fake profil (personnellement, j’ai copié la bio  d’un utilisateur peu connu des autres (comprendre avec peu de followers)). Avec un profil / photo féminin, vous aurez même quelques boloss qui vont vous follow back !</p>
+<p><img class="aligncenter size-full wp-image-897" title="maillage-seo-1" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/maillage-seo-1.jpg" alt="" width="446" height="277" /></p>
+<p><strong>Etape 4</strong> – Avec cette liste d’utilisateurs, imacro va nous aider à tous les suivre et ainsi apparaitre dans leur liste de followers.</p>
+<p><img class="aligncenter size-full wp-image-898" title="maillage-seo-2" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/maillage-seo-2.jpg" alt="" width="664" height="270" /></p>
+<p><strong>Etape 5</strong> – Même si le profil est indexé rapidement. Attendre une petite semaine histoire de vous faire oublier. Je sais, c’est tentant, mais pour passer le temps, vous pouvez faire un peu de spamco avec votre nouveau lien de profil.</p>
+<p><img class="aligncenter size-full wp-image-899" title="maillage-seo-3" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/maillage-seo-3.jpg" alt="" width="555" height="104" /></p>
+<p><strong>Etape 6 – </strong>Une semaine après, allez modifier en loosdé vos nom / prénom histoire d’avoir une bonne anchor sur l’ensemble des pages ou vous apparaissez (maillage interne)</p>
+<p><img class="aligncenter size-full wp-image-900" title="maillage-seo-4" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/10/maillage-seo-4.jpg" alt="" width="595" height="284" /></p>
+<p><strong>Etape 7</strong> – Sur votre profil, publiez un bon contenu bien propre, dans votre thématique chérie, dans lequel vous incrustez vos précieux BL.</p>
+<p><strong>Etape 8</strong> – En fouillant un peu dans le site, vous pourrez facilement trouver d’autres moyens de linker votre page sur des pages populaires (Commentaires sur les « Status Updates » par exemple)</p>
+<p>La limite sur ce site, c’est que vous ne pouvez pas balancer d’html / wysiwyg, donc oubliez les bonnes anchor bien optimisées, intégrées directement dans du texte. (Possible toutefois en renseignant vos url dans la section « websites » du profil).</p>
+<p>En revanche, pour les plus curieux que la technique intéresse, il y a pas mal de sites fonctionnant sur le même principe, notamment au US ;) « add as friend » « follow », etc. Je vous laisse chercher un peu.</p>
+<p>PS aux traçeurs, je vais vous faire gagner du temps : Ne cherchez pas à tracer le site <a href="http://www.gants-hiver.fr/">http://www.gants-hiver.fr</a> (site de gants pour l&#8217;hiver) prit en exemple, il a tout juste une semaine et je ne ferai pas grand-chose dessus ^^.</p>
+<p>Même punition sur le profil, le nom que j’ai utilisé n’a été utilisé nul par ailleurs. Faut vraiment être le fils de personne pour tracer des potes <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+<p>La macro originale :</p>
+<pre>SET !ERRORIGNORE YES
+URL GOTO=http://team.academia.edu/RyanFitzgerald
+TAG POS=1 TYPE=A ATTR=ID:profile_follow_me_link
+URL GOTO=http://hofstra.academia.edu/LesliePineda
+TAG POS=1 TYPE=A ATTR=ID:profile_follow_me_link
+URL GOTO=http://harvard.academia.edu/StevenPinker
+TAG POS=1 TYPE=A ATTR=ID:profile_follow_me_link
+URL GOTO=http://oxford.academia.edu/RichardPrice
+TAG POS=1 TYPE=A ATTR=ID:profile_follow_me_link
+URL GOTO=http://independent.academia.edu/JoeLandsberger
+TAG POS=1 TYPE=A ATTR=ID:profile_follow_me_link
+URL GOTO=http://team.academia.edu/RyanLower
+TAG POS=1 TYPE=A ATTR=ID:profile_follow_me_link
+... etc</pre>
+<p>Edit 512banque : avec la permission de Sylvain, je me permets de vous proposer une autre version de la macro, dopée aux stéroïdes avec le filtre noimage qui permet d&#8217;accélérer les temps de chargement. Vous enregistrez toutes vos urls à visiter dans un fichier &laquo;&nbsp;urls.csv&nbsp;&raquo; dans votre répertoire Documents/iMacros/Datasources et vous cliquez sur &laquo;&nbsp;jouer (répéter)&nbsp;&raquo; dans imacros, avec une valeur max équivalente au nombre de lignes dans votre csv</p>
+<pre>SET !TIMEOUT_STEP 1
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED FAST
+FILTER TYPE=IMAGES STATUS=ON
+
+CMDLINE !DATASOURCE urls.csv
+SET !DATASOURCE_COLUMNS 1
+SET !LOOP 1
+SET !DATASOURCE_LINE {{!LOOP}}
+
+URL GOTO={{!COL1}}</pre>
+<p>Edit 2 : spéciale dédicace aux traceurs, ces gros incompétents, sans créativité et sans finesse</p>
+<p>&laquo;&nbsp;seo bird&nbsp;&raquo; http://seo-bird.craym.eu/blog/</p>
+<p>&laquo;&nbsp;Novazeo Agence de communication à Marseille&nbsp;&raquo; http://www.novazeo.com/</p>
+<p>&laquo;&nbsp;NC porte de garage&nbsp;&raquo; (pas mal comme idée de niche tiens) http://www.nc-portedegarage.com/</p>
+<p>Chers amis, vous savez maintenant tout le mépris que vous m&#8217;inspirez <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>To be continued</p>
+<p><a href="http://www.deliciouscadaver.com/uspin-ultimate-spin-content-spinning">content spinning</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/donner-plus-de-poids-a-ses-backlinks-un-exemple-concret.html/feed</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Amazon Mechanical Turk : de quel pays sont-ils d&#8217;après vous ?</title>
+		<link>http://www.deliciouscadaver.com/amazon-mechanical-turk-de-quel-pays-sont-ils-dapres-vous.html</link>
+		<comments>http://www.deliciouscadaver.com/amazon-mechanical-turk-de-quel-pays-sont-ils-dapres-vous.html#comments</comments>
+		<pubDate>Mon, 12 Sep 2011 13:09:23 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Techniques]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=856</guid>
+		<description><![CDATA[J&#8217;ai mené une petite expérience et j&#8217;ai demandé à des workers de venir massivement sur mon site. Et j&#8217;ai décidé de regarder d&#8217;où ils venaient géographiquement. A votre avis, ils viennent d&#8217;où ? . . . . . . . . . . . . . . . . . . . . . [scrollez] [...]]]></description>
+			<content:encoded><![CDATA[<p><a class="post_image_link" href="http://www.deliciouscadaver.com/amazon-mechanical-turk-de-quel-pays-sont-ils-dapres-vous.html" title="Permanent link to Amazon Mechanical Turk : de quel pays sont-ils d&#8217;après vous ?"><img class="post_image aligncenter frame" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/09/worldmap.gif" width="300" height="300" alt="Post image for Amazon Mechanical Turk : de quel pays sont-ils d&#8217;après vous ?" /></a>
+</p><p>J&#8217;ai mené une petite expérience et j&#8217;ai demandé à des workers de venir massivement sur mon site.</p>
+<p>Et j&#8217;ai décidé de regarder d&#8217;où ils venaient géographiquement.</p>
+<p>A votre avis, ils viennent d&#8217;où ?</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>[scrollez]</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p><img class="aligncenter size-full wp-image-857" title="amtgeo" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/09/amtgeo.jpg" alt="" width="506" height="968" />Je n&#8217;ai qu&#8217;une chose à dire : Jay Ho !</p>
+<p><a href="http://www.deliciouscadaver.com/uspin-ultimate-spin-content-spinning">content spinning</a> <a href="http://www.deliciouscadaver.com/imacros-ou-le-black-hat-pour-noobs.html">imacros content spinning</a> <a href="http://www.deliciouscadaver.com">blog referencement</a> <a href="http://www.deliciouscadaver.com/se-proteger-de-lhadopi-proxies-scrapebox-quel-vpn-choisir.html">quel vpn choisir</a> <a href="http://www.deliciouscadaver.com/script-php-de-verification-de-liens-automatique-backlink-checker.html">echange de liens automatique</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/amazon-mechanical-turk-de-quel-pays-sont-ils-dapres-vous.html/feed</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>IPFlood ou comment gruger les systèmes de vote, de sondage, etc.</title>
+		<link>http://www.deliciouscadaver.com/ipfuck-ou-comment-gruger-les-systemes-de-vote-de-sondage-etc.html</link>
+		<comments>http://www.deliciouscadaver.com/ipfuck-ou-comment-gruger-les-systemes-de-vote-de-sondage-etc.html#comments</comments>
+		<pubDate>Wed, 07 Sep 2011 11:38:06 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[Techniques]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=832</guid>
+		<description><![CDATA[Imaginez un monde ou vous pourriez contrôler les votes et où vous pourriez littéralement élire {le candidat&#124;la meilleure réponse&#124;le meilleur projet} que vous voulez&#8230; Ce n&#8217;est (malheureusement) pas encore possible dans le domaine politique, mais sur Internet, c&#8217;est très souvent à la portée du premier &#171;&#160;petit malin&#160;&#187; venu. Comment effectue-t-on des contrôles lors des sondages/votes [...]]]></description>
+			<content:encoded><![CDATA[<p><a class="post_image_link" href="http://www.deliciouscadaver.com/ipfuck-ou-comment-gruger-les-systemes-de-vote-de-sondage-etc.html" title="Permanent link to IPFlood ou comment gruger les systèmes de vote, de sondage, etc."><img class="post_image aligncenter frame" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/09/votes.jpg" width="345" height="200" alt="votes" /></a>
+</p><p>Imaginez un monde ou vous pourriez contrôler les votes et où vous pourriez littéralement élire {le candidat|la meilleure réponse|le meilleur projet} que vous voulez&#8230; Ce n&#8217;est (malheureusement) pas encore possible dans le domaine politique, mais sur Internet, c&#8217;est très souvent à la portée du premier &laquo;&nbsp;petit malin&nbsp;&raquo; venu.</p>
+<h3>Comment effectue-t-on des contrôles lors des sondages/votes sur Internet ?</h3>
+<p>C&#8217;est simple :<strong> si la même IP a soumis déjà une fois, on ne prend plus en compte ses soumissions ultérieures</strong>.</p>
+<p>Bien sûr, on peut faire comme Freeglobes et ajouter des contrôles inutiles de type &laquo;&nbsp;cookie&nbsp;&raquo;, mais pour bypasser ce genre de contrôles, il suffit de désactiver les cookies avec la barre d&#8217;outil Web Developper ou de les effacer. Ce n&#8217;est donc pas l&#8217;objet de cet article.</p>
+<p>Certains petits malins se sont amusés à <strong>utiliser des proxies pour voter plusieurs fois</strong>. Un proxy, c&#8217;est grosso modo un ordinateur intermédiaire qui renvoie une IP différente de votre vraie IP au serveur.</p>
+<p><strong>Les proxies de très bonne qualité</strong>, les proxies &laquo;&nbsp;Elite&nbsp;&raquo; <strong>permettent de ne renvoyer aucune information, juste l&#8217;IP du proxy</strong>. C&#8217;est le top du top, mais ça coûte un peu cher généralement (30$/mois les 10 IP chez <a href="http://www.yourprivateproxy.com/646.html">ypp</a>).</p>
+<p>Les petits malins ayant besoin de centaines de votes et étant très souvent sur la paille, ils ont donc commencé à utiliser des proxies gratuit, mais de faible qualité. <strong>Et le problème avec les proxies de faible qualité, c&#8217;est qu&#8217;ils renvoient au serveur une information vous permettant de vous identifier</strong>.</p>
+<p>Il s&#8217;agit généralement de l&#8217;une des trois variables : CLIENT-IP, X-FORWARDED-FOR et VIA (mais pas que).</p>
+<p>Concrètement, si on se place du point de vue du serveur, on va recevoir une requête de ce type :</p>
+<p><span style="text-decoration: underline;"><strong>Dans le cas d&#8217;un proxy &laquo;&nbsp;Elite&nbsp;&raquo; :</strong></span></p>
+<pre>Bonjour, je suis 189.189.189.189 <em>(ip du proxy) </em>et je voudrais accomplir une action.</pre>
+<p><span style="text-decoration: underline;"><strong>Dans le cas d&#8217;un proxy de basse qualité :</strong></span></p>
+<pre>Bonjour, je suis 189.189.189.189 <em>(ip du proxy) </em>et je voudrais accomplir une action, <span style="color: #ff0000;">mais en fait c'est pas vraiment moi qui veux effectuer l'action, mais plutôt l'ordinateur 82.239.226.78 (<em>ndlr : vous</em>) hein, voilà c'est dit.</span></pre>
+<p>Hé oui, le proxy pourri renvoie votre adresse IP réelle à côté de la sienne, sûrement pour se protéger si d&#8217;aventure un petit malin était trop cavalier.</p>
+<p>Si vous voulez approfondir le sujet, courez voir l&#8217;excellent article <a href="http://www.unpeudeseo.com/2011/07/21/proxys-gratuits-trop-cher/">&laquo;&nbsp;les proxies gratuits, c&#8217;est trop cher&nbsp;&raquo; chez Un Peu de SEO</a> avec lequel vous comprendrez l&#8217;essentiel de la notion de proxies sur le web.</p>
+<p><strong>Donc les scripts de vote se sont adaptés</strong> et ont dit &laquo;&nbsp;on ne va plus seulement s&#8217;intéresser à l&#8217;IP apparente, mais on va plutôt regarder essayer de remonter l&#8217;IP &laquo;&nbsp;réelle&nbsp;&raquo; du petit malin&nbsp;&raquo;. Et du coup, <span style="text-decoration: underline;"><strong>dès qu&#8217;ils trouvent une variable CLIENT-IP, une variable X-FORWARDED-FOR ou une variable VIA, ils prennent en compte cette IP finale comme IP votante</strong></span>.</p>
+<p>Comme ça, même si j&#8217;utilise 200 proxies gratuits, tant que ces derniers laissent apparaître ma réelle IP comme IP finale et commanditaire de la requête, <strong>on m&#8217;identifie et un seul vote est comptabilisé</strong>, malgré les 200 proxies intermédiaires.</p>
+<h2>IPFlood ou la prise du dragon</h2>
+<p>Dans un plus pur esprit black hat, permettez-moi de vous présenter IPFlood.</p>
+<p>En gros, IPFlood va faire un truc tordu, mais alors vraiment tordu.</p>
+<p>Pour faire simple et rapide, il va générer à la volée une fausse commande CLIENT-IP, X-FORWARDED-FOR ou VIA avec une IP finale &laquo;&nbsp;bidon&nbsp;&raquo; lorsque vous consultez un site internet, <span style="text-decoration: underline;"><strong>vous faisant passer VOUS pour un proxy</strong></span>.</p>
+<p>En gros, si votre IP réelle est 82.239.226.78, les requêtes que Firefox va envoyer seront du type :</p>
+<pre>Bonjour, je suis 82.239.226.78 et je voudrais accomplir une action, mais en fait c'est pas vraiment moi qui veux effectuer l'action, mais plutôt l'ordinateur 256.986.985.119 (<em>ndlr : une IP completement fake</em>) hein, voilà c'est dit.</pre>
+<p>Réponse du serveur dans 75% des cas ?</p>
+<pre>Ok mon good buddy, merci de m'avoir transmis l'IP du petit malin, pour l'instant il n'a jamais voté chez moi donc je comptabilise son vote, mais bon, je l'enregistre au cas où...</pre>
+<p>Et c&#8217;est comme ça à chaque requête, pour vous la faire simple :</p>
+<p>Requête 1 : Bonjour, je suis <span style="color: #008000;">82.239.226.78</span> et je voudrais&#8230; , mais en fait &#8230;  mais plutôt l&#8217;ordinateur <span style="color: #ff0000;">256.986.985.119</span>&#8230;</p>
+<p>Réponse 1 : ok, je comptabilise un vote pour <span style="color: #ff0000;">256.986.985.119</span></p>
+<p>Requête 2 : Bonjour, je suis <span style="color: #008000;">82.239.226.78</span> et je voudrais&#8230; , mais en fait &#8230;  mais plutôt l&#8217;ordinateur <span style="color: #ff0000;">135.111.222.644</span>&#8230;</p>
+<p>Réponse 2 : ok, je comptabilise un vote pour <span style="color: #ff0000;">135.111.222.644</span></p>
+<p>Requête 3 : Bonjour, je suis <span style="color: #008000;">82.239.226.78</span> et je voudrais&#8230; , mais en fait &#8230;  mais plutôt l&#8217;ordinateur <span style="color: #ff0000;">99.098.643.298</span>&#8230;</p>
+<p>Réponse 3 : ok, je comptabilise un vote pour <span style="color: #ff0000;">99.098.643.298</span></p>
+<p>Et ainsi de suite&#8230;</p>
+<p>Votre pouvoir de vote est ainsi illimité.</p>
+<p>Ce que ça change pour vous dans votre navigation ? Absolument rien, tout est transparent pour vous&#8230;</p>
+<p>Je ne peux pas en dire plus, mais de très, très (très) gros sites possèdent cette faille béante. Du coup, je peux littéralement choisir qui va être l&#8217;heureux élu et va monter sur le podium des 3 ressources les plus populaires. Et généralement, l&#8217;heureux élu, c&#8217;est moi. Mais maintenant, c&#8217;est aussi vous <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+<p>Petite dédicace à Yakamo et son negative analytics : le trick fausse toutes les stats getclicky. Un simple F5 et on a un nouveau visiteur en ligne&#8230; Je n&#8217;ai pas encore vérifié pour google analytics, je vous laisserai le soin de vous en occuper <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>Gros merci à Vince qui m&#8217;a communiqué l&#8217;existence de ce magnifique plugin il y a 1 an <img src='http://www.deliciouscadaver.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+<p>Lien : <a href="https://addons.mozilla.org/fr/firefox/addon/ipflood/">le plugin IPFlood</a></p>
+<p><a href="http://www.deliciouscadaver.com/imacros-ou-le-black-hat-pour-noobs.html">tutorial imacros</a> <a href="http://www.deliciouscadaver.com/script-php-de-verification-de-liens-automatique-backlink-checker.html">script verification backlink</a> <a href="http://www.deliciouscadaver.com/uspin-ultimate-spin-content-spinning">script php content spinning</a> <a href="http://www.deliciouscadaver.com/se-proteger-de-lhadopi-proxies-scrapebox-quel-vpn-choisir.html">hadopi vpn</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/ipfuck-ou-comment-gruger-les-systemes-de-vote-de-sondage-etc.html/feed</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+		<item>
+		<title>Comment faire du Negative SEO qui fonctionne, en 9 minutes</title>
+		<link>http://www.deliciouscadaver.com/comment-faire-du-negative-seo-qui-fonctionne-en-9-minutes.html</link>
+		<comments>http://www.deliciouscadaver.com/comment-faire-du-negative-seo-qui-fonctionne-en-9-minutes.html#comments</comments>
+		<pubDate>Tue, 14 Jun 2011 10:12:49 +0000</pubDate>
+		<dc:creator>512banque</dc:creator>
+				<category><![CDATA[Backlinks]]></category>
+		<category><![CDATA[Techniques]]></category>
+		<category><![CDATA[nseo]]></category>
+
+		<guid isPermaLink="false">http://www.deliciouscadaver.com/?p=817</guid>
+		<description><![CDATA[Pourquoi 9 minutes ? Parce que c&#8217;est moins que 10 minutes et que donc, on a tendance à se dire &#171;&#160;oh c&#8217;est pas long&#160;&#187;. Je publie sur cet article une technique que j&#8217;ai déjà testée, notamment pour le pandaranol (j&#8217;ai fait dégager le premier). Comme c&#8217;est maximedt qui m&#8217;avait parlé du principe il y a [...]]]></description>
+			<content:encoded><![CDATA[<p><a class="post_image_link" href="http://www.deliciouscadaver.com/comment-faire-du-negative-seo-qui-fonctionne-en-9-minutes.html" title="Permanent link to Comment faire du Negative SEO qui fonctionne, en 9 minutes"><img class="post_image aligncenter frame" src="http://www.deliciouscadaver.com/wp-content/uploads/2011/06/vaudou.jpeg" width="337" height="450" alt="vaudou" /></a>
+</p><p>Pourquoi 9 minutes ? Parce que c&#8217;est moins que 10 minutes et que donc, on a tendance à se dire &laquo;&nbsp;oh c&#8217;est pas long&nbsp;&raquo;.</p>
+<p>Je publie sur cet article une technique que j&#8217;ai déjà testée, notamment pour le pandaranol (j&#8217;ai fait dégager le premier). <a href="http://www.maximedt.com/blog/referencement-freeglobes-black-hat.html">Comme c&#8217;est maximedt qui m&#8217;avait parlé du principe il y a longtemps</a> (environ 6 mois), et que j&#8217;ai détourné son utilisation pour d&#8217;autres fin moins nobles, j&#8217;ai logiquement attendu qu&#8217;il publie en premier.</p>
+<p>0:00-&gt;0:01 : Scrapez avec scrapebox les fiches single des annuaires freeglobes avec, par exemple, inurl:single.php (entre autres)</p>
+<p>0:01-&gt;0:02 : Scrapez les PR de toutes ces fiches, triez par PR décroissant</p>
+<p>0:02-&gt;0:06 : Copiez collez le contenu de la home de votre victime sur une 10aine/20aine de fiches, <a href="http://www.maximedt.com/blog/referencement-freeglobes-black-hat.html">dans l&#8217;onglet commentaire</a>, celles contenant les plus gros PR</p>
+<p>0:06-&gt;0:08 : Copiez collez le contenu de la home de votre victime sur un article que vous publierez sur lepost.fr</p>
+<p>0:08-&gt;0:09 : Ouvrez un paquet de chipster et dégustez ses petits brins croustillants et salés qui fondent sur la langue.</p>
+<p>Sit back and relax, votre cible va tomber dans quelques jours.</p>
+<p><a href="http://www.deliciouscadaver.com/script-php-de-verification-de-liens-automatique-backlink-checker.html">script verification backlink</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.deliciouscadaver.com/comment-faire-du-negative-seo-qui-fonctionne-en-9-minutes.html/feed</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+		</item>
+	</channel>
+</rss>

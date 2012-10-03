@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web-Petit</title>
+	<atom:link href="http://www.web-petit.com/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.web-petit.com</link>
+	<description>Logiciels libres, actualité Web, développement et accessibilité.</description>
+	<lastBuildDate>Sun, 15 Apr 2012 20:38:24 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.3.1</generator>
+	<atom:link rel='hub' href='http://www.web-petit.com/?pushpress=hub'/>
+		<item>
+		<title>Modifier le mot de passe MySQL de l&#8217;utilisateur root.</title>
+		<link>http://www.web-petit.com/modifier-le-mot-de-passe-mysql-de-lutilisateur-root</link>
+		<comments>http://www.web-petit.com/modifier-le-mot-de-passe-mysql-de-lutilisateur-root#comments</comments>
+		<pubDate>Sun, 15 Apr 2012 20:36:10 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[MySQL]]></category>
+		<category><![CDATA[SGBD]]></category>
+		<category><![CDATA[Tutoriels]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1352</guid>
+		<description><![CDATA[Attention : ici on parle de l&#8217;utilisateur root de MySQL. À ne pas confondre avec l&#8217;utilisateur root de votre OS ! Définir un mot de passe pour l&#8217;utilisateur root. Si l&#8217;utilisateur root n&#8217;a pas de mot de passe, vous pouvez lui en définir un nouveau avec la commande suivante : Modifier le mot de passe [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.web-petit.com/wp-content/uploads/MySQL-Logo.png"><img src="http://www.web-petit.com/wp-content/uploads/MySQL-Logo.png" alt="MySQL Logo" title="MySQL Logo" width="200" height="103" class="alignright size-full wp-image-726" /></a>
+<p><strong>Attention :</strong> ici on parle de l&#8217;utilisateur root de MySQL. À ne pas confondre avec l&#8217;utilisateur root de votre OS !</p>
+<h3>Définir un mot de passe pour l&#8217;utilisateur root.</h3>
+<p>Si l&#8217;utilisateur <strong>root</strong> n&#8217;a pas de <strong>mot de passe</strong>, vous pouvez lui en définir un nouveau avec la commande suivante :</p>
+<pre class="brush: bash; title: ; notranslate">mysqladmin -u root password NouveauMotDePasse</pre>
+<h3>Modifier le mot de passe de l&#8217;utilisateur root.</h3>
+<p>Pour modifier le mot de passe de l&#8217;utilisateur root sans passer par la case SQL, il faut utiliser la commande <strong>mysqladmin</strong> :</p>
+<pre class="brush: bash; title: ; notranslate">mysqladmin -u root -pAncienMotDePasse password NouveauMotDePasse</pre>
+<h3>Modifier le mot de passe d&#8217;un autre utilisateur.</h3>
+<p>Pour modifier le mot de passe d&#8217;un autre utilisateur (dans notre cas, l&#8217;utilisateur abdi) :</p>
+<pre class="brush: bash; title: ; notranslate">mysqladmin -u abdi -pAncienMotDePasseDAbdi password NouveauMotDePasseDAbdi</pre>
+<p>Comme d’habitude, n’oubliez pas le sudo si vous n’êtes pas en super-administrateur (root).</p>
+<p>Voilà c’est tout pour ce tuto, et n’oubliez surtout pas : <strong>BI-DOU-ILLEZ !</strong></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/activer-le-compte-root-sous-ubuntu" rel="bookmark" class="crp_title">Activer le compte root sous Ubuntu</a></li><li><a href="http://www.web-petit.com/ubuntu-mysql-restaurer-une-base-de-donnees" rel="bookmark" class="crp_title">Ubuntu &#8211; MySQL : Restaurer une base de données.</a></li><li><a href="http://www.web-petit.com/importexport-avec-mysql-en-ligne-de-commande" rel="bookmark" class="crp_title">Import/Export avec Mysql dans un shell</a></li><li><a href="http://www.web-petit.com/installer-libreoffice-3-5-sur-ubuntu-11-10" rel="bookmark" class="crp_title">Installer LibreOffice 3.5 sur Ubuntu 11.10.</a></li><li><a href="http://www.web-petit.com/ubuntu-installer-une-police" rel="bookmark" class="crp_title">Ubuntu : installer une police.</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/modifier-le-mot-de-passe-mysql-de-lutilisateur-root/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Le nouveau design de Google Ghost.</title>
+		<link>http://www.web-petit.com/le-nouveau-design-de-google-ghost</link>
+		<comments>http://www.web-petit.com/le-nouveau-design-de-google-ghost#comments</comments>
+		<pubDate>Wed, 11 Apr 2012 18:36:46 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google+]]></category>
+		<category><![CDATA[Réseaux Sociaux]]></category>
+		<category><![CDATA[ghost]]></category>
+		<category><![CDATA[Google Plus]]></category>
+		<category><![CDATA[ville fantôme]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1342</guid>
+		<description><![CDATA[Google Plus vient de mettre à jour son apparence et cela vous a peut-être échappé vu que sur Google Plus, il y nettement plus de profils fantômes que de profils actifs. En terme de fonctionnalités, je trouve que Google Plus est le meilleur des réseaux sociaux mais seulement voilà Google+ n&#8217;a jamais vraiment trouvé son [...]]]></description>
+			<content:encoded><![CDATA[<p><strong>Google Plus</strong> vient de mettre à jour son apparence et cela vous a peut-être échappé vu que sur Google Plus, il y nettement plus de profils fantômes que de profils actifs.</p>
+<p>En terme de fonctionnalités, je trouve que Google Plus est le meilleur des réseaux sociaux mais seulement voilà <strong>Google+ </strong>n&#8217;a jamais vraiment trouvé son public et je ne sais pas s&#8217;il le trouvera un jour. Franchement, je ne crois pas qu&#8217;il soit réellement important de parler des améliorations de l&#8217;interface tant cela relève plus du ravalement de façade pour faire parler du réseau social. Et puis de toute façon, qui va réellement y aller excepté les quelques geeks like me ?</p>
+<p><a href="http://www.web-petit.com/wp-content/uploads/screenshot-google-plus-2.png"><img src="http://www.web-petit.com/wp-content/uploads/screenshot-google-plus-2-720x392.png" alt="Nouvelle interface de Google+" title="Nouvelle interface de Google+" width="720" height="392" class="alignright size-large wp-image-1345" /></a></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/google-new-ou-lactu-en-un-seul-site" rel="bookmark" class="crp_title">Google New ou l&#8217;actu en un seul site&#8230;</a></li><li><a href="http://www.web-petit.com/google-me-vs-facebook" rel="bookmark" class="crp_title">Google Me VS Facebook ?</a></li><li><a href="http://www.web-petit.com/google-mise-tout-sur-plus" rel="bookmark" class="crp_title">Google mise tout sur Plus.</a></li><li><a href="http://www.web-petit.com/google-labs-cest-fini" rel="bookmark" class="crp_title">Google Labs, c&#8217;est fini !</a></li><li><a href="http://www.web-petit.com/google-est-ouvert-a-tous" rel="bookmark" class="crp_title">Google+ est ouvert à tous !</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/le-nouveau-design-de-google-ghost/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Des fichiers de MegaUpload vont être supprimés.</title>
+		<link>http://www.web-petit.com/des-fichiers-de-megaupload-vont-etre-supprimes</link>
+		<comments>http://www.web-petit.com/des-fichiers-de-megaupload-vont-etre-supprimes#comments</comments>
+		<pubDate>Fri, 30 Mar 2012 10:41:34 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Carpathia Hosting]]></category>
+		<category><![CDATA[hébergeur]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[Justice]]></category>
+		<category><![CDATA[Megaupload]]></category>
+		<category><![CDATA[téléchargement]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1338</guid>
+		<description><![CDATA[MegaUpload, il est bien loin ce temps (je compte en temps Internet) où l&#8217;on téléchargait la dernière saison de Dexter les vidéos de vacances de nos amis à la vitesse de l&#8217;ADSL. Il se peut même que dans très peu de temps cela ne sera plus possible étant donné que les comptes de MegaUpload sont [...]]]></description>
+			<content:encoded><![CDATA[<p><strong>MegaUpload</strong>, il est bien loin ce temps (je compte en temps Internet) où l&#8217;on téléchargait <del>la dernière saison de Dexter</del> les vidéos de vacances de nos amis à la vitesse de l&#8217;ADSL. Il se peut même que dans très peu de temps cela ne sera plus possible étant donné que les comptes de <strong>MegaUpload</strong> sont gelés. Du coup, les factures de l&#8217;hébergeur ne sont plus honorées et donc celui-ci pourrait supprimer dans un avenir plus ou moins proche toutes les données partagées par les internautes.</p>
+<p>Il s&#8217;agit ici de la société <strong>Carpathia Hosting</strong> qui estime à 9000€/jour le stockage de 25 pétaoctets (1 Po = 10<sup>15</sup> octets) des fichiers de MegaUpload. Après que l&#8217;hébergeur ait tiré la sonnette d&#8217;alarme, l&#8217;avocat de MegaUpload a saisi la justice américaine afin de débloquer 1 million de dollars pour racheter les serveurs hébergeant les fichiers de MegaUpload. La justice américaine a refusé de débloquer les fonds et donc <strong>Carpathia Hosting</strong> devrait supprimer tous ces fichiers si une solution n&#8217;est pas trouvée dans les jours qui viennent.</p>
+<p>Un peu de nostalgie :</p>
+<p><iframe width="730" height="401" src="http://www.youtube.com/embed/o0Wvn-9BXVc" frameborder="0" allowfullscreen></iframe></p>
+<p>Source: <a href="http://www.clubic.com/application-web/actualite-484392-megaupload-recuperation-donnees-mal-engagee.html">Clubic</a></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/backstreet-boys-by-sony-offert-par-anonymous" rel="bookmark" class="crp_title">Backstreet Boys by Sony offert par Anonymous.</a></li><li><a href="http://www.web-petit.com/ubuntu-supprimer-sans-passer-par-la-corbeille" rel="bookmark" class="crp_title">Ubuntu : Supprimer sans passer par la corbeille.</a></li><li><a href="http://www.web-petit.com/justice-americaine-twitter-et-wikileaks" rel="bookmark" class="crp_title">Justice américaine, Twitter et Wikileaks.</a></li><li><a href="http://www.web-petit.com/decompresser-plusieurs-fichiers-tar-gz-zip" rel="bookmark" class="crp_title">Décompresser plusieurs fichiers tar.gz, zip&#8230;</a></li><li><a href="http://www.web-petit.com/internationalisation-php-gettext-et-ubuntu" rel="bookmark" class="crp_title">Internationalisation : PHP, gettext et Ubuntu.</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/des-fichiers-de-megaupload-vont-etre-supprimes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Utiliser PHP en ligne de commande.</title>
+		<link>http://www.web-petit.com/utiliser-php-en-ligne-de-commande</link>
+		<comments>http://www.web-petit.com/utiliser-php-en-ligne-de-commande#comments</comments>
+		<pubDate>Tue, 27 Mar 2012 15:51:56 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Administration serveur]]></category>
+		<category><![CDATA[Développement Web]]></category>
+		<category><![CDATA[Gnu/Linux]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Programmation]]></category>
+		<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[php-cli]]></category>
+		<category><![CDATA[php5]]></category>
+		<category><![CDATA[php5-cli]]></category>
+		<category><![CDATA[sapi]]></category>
+		<category><![CDATA[terminal]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1335</guid>
+		<description><![CDATA[Information : ce tutoriel s&#8217;adresse aux débianistes et donc également aux ubunteros. J&#8217;ai déjà eu l&#8217;occasion de vous parler de php5-cli dans d&#8217;autres tutoriels comme dépendance mais ici on va voir de quoi il s&#8217;agit. Il existe plusieurs points d&#8217;entrée pour PHP (module Apache, ligne de commande, etc&#8230;) que l&#8217;on regroupe sous le terme de [...]]]></description>
+			<content:encoded><![CDATA[<p style="font-style: italic;">Information : ce tutoriel s&#8217;adresse aux débianistes et donc également aux ubunteros. J&#8217;ai déjà eu l&#8217;occasion de vous parler de <strong>php5-cli</strong> dans d&#8217;autres tutoriels comme dépendance mais ici on va voir de quoi il s&#8217;agit.</p>
+<p>Il existe plusieurs points d&#8217;entrée pour PHP (module Apache, ligne de commande, etc&#8230;) que l&#8217;on regroupe sous le terme de <strong>SAPI</strong> pour <strong lang="en">Server Application Programming Interface</strong>. Le point d&#8217;entrée qui nous intéresse ici c&#8217;est la ligne de commande, soit <strong>PHP CLI</strong>. <strong>CLI</strong> signifie <strong lang="en">Command Line Interface</strong>.</p>
+<p>L&#8217;intérêt est donc de pouvoir exécuter <strong>PHP en ligne de commande</strong>. Pourquoi faire me direz-vous ? Un exemple ? Pour lancer un script PHP à intervalle régulier via <em>CRON</em> (<em lang="en" title="Traduction : service">daemon</em> sous GNU/Linux et autres systèmes de type Unix) par exemple.</p>
+<h3>Installer et utiliser PHP CLI.</h3>
+<p>Pour pouvoir utiliser donc la <strong>SAPI CLI</strong> sous les systèmes de type Debian, il faut installer le paquet <strong>php5-cli</strong>. Pour ce faire donc :</p>
+<pre class="brush: bash; title: ; notranslate">apt-get install php5-cli</pre>
+<p>À partir de là, pour utiliser PHP en ligne vous n&#8217;aurez plus qu&#8217;à utiliser la commande <strong>php</strong> dans votre terminal. Par exemple :</p>
+<pre class="brush: bash; title: ; notranslate">php chemin/de/mon/script.php</pre>
+<p>Si bien sûr vous avez un affichage dans votre script (echo, print, etc&#8230;), il s&#8217;affichera dans votre terminal. Et pour connaître toutes les options de votre commande, j&#8217;aurais bien envie de vous dire <abbr title="Read The Fucking Manual">RTFM</abbr> mais puisqu&#8217;il faut rester poli, lancez dans un terminal :</p>
+<pre class="brush: bash; title: ; notranslate">man php</pre>
+<h3>Lancer des scripts PHP comme des scripts shell.</h3>
+<p>On peut aller un peu plus loin en créant des scripts en indiquant au début du fichier ou trouver la commande php. Par exemple pour afficher la date du jour au format JJ/MM/AAAA, voici le code du fichier <strong>date.php</strong> : </p>
+<pre class="brush: php; title: ; notranslate">#!/usr/bin/php
+&lt;?php
+echo date(&quot;d/m/Y&quot;).&quot;\n&quot;;</pre>
+<p>Ensuite on rend le fichier <strong>date.php</strong> exécutable (pour tout le monde tant qu&#8217;à faire) : </p>
+<pre class="brush: bash; title: ; notranslate">chmod a+x date.php</pre>
+<p>Et enfin on exécute son script.</p>
+<pre class="brush: bash; title: ; notranslate">./test.php</pre>
+<p>Voilà c’est tout pour ce tuto, et n’oubliez surtout pas : <strong>BI-DOU-ILLEZ !</strong></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/lancer-une-commande-shell-depuis-php" rel="bookmark" class="crp_title">Lancer une commande shell depuis PHP</a></li><li><a href="http://www.web-petit.com/ubuntu-installer-uploadprogress-via-pecl" rel="bookmark" class="crp_title">Ubuntu : installer uploadprogress via PECL.</a></li><li><a href="http://www.web-petit.com/lancer-une-vm-en-tache-de-fond" rel="bookmark" class="crp_title">Lancer une VM en tâche de fond.</a></li><li><a href="http://www.web-petit.com/facilitez-vous-drupal-utilisez-drush" rel="bookmark" class="crp_title">Facilitez vous Drupal, utilisez Drush !</a></li><li><a href="http://www.web-petit.com/decompresser-plusieurs-fichiers-tar-gz-zip" rel="bookmark" class="crp_title">Décompresser plusieurs fichiers tar.gz, zip&#8230;</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/utiliser-php-en-ligne-de-commande/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google veut imposer Wallet</title>
+		<link>http://www.web-petit.com/google-veut-imposer-wallet</link>
+		<comments>http://www.web-petit.com/google-veut-imposer-wallet#comments</comments>
+		<pubDate>Sun, 11 Mar 2012 12:20:44 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[Android Market]]></category>
+		<category><![CDATA[google play]]></category>
+		<category><![CDATA[google wallet]]></category>
+		<category><![CDATA[paiement]]></category>
+		<category><![CDATA[play]]></category>
+		<category><![CDATA[wallet]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1333</guid>
+		<description><![CDATA[On le sait que l&#8217;Android Market c&#8217;est fini, place au Google Play ! Mais Google ne s&#8217;arrête pas là de ce côté car maintenant les développeurs sont sommés de passer au système de paiement de Google : Wallet. Google veut apparemment récolter les fruits de ses efforts qu&#8217;il a consenti pour faire d&#8217;Android le premier [...]]]></description>
+			<content:encoded><![CDATA[<p>On le sait que l&#8217;<strong>Android Market</strong> c&#8217;est fini, place au <strong>Google Play</strong> ! Mais <strong>Google</strong> ne s&#8217;arrête pas là de ce côté car maintenant les développeurs sont sommés de passer au système de paiement de Google : <strong>Wallet</strong>.</p>
+<p>Google veut apparemment récolter les fruits de ses efforts qu&#8217;il a consenti pour faire d&#8217;Android le premier OS Mobile au monde en nombre d&#8217;utilisateurs. Actuellement les développeurs passent par des services de paiement tiers comme Paypal. Google ne veut plus donc laisser cette manne financière à d&#8217;autres obligent les développeurs à l&#8217;utiliser sinon c&#8217;est très simple : l&#8217;application n&#8217;est plus publiée dans Google Play.</p>
+<p>Avec la mise en place récente de normes quant à l&#8217;interface et l&#8217;imposition de Wallet comme moyen de paiement, on se rend bien compte que désormais Google prend exemple sur le modèle d&#8217;Apple avec iOS et veut avoir désormais retour sur les investissements consentis pour Android.</p>
+<p>Source : <a href="http://www.pcinpact.com/news/69488-google-wallet-checkout-paiment-android-market.htm">PC INpact</a>.</p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/android-secret-sms-replicator-retoque" rel="bookmark" class="crp_title">Android : Secret SMS Replicator retoqué !</a></li><li><a href="http://www.web-petit.com/facebook-veut-acquerir-nos-commentaires" rel="bookmark" class="crp_title">Facebook veut acquérir nos commentaires.</a></li><li><a href="http://www.web-petit.com/app-inventor-pour-android" rel="bookmark" class="crp_title">App Inventor pour Android.</a></li><li><a href="http://www.web-petit.com/google-33-minutes-en-moyenne-par-utilisateur" rel="bookmark" class="crp_title">Google + : 3,3 minutes en moyenne par utilisateur.</a></li><li><a href="http://www.web-petit.com/google-new-ou-lactu-en-un-seul-site" rel="bookmark" class="crp_title">Google New ou l&#8217;actu en un seul site&#8230;</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/google-veut-imposer-wallet/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google + : 3,3 minutes en moyenne par utilisateur.</title>
+		<link>http://www.web-petit.com/google-33-minutes-en-moyenne-par-utilisateur</link>
+		<comments>http://www.web-petit.com/google-33-minutes-en-moyenne-par-utilisateur#comments</comments>
+		<pubDate>Tue, 28 Feb 2012 18:42:38 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Google+]]></category>
+		<category><![CDATA[Réseaux Sociaux]]></category>
+		<category><![CDATA[3]]></category>
+		<category><![CDATA[3 minutes]]></category>
+		<category><![CDATA[minutes]]></category>
+		<category><![CDATA[temps]]></category>
+		<category><![CDATA[visites]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1329</guid>
+		<description><![CDATA[Google + connaît il est vrai une progression impressionnante en nombre d&#8217;utilisateurs avec 90 millions d&#8217;utilisateurs depuis le mois de juin. Mais il est intéressant de constater que les utilisateurs du site de réseau social de Google n&#8217;y passent que très peu de temps : trois minutes en moyenne en janvier. Cela paraît bien ridicule [...]]]></description>
+			<content:encoded><![CDATA[<p><strong>Google +</strong> connaît il est vrai une progression impressionnante en nombre d&#8217;utilisateurs avec 90 millions d&#8217;utilisateurs depuis le mois de juin. Mais il est intéressant de constater que les utilisateurs du site de réseau social de Google n&#8217;y passent que très peu de temps : <strong>trois minutes en moyenne en janvier</strong>.</p>
+<p>Cela paraît bien ridicule surtout quand on sait que les utilisateurs de Facebook ont passé 405 minutes (6h45) dans la même période, Twitter 21 minutes. Pour Twitter, c&#8217;est à relativiser car cela ne prend pas en compte les clients Twitter. Même MySpace fait mieux avec 8 minutes en janvier, c&#8217;est dire !</p>
+<p>De plus la tendance est plutôt inquiétante car en novembre les utilisateurs de Google + passaient en moyenne 5,1 minutes en novembre à surfer sur le site de réseau social et 4,8 minutes en décembre.</p>
+<p>Pour ma part, j&#8217;avais trouvé très intéressant le site au début mais le fait que seuls mes proches travaillant dans le domaine de l&#8217;informatique y vont réellement m&#8217;a fait retourner très vite vers Facebook. Bien que je ne sois pas très actif sur les réseaux sociaux de manière générale.</p>
+<p>Source : <a href="http://www.bloomberg.com/news/2012-02-28/google-users-spent-less-time-on-site-in-january-comscore-finds.html">Bloomberg</a></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/pour-tim-berners-lee-facebook-segmente-le-web" rel="bookmark" class="crp_title">Pour Tim Berners-Lee, Facebook segmente le Web.</a></li><li><a href="http://www.web-petit.com/les-videos-youtube-passent-de-10-a-15-minutes" rel="bookmark" class="crp_title">Les vidéos Youtube passent de 10 à 15 minutes.</a></li><li><a href="http://www.web-petit.com/myspace-pourrait-licencier-500-personnes" rel="bookmark" class="crp_title">MySpace pourrait licencier 500 personnes.</a></li><li><a href="http://www.web-petit.com/google-me-vs-facebook" rel="bookmark" class="crp_title">Google Me VS Facebook ?</a></li><li><a href="http://www.web-petit.com/diaspora-le-facebook-like-libre" rel="bookmark" class="crp_title">Diaspora, le facebook-like libre.</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/google-33-minutes-en-moyenne-par-utilisateur/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Installer LibreOffice 3.5 sur Ubuntu 11.10.</title>
+		<link>http://www.web-petit.com/installer-libreoffice-3-5-sur-ubuntu-11-10</link>
+		<comments>http://www.web-petit.com/installer-libreoffice-3-5-sur-ubuntu-11-10#comments</comments>
+		<pubDate>Tue, 28 Feb 2012 18:39:08 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Gnu/Linux]]></category>
+		<category><![CDATA[Libre]]></category>
+		<category><![CDATA[Logiciel libre]]></category>
+		<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1328</guid>
+		<description><![CDATA[Si vous ne pouvez pas attendre le mois d&#8217;avril pour utiliser à la nouvelle version (3.5) de LibreOffice sous Ubuntu, vous pouvez passer par un ppa afin de faire cela le plus simplement du monde. Pour ce faire on laisser un terminal : Comme d&#8217;habitude, n&#8217;oubliez pas le sudo si vous n&#8217;êtes pas en super-administrateur [...]]]></description>
+			<content:encoded><![CDATA[<p>Si vous ne pouvez pas attendre le mois d&#8217;avril pour utiliser à la nouvelle version (3.5) de LibreOffice sous Ubuntu, vous pouvez passer par un <strong>ppa</strong> afin de faire cela le plus simplement du monde. Pour ce faire on laisser un terminal :</p>
+<pre class="brush: bash; title: ; notranslate">add-apt-repository ppa:libreoffice/ppa
+apt-get update
+apt-get upgrade</pre>
+<p>Comme d&#8217;habitude, n&#8217;oubliez pas le <strong>sudo</strong> si vous n&#8217;êtes pas en super-administrateur (root).</p>
+<p>Voilà c’est tout pour ce tuto, et n’oubliez surtout pas : <strong>BI-DOU-ILLEZ !</strong></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/installer-libreoffice-via-les-ppa" rel="bookmark" class="crp_title">Installer LibreOffice via PPA.</a></li><li><a href="http://www.web-petit.com/installer-vlc-2-0-sur-ubuntu" rel="bookmark" class="crp_title">Installer VLC 2.0 sur Ubuntu.</a></li><li><a href="http://www.web-petit.com/evolution-2-30-dans-ubutnu-lucid-lynx" rel="bookmark" class="crp_title">Evolution 2.30 dans Ubuntu Lucid Lynx.</a></li><li><a href="http://www.web-petit.com/modifier-le-mot-de-passe-mysql-de-lutilisateur-root" rel="bookmark" class="crp_title">Modifier le mot de passe MySQL de l&#8217;utilisateur root.</a></li><li><a href="http://www.web-petit.com/installer-redmine-sur-ubuntu-10-04" rel="bookmark" class="crp_title">Installer Redmine sur Ubuntu 10.04</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/installer-libreoffice-3-5-sur-ubuntu-11-10/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Installer VLC 2.0 sur Ubuntu.</title>
+		<link>http://www.web-petit.com/installer-vlc-2-0-sur-ubuntu</link>
+		<comments>http://www.web-petit.com/installer-vlc-2-0-sur-ubuntu#comments</comments>
+		<pubDate>Tue, 21 Feb 2012 00:08:26 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Gnu/Linux]]></category>
+		<category><![CDATA[Libre]]></category>
+		<category><![CDATA[Logiciel libre]]></category>
+		<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[2.0]]></category>
+		<category><![CDATA[PPA]]></category>
+		<category><![CDATA[VLC]]></category>
+		<category><![CDATA[vlc 2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1325</guid>
+		<description><![CDATA[Ça faisait longtemps que je n&#8217;avais pas écrit sur un logiciel graphique d&#8217;Ubuntu, après il faut dire que ne l&#8217;utilisant qu&#8217;en version serveur car en ce moment je suis sous Mac. Mais bon a y&#8217;est je suis installé à Paris et je devrais normalement faire l&#8217;acquisition d&#8217;une tour dans les mois qui viennent afin de [...]]]></description>
+			<content:encoded><![CDATA[<p><em>Ça faisait longtemps que je n&#8217;avais pas écrit sur un logiciel graphique d&#8217;Ubuntu, après il faut dire que ne l&#8217;utilisant qu&#8217;en version serveur car en ce moment je suis sous Mac. Mais bon a y&#8217;est je suis installé à Paris et je devrais normalement faire l&#8217;acquisition d&#8217;une tour dans les mois qui viennent afin de revenir enfin à une version graphique de <del>Linux</del><ins>GNU/Linux</ins>.</em></p>
+<p>Vous avez envie de profiter de la dernière version de VLC et vous voulez l&#8217;installer via un paquet, rien de bien compliqué pour cela on lance un terminal, on tappe :</p>
+<pre class="brush: bash; title: ; notranslate">add-apt-repository ppa:videolan/stable-daily
+apt-get update
+apt-get install vlc</pre>
+<p>N&#8217;oubliez pas d&#8217;ajouter le <strong>sudo</strong> si vous n&#8217;êtes pas en root.</p>
+<p>Voilà c’est tout pour ce tuto, et n’oubliez surtout pas : <strong>BI-DOU-ILLEZ !</strong></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/installer-libreoffice-3-5-sur-ubuntu-11-10" rel="bookmark" class="crp_title">Installer LibreOffice 3.5 sur Ubuntu 11.10.</a></li><li><a href="http://www.web-petit.com/installer-redmine-sur-ubuntu-10-04" rel="bookmark" class="crp_title">Installer Redmine sur Ubuntu 10.04</a></li><li><a href="http://www.web-petit.com/evolution-2-30-dans-ubutnu-lucid-lynx" rel="bookmark" class="crp_title">Evolution 2.30 dans Ubuntu Lucid Lynx.</a></li><li><a href="http://www.web-petit.com/installer-libreoffice-via-les-ppa" rel="bookmark" class="crp_title">Installer LibreOffice via PPA.</a></li><li><a href="http://www.web-petit.com/probleme-de-microphone-sous-lucid" rel="bookmark" class="crp_title">Problème de Microphone sous Lucid.</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/installer-vlc-2-0-sur-ubuntu/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La campagne présidentielle c&#8217;est aussi sur Twitter.</title>
+		<link>http://www.web-petit.com/la-campagne-presidentielle-cest-aussi-sur-twitter</link>
+		<comments>http://www.web-petit.com/la-campagne-presidentielle-cest-aussi-sur-twitter#comments</comments>
+		<pubDate>Mon, 20 Feb 2012 23:52:53 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Libertés individuelles]]></category>
+		<category><![CDATA[Réseaux Sociaux]]></category>
+		<category><![CDATA[compte]]></category>
+		<category><![CDATA[fermeture]]></category>
+		<category><![CDATA[PS]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[UMP]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1324</guid>
+		<description><![CDATA[Depuis qu&#8217;on a Internet, la campagne politique c&#8217;est aussi sur la toile et notamment sur les réseaux sociaux. Il y a de cela une quinzaine d&#8217;années, on ne pouvait partager qu&#8217;avec ses amis IRL ses idées, trouvailles, parodies et autres joyeusetés politiques. Aujourd&#8217;hui, une connexion et hop c&#8217;est parti pour, on peut faire l&#8217;imbécile se [...]]]></description>
+			<content:encoded><![CDATA[<p>Depuis qu&#8217;on a Internet, la <strong>campagne politique</strong> c&#8217;est aussi sur la toile et notamment sur les réseaux sociaux. Il y a de cela une quinzaine d&#8217;années, on ne pouvait partager qu&#8217;avec ses amis <abbr title="In Real Life">IRL</abbr> ses idées, trouvailles, parodies et autres joyeusetés politiques. Aujourd&#8217;hui, une connexion et hop c&#8217;est parti pour, on peut <del>faire l&#8217;imbécile</del> se répandre aux yeux de tous. Et force est de constater, que nos amis de l&#8217;UMP et du PS se penchent sur la question car on assiste du côté de l&#8217;UMP à la <a href="http://www.zdnet.fr/actualites/la-censure-forte-quand-l-ump-fait-fermer-des-comptes-twitter-trop-parodiques-39768763.htm">fermeture de comptes <strong>Twitter</strong></a> après demande auprès de site de gazouillis tandis qu&#8217;à gauche on a <a href="http://reflets.info/la-censure-au-ps-cest-old-school/">plutôt recours à la voie juridique</a>.</p>
+<p>Un des aspect intéressant de la fermeture de comptes après demande de l&#8217;UMP, c&#8217;est que certains ont découvert que Twitter n&#8217;est pas un truc ouvert où tout le monde pourrait y faire un peu ce qu&#8217;il veut mais que c&#8217;est bien une entreprise qui a des intérêts et peut-être l&#8217;un deux est de ne pas trop froisser les uns ou les autres.</p>
+<p>Du côté du PS, j&#8217;ai l&#8217;impression qu&#8217;on est dans l&#8217;idéologie du <strong>« Nous on a pas de passe droit »</strong> et donc on suit la voie légale. Ce qui semblerait logique après les différentes déclarations du candidat Hollande <a href="http://www.youtube.com/watch?v=79mNJwz4pes">chez BFMTV</a>. Ou alors c&#8217;est vraiment que chez Twitter on croit dur comme fer à la réélection de Nicolas Sarkozy et que du coup on aurait renvoyé les socialistes à leurs études.</p>
+<p>Bon voilà c&#8217;était mon article un peu alambiqué de 00:52&#8230;</p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/justice-americaine-twitter-et-wikileaks" rel="bookmark" class="crp_title">Justice américaine, Twitter et Wikileaks.</a></li><li><a href="http://www.web-petit.com/facebook-veut-acquerir-nos-commentaires" rel="bookmark" class="crp_title">Facebook veut acquérir nos commentaires.</a></li><li><a href="http://www.web-petit.com/google-33-minutes-en-moyenne-par-utilisateur" rel="bookmark" class="crp_title">Google + : 3,3 minutes en moyenne par utilisateur.</a></li><li><a href="http://www.web-petit.com/aye-moi-aussi-jai-le-nouveau-twitter" rel="bookmark" class="crp_title">Ayé ! Moi aussi j&#8217;ai le nouveau Twitter !</a></li><li><a href="http://www.web-petit.com/myspace-pourrait-licencier-500-personnes" rel="bookmark" class="crp_title">MySpace pourrait licencier 500 personnes.</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/la-campagne-presidentielle-cest-aussi-sur-twitter/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lancer une VM en tâche de fond.</title>
+		<link>http://www.web-petit.com/lancer-une-vm-en-tache-de-fond</link>
+		<comments>http://www.web-petit.com/lancer-une-vm-en-tache-de-fond#comments</comments>
+		<pubDate>Sat, 11 Feb 2012 17:57:17 +0000</pubDate>
+		<dc:creator>abdi</dc:creator>
+				<category><![CDATA[Astuces]]></category>
+		<category><![CDATA[Développement Web]]></category>
+		<category><![CDATA[Gnu/Linux]]></category>
+		<category><![CDATA[Libre]]></category>
+		<category><![CDATA[Logiciel libre]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Machine Virtuelle]]></category>
+		<category><![CDATA[Oracle VM Virtualbox]]></category>
+		<category><![CDATA[tâche de fond]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[Virtual Machine]]></category>
+		<category><![CDATA[Virtualbox]]></category>
+
+		<guid isPermaLink="false">http://www.web-petit.com/?p=1322</guid>
+		<description><![CDATA[Si vous utilisez VirtualBox sous Mac OS et pour Linux (sous Windows je ne sais pas et en fait je n&#8217;ai pas vraiment envie d&#8217;aller vérifier), sachez que vous pouvez lancer votre machine virtuelle en tâche de fond. C&#8217;est très utile pour les VMs de type serveur notamment pour une personne comme moi qui ne [...]]]></description>
+			<content:encoded><![CDATA[<p>Si vous utilisez <strong>VirtualBox</strong> sous <strong>Mac OS</strong> et pour <strong>Linux</strong> (sous Windows je ne sais pas et en fait je n&#8217;ai pas vraiment envie d&#8217;aller vérifier), sachez que vous pouvez lancer votre <strong>machine virtuelle</strong> en tâche de fond. C&#8217;est très utile pour les VMs de type serveur notamment pour une personne comme moi qui ne développe que sur des VMs. Pour cela il faut utiliser l&#8217;utilitaire <strong>VBoxManage</strong>.</p>
+<p>Donc pour lancer la machine virtuelle en tâche de fond, dans un terminal :</p>
+<pre class="brush: bash; title: ; notranslate">VBoxManage startvm nomMachineVirtuelle --type headless</pre>
+<p>Bien sûr VBoxManage propose d&#8217;autres fonctionnalités pour cela rien de mieux qu&#8217;un</p>
+<pre class="brush: bash; title: ; notranslate">VBoxManage help</pre>
+<p>Voilà c’est tout pour ce tuto, et n’oubliez surtout pas : <strong>BI-DOU-ILLEZ !</strong></p>
+<div id="crp_related"><h5>Vous aimerez peut-être lire aussi sur le même thème :</h5><ul><li><a href="http://www.web-petit.com/utiliser-php-en-ligne-de-commande" rel="bookmark" class="crp_title">Utiliser PHP en ligne de commande.</a></li><li><a href="http://www.web-petit.com/installer-libreoffice-3-5-sur-ubuntu-11-10" rel="bookmark" class="crp_title">Installer LibreOffice 3.5 sur Ubuntu 11.10.</a></li><li><a href="http://www.web-petit.com/installer-vlc-2-0-sur-ubuntu" rel="bookmark" class="crp_title">Installer VLC 2.0 sur Ubuntu.</a></li><li><a href="http://www.web-petit.com/ubuntu-installer-uploadprogress-via-pecl" rel="bookmark" class="crp_title">Ubuntu : installer uploadprogress via PECL.</a></li><li><a href="http://www.web-petit.com/lancer-une-commande-shell-depuis-php" rel="bookmark" class="crp_title">Lancer une commande shell depuis PHP</a></li></ul></div>]]></content:encoded>
+			<wfw:commentRss>http://www.web-petit.com/lancer-une-vm-en-tache-de-fond/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.746 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2012-04-15 23:33:17 -->
