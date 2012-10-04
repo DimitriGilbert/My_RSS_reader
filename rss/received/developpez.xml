@@ -4,8 +4,8 @@
     <title><![CDATA[Developpez.com, le club des décideurs et professionnels en Informatique]]></title>
     <link>http://www.developpez.com/index/rss</link>
     <description><![CDATA[Club des décideurs et professionnels en informatique]]></description>
-    <pubDate>Mon, 16 Apr 2012 16:23:58 +0200</pubDate>
-    <lastBuildDate>Mon, 16 Apr 2012 16:23:58 +0200</lastBuildDate>
+    <pubDate>Thu, 04 Oct 2012 10:02:17 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Oct 2012 10:02:17 +0200</lastBuildDate>
     <managingEditor>(www.developpez.com)</managingEditor>
     <copyright>Copyright © 2000-2012 www.developpez.com</copyright>
     <image>
@@ -17,284 +17,302 @@
     <language>fr-FR</language>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-      <title><![CDATA[Sécurité des mobiles pros : BlackBerry met la concurrence KO d'après Trend Micro, Boeing sort son Android ultra-sécurisé]]></title>
-      <link>http://www.developpez.com/actu/43345/Securite-des-mobiles-pros-BlackBerry-met-la-concurrence-KO-d-apres-Trend-Micro-Boeing-sort-son-Android-ultra-securise/</link>
-      <guid>http://www.developpez.com/actu/43345/Securite-des-mobiles-pros-BlackBerry-met-la-concurrence-KO-d-apres-Trend-Micro-Boeing-sort-son-Android-ultra-securise/</guid>
-      <description><![CDATA[Sécurité des mobiles professionnels : BlackBerry met la concurrence KO
-D'après Trend Micro, Boeing sort son Android ultra-sécurisé
+      <title><![CDATA[Menu fixe avec un effet de slide en CSS3, pour une navigation simple et fluide, par Paul Underwood]]></title>
+      <link>http://paulund.developpez.com/tutoriels/css/menu-fixe-slide/</link>
+      <guid>http://paulund.developpez.com/tutoriels/css/menu-fixe-slide/</guid>
+      <description><![CDATA[
 
-Quelles que soient les turbulences qu'il traverse, Research In Motion, le constructeur derrière BlackBerry, garde une réputation exceptionnelle dans la sécurité mobile.
+Je vous propose une traduction de l'article anglophone How To Create A CSS Slide Out Fixed Navigation par Paul Underwood : Menu de navigation fixe avec effet de slide au survol de la souris.
 
-La semaine dernière, le canadien présentait par exemple une nouvelle fonctionnalité pour sa tablette PlayBook. Celle-ci intègre désormais des « caténaires », sorte d'espaces protégés inspirés des partitions disques, pour faire cohabiter sur un même appareil des contenus privés (non chiffrés et libres) et professionnels (chiffrés et gérer de manière centralisée par un adminis...]]></description>
-      <pubDate>Mon, 16 Apr 2012 13:18:00 +0200</pubDate>
+N'hésitez pas à faire part de vos remarques, commentaires ou propositions d'améliorations !
+
+ Menu de ...]]></description>
+      <pubDate>Thu, 04 Oct 2012 09:26:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Windows Phone : le MarkePlace va évoluer pour s'adapter à la croissance, Microsoft annonce une mise à jour pour l'été]]></title>
-      <link>http://www.developpez.com/actu/43335/Windows-Phone-le-MarkePlace-va-evoluer-pour-s-adapter-a-la-croissance-Microsoft-annonce-une-mise-a-jour-pour-l-ete/</link>
-      <guid>http://www.developpez.com/actu/43335/Windows-Phone-le-MarkePlace-va-evoluer-pour-s-adapter-a-la-croissance-Microsoft-annonce-une-mise-a-jour-pour-l-ete/</guid>
-      <description><![CDATA[Windows Phone : le MarketPlace va évoluer pour s'adapter à la croissance
-Microsoft annonce une mise à jour pour l'été 
+      <title><![CDATA[JavaScript pour Node - partie 1 : Énumération de Nathan Sweet, traduit par vermine]]></title>
+      <link>http://nodejs.developpez.com/tutoriels/javascript/js_pour_node_1/</link>
+      <guid>http://nodejs.developpez.com/tutoriels/javascript/js_pour_node_1/</guid>
+      <description><![CDATA[
 
+Je vous propose la traduction de l'article JavaScript for Node Part 1: Enumeration de Nathan Sweet.
 
-La galerie d'applications Windows Phone a subi ces derniers mois un taux de croissance effréné. Au cours des trois premiers mois de l'année, plus de 29 000 nouvelles applications ont été soumises sur le MarketPlace (soit une augmentation de 60%), permettant à la galerie de franchir le seuil symbolique des 80 000 applications.  De plus, le nombre de galeries a doublé pendant ce temps, passant à 54.
+Nathan Sweet nous propose et nous explique des solutions pour parcourir des énumérations en JavaScript et Node.
 
-Le programme développeur compte désormais plus de 20 000 développeurs enregistrés. À ce rythme, la galerie va franchir la barre des 100 000 applications dans moins de 100 jours....]]></description>
-      <pubDate>Mon, 16 Apr 2012 12:34:00 +0200</pubDate>
+ JavaScript pour Node - partie 1 : Énumération...]]></description>
+      <pubDate>Thu, 04 Oct 2012 08:00:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Google : "ne plus être soumis à la loi des États-Unis serait génial", son co-fondateur critique les plateformes fermées de Facebook et Apple]]></title>
-      <link>http://www.developpez.com/actu/43326/Google-ne-plus-etre-soumis-a-la-loi-des-tats-Unis-serait-genial-son-co-fondateur-critique-les-plateformes-fermees-de-Facebook-et-Apple/</link>
-      <guid>http://www.developpez.com/actu/43326/Google-ne-plus-etre-soumis-a-la-loi-des-tats-Unis-serait-genial-son-co-fondateur-critique-les-plateformes-fermees-de-Facebook-et-Apple/</guid>
-      <description><![CDATA[Google : « ne plus être soumis à la loi des États-Unis, ce serait génial »
-Son co-fondateur critique Facebook et Apple et se dit « plus inquiet que jamais » pour l'ouverture d'Internet
+      <title><![CDATA[Introduction au mkframework, un framework PHP simple à prendre en main, par Michael Bertocchi]]></title>
+      <link>http://imikado.developpez.com/tutoriels/php/presentation-mkframework/</link>
+      <guid>http://imikado.developpez.com/tutoriels/php/presentation-mkframework/</guid>
+      <description><![CDATA[Bonjour,
 
+Vous trouverez ci dessous mon premier article d'initiation au framework php &quot;mkframework&quot;.
+Celui-ci devrait vous présenter et vous aider à prendre en main ce framework qui se veut simple à utiliser.
 
-« La liberté sur Internet est en danger ». Cette déclaration alarmiste ne vient pas du Parti Pirate ou de l'Electronic Frontier Foundation mais d'un acteur beaucoup plus étonnant : Sergey Brin, un des deux co-fondateurs de Google.
+En vous souhaitant une bonne lecture,
 
-Dans un entretien au quotidien britannique The Guardian, le jeune dirigeant (38 ans) s'en prend pêle-mêle aux gouvernements qui essayent de contrôler l'expression des citoyens, aux associations d'auteurs/compositeurs qui sous prétexte, d'après lui, de lutter c...]]></description>
-      <pubDate>Mon, 16 Apr 2012 11:18:00 +0200</pubDate>
+ Un framework simple à prendre en main...]]></description>
+      <pubDate>Thu, 04 Oct 2012 08:00:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[De SAS Foundation à SAS BI : Comment créer son Dashboard KPI, Par Stéphane Colas]]></title>
-      <link>http://datametric.developpez.com/tutoriels/sas/sas-foundation-sas-bi-creer-dashboard-kpi/</link>
-      <guid>http://datametric.developpez.com/tutoriels/sas/sas-foundation-sas-bi-creer-dashboard-kpi/</guid>
-      <description><![CDATA[Bonsoir,
+      <title><![CDATA[Téléchargez le premier « Guide du Chef de Projet Mobile », Smile y revient sur la manière d'établir une stratégie mobile cohérente]]></title>
+      <link>http://www.developpez.com/actu/48236/Telechargez-le-premier-Guide-du-Chef-de-Projet-Mobile-Smile-y-revient-sur-la-maniere-d-etablir-une-strategie-mobile-coherente/</link>
+      <guid>http://www.developpez.com/actu/48236/Telechargez-le-premier-Guide-du-Chef-de-Projet-Mobile-Smile-y-revient-sur-la-maniere-d-etablir-une-strategie-mobile-coherente/</guid>
+      <description><![CDATA[Téléchargez le premier « Guide du Chef de Projet Mobile »
+Smile revient sur les différences entre sites mobiles et apps, et sur la construction d'une stratégie efficace
 
-je vous propose cet article sur la mise en place des Dashboard KPI avec SAS.
+Comment définir une stratégie Mobile efficace ? Quels objectifs peut-on viser ? 
+Site mobile ou application, comment construire un dispositif adapté et performant ?
 
-N'hésitez pas à me faire part de vos retours....]]></description>
-      <pubDate>Mon, 16 Apr 2012 09:53:00 +0200</pubDate>
+Telles sont les questions abordées dans le nouveau livre blanc de Smile, 1er intégrateur européen de solutions open source et spécialiste du web.
+
+Ce « Guide du Chef de Projet Mobile » présente une méthodologique qui a pour but d'accompagner les responsables dans la gestion de A à Z d'un projet Mobile.
+
+Au sommaire de ce docume...]]></description>
+      <pubDate>Thu, 04 Oct 2012 08:00:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Introduction à la bibliothèque de construction de graphe JGraphX,  par Patrick Briand]]></title>
-      <link>http://pbriand.developpez.com/tutoriels/java/JGraphX/Les%20bases/</link>
-      <guid>http://pbriand.developpez.com/tutoriels/java/JGraphX/Les%20bases/</guid>
-      <description><![CDATA[Bonjour à tous.
+      <title><![CDATA[Oracle annonce MySQL Cluster 7.3 et l'intègre à Node.js, la Release Candidate de MySQL 5.6 est disponible]]></title>
+      <link>http://www.developpez.com/actu/48253/Oracle-annonce-MySQL-Cluster-7-3-et-l-integre-a-Node-js-la-Release-Candidate-de-MySQL-5-6-est-disponible/</link>
+      <guid>http://www.developpez.com/actu/48253/Oracle-annonce-MySQL-Cluster-7-3-et-l-integre-a-Node-js-la-Release-Candidate-de-MySQL-5-6-est-disponible/</guid>
+      <description><![CDATA[Oracle annonce MySQL Cluster 7.3 et l'intègre à Node.js
+La Release Candidate de MySQL 5.6 est disponible
 
-Je vous propose mon tout premier article intitulé &quot;JGraphX: Les bases&quot; qui est disponible ici
 
-La librairie JGraphX permet de dessiner des graphes dans une JFrame. Cet article se limite à une présentation de cette  libraire en décrivant ses fonctions basiques. Si cet article génère un flot de questions important sur une utilisation plus approfondie de la libraire, un second article pourras alors être écrit pour aborder ces points.
+Oracle a annoncé lors de sa conférence MySQL Connect le premier développement milestone (DMR) de MySQL Cluster 7.3. Cette déclinaison distribuée de MySQL s'intègre désormais dans le serveur Node.js, mais cette intégration est encore classée comme expérimentale. 
 
-Toutes vos remarques seront les bienvenues.
-
-Bonne lecture....]]></description>
-      <pubDate>Mon, 16 Apr 2012 09:00:00 +0200</pubDate>
+[IMG]http://ftp-developpez.com/gordon-fowler/MySQL.png[/IMG]
+Cette version introduit le support natif pour les clés étrangères, ce qui permet aux utilisateurs d'étendre les avantages de MySQL Cluster dans un large éventail d'applications packagées et des déploiements personnalisés en simplifiant...]]></description>
+      <pubDate>Wed, 03 Oct 2012 17:54:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Editeur de texte en Silverlight 4 (partie 2), un tutoriel de Peter Bull traduit par Deepin Prayag]]></title>
-      <link>http://deepin.developpez.com/tutoriels/silverlight/editeur-de-texte-partie2/</link>
-      <guid>http://deepin.developpez.com/tutoriels/silverlight/editeur-de-texte-partie2/</guid>
-      <description><![CDATA[Microsoft Silverlight 4 - Tutoriel 4 : Éditeur de texte (Partie 2)
+      <title><![CDATA[Debian 6.0.6 disponible avec plusieurs correctifs de sécurité pour la version stable]]></title>
+      <link>http://www.developpez.com/actu/48248/Debian-6-0-6-disponible-avec-plusieurs-correctifs-de-securite-pour-la-version-stable/</link>
+      <guid>http://www.developpez.com/actu/48248/Debian-6-0-6-disponible-avec-plusieurs-correctifs-de-securite-pour-la-version-stable/</guid>
+      <description><![CDATA[Debian 6.0.6 disponible
+avec plusieurs correctifs de sécurité pour la version stable
 
-Ce tutoriel fait partie d'une série de niveau débutant-intermédiaire pour apprendre Silverlight 4 par le biais d'exemples pas à pas.
+Les développeurs de Debian viennent de publier la sixième mise à jour de la branche  stable 6.0 du système d'exploitation basé sur le noyau Linux.
 
-Vous pourrez éventuellement retrouver tous les tutoriels de la série sur cette page. 
+Cette version n'apporte pas de nouvelles fonctionnalités à l'OS, mais juste une combinaison de mises à jour déjà publiées pour la distribution, permettant aux utilisateurs d'installer simplement cette version, au lieu de recherche et installer manuellement tous les patchs de sécurité.
 
-N'hésitez pas à laisser vos commentaires et remarques !...]]></description>
-      <pubDate>Mon, 16 Apr 2012 08:00:00 +0200</pubDate>
+
+[IMG]http://rdonfack.developpez.com/images/debian.png[/IMG]
+
+Debian 6.0.6 alias « Squeeze » apporte donc plusieurs mises à j...]]></description>
+      <pubDate>Wed, 03 Oct 2012 15:10:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Casse-têtes en C#, un article de Jon Skeet sur les pièges du langage, traduit par Jean-Michel Ormes]]></title>
-      <link>http://jormes.developpez.com/traductions/pieges-csharp/</link>
-      <guid>http://jormes.developpez.com/traductions/pieges-csharp/</guid>
-      <description><![CDATA[Cette discussion est destinée à recueillir vos commentaires sur l'article Casse-têtes en C# (traduction de l'article C# Brainteasers de Jon Skeet)
+      <title><![CDATA[Traduire ses applications mobiles aurait un impact considérable sur la monétisation, d'après un rapport de Distimo]]></title>
+      <link>http://www.developpez.com/actu/48233/Traduire-ses-applications-mobiles-aurait-un-impact-considerable-sur-la-monetisation-d-apres-un-rapport-de-Distimo/</link>
+      <guid>http://www.developpez.com/actu/48233/Traduire-ses-applications-mobiles-aurait-un-impact-considerable-sur-la-monetisation-d-apres-un-rapport-de-Distimo/</guid>
+      <description><![CDATA[Traduire ses applications mobiles aurait un impact considérable sur la monétisation
+D'après un rapport de Distimo
 
 
-	Citation:
-	
-	
-		
-			
-				Régulièrement, je tombe sur une situation intéressante en C# qui donne des résultats surprenants. Cette page contient une liste d'exemples. Dans les exemples où il n'y a qu'un bout de code, nous supposerons que celui-ci est dans la m...]]></description>
-      <pubDate>Sun, 15 Apr 2012 08:00:00 +0200</pubDate>
+Voilà une opportunité que les développeurs d'application iPhone et iPad ont intérêt à saisir. Des revenus substantiels peuvent être générés de la traduction des applications dans les langues locales de certains pays d'Asie.
+
+[IMG]http://idelways.developpez.com/news/images/iphone-apps.gif[/IMG]
+Le cabinet d'analyses Distimo, spécialisé dans les applications mobiles, a publié un nouveau rapport d'après l'étude de répartition linguistique des applications mobiles. L'étude a mis l'accent sur l'Apple App Store et s'est porté sur 12 pays tels les État...]]></description>
+      <pubDate>Wed, 03 Oct 2012 14:30:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Logica cherche une dizaine de développeurs Java/JEE un peu partout en France et au Luxembourg]]></title>
-      <link>http://www.developpez.com/actu/43299/Logica-cherche-une-dizaine-de-developpeurs-Java-JEE-un-peu-partout-en-France-et-au-Luxembourg/</link>
-      <guid>http://www.developpez.com/actu/43299/Logica-cherche-une-dizaine-de-developpeurs-Java-JEE-un-peu-partout-en-France-et-au-Luxembourg/</guid>
-      <description><![CDATA[Logica cherche une dizaine de développeurs Java/JEE
-Un peu partout en France et au Luxembourg
+      <title><![CDATA[JavaOne 2012 : Oracle dévoile ses plans pour Java, les préversions du JDK 8 et JavaFX Scene Builder 1.1 disponibles]]></title>
+      <link>http://www.developpez.com/actu/48228/JavaOne-2012-Oracle-devoile-ses-plans-pour-Java-les-preversions-du-JDK-8-et-JavaFX-Scene-Builder-1-1-disponibles/</link>
+      <guid>http://www.developpez.com/actu/48228/JavaOne-2012-Oracle-devoile-ses-plans-pour-Java-les-preversions-du-JDK-8-et-JavaFX-Scene-Builder-1-1-disponibles/</guid>
+      <description><![CDATA[JavaOne 2012 : Oracle renouvelle son engagement à faire évoluer Java et dévoile ses plans
+les préversions de JDK 8 et JavaFX Scene Builder 1.1 disponibles
 
 
-Cotée à la Bourse de Londres et d'Amsterdam, Logica est une entreprise de service en business et technologie qui compte plus de 40.000 collaborateurs.
+JavaOne 2012, la plus grande conférence annuelle autour de la plateforme Java se déroule actuellement à San Francisco.
 
-Ses activités principales regroupent le conseil en management, l'intégration de technologies et l'externalisation. Des conseils qu'elle promulgue à ses clients un peu partout dans le monde et en Europe.
+ Oracle a profité de l'occasion pour dévoiler sa feuille de route pour Java et renouveler son engagement à faire évoluer le langage afin de rassurer les utilisateurs sceptiques face aux récentes découvertes de failles dans la plateforme.
 
-Pour accompagner l'évolution de l'IT (mobilité, montée en puissance des services web, etc.), Logica cherche de nouveaux profils. Et notamment en France.
-
-« Nos développeurs travaillent sur plusieurs projets dans une appr...]]></description>
-      <pubDate>Fri, 13 Apr 2012 16:07:00 +0200</pubDate>
+Pendant ces prochains mois, Oracle travaillera essentiellement sur Java SE 8.  Au menu : l'éditeur prévoit l'intégration des expressions lambda, du moteur JavaScript Nash...]]></description>
+      <pubDate>Wed, 03 Oct 2012 14:16:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Blackberry OS 7.1 ouvre BBM aux développeurs pour « créer de la viralité » autour de leurs applications, des API pour le NFC]]></title>
-      <link>http://www.developpez.com/actu/43295/Blackberry-OS-7-1-ouvre-BBM-aux-developpeurs-pour-creer-de-la-viralite-autour-de-leurs-applications-des-API-pour-le-NFC/</link>
-      <guid>http://www.developpez.com/actu/43295/Blackberry-OS-7-1-ouvre-BBM-aux-developpeurs-pour-creer-de-la-viralite-autour-de-leurs-applications-des-API-pour-le-NFC/</guid>
-      <description><![CDATA[Blackberry OS 7.1 ouvre BBM aux développeurs
-Pour « créer  de la viralité» autour de leurs applications, des API pour le NFC
+      <title><![CDATA[HappyEdit : un bon remake de l'éditeur Vim, développé en HTML5]]></title>
+      <link>http://www.developpez.com/actu/48227/HappyEdit-un-bon-remake-de-l-editeur-Vim-developpe-en-HTML5/</link>
+      <guid>http://www.developpez.com/actu/48227/HappyEdit-un-bon-remake-de-l-editeur-Vim-developpe-en-HTML5/</guid>
+      <description><![CDATA[HappyEdit : un bon remake de l'éditeur Vim
+Développé en HTML5
 
-Research In Motion ne va pas bien financièrement, mais RIM n'est pas mort pour autant. L'annonce de la version 7.1 de son BlackBerry OS montre en effet que le canadien est toujours prêt à se battre.
 
-Comment ? En étant toujours une référence pour les professionnels (support de tout type de messagerie, de protocoles et d'outils  d'Exchange à SAP en passant par Lync de Microsoft ou les technologies de Cisco) et en donnant de nouveaux outils aux développeurs.
+Les remakes ne sont pas tous bons, mais celui-ci vaut le coup d'oeil !
 
-[IMG]http://ftp-developpez.com/gordon-fowler/BBPlateforme.png[/IMG]
+Per Thulin, fervent utilisateur de Vim, nous propose un remake de l'éditeur qu'on ne présente plus, développé en HTML5.
 
-RIM a par exemple fai...]]></description>
-      <pubDate>Fri, 13 Apr 2012 15:06:00 +0200</pubDate>
+Jaloux des fonctionnalités des nouveaux éditeurs de ses collègues comme SublimeText ou encore TextMake, Per Thulin a décidé de se lancer dans un projet de taille : développer une version &quot;améliorée&quot; de Vim pour intégrer toutes les nouvelles fonctionnalités qu'offre l'HTML5.
+
+C'est ainsi qu'est née une première version de HappyEdit, éditeur open source et basé sur le projet Ace.
+
+Foncti...]]></description>
+      <pubDate>Wed, 03 Oct 2012 12:46:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Office 2011 : Microsoft publie le Service Pack 2 pour Mac, qui améliore les performances et corrige des problèmes critiques]]></title>
-      <link>http://www.developpez.com/actu/43286/Office-2011-Microsoft-publie-le-Service-Pack-2-pour-Mac-qui-ameliore-les-performances-et-corrige-des-problemes-critiques/</link>
-      <guid>http://www.developpez.com/actu/43286/Office-2011-Microsoft-publie-le-Service-Pack-2-pour-Mac-qui-ameliore-les-performances-et-corrige-des-problemes-critiques/</guid>
-      <description><![CDATA[Office 2011 : Microsoft publie le Service Pack 2 pour Mac
-qui améliore les performances et corrige des problèmes critiques
+      <title><![CDATA[JavaOne 2012 : Oracle sort la Preview de NetBeans 7.3 et dévoile Easel, une extension pour la création des clients RESTful JavaScript]]></title>
+      <link>http://www.developpez.com/actu/48218/JavaOne-2012-Oracle-sort-la-Preview-de-NetBeans-7-3-et-devoile-Easel-une-extension-pour-la-creation-des-clients-RESTful-JavaScript/</link>
+      <guid>http://www.developpez.com/actu/48218/JavaOne-2012-Oracle-sort-la-Preview-de-NetBeans-7-3-et-devoile-Easel-une-extension-pour-la-creation-des-clients-RESTful-JavaScript/</guid>
+      <description><![CDATA[JavaOne 2012 : Oracle sort la Preview de NetBeans 7.3
+et dévoile le projet Easel une extension pour la création des clients RESTful à base de JavaScript
+
+JavaOne 2012 bat son plein.  Le Masonic Auditorium de San Francisco vibre aux couleurs de l'écosystème Java qui est en train d'être disséqué par les experts de l'industrie.
+
+Lors de la session consacrée à NetBeans, l'environnement de développement intégré open source pour Java, PHP, C et C++, Oracle a annoncé la sortie de la preview de NetBeans 7.3, la prochaine mise à jour majeure de l'EDI.
 
 
+[IMG]http://ftp-developpez.com/gordon-fowler/NetBeans%20Logo.png[/IMG]
 
-Microsoft vient de publier un Service Pack 2 (SP) pour la dernière version de sa suite bureautique Office 2011.
-
-Cette mise à jour apporte de nombreux correctifs et des améliorations pour Office 2011 Mac, et résout les problèmes d'incompatibilité avec Mac OS X Lion.
-
-Le  SP 2 offre aux applications de la suite une meilleure prise en charge du service de stockage Cloud de Microsoft Skydrive avec un accès aux documents se trouvant à la racine d'un dossier sur le service en ligne. Le mode plein écran de Lion est maintenant disponible pour toutes les ...]]></description>
-      <pubDate>Fri, 13 Apr 2012 15:01:00 +0200</pubDate>
+Le futur standard du We...]]></description>
+      <pubDate>Wed, 03 Oct 2012 12:27:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Google apporte une refonte à l'interface de son réseau social Google+, les développeurs mécontents]]></title>
-      <link>http://www.developpez.com/actu/43283/Google-apporte-une-refonte-a-l-interface-de-son-reseau-social-Google-les-developpeurs-mecontents/</link>
-      <guid>http://www.developpez.com/actu/43283/Google-apporte-une-refonte-a-l-interface-de-son-reseau-social-Google-les-developpeurs-mecontents/</guid>
-      <description><![CDATA[Google apporte une refonte à l'interface de Google+
-les développeurs mécontents  
+      <title><![CDATA[Référencement : Google déploie un nouvel algorithme qui pénalise les sites utilisant des noms de domaine avec des mots clés]]></title>
+      <link>http://www.developpez.com/actu/48206/Referencement-Google-deploie-un-nouvel-algorithme-qui-penalise-les-sites-utilisant-des-noms-de-domaine-avec-des-mots-cles/</link>
+      <guid>http://www.developpez.com/actu/48206/Referencement-Google-deploie-un-nouvel-algorithme-qui-penalise-les-sites-utilisant-des-noms-de-domaine-avec-des-mots-cles/</guid>
+      <description><![CDATA[Référencement : Google déploie un nouvel algorithme qui pénalise les sites
+utilisant des noms de domaines avec des mots clés
 
 
-Google est aux trousses de Facebook, et ne souhaite pas se laisser distancer par le réseau social.
+Via un message sur son compte Twitter, le spécialiste de l'équipe anti WebSpam de Google, Matt Cutts, a annoncé le déploiement d'un nouvel algorithme sur le moteur Google.
 
-Après la mise à jour de Facebook avec l'introduction de Timeline, c'est au tour du réseau social Google+ de subir un lifting complet de son interface.
+Ce nouvel algorithme vise à affiner les résultats de recherche du moteur Google en pénalisant les sites ayant un contenu de faible qualité malgré que le nom de domaine du site corresponde aux termes de la recherche.
 
-Le géant de la recherche a annoncé dans un billet de blog une refonte du design du site qui se rapproche un peu plus de Facebook.
-
-L'interface conçue autour de la simplification et de la personnalisation, dispose désormais d'un ruban à gauche de l'écran donnant accès aux fonctionnalités les plus usuelles comme les photos et les profil...]]></description>
-      <pubDate>Fri, 13 Apr 2012 14:04:00 +0200</pubDate>
+En effet, la firme a constaté que des sites Web avaient recours à des noms de domaines qualifiés de « exact-match domain » qui reprenaient des termes de recherche suscep...]]></description>
+      <pubDate>Wed, 03 Oct 2012 10:32:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Les périodes de publication d'Office 15, IE 10 et Windows Phone 8 connues, la roadmap de Microsoft dévoilée accidentellement]]></title>
-      <link>http://www.developpez.com/actu/43270/Les-periodes-de-publication-d-Office-15-IE-10-et-Windows-Phone-8-connues-la-roadmap-de-Microsoft-devoilee-accidentellement/</link>
-      <guid>http://www.developpez.com/actu/43270/Les-periodes-de-publication-d-Office-15-IE-10-et-Windows-Phone-8-connues-la-roadmap-de-Microsoft-devoilee-accidentellement/</guid>
-      <description><![CDATA[Les périodes de publication d'Office 15, IE 10 et Windows Phone 8 connues,
-la roadmap de Microsoft dévoilée accidentellement
+      <title><![CDATA[Opera 12.10 disponible en beta : le navigateur norvégien s'attaque à Windows 8, Mountain Lion et aux écrans Retina]]></title>
+      <link>http://www.developpez.com/actu/48205/Opera-12-10-disponible-en-beta-le-navigateur-norvegien-s-attaque-a-Windows-8-Mountain-Lion-et-aux-ecrans-Retina/</link>
+      <guid>http://www.developpez.com/actu/48205/Opera-12-10-disponible-en-beta-le-navigateur-norvegien-s-attaque-a-Windows-8-Mountain-Lion-et-aux-ecrans-Retina/</guid>
+      <description><![CDATA[Opera 12.10 disponible en beta
+Le navigateur s'attaque à Windows 8, Mountain Lion et aux écrans Retina
 
 
+Opera 12.10 vient de sortir en beta.
 
-Les probables dates de publication des versions finales de certains produits majeurs de Microsoft sont désormais connues.
+Au menu, le support du SPDY, ce protocole proposé par Google pour accélérer le chargement des pages et de Web Socket (« depuis que les problèmes de sécurité ont été résolus » explique Opera Software), de nouvelles API pour créer des extensions, une meilleure intégration dans Mac OS X Mountain Lion et le support des écrans Retina.
 
-La fuite d'une feuille de route de l'entreprise prévoit la sortie de la suite bureautique Office 15 en début 2013 et le lancement de la mise à jour Windows Phone 8 à l'automne.
-
-La roadmap a été publiée accidentellement par  Martin Visser, directeur général de la startup SharePoint et mo...]]></description>
-      <pubDate>Fri, 13 Apr 2012 12:14:00 +0200</pubDate>
+Des améliorations sur le zoom tactile ont également été faites pour la version Windo...]]></description>
+      <pubDate>Wed, 03 Oct 2012 10:28:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Une introduction à Node.js, par Nicolargo]]></title>
-      <link>http://nodejs.developpez.com/tutoriels/javascript/introduction-node-js/</link>
-      <guid>http://nodejs.developpez.com/tutoriels/javascript/introduction-node-js/</guid>
-      <description><![CDATA[Node.js est un framework implémentant, côté serveur, la version 8 du moteur JavaScript de Google (pour une présentation rapide, je vous conseille de parcourir ces quelques slides).
-L'objectif de ce billet est d'installer Node.js sur votre machine GNU/Linux et d'exécuter votre premier programme (hello.js).]]></description>
-      <pubDate>Fri, 13 Apr 2012 11:00:00 +0200</pubDate>
+      <title><![CDATA[Sortie de jQuery Mobile 1.2.0 avec de nouveaux composants popup et des listes personnalisables]]></title>
+      <link>http://javascript.developpez.com/actu/48188/Sortie-de-jQuery-Mobile-1-2-0-avec-de-nouveaux-composants-popup-et-des-listes-personnalisables/</link>
+      <guid>http://javascript.developpez.com/actu/48188/Sortie-de-jQuery-Mobile-1-2-0-avec-de-nouveaux-composants-popup-et-des-listes-personnalisables/</guid>
+      <description><![CDATA[Sortie de jQuery Mobile 1.2.0
+
+[IMG]http://jquerymobile.com/wp-content/uploads/2012/09/jquery-mobile-logo.png[/IMG]
+Avant toute chose, l'équipe tient à remercier les contributeurs de jQuery Mobile qui ont suivi de près les évolutions qui ont mené à la sortie de la version 1.2.0. Elle rajoute d'ailleurs que toute aide est la bienvenue.
+
+Parmi les nouveautés, nous pouvons découvrir :
+un nouveau composant popup. L'idée est de permettre une création facile d'info-bulle simple, de menu, de formulaire popup, de superposition de cartes ou de lightbox avec ce même composant. Basiquement, vous avez besoin d'un lien et d'un conteneur : 
+
+	]]></description>
+      <pubDate>Wed, 03 Oct 2012 09:35:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[MySQL 5.6 : la préversion améliore la disponibilité, les performances et l'administration pour les applications Web, Cloud et embarquées]]></title>
-      <link>http://www.developpez.com/actu/43259/MySQL-5-6-la-preversion-ameliore-la-disponibilite-les-performances-et-l-administration-pour-les-applications-Web-Cloud-et-embarquees/</link>
-      <guid>http://www.developpez.com/actu/43259/MySQL-5-6-la-preversion-ameliore-la-disponibilite-les-performances-et-l-administration-pour-les-applications-Web-Cloud-et-embarquees/</guid>
-      <description><![CDATA[MySQL 5.6 : la préversion améliore la disponibilité, les performances et  l'administration
-pour les applications Web, Cloud et embarquées
+      <title><![CDATA[Oracle muscle son Cloud avec de nouvelles applications hébergées et une plateforme pour Java]]></title>
+      <link>http://www.developpez.com/actu/48190/Oracle-muscle-son-Cloud-avec-de-nouvelles-applications-hebergees-et-une-plateforme-pour-Java/</link>
+      <guid>http://www.developpez.com/actu/48190/Oracle-muscle-son-Cloud-avec-de-nouvelles-applications-hebergees-et-une-plateforme-pour-Java/</guid>
+      <description><![CDATA[Oracle muscle son Cloud
+Avec de nouvelles applications hébergées et une plateforme pour Java
 
-Mise à jour du 12/04/2012, par Hinault Romaric
- 
 
-Une nouvelle version  intermédiaire de développement (DMR)  pour MySQL 5.6 vient d'être publiée par Oracle.
+Qu'il est loin le temps où le PDG d'Oracle voyait le Cloud Computing comme une aberration technologique.  
 
-La haute disponibilité est renforcée  dans cette mouture avec  de nouvelles fonctions de réplication basées sur des mécanismes d'autoréparation comme les identifiants globaux de transactions (GTID)  pour le suivi de l'avancement de la réplication sur une topologie de réplication et de nouveaux utilitaires de réplication MySQL pour f...]]></description>
-      <pubDate>Thu, 12 Apr 2012 15:24:00 +0200</pubDate>
+Depuis, Salesforce.com a montré qu'il était une entreprise viable et s'est diversifié dans les bases de données, SAP a multiplié les rachats de spécialistes du SaaS (applications à la demande) et Microsoft a placé ses outils professionnels (ERP et ]]></description>
+      <pubDate>Wed, 03 Oct 2012 09:19:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[RIM : « nous ne mettons pas fin au téléchargement d'applications Android », il devient une « fonctionnalité pour développeurs »]]></title>
-      <link>http://www.developpez.com/actu/43255/RIM-nous-ne-mettons-pas-fin-au-telechargement-d-applications-Android-il-devient-une-fonctionnalite-pour-developpeurs/</link>
-      <guid>http://www.developpez.com/actu/43255/RIM-nous-ne-mettons-pas-fin-au-telechargement-d-applications-Android-il-devient-une-fonctionnalite-pour-developpeurs/</guid>
-      <description><![CDATA[RIM : « nous ne mettons pas fin à la possibilité de télécharger des applications Android »
-Elle « change de nature » et devient une fonctionnalité dédiée aux développeurs
+      <title><![CDATA[Microsoft lance Dynamics NAV 2013, son ERP dédié aux PME-PMI se veut « plus rapide, plus intuitif et plus évolutif »]]></title>
+      <link>http://www.developpez.com/actu/48184/Microsoft-lance-Dynamics-NAV-2013-son-ERP-dedie-aux-PME-PMI-se-veut-plus-rapide-plus-intuitif-et-plus-evolutif/</link>
+      <guid>http://www.developpez.com/actu/48184/Microsoft-lance-Dynamics-NAV-2013-son-ERP-dedie-aux-PME-PMI-se-veut-plus-rapide-plus-intuitif-et-plus-evolutif/</guid>
+      <description><![CDATA[Microsoft lance Dynamics NAV 2013
+Son ERP dédié aux PME-PMI : plus rapide, plus intuitif, plus évolutif
 
-Mise à jour du 12/04/2012
 
-Après le début de tôlé provoqué par l'annonce de la fin de la possibilité de télécharger des applications Android directement depuis Google Play sur la Playbook (la tablette de RIM), le constructeur du BlackBerry a tenu à réagir en apportant quelques précisions.
 
-« Il y a eu beaucoup d'articles suite aux tweets que j'ai postés sur le chargement d'applications (NDR : Android) sur la tablette BlackBerry PlayBook. Malheureusement, 140 carac...]]></description>
-      <pubDate>Thu, 12 Apr 2012 14:51:00 +0200</pubDate>
+Microsoft a annoncé hier le lancement de son progiciel de gestion, Dynamics NAV 2013. Son but est, pour reprendre les mots de l'éditeur, « d'offrir aux entreprises françaises des solutions toujours plus simples, plus faciles à utiliser et plus rapides » pour soutenir leurs activités.
+
+« C'est une solution ERP particulièrement centrée sur le client final », ajoute Virginie-Marie Garlasain, Chef de produit Microsoft Dynamics ERP chez Microsoft France.
+
+En plus des fonctions déjà présentes dans la version précédente Dynamics NAV 2009 - telles que la gesti...]]></description>
+      <pubDate>Tue, 02 Oct 2012 18:22:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Java : Oracle dévoile la roadmap pour JDK 8, la publication de la version finale prévue pour septembre 2013]]></title>
-      <link>http://www.developpez.com/actu/43249/Java-Oracle-devoile-la-roadmap-pour-JDK-8-la-publication-de-la-version-finale-prevue-pour-septembre-2013/</link>
-      <guid>http://www.developpez.com/actu/43249/Java-Oracle-devoile-la-roadmap-pour-JDK-8-la-publication-de-la-version-finale-prevue-pour-septembre-2013/</guid>
-      <description><![CDATA[Oracle dévoile la roadmap pour JDK 8
-la publication de la version finale prévue pour septembre 2013
+      <title><![CDATA[Oracle s'associe à Nokia pour utiliser ses cartes dans ses applications d'entreprise, bonne nouvelle pour le Finlandais]]></title>
+      <link>http://www.developpez.com/actu/48181/Oracle-s-associe-a-Nokia-pour-utiliser-ses-cartes-dans-ses-applications-d-entreprise-bonne-nouvelle-pour-le-Finlandais/</link>
+      <guid>http://www.developpez.com/actu/48181/Oracle-s-associe-a-Nokia-pour-utiliser-ses-cartes-dans-ses-applications-d-entreprise-bonne-nouvelle-pour-le-Finlandais/</guid>
+      <description><![CDATA[Oracle s'associe à Nokia pour utiliser ses cartes
+Dans ses applications d'entreprise, bonne nouvelle pour le Finlandais
 
-Le mois dernier, Oracle a publié lors de la conférence Qcon une feuille de route pour Java qui prévoit une sortie de JDK 8 en 2013,  JDK 9 en 2015, JDK 10 en 2017, JDK 11 en 2019 et JDK 12 en 2022.
 
-La firme revient aujourd'hui fournir plus de détails et les dates de sortie de la prochaine version de la plateforme de développement.
+A mesure que la mobilité monte en puissance, les services de cartographie deviennent de plus en plus stratégiques. En témoigne le récent abandon des Googles Maps par Apple dans iOS. Apple qui ne pouvait pas longtemps dépendre d'un concurrent dans ce domaine.
 
-Mathias Axelsson, gestionnaire de versions du JDK chez Oracle a publié sur la liste de diffusion jdk8-dev, les dates de livraison des différentes préversions «Milestone» qui intégreront ...]]></description>
-      <pubDate>Thu, 12 Apr 2012 14:32:00 +0200</pubDate>
+Mais ce mouvement ne concerne pas que le grand public. Loin de là.
+
+Les CRM par exemple, sont de plus en plus portés sur tablette et les outils de BI prennent de plus en plus en compte des problématiques géospatiales (implantation de mag...]]></description>
+      <pubDate>Tue, 02 Oct 2012 17:46:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[La reconnaissance d'humeur bientôt intégrée à Kinect ? Microsoft envisage d'étendre les capacités du dispositif]]></title>
-      <link>http://www.developpez.com/actu/43244/La-reconnaissance-d-humeur-bientot-integree-a-Kinect-Microsoft-envisage-d-etendre-les-capacites-du-dispositif/</link>
-      <guid>http://www.developpez.com/actu/43244/La-reconnaissance-d-humeur-bientot-integree-a-Kinect-Microsoft-envisage-d-etendre-les-capacites-du-dispositif/</guid>
-      <description><![CDATA[La reconnaissance d'humeur bientôt intégrée à Kinect ?
-Microsoft envisage d'étendre les capacités du dispositif
+      <title><![CDATA[Open webOS 1.0 et Enyo 2 disponibles, l'OS open-source chapeauté par HP est arrivé avec son framework de développement JavaScript]]></title>
+      <link>http://www.developpez.com/actu/48176/Open-webOS-1-0-et-Enyo-2-disponibles-l-OS-open-source-chapeaute-par-HP-est-arrive-avec-son-framework-de-developpement-JavaScript/</link>
+      <guid>http://www.developpez.com/actu/48176/Open-webOS-1-0-et-Enyo-2-disponibles-l-OS-open-source-chapeaute-par-HP-est-arrive-avec-son-framework-de-developpement-JavaScript/</guid>
+      <description><![CDATA[Open webOS sort en version bêta et en deux solutions
+Sous Ubuntu et pour l'environnement &quot;OpenEmbedded&quot;
 
 
-Kinect, le capteur de mouvements de Microsoft pour la Xbox  pourrait bientôt être doté de nouvelles interactions avec le joueur.
+Il y a de cela huit mois, l'équipe du projet webOS avait promis à ses adaptes ainsi qu'à la communauté open source de lancer une version libre du système d'exploitation pour appareils mobiles.
 
-[IMG]http://rdonfack.developpez.com/images/kinect.jpg[/IMG]
-
-En plus des caractéristiques de reconnaissance de mouvements, de reconnaissance visuelle et de reconnaissance vocale, le dispositif devrait être doté de fonctionnalités permettant la détection d'émotions.
-
-Microsoft plancherait actuellement sur l'intégration de cette fonctionnalité au sein du dispositif dans le futur, selon les déclarations de Kudo Tsunoda , vice-p...]]></description>
-      <pubDate>Thu, 12 Apr 2012 13:24:00 +0200</pubDate>
+[IMG]http://idelways.developpez.com/news/images/openwebos-logo.png[/IMG]
+Chose promise, chose due, car après beaucoup d'efforts, une version bêta de l'Open webOS est enfin disponible. 
+Sur le blog du projet Open webOS, l'équipe indique que cette version, dite « August Edition », comporte 54 composants webOS disponibles en open source. Cela c...]]></description>
+      <pubDate>Tue, 02 Oct 2012 14:54:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Apprendre à développer des applications métiers avec Eclipse Scout, par Jérémie Bresson]]></title>
-      <link>http://jmini.developpez.com/eclipse_scout/articles/premiers_pas/</link>
-      <guid>http://jmini.developpez.com/eclipse_scout/articles/premiers_pas/</guid>
-      <description><![CDATA[Je vous propose une présentation détaillée du framework Eclipse Scout : Premiers pas avec Eclipse Scout
+      <title><![CDATA[La rubrique Conception devient « ALM » sur Developpez.com, et couvre désormais toutes les phases du cycle de vie des applications]]></title>
+      <link>http://www.developpez.com/actu/48173/La-rubrique-Conception-devient-ALM-sur-Developpez-com-et-couvre-desormais-toutes-les-phases-du-cycle-de-vie-des-applications/</link>
+      <guid>http://www.developpez.com/actu/48173/La-rubrique-Conception-devient-ALM-sur-Developpez-com-et-couvre-desormais-toutes-les-phases-du-cycle-de-vie-des-applications/</guid>
+      <description><![CDATA[Bonjour,
 
-Le chapitre II illustre la réalisation complète d'une application à travers un exemple. 
+L'équipe de rédaction a l'honneur de vous annoncer une importante amélioration au sommet des rubriques de Developpez.com. Pour lui donner plus d'importance et un plus grand impact, la méga-rubrique Conception devient « ALM » (Application lifecycle management).
 
-Le code source de l'exemple est disponible en téléchargement (sur Eclipse-Labs)
-
-Je vous invite à profiter de cette discussion pour des commentaires éventuels....]]></description>
-      <pubDate>Thu, 12 Apr 2012 09:00:00 +0200</pubDate>
+Ce sigle ne vous dit rien ? C'est pourtant l'unique terme consacré par les professionnels de l'informatique pour désigner tout ce qui a trait au cycle de vie des applications, à savoir : analyse des exigences, rédaction de cahier des charges, architecture, conception, méthodes, tests, gestion des mises en production, etc.
+Il n'existe malheureusement pas d'équivalent en français et Conception est un terme bien réducteur que nous ne p...]]></description>
+      <pubDate>Tue, 02 Oct 2012 14:19:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Modèle de liste hétérogène en QML, un article de Christophe Dumez traduit par Thibaut Cuvelier]]></title>
-      <link>http://christophe-dumez.developpez.com/tutoriels/qt/qml/modele-liste-heterogene/</link>
-      <guid>http://christophe-dumez.developpez.com/tutoriels/qt/qml/modele-liste-heterogene/</guid>
-      <description><![CDATA[On va montrer ici comment utiliser ListView pour afficher les données d'un modèle hétérogène. Le problème, ici, est que, en fonction du type de données, on aura un affichage différent, on utilisera donc différents délégués. Le truc est l'utilisation d'un délégué capable de détecter le type de données et ainsi adapter son affichage.
+      <title><![CDATA[Flash Player 11.5 et AIR 3.5 en betas : meilleur débogage pour les deux et support de Jelly Beans pour AIR]]></title>
+      <link>http://www.developpez.com/actu/48168/Flash-Player-11-5-et-AIR-3-5-en-betas-meilleur-debogage-pour-les-deux-et-support-de-Jelly-Beans-pour-AIR/</link>
+      <guid>http://www.developpez.com/actu/48168/Flash-Player-11-5-et-AIR-3-5-en-betas-meilleur-debogage-pour-les-deux-et-support-de-Jelly-Beans-pour-AIR/</guid>
+      <description><![CDATA[Flash Player 11.5 et AIR 3.5 en betas
+Meilleur débogage pour les deux et support de Jelly Beans pour AIR
 
-Modèle de liste hétérogène en QML...]]></description>
-      <pubDate>Thu, 12 Apr 2012 08:42:00 +0200</pubDate>
+
+Adobe vient de confirmer l'arrivée de la bêta de son Flash Player 11.5.
+
+Au menu de cette préversion, on notera surtout un nouvel outil de déboggage pour les développeurs ou la possibilité de partager la mémoire pour les ActionScript Workers.
+
+Si Adobe ne supportera plus la technologie dans le mobile, elle n'a cependant pas abandonné AIR dont la version 3.5 passe elle aussi en beta.
+
+Mieux, depuis que les runtimes d'Adobe partagent la même base il est possible de reprendre le code d'applications Rich Media pour les porter de Flash vers Air et inversement.]]></description>
+      <pubDate>Tue, 02 Oct 2012 14:12:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Le créateur de Minecraft dévoile 0x10c, un nouveau jeu ou l'utilisateur sera amené à programmer]]></title>
-      <link>http://www.developpez.com/actu/43240/Le-createur-de-Minecraft-devoile-0x10c-un-nouveau-jeu-ou-l-utilisateur-sera-amene-a-programmer/</link>
-      <guid>http://www.developpez.com/actu/43240/Le-createur-de-Minecraft-devoile-0x10c-un-nouveau-jeu-ou-l-utilisateur-sera-amene-a-programmer/</guid>
-      <description><![CDATA[Le créateur de Minecraft dévoile 0x10c
- un nouveau jeu où l'utilisateur sera amené à programmer
+      <title><![CDATA[Google revoit ses capacités de stockage Cloud à la baisse et ses prix à la hausse, presque tous les utilisateurs de Drive concernés]]></title>
+      <link>http://www.developpez.com/actu/48159/Google-revoit-ses-capacites-de-stockage-Cloud-a-la-baisse-et-ses-prix-a-la-hausse-presque-tous-les-utilisateurs-de-Drive-concernes/</link>
+      <guid>http://www.developpez.com/actu/48159/Google-revoit-ses-capacites-de-stockage-Cloud-a-la-baisse-et-ses-prix-a-la-hausse-presque-tous-les-utilisateurs-de-Drive-concernes/</guid>
+      <description><![CDATA[Cloud : Google revoit ses espaces de stockage à la baisse
+Et ses prix à la hausse, du pain béni pour la concurrence ?
 
-Après le succès de Minecraft, le créateur du jeu de construction mêlant action et réflexion dans un environnement pixélisé 3D  s'est lancé récemment dans un nouveau projet.
- 
-Markus Persson a dévoilé un nouveau projet baptisé 0x10c, qui est une sorte de jeu de science-fiction où l'utilisateur tient les rênes d'un vaisseau spatial.
+Encore plus de « nettoyage de printemps » est à prévoir pour ses services en ligne, prévient Google. Il s'agit en fait d'un toilettage d'automne. Et autant le dire tout de suite, il n'est pas porteur de bonnes nouvelles pour les utilisateurs de Google Drive et de Picassa.
 
-0x10c reprend plusieurs idées ayant entrainé le succès de Minecraft, avec plusieurs contenus créés par l'utilisateur qui pourra personnaliser son environnement et un graphisme relativement simple. 
-
-[IMG]http://rdonfack.developpez.com/0x10c.jpg[/IM...]]></description>
-      <pubDate>Thu, 12 Apr 2012 05:51:00 +0200</pubDate>
+Google annonce en effet que les capacités de ces deux espaces de stockage « seront consolidées » et que la capacité totale gratuite sera désormais de 5 GB « pour les deux services ». Autrement dit, l'espace gratuit total perd 1 GB (- 16.5%) puisque auparavant Google Drive proposait déjà ces 5...]]></description>
+      <pubDate>Tue, 02 Oct 2012 12:55:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 <?php
 $path='/home/didi/workspace/nwt/rss_reader/';
 
-function get_rss()
+function get_rss($ids=false)
 {
 	global $path;
 	$xml=new DOMDocument();
@@ -10,10 +10,13 @@ function get_rss()
 	
 	foreach($sites as $s)
 	{
-		$feed=file_get_contents($s->getAttribute('feed'));
-		$out=$path.'rss/received/'.$s->getAttribute('id').'.xml';
-		@unlink($out);
-		file_put_contents($out,$feed);
+		if(($ids and in_array($s->getAttribute('id'), $ids)) or (!$ids))
+		{
+			$feed=file_get_contents($s->getAttribute('feed'));
+			$out=$path.'rss/received/'.$s->getAttribute('id').'.xml';
+			@unlink($out);
+			file_put_contents($out,$feed);
+		}
 	}
 }
 
@@ -62,13 +65,16 @@ function compile_rss()
 		}
 		else
 		{
+			$from=explode('.', $r);
+			$from=$from[0];
 			@$rss->load($r_path.$r);
 			//])> not allowed
 			$items=$rss->getElementsByTagName('item');
 			foreach($items as $i)
 			{
-				if(get_item_timestamp($i)>$today)
+				if(((int)get_item_timestamp($i))>$today)
 				{
+					$i->setAttribute('from',$from);
 					array_push($c_rss_a,$i);
 				}				
 			}

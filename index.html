@@ -2,12 +2,14 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" href="media/lib/bootstrap/css/bootstrap.min.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="media/lib/bootstrap/css/bootstrap-responsive.min.css" type="text/css" media="all" />
 		<link rel="stylesheet" href="media/main.css" type="text/css" media="all" />
 		<title></title>
 	</head>
 	<body>
 		<div class="header"></div>
-		<div class="site">
+		<div class="container">
 			<div class="access">
 				<div class="menu">
 					<div class="menu_item update" onclick="loadRSS();">
@@ -16,6 +18,24 @@
 					<div class="menu_item update" onclick="display_feed();">
 						Show feeds
 					</div>
+				</div>
+			</div>
+			<div id="loader" style="display:none;">
+				<div class="progress progress-info progress-striped">
+					<div id="loader_bar" class="bar" style="width: 1%"></div>
+				</div>
+				<div id="loader_info">
+				</div>
+			</div>
+			<div class="row-fluid" id="main">
+				<div class="span4" id="infos">
+				</div>
+				<div class="span8" id="reader">
+				</div>
+				<div class="span12" id="sharer">
+					<div id="tweet_share" class="tweet share" >tweet it !</div>
+					<div id="g_share" class="g share" >Google+</div>
+					<div id="fb_share" class="fb share">Facebook</div>
 				</div>
 			</div>
 			<div class="site_liste" id="site_liste">
@@ -38,17 +58,11 @@
 					</div>
 				</div>
 			</div>
-			<div class="infos" id="infos"></div>
-			<div class="reader" id="reader"></div>
-			<div class="sharer" id="sharer">
-				<div id="tweet_share" class="tweet share" >tweet it !</div>
-				<div id="g_share" class="g share" >Google+</div>
-				<div id="fb_share" class="fb share">Facebook</div>
-			</div>
 		</div>
 		<div class="footer"></div>
 		<script type="text/javascript" src="media/jsinterface.js"></script>
 		<script type="text/javascript" src="media/main.js"></script>
-		<script type="text/javascript" >loadRSS()</script>
+		<script type="text/javascript" src="media/lib/jquery-1.8.2.min.js"></script>
+		<script type="text/javascript" >My_RSS_reader.init()</script>
 	</body>
 </html>

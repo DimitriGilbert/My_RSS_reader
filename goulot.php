@@ -6,10 +6,36 @@ switch($_GET['a'])
 {
 	case'u':
 		header('content-type text/xml');
-		echo update_rss();	
+		if(!isset($_GET['f']))
+		{
+			echo update_rss();	
+		}
+		else
+		{
+			$feeds=explode('__i__', $_GET['f']);
+			get_rss($feeds);
+			echo compile_rss();
+		}
 		break;
 	case'g':
-		echo get_rss();	
+		header('content-type text/xml');
+		if(!isset($_GET['f']))
+		{
+			echo time().' ';
+			get_rss();
+			echo time();
+		}
+		else
+		{
+			echo time().' ';
+			$feeds=explode('__i__', $_GET['f']);
+			get_rss($feeds);
+			echo time();
+		}
+		break;
+	case'c':
+		header('content-type text/xml');
+		echo compile_rss();
 		break;
 	case'feed':
 		header('content-type text/xml');
