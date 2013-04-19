@@ -1,318 +1,308 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title><![CDATA[Developpez.com, le club des décideurs et professionnels en Informatique]]></title>
+    <title><![CDATA[Developpez.com]]></title>
     <link>http://www.developpez.com/index/rss</link>
     <description><![CDATA[Club des décideurs et professionnels en informatique]]></description>
-    <pubDate>Thu, 04 Oct 2012 10:02:17 +0200</pubDate>
-    <lastBuildDate>Thu, 04 Oct 2012 10:02:17 +0200</lastBuildDate>
+    <pubDate>Fri, 19 Apr 2013 04:46:05 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Apr 2013 04:46:05 +0200</lastBuildDate>
     <managingEditor>(www.developpez.com)</managingEditor>
-    <copyright>Copyright © 2000-2012 www.developpez.com</copyright>
+    <copyright>Copyright © 2000-2013 www.developpez.com</copyright>
     <image>
-      <url>http://www.developpez.com/template/images/logo.gif</url>
-      <title><![CDATA[Developpez.com, le club des décideurs et professionnels en Informatique]]></title>
+      <url>http://www.developpez.com/template/favicon.ico</url>
+      <title><![CDATA[Developpez.com]]></title>
       <link>http://www.developpez.com/index/rss</link>
     </image>
     <generator>www.developpez.com</generator>
     <language>fr-FR</language>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-      <title><![CDATA[Menu fixe avec un effet de slide en CSS3, pour une navigation simple et fluide, par Paul Underwood]]></title>
-      <link>http://paulund.developpez.com/tutoriels/css/menu-fixe-slide/</link>
-      <guid>http://paulund.developpez.com/tutoriels/css/menu-fixe-slide/</guid>
-      <description><![CDATA[
+      <title><![CDATA[La FFT évalue l'évasion fiscale massive des « géants du net » et dénonce la lourde pression fiscale subie par les télécoms]]></title>
+      <link>http://www.developpez.com/actu/54348/La-FFT-evalue-l-evasion-fiscale-massive-des-geants-du-net-et-denonce-la-lourde-pression-fiscale-subie-par-les-telecoms/</link>
+      <guid>http://www.developpez.com/actu/54348/La-FFT-evalue-l-evasion-fiscale-massive-des-geants-du-net-et-denonce-la-lourde-pression-fiscale-subie-par-les-telecoms/</guid>
+      <description><![CDATA[La FFT évalue l'évasion fiscale massive des « géants du net »
+Et dénonce la lourde pression fiscale subie par les télécoms 
 
-Je vous propose une traduction de l'article anglophone How To Create A CSS Slide Out Fixed Navigation par Paul Underwood : Menu de navigation fixe avec effet de slide au survol de la souris.
+À la demande de la Fédération Française des Télécoms, le cabinet Greenwich Consulting a mené une étude comparative internationale sur la fiscalité spécifique des opérateurs télécoms et les schémas d'optimisation fiscale des acteurs « Over-the-Top ».
 
-N'hésitez pas à faire part de vos remarques, commentaires ou propositions d'améliorations !
+Il est apparu que les géants du net pratiquent allègrement une optimisation fiscale très poussée, leur permettant d'échapper presque totalement à l'imposition pour leur activité sur le territoire français.
 
- Menu de ...]]></description>
-      <pubDate>Thu, 04 Oct 2012 09:26:00 +0200</pubDate>
+Pourtant, il apparaît que les opérateurs télécoms subiraient une très lourde pression fiscale, la plus élevée ...]]></description>
+      <pubDate>Thu, 18 Apr 2013 19:01:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[JavaScript pour Node - partie 1 : Énumération de Nathan Sweet, traduit par vermine]]></title>
-      <link>http://nodejs.developpez.com/tutoriels/javascript/js_pour_node_1/</link>
-      <guid>http://nodejs.developpez.com/tutoriels/javascript/js_pour_node_1/</guid>
-      <description><![CDATA[
+      <title><![CDATA[Developpez.com devient « Le Club des développeurs et IT pro », découvrez pourquoi]]></title>
+      <link>http://club.developpez.com/actu/54346/Developpez-com-devient-Le-Club-des-Developpeurs-et-It-Pro-decouvrez-pourquoi/</link>
+      <guid>http://club.developpez.com/actu/54346/Developpez-com-devient-Le-Club-des-Developpeurs-et-It-Pro-decouvrez-pourquoi/</guid>
+      <description><![CDATA[Salut à tous 
 
-Je vous propose la traduction de l'article JavaScript for Node Part 1: Enumeration de Nathan Sweet.
+Avant on avait « Club des développeurs ». Problème, se sont joints au club des IT pro non développeurs, comme par exemple des DBA, spécialistes BI, ingénieurs systèmes et réseaux, etc.
 
-Nathan Sweet nous propose et nous explique des solutions pour parcourir des énumérations en JavaScript et Node.
+Pour ne pas se cantonner aux « développeurs », on est donc passé à « Club des professionnels de l'informatique ». Problème, on n'a jamais eu l'intention de ne pas continuer à accueillir avec plaisir les débutants et les développeurs amateurs. 
 
- JavaScript pour Node - partie 1 : Énumération...]]></description>
-      <pubDate>Thu, 04 Oct 2012 08:00:00 +0200</pubDate>
+Entre les deux extrêmes, nous vous proposons un « compromis » entre les deux :
+
+[IMG]http://club.developpez.com/webd...]]></description>
+      <pubDate>Thu, 18 Apr 2013 18:50:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Introduction au mkframework, un framework PHP simple à prendre en main, par Michael Bertocchi]]></title>
-      <link>http://imikado.developpez.com/tutoriels/php/presentation-mkframework/</link>
-      <guid>http://imikado.developpez.com/tutoriels/php/presentation-mkframework/</guid>
-      <description><![CDATA[Bonjour,
+      <title><![CDATA[Anonymous : le collectif de hackers récolte 54 798 $ pour Your Anon News, son journal alternatif et indépendant en ligne]]></title>
+      <link>http://www.developpez.com/actu/54343/Anonymous-le-collectif-de-hackers-recolte-54-798-pour-Your-Anon-News-son-journal-alternatif-et-independant-en-ligne/</link>
+      <guid>http://www.developpez.com/actu/54343/Anonymous-le-collectif-de-hackers-recolte-54-798-pour-Your-Anon-News-son-journal-alternatif-et-independant-en-ligne/</guid>
+      <description><![CDATA[Anonymous : le collectif de hackers récolte 54 798 dollars pour Your Anon News
+Son journal alternatif et indépendant en ligne 
 
-Vous trouverez ci dessous mon premier article d'initiation au framework php &quot;mkframework&quot;.
-Celui-ci devrait vous présenter et vous aider à prendre en main ce framework qui se veut simple à utiliser.
+Le groupe Anonymous s'est lancé dans le crowdfunding, un mode de financement alternatif en temps de crise, dans le but de développer un média alternatif pour couvrir des sujets passés à la censure de la « presse dominante ».
 
-En vous souhaitant une bonne lecture,
+Le projet amorcé sur Indiegogo  avait pour but d'atteindre les 2 000 dollars pour gérer les premiers frais. 
 
- Un framework simple à prendre en main...]]></description>
-      <pubDate>Thu, 04 Oct 2012 08:00:00 +0200</pubDate>
+Le groupe a pourtant réussi à récolter pas moins de 54 798 dollars US auprès de 1 309 donateurs  pour financer le développement, l'hébergement et autres frais nécessaires.
+
+C'est sur le compte tumblr du groupe que l...]]></description>
+      <pubDate>Thu, 18 Apr 2013 17:55:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Téléchargez le premier « Guide du Chef de Projet Mobile », Smile y revient sur la manière d'établir une stratégie mobile cohérente]]></title>
-      <link>http://www.developpez.com/actu/48236/Telechargez-le-premier-Guide-du-Chef-de-Projet-Mobile-Smile-y-revient-sur-la-maniere-d-etablir-une-strategie-mobile-coherente/</link>
-      <guid>http://www.developpez.com/actu/48236/Telechargez-le-premier-Guide-du-Chef-de-Projet-Mobile-Smile-y-revient-sur-la-maniere-d-etablir-une-strategie-mobile-coherente/</guid>
-      <description><![CDATA[Téléchargez le premier « Guide du Chef de Projet Mobile »
-Smile revient sur les différences entre sites mobiles et apps, et sur la construction d'une stratégie efficace
+      <title><![CDATA[Windows 8.1 intégrerait ReFS, le système de fichiers fiable introduit par Windows Server 2012]]></title>
+      <link>http://www.developpez.com/actu/54337/Windows-8-1-integrerait-ReFS-le-systeme-de-fichiers-fiable-introduit-par-Windows-Server-2012/</link>
+      <guid>http://www.developpez.com/actu/54337/Windows-8-1-integrerait-ReFS-le-systeme-de-fichiers-fiable-introduit-par-Windows-Server-2012/</guid>
+      <description><![CDATA[Windows Blue la prochaine mise à jour majeure de Windows 8 ?
+Microsoft aurait adopté un cycle annuel
+ 
 
-Comment définir une stratégie Mobile efficace ? Quels objectifs peut-on viser ? 
-Site mobile ou application, comment construire un dispositif adapté et performant ?
+À peine Windows 8 disponible que des rumeurs courent déjà sur son successeur.
 
-Telles sont les questions abordées dans le nouveau livre blanc de Smile, 1er intégrateur européen de solutions open source et spécialiste du web.
+Selon un article du quotidien The Verge, se référant à des sources anonymes proches de Microsoft, la firme serait déjà en train de travailler sur Windows Blue, la prochaine version de son système d'exploitation.
 
-Ce « Guide du Chef de Projet Mobile » présente une méthodologique qui a pour but d'accompagner les responsables dans la gestion de A à Z d'un projet Mobile.
-
-Au sommaire de ce docume...]]></description>
-      <pubDate>Thu, 04 Oct 2012 08:00:00 +0200</pubDate>
+Décrit comme une mise à jour majeure pour Windows 8, l'OS serait disponible mi-2013, à un prix nettement inférieur, voire même gratuit. Cet OS mettra fin aux cycles longs des sorties de nouvelles versions de Windows et aux Services Pack,  pour adopter un rythme de mises à jour annuelles to...]]></description>
+      <pubDate>Thu, 18 Apr 2013 17:09:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Oracle annonce MySQL Cluster 7.3 et l'intègre à Node.js, la Release Candidate de MySQL 5.6 est disponible]]></title>
-      <link>http://www.developpez.com/actu/48253/Oracle-annonce-MySQL-Cluster-7-3-et-l-integre-a-Node-js-la-Release-Candidate-de-MySQL-5-6-est-disponible/</link>
-      <guid>http://www.developpez.com/actu/48253/Oracle-annonce-MySQL-Cluster-7-3-et-l-integre-a-Node-js-la-Release-Candidate-de-MySQL-5-6-est-disponible/</guid>
-      <description><![CDATA[Oracle annonce MySQL Cluster 7.3 et l'intègre à Node.js
-La Release Candidate de MySQL 5.6 est disponible
+      <title><![CDATA[L'USPTO responsable de la guerre des brevets selon l'EFF, l'organisme l'accuse de délivrer des « brevets merdiques »]]></title>
+      <link>http://www.developpez.com/actu/54333/L-USPTO-responsable-de-la-guerre-des-brevets-selon-l-EFF-l-organisme-l-accuse-de-delivrer-des-brevets-merdiques/</link>
+      <guid>http://www.developpez.com/actu/54333/L-USPTO-responsable-de-la-guerre-des-brevets-selon-l-EFF-l-organisme-l-accuse-de-delivrer-des-brevets-merdiques/</guid>
+      <description><![CDATA[L'USPTO responsable de la guerre des brevets selon l'EFF
+L'organisme l'accuse de délivrer des « brevets merdiques » 
 
+Depuis quelque temps déjà, une guerre des brevets fait rage aux États-Unis. 
 
-Oracle a annoncé lors de sa conférence MySQL Connect le premier développement milestone (DMR) de MySQL Cluster 7.3. Cette déclinaison distribuée de MySQL s'intègre désormais dans le serveur Node.js, mais cette intégration est encore classée comme expérimentale. 
+À ce propos, une étude a démontré que plus de la moitié de ces procès étaient liés aux « patents trolls ».
 
-[IMG]http://ftp-developpez.com/gordon-fowler/MySQL.png[/IMG]
-Cette version introduit le support natif pour les clés étrangères, ce qui permet aux utilisateurs d'étendre les avantages de MySQL Cluster dans un large éventail d'applications packagées et des déploiements personnalisés en simplifiant...]]></description>
-      <pubDate>Wed, 03 Oct 2012 17:54:00 +0200</pubDate>
+Plusieurs voix se lèvent contre cette pratique d'intenter des procès à tout va comme celle de la ]]></description>
+      <pubDate>Thu, 18 Apr 2013 16:13:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Debian 6.0.6 disponible avec plusieurs correctifs de sécurité pour la version stable]]></title>
-      <link>http://www.developpez.com/actu/48248/Debian-6-0-6-disponible-avec-plusieurs-correctifs-de-securite-pour-la-version-stable/</link>
-      <guid>http://www.developpez.com/actu/48248/Debian-6-0-6-disponible-avec-plusieurs-correctifs-de-securite-pour-la-version-stable/</guid>
-      <description><![CDATA[Debian 6.0.6 disponible
-avec plusieurs correctifs de sécurité pour la version stable
-
-Les développeurs de Debian viennent de publier la sixième mise à jour de la branche  stable 6.0 du système d'exploitation basé sur le noyau Linux.
-
-Cette version n'apporte pas de nouvelles fonctionnalités à l'OS, mais juste une combinaison de mises à jour déjà publiées pour la distribution, permettant aux utilisateurs d'installer simplement cette version, au lieu de recherche et installer manuellement tous les patchs de sécurité.
-
-
-[IMG]http://rdonfack.developpez.com/images/debian.png[/IMG]
-
-Debian 6.0.6 alias « Squeeze » apporte donc plusieurs mises à j...]]></description>
-      <pubDate>Wed, 03 Oct 2012 15:10:00 +0200</pubDate>
+      <title><![CDATA[AgoraCMS : le programme est disponible pour la 1re édition de la conférence sur les gestionnaires de contenu Web, le 15 mai à Paris]]></title>
+      <link>http://www.developpez.com/actu/53437/AgoraCMS-le-programme-est-disponible-pour-la-1re-edition-de-la-conference-sur-les-gestionnaires-de-contenu-Web-le-15-mai-a-Paris/</link>
+      <guid>http://www.developpez.com/actu/53437/AgoraCMS-le-programme-est-disponible-pour-la-1re-edition-de-la-conference-sur-les-gestionnaires-de-contenu-Web-le-15-mai-a-Paris/</guid>
+      <description><![CDATA[undefined]]></description>
+      <pubDate>Thu, 18 Apr 2013 15:24:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Traduire ses applications mobiles aurait un impact considérable sur la monétisation, d'après un rapport de Distimo]]></title>
-      <link>http://www.developpez.com/actu/48233/Traduire-ses-applications-mobiles-aurait-un-impact-considerable-sur-la-monetisation-d-apres-un-rapport-de-Distimo/</link>
-      <guid>http://www.developpez.com/actu/48233/Traduire-ses-applications-mobiles-aurait-un-impact-considerable-sur-la-monetisation-d-apres-un-rapport-de-Distimo/</guid>
-      <description><![CDATA[Traduire ses applications mobiles aurait un impact considérable sur la monétisation
-D'après un rapport de Distimo
+      <title><![CDATA[Le guide de Lua et ses applications - manuel d'apprentissage, critique de livre d'Alexandre Laurent]]></title>
+      <link>http://c.developpez.com/livres/#L9782822700153</link>
+      <guid>http://c.developpez.com/livres/#L9782822700153</guid>
+      <description><![CDATA[Bonjour à tous,
 
+Tout récemment, j'ai lu deux livres sur Lua : Le manuel d'apprentissage et le manuel de référence de la série nommée &quot;Le guide de Lua et ses applications&quot;.
 
-Voilà une opportunité que les développeurs d'application iPhone et iPad ont intérêt à saisir. Des revenus substantiels peuvent être générés de la traduction des applications dans les langues locales de certains pays d'Asie.
+Vous pouvez retrouver tous les détails de ces livres en suivant les liens ci-dessous :
+Manuel de référence
+Manuel d'apprentissage
 
-[IMG]http://idelways.developpez.com/news/images/iphone-apps.gif[/IMG]
-Le cabinet d'analyses Distimo, spécialisé dans les applications mobiles, a publié un nouveau rapport d'après l'étude de répartition linguistique des applications mobiles. L'étude a mis l'accent sur l'Apple App Store et s'est porté sur 12 pays tels les État...]]></description>
-      <pubDate>Wed, 03 Oct 2012 14:30:00 +0200</pubDate>
+ Qu'en pensez-vous ?
+ Avez-vous lu ces livres ? Allez-vous les lire ?...]]></description>
+      <pubDate>Thu, 18 Apr 2013 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[JavaOne 2012 : Oracle dévoile ses plans pour Java, les préversions du JDK 8 et JavaFX Scene Builder 1.1 disponibles]]></title>
-      <link>http://www.developpez.com/actu/48228/JavaOne-2012-Oracle-devoile-ses-plans-pour-Java-les-preversions-du-JDK-8-et-JavaFX-Scene-Builder-1-1-disponibles/</link>
-      <guid>http://www.developpez.com/actu/48228/JavaOne-2012-Oracle-devoile-ses-plans-pour-Java-les-preversions-du-JDK-8-et-JavaFX-Scene-Builder-1-1-disponibles/</guid>
-      <description><![CDATA[JavaOne 2012 : Oracle renouvelle son engagement à faire évoluer Java et dévoile ses plans
-les préversions de JDK 8 et JavaFX Scene Builder 1.1 disponibles
+      <title><![CDATA[Le guide de Lua et ses applications - manuel de référence, critique de livre d'Alexandre Laurent]]></title>
+      <link>http://c.developpez.com/livres/#L9782822700054</link>
+      <guid>http://c.developpez.com/livres/#L9782822700054</guid>
+      <description><![CDATA[Bonjour à tous,
 
+Tout récemment, j'ai lu deux livres sur Lua : Le manuel d'apprentissage et le manuel de référence de la série nommée &quot;Le guide de Lua et ses applications&quot;.
 
-JavaOne 2012, la plus grande conférence annuelle autour de la plateforme Java se déroule actuellement à San Francisco.
+Vous pouvez retrouver tous les détails de ces livres en suivant les liens ci-dessous :
+Manuel de référence
+Manuel d'apprentissage
 
- Oracle a profité de l'occasion pour dévoiler sa feuille de route pour Java et renouveler son engagement à faire évoluer le langage afin de rassurer les utilisateurs sceptiques face aux récentes découvertes de failles dans la plateforme.
-
-Pendant ces prochains mois, Oracle travaillera essentiellement sur Java SE 8.  Au menu : l'éditeur prévoit l'intégration des expressions lambda, du moteur JavaScript Nash...]]></description>
-      <pubDate>Wed, 03 Oct 2012 14:16:00 +0200</pubDate>
+ Qu'en pensez-vous ?
+ Avez-vous lu ces livres ? Allez-vous les lire ?...]]></description>
+      <pubDate>Thu, 18 Apr 2013 15:00:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[HappyEdit : un bon remake de l'éditeur Vim, développé en HTML5]]></title>
-      <link>http://www.developpez.com/actu/48227/HappyEdit-un-bon-remake-de-l-editeur-Vim-developpe-en-HTML5/</link>
-      <guid>http://www.developpez.com/actu/48227/HappyEdit-un-bon-remake-de-l-editeur-Vim-developpe-en-HTML5/</guid>
-      <description><![CDATA[HappyEdit : un bon remake de l'éditeur Vim
-Développé en HTML5
+      <title><![CDATA[Samsung avoue avoir lancé une opération pour discréditer HTC et essaye de rattraper l'hécatombe provoquée par son staff à Taiwan]]></title>
+      <link>http://www.developpez.com/actu/54324/Samsung-avoue-avoir-lance-une-operation-pour-discrediter-HTC-et-essaye-de-rattraper-l-hecatombe-provoquee-par-son-staff-a-Taiwan/</link>
+      <guid>http://www.developpez.com/actu/54324/Samsung-avoue-avoir-lance-une-operation-pour-discrediter-HTC-et-essaye-de-rattraper-l-hecatombe-provoquee-par-son-staff-a-Taiwan/</guid>
+      <description><![CDATA[Samsung avoue avoir lancé une opération pour discréditer HTC
+Le constructeur essaye de rattraper l'hécatombe provoquée par son staff à Taiwan 
 
+La branche taïwanaise de Samsung avait pour habitude de laisser des forums ouverts aux publications anonymes.
 
-Les remakes ne sont pas tous bons, mais celui-ci vaut le coup d'oeil !
+Malheureusement, cette année les évènements ont très vite été hors de contrôle quand des propos haineux ont été tenus contre son rival HTC.
 
-Per Thulin, fervent utilisateur de Vim, nous propose un remake de l'éditeur qu'on ne présente plus, développé en HTML5.
-
-Jaloux des fonctionnalités des nouveaux éditeurs de ses collègues comme SublimeText ou encore TextMake, Per Thulin a décidé de se lancer dans un projet de taille : développer une version &quot;améliorée&quot; de Vim pour intégrer toutes les nouvelles fonctionnalités qu'offre l'HTML5.
-
-C'est ainsi qu'est née une première version de HappyEdit, éditeur open source et basé sur le projet Ace.
-
-Foncti...]]></description>
-      <pubDate>Wed, 03 Oct 2012 12:46:00 +0200</pubDate>
+Par exemple dans une publication, un anonyme dit que sa petite amie a un HTC ONE X qui est très souvent victime de bogues, une autre publication affirme que le Galaxy Note est supérieur au HTC Sensation XL. Une troisième exhibe des graphiques de batteries du Galaxy S III et du HTC One X, prétenda...]]></description>
+      <pubDate>Thu, 18 Apr 2013 14:50:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[JavaOne 2012 : Oracle sort la Preview de NetBeans 7.3 et dévoile Easel, une extension pour la création des clients RESTful JavaScript]]></title>
-      <link>http://www.developpez.com/actu/48218/JavaOne-2012-Oracle-sort-la-Preview-de-NetBeans-7-3-et-devoile-Easel-une-extension-pour-la-creation-des-clients-RESTful-JavaScript/</link>
-      <guid>http://www.developpez.com/actu/48218/JavaOne-2012-Oracle-sort-la-Preview-de-NetBeans-7-3-et-devoile-Easel-une-extension-pour-la-creation-des-clients-RESTful-JavaScript/</guid>
-      <description><![CDATA[JavaOne 2012 : Oracle sort la Preview de NetBeans 7.3
-et dévoile le projet Easel une extension pour la création des clients RESTful à base de JavaScript
+      <title><![CDATA[Titan bat le record de rapidité de stockage grâce à Spider II, le supercalculateur le plus rapide du monde conserve son rang]]></title>
+      <link>http://www.developpez.com/actu/54321/Titan-bat-le-record-de-rapidite-de-stockage-grace-a-Spider-II-le-supercalculateur-le-plus-rapide-du-monde-conserve-son-rang/</link>
+      <guid>http://www.developpez.com/actu/54321/Titan-bat-le-record-de-rapidite-de-stockage-grace-a-Spider-II-le-supercalculateur-le-plus-rapide-du-monde-conserve-son-rang/</guid>
+      <description><![CDATA[Titan bat les records de rapidité de stockage avec une vitesse de 1,4 To/s grâce à Spider II
+le supercalculateur le plus rapide du monde conserve son rang
 
-JavaOne 2012 bat son plein.  Le Masonic Auditorium de San Francisco vibre aux couleurs de l'écosystème Java qui est en train d'être disséqué par les experts de l'industrie.
+Titan conserve son rang dans la classe des supercalculateurs les plus rapides au monde, grâce à l'acquisition d'un nouveau système de stockage produit par la société DataDirect Networks.
 
-Lors de la session consacrée à NetBeans, l'environnement de développement intégré open source pour Java, PHP, C et C++, Oracle a annoncé la sortie de la preview de NetBeans 7.3, la prochaine mise à jour majeure de l'EDI.
+Après que  RoadRunner, le premier supercalculateur à avoir atteint la puissance de calcul de 1 pétaFLOPS, ait été mis hors service, aujourd'hui commence une nouvelle ère placée sous l'hégémonie de Titan.
 
-
-[IMG]http://ftp-developpez.com/gordon-fowler/NetBeans%20Logo.png[/IMG]
-
-Le futur standard du We...]]></description>
-      <pubDate>Wed, 03 Oct 2012 12:27:00 +0200</pubDate>
+Comme son équivalent mythologique, ce nouveau supercalculateur dispose de tous les atouts nécessaires pour éclipser la concurrence. Il embarque ...]]></description>
+      <pubDate>Thu, 18 Apr 2013 13:24:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Référencement : Google déploie un nouvel algorithme qui pénalise les sites utilisant des noms de domaine avec des mots clés]]></title>
-      <link>http://www.developpez.com/actu/48206/Referencement-Google-deploie-un-nouvel-algorithme-qui-penalise-les-sites-utilisant-des-noms-de-domaine-avec-des-mots-cles/</link>
-      <guid>http://www.developpez.com/actu/48206/Referencement-Google-deploie-un-nouvel-algorithme-qui-penalise-les-sites-utilisant-des-noms-de-domaine-avec-des-mots-cles/</guid>
-      <description><![CDATA[Référencement : Google déploie un nouvel algorithme qui pénalise les sites
-utilisant des noms de domaines avec des mots clés
+      <title><![CDATA[JScrambler 3 disponible, l'outil permet de protéger son code JavaScript et HTML5 avant déploiement en obfusquant celui-ci]]></title>
+      <link>http://www.developpez.com/actu/54317/JScrambler-3-disponible-l-outil-permet-de-proteger-son-code-JavaScript-et-HTML5-avant-deploiement-en-obfusquant-celui-ci/</link>
+      <guid>http://www.developpez.com/actu/54317/JScrambler-3-disponible-l-outil-permet-de-proteger-son-code-JavaScript-et-HTML5-avant-deploiement-en-obfusquant-celui-ci/</guid>
+      <description><![CDATA[JScrambler 3 disponible
+ l'outil permet de protéger son code JavaScript et HTML5 avant déploiement en obfusquant celui-ci
 
+Le code source des applications JavaScript peut être lu lorsque les utilisateurs entrent en possession d'une application entièrement codée dans ce langage. Ceci constitue un réel problème pour des applications à but commercial, car JavaScript n'offre pas nativement de méthodes pour protéger le code des regards indiscrets. 
 
-Via un message sur son compte Twitter, le spécialiste de l'équipe anti WebSpam de Google, Matt Cutts, a annoncé le déploiement d'un nouvel algorithme sur le moteur Google.
+JScrambler permet de contourner toutes ces difficultés en apportant la fonctionnalité d'obfuscation du code JavaScript pour les applications Web, Desktop ou mobiles. 
 
-Ce nouvel algorithme vise à affiner les résultats de recherche du moteur Google en pénalisant les sites ayant un contenu de faible qualité malgré que le nom de domaine du site corresponde aux termes de la recherche.
-
-En effet, la firme a constaté que des sites Web avaient recours à des noms de domaines qualifiés de « exact-match domain » qui reprenaient des termes de recherche suscep...]]></description>
-      <pubDate>Wed, 03 Oct 2012 10:32:00 +0200</pubDate>
+Actuellement l'outil en est à sa version 3. Il est utile dans plusieurs cas ...]]></description>
+      <pubDate>Thu, 18 Apr 2013 12:54:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Opera 12.10 disponible en beta : le navigateur norvégien s'attaque à Windows 8, Mountain Lion et aux écrans Retina]]></title>
-      <link>http://www.developpez.com/actu/48205/Opera-12-10-disponible-en-beta-le-navigateur-norvegien-s-attaque-a-Windows-8-Mountain-Lion-et-aux-ecrans-Retina/</link>
-      <guid>http://www.developpez.com/actu/48205/Opera-12-10-disponible-en-beta-le-navigateur-norvegien-s-attaque-a-Windows-8-Mountain-Lion-et-aux-ecrans-Retina/</guid>
-      <description><![CDATA[Opera 12.10 disponible en beta
-Le navigateur s'attaque à Windows 8, Mountain Lion et aux écrans Retina
+      <title><![CDATA[Les PME cibles favorites des pirates, ceux-ci profiteraient de leurs faibles moyens de sécurité pour attaquer des organisations plus grandes]]></title>
+      <link>http://www.developpez.com/actu/54313/Les-PME-cibles-favorites-des-pirates-ceux-ci-profiteraient-de-leurs-faibles-moyens-de-securite-pour-attaquer-des-organisations-plus-grandes/</link>
+      <guid>http://www.developpez.com/actu/54313/Les-PME-cibles-favorites-des-pirates-ceux-ci-profiteraient-de-leurs-faibles-moyens-de-securite-pour-attaquer-des-organisations-plus-grandes/</guid>
+      <description><![CDATA[Les PME cibles favorites des pirates ?
+Ceux-ci profiteraient de leurs faibles moyens de sécurité pour attaquer des organisations plus grandes, selon Symantec
 
+Symantec vient de publier son rapport de sécurité pour internet. Le rapport  long de 58 pages est un récapitulatif des différents évènements de sécurité qui ont eu lieu au cours des années précédentes et en début de cette année 2013.
 
-Opera 12.10 vient de sortir en beta.
+Selon  une idée préconçue, les petites entreprises ne sont pas des cibles potentielles pour les hackers. La réalité est tout autre, comme le souligne le rapport de Symantec. La plupart des  petites entreprises n'investissent pas un budget conséquent pour la sécurité. 
 
-Au menu, le support du SPDY, ce protocole proposé par Google pour accélérer le chargement des pages et de Web Socket (« depuis que les problèmes de sécurité ont été résolus » explique Opera Software), de nouvelles API pour créer des extensions, une meilleure intégration dans Mac OS X Mountain Lion et le support des écrans Retina.
-
-Des améliorations sur le zoom tactile ont également été faites pour la version Windo...]]></description>
-      <pubDate>Wed, 03 Oct 2012 10:28:00 +0200</pubDate>
+Cette tendance fâcheuse est s...]]></description>
+      <pubDate>Thu, 18 Apr 2013 12:01:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Sortie de jQuery Mobile 1.2.0 avec de nouveaux composants popup et des listes personnalisables]]></title>
-      <link>http://javascript.developpez.com/actu/48188/Sortie-de-jQuery-Mobile-1-2-0-avec-de-nouveaux-composants-popup-et-des-listes-personnalisables/</link>
-      <guid>http://javascript.developpez.com/actu/48188/Sortie-de-jQuery-Mobile-1-2-0-avec-de-nouveaux-composants-popup-et-des-listes-personnalisables/</guid>
-      <description><![CDATA[Sortie de jQuery Mobile 1.2.0
+      <title><![CDATA[Apple devrait vendre 75 millions d'iPhone low-cost en 2014, avec une part qui passera de 0 % en 2012 à 11 % sur ce segment]]></title>
+      <link>http://www.developpez.com/actu/54309/Apple-devrait-vendre-75-millions-d-iPhone-low-cost-en-2014-avec-une-part-qui-passera-de-0-en-2012-a-11-sur-ce-segment/</link>
+      <guid>http://www.developpez.com/actu/54309/Apple-devrait-vendre-75-millions-d-iPhone-low-cost-en-2014-avec-une-part-qui-passera-de-0-en-2012-a-11-sur-ce-segment/</guid>
+      <description><![CDATA[Apple devrait vendre 75 millions d'iPhone low-cost en 2014,
+Avec une part qui passerait de 0 % en 2012 à 11 % sur ce segment 
 
-[IMG]http://jquerymobile.com/wp-content/uploads/2012/09/jquery-mobile-logo.png[/IMG]
-Avant toute chose, l'équipe tient à remercier les contributeurs de jQuery Mobile qui ont suivi de près les évolutions qui ont mené à la sortie de la version 1.2.0. Elle rajoute d'ailleurs que toute aide est la bienvenue.
+Gene Munster, analyste de projets chez Piper Jaffray, explique dans une note adressée aux investisseurs qu'il s'attend à ce qu'Apple vende des iPhone non subventionnés à 300 dollars l'unité dès septembre à raison de 75 millions d'appareils. Un tel dispositif pourrait occasionner un taux de cannibalisation de 30 % ; pour trois iPhone vendus ainsi, un iPhone plein tarif serait cannibalisé.
 
-Parmi les nouveautés, nous pouvons découvrir :
-un nouveau composant popup. L'idée est de permettre une création facile d'info-bulle simple, de menu, de formulaire popup, de superposition de cartes ou de lightbox avec ce même composant. Basiquement, vous avez besoin d'un lien et d'un conteneur : 
-
-	]]></description>
-      <pubDate>Wed, 03 Oct 2012 09:35:00 +0200</pubDate>
+[IMG]http://stephanelecalme.developpez.com/images/iphone.jpg[/IMG]
+Ce qui pourrait entraîner que le marché haut de gamme d'Apple passe de 43 % à 37 %. Cepe...]]></description>
+      <pubDate>Thu, 18 Apr 2013 11:42:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Oracle muscle son Cloud avec de nouvelles applications hébergées et une plateforme pour Java]]></title>
-      <link>http://www.developpez.com/actu/48190/Oracle-muscle-son-Cloud-avec-de-nouvelles-applications-hebergees-et-une-plateforme-pour-Java/</link>
-      <guid>http://www.developpez.com/actu/48190/Oracle-muscle-son-Cloud-avec-de-nouvelles-applications-hebergees-et-une-plateforme-pour-Java/</guid>
-      <description><![CDATA[Oracle muscle son Cloud
-Avec de nouvelles applications hébergées et une plateforme pour Java
+      <title><![CDATA[Humour : Chuck Norris est obsolète selon le W3C ? Il ne respecterait pas les standards du Web]]></title>
+      <link>http://www.developpez.com/actu/54308/Humour-Chuck-Norris-est-obsolete-selon-le-W3C-Il-ne-respecterait-pas-les-standards-du-Web/</link>
+      <guid>http://www.developpez.com/actu/54308/Humour-Chuck-Norris-est-obsolete-selon-le-W3C-Il-ne-respecterait-pas-les-standards-du-Web/</guid>
+      <description><![CDATA[Chuck Norris est-il validé par les standards du W3C ?
 
+Derrière cette question énigmatique et qui peut sembler incongrue se cache pourtant une réalité (ou un easter egg des navigateurs) !
+En effet, je viens de lire un billet prouvant que Chuck Norris ne respecte pas les standards du Web et n'apprécie pas la séparation du contenu et du style.
+Pour preuve, je vous invite à tester ce code :
 
-Qu'il est loin le temps où le PDG d'Oracle voyait le Cloud Computing comme une aberration technologique.  
-
-Depuis, Salesforce.com a montré qu'il était une entreprise viable et s'est diversifié dans les bases de données, SAP a multiplié les rachats de spécialistes du SaaS (applications à la demande) et Microsoft a placé ses outils professionnels (ERP et ]]></description>
-      <pubDate>Wed, 03 Oct 2012 09:19:00 +0200</pubDate>
+	Code  :
+        
+            Sélectionner tout -
+            ]]></description>
+      <pubDate>Thu, 18 Apr 2013 11:28:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Microsoft lance Dynamics NAV 2013, son ERP dédié aux PME-PMI se veut « plus rapide, plus intuitif et plus évolutif »]]></title>
-      <link>http://www.developpez.com/actu/48184/Microsoft-lance-Dynamics-NAV-2013-son-ERP-dedie-aux-PME-PMI-se-veut-plus-rapide-plus-intuitif-et-plus-evolutif/</link>
-      <guid>http://www.developpez.com/actu/48184/Microsoft-lance-Dynamics-NAV-2013-son-ERP-dedie-aux-PME-PMI-se-veut-plus-rapide-plus-intuitif-et-plus-evolutif/</guid>
-      <description><![CDATA[Microsoft lance Dynamics NAV 2013
-Son ERP dédié aux PME-PMI : plus rapide, plus intuitif, plus évolutif
+      <title><![CDATA[Google Play : hausse de 90 % des revenus des applications, la galerie talonne de près l'App Store en nombre de téléchargements]]></title>
+      <link>http://www.developpez.com/actu/54304/Google-Play-hausse-de-90-des-revenus-des-applications-la-galerie-talonne-de-pres-l-App-Store-en-nombre-de-telechargements/</link>
+      <guid>http://www.developpez.com/actu/54304/Google-Play-hausse-de-90-des-revenus-des-applications-la-galerie-talonne-de-pres-l-App-Store-en-nombre-de-telechargements/</guid>
+      <description><![CDATA[Google Play : hausse de 90 % des revenus des applications 
+La galerie talonne de près l'App Store en nombre de téléchargements 
 
+Apple, qui vendait quatre fois plus que Google lors du dernier trimestre de 2012, se voit vendre 2,6 fois plus que Google au cours du premier trimestre de 2013, selon un rapport de l'index d'App Annie.
 
+Un succès pour Google qui enregistre alors une hausse de 90 % de ses ventes rien que pour le début de l'année en cours.
 
-Microsoft a annoncé hier le lancement de son progiciel de gestion, Dynamics NAV 2013. Son but est, pour reprendre les mots de l'éditeur, « d'offrir aux entreprises françaises des solutions toujours plus simples, plus faciles à utiliser et plus rapides » pour soutenir leurs activités.
-
-« C'est une solution ERP particulièrement centrée sur le client final », ajoute Virginie-Marie Garlasain, Chef de produit Microsoft Dynamics ERP chez Microsoft France.
-
-En plus des fonctions déjà présentes dans la version précédente Dynamics NAV 2009 - telles que la gesti...]]></description>
-      <pubDate>Tue, 02 Oct 2012 18:22:00 +0200</pubDate>
+[IMG]http://stephanelecalme.developpez.com/images/store.png[/IMG]
+Pour le nombre de téléchargements, Google peut remercier dans l'ordre les États-Unis, la Corée du Sud, l'Inde, la Russie et le Japon. Les qua...]]></description>
+      <pubDate>Thu, 18 Apr 2013 11:07:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Oracle s'associe à Nokia pour utiliser ses cartes dans ses applications d'entreprise, bonne nouvelle pour le Finlandais]]></title>
-      <link>http://www.developpez.com/actu/48181/Oracle-s-associe-a-Nokia-pour-utiliser-ses-cartes-dans-ses-applications-d-entreprise-bonne-nouvelle-pour-le-Finlandais/</link>
-      <guid>http://www.developpez.com/actu/48181/Oracle-s-associe-a-Nokia-pour-utiliser-ses-cartes-dans-ses-applications-d-entreprise-bonne-nouvelle-pour-le-Finlandais/</guid>
-      <description><![CDATA[Oracle s'associe à Nokia pour utiliser ses cartes
-Dans ses applications d'entreprise, bonne nouvelle pour le Finlandais
+      <title><![CDATA[Microsoft déploie l'authentification à deux facteurs sur « Microsoft Account », l'option améliore la sécurité des comptes utilisateurs]]></title>
+      <link>http://www.developpez.com/actu/54297/Microsoft-deploie-l-authentification-a-deux-facteurs-sur-Microsoft-Account-l-option-ameliore-la-securite-des-comptes-utilisateurs/</link>
+      <guid>http://www.developpez.com/actu/54297/Microsoft-deploie-l-authentification-a-deux-facteurs-sur-Microsoft-Account-l-option-ameliore-la-securite-des-comptes-utilisateurs/</guid>
+      <description><![CDATA[Microsoft adopte l'authentification à deux facteurs pour « Microsoft Account »
+pour mieux sécuriser les comptes des utilisateurs
 
 
-A mesure que la mobilité monte en puissance, les services de cartographie deviennent de plus en plus stratégiques. En témoigne le récent abandon des Googles Maps par Apple dans iOS. Apple qui ne pouvait pas longtemps dépendre d'un concurrent dans ce domaine.
+L'authentification  à deux facteurs est désormais à la mode pour mieux sécuriser les comptes des utilisateurs.
+ 
+Après Google, Facebook, PayPal et récemment Apple,  ce serait au tour de Microsoft de se tourner vers ce mode d'identification sécurisé qui oblige l'utilisateur à posséder un mot de passe et un jeton ou un certificat.
 
-Mais ce mouvement ne concerne pas que le grand public. Loin de là.
-
-Les CRM par exemple, sont de plus en plus portés sur tablette et les outils de BI prennent de plus en plus en compte des problématiques géospatiales (implantation de mag...]]></description>
-      <pubDate>Tue, 02 Oct 2012 17:46:00 +0200</pubDate>
+Selon le site spécialisé LiveSide.net, la firme aurait apporté des modifications à  Microsoft Account,  la fonctionnalité qui permet l'accès à  l'ensemble de ses services, notamment aux e-mails, contacts, SkyDrive ou encore...]]></description>
+      <pubDate>Thu, 18 Apr 2013 10:22:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Open webOS 1.0 et Enyo 2 disponibles, l'OS open-source chapeauté par HP est arrivé avec son framework de développement JavaScript]]></title>
-      <link>http://www.developpez.com/actu/48176/Open-webOS-1-0-et-Enyo-2-disponibles-l-OS-open-source-chapeaute-par-HP-est-arrive-avec-son-framework-de-developpement-JavaScript/</link>
-      <guid>http://www.developpez.com/actu/48176/Open-webOS-1-0-et-Enyo-2-disponibles-l-OS-open-source-chapeaute-par-HP-est-arrive-avec-son-framework-de-developpement-JavaScript/</guid>
-      <description><![CDATA[Open webOS sort en version bêta et en deux solutions
-Sous Ubuntu et pour l'environnement &quot;OpenEmbedded&quot;
+      <title><![CDATA[Le « Dev du Jeudi » est consacré à la création de clients Windows 8 dans le séminaire Embarcadero en ligne du 18 avril 2013]]></title>
+      <link>http://www.developpez.com/actu/54295/Le-Dev-du-Jeudi-est-consacre-a-la-creation-de-clients-Windows-8-dans-le-seminaire-Embarcadero-en-ligne-du-18-avril-2013/</link>
+      <guid>http://www.developpez.com/actu/54295/Le-Dev-du-Jeudi-est-consacre-a-la-creation-de-clients-Windows-8-dans-le-seminaire-Embarcadero-en-ligne-du-18-avril-2013/</guid>
+      <description><![CDATA[Le « Dev du Jeudi » du 18 avril 2013 : création de clients Windows 8 (VCL et FMX)
+Épisode 8 de la saison 2 des séminaires en ligne d'Embarcadero
 
+Le huitième épisode de la seconde saison des « Dev du Jeudi », le 18 avril 2013, est consacré à la création de clients Windows 8.
 
-Il y a de cela huit mois, l'équipe du projet webOS avait promis à ses adaptes ainsi qu'à la communauté open source de lancer une version libre du système d'exploitation pour appareils mobiles.
+Le « Dev du Jeudi » est un événement en ligne, entièrement en français et gratuit, qui a lieu tous les jeudis (à l'exception du jeudi 9 mai) jusqu'au jeudi 27 juin. Soit en tout 17 semaines de séminaires dédiés aux produits Embarcadero dont le RAD Studio XE3.
 
-[IMG]http://idelways.developpez.com/news/images/openwebos-logo.png[/IMG]
-Chose promise, chose due, car après beaucoup d'efforts, une version bêta de l'Open webOS est enfin disponible. 
-Sur le blog du projet Open webOS, l'équipe indique que cette version, dite « August Edition », comporte 54 composants webOS disponibles en open source. Cela c...]]></description>
-      <pubDate>Tue, 02 Oct 2012 14:54:00 +0200</pubDate>
+L'horaire est identique pour chaque session  : 10h-12h et 14h-17h (soit 5h par session).
+
+Le sujet de la semaine prochaine (jeudi 25 avril 2013) sera la cr...]]></description>
+      <pubDate>Thu, 18 Apr 2013 10:18:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[La rubrique Conception devient « ALM » sur Developpez.com, et couvre désormais toutes les phases du cycle de vie des applications]]></title>
-      <link>http://www.developpez.com/actu/48173/La-rubrique-Conception-devient-ALM-sur-Developpez-com-et-couvre-desormais-toutes-les-phases-du-cycle-de-vie-des-applications/</link>
-      <guid>http://www.developpez.com/actu/48173/La-rubrique-Conception-devient-ALM-sur-Developpez-com-et-couvre-desormais-toutes-les-phases-du-cycle-de-vie-des-applications/</guid>
-      <description><![CDATA[Bonjour,
+      <title><![CDATA[Android atteindra le milliard d'utilisateurs avant la fin d'année, Motorola préparerait des smartphones « phénoménaux »]]></title>
+      <link>http://www.developpez.com/actu/54280/Android-atteindra-le-milliard-d-utilisateurs-avant-la-fin-d-annee-Motorola-preparerait-des-smartphones-phenomenaux/</link>
+      <guid>http://www.developpez.com/actu/54280/Android-atteindra-le-milliard-d-utilisateurs-avant-la-fin-d-annee-Motorola-preparerait-des-smartphones-phenomenaux/</guid>
+      <description><![CDATA[Android atteindra le milliard d'utilisateurs avant la fin de l'année
+Les prochains smartphones de Motorola seront « phénoménaux » selon Eric Schmidt 
 
-L'équipe de rédaction a l'honneur de vous annoncer une importante amélioration au sommet des rubriques de Developpez.com. Pour lui donner plus d'importance et un plus grand impact, la méga-rubrique Conception devient « ALM » (Application lifecycle management).
+Eric Schmidt, président de Google, voit d'un bon oeil la progression de l'OS de la firme sur le marché du mobile. Pour lui, dans les huit ou neuf mois à venir, le nombre de possesseurs d'appareils Android devrait atteindre la barre du milliard. 
 
-Ce sigle ne vous dit rien ? C'est pourtant l'unique terme consacré par les professionnels de l'informatique pour désigner tout ce qui a trait au cycle de vie des applications, à savoir : analyse des exigences, rédaction de cahier des charges, architecture, conception, méthodes, tests, gestion des mises en production, etc.
-Il n'existe malheureusement pas d'équivalent en français et Conception est un terme bien réducteur que nous ne p...]]></description>
-      <pubDate>Tue, 02 Oct 2012 14:19:00 +0200</pubDate>
+La firme voudrait miser sur tous ses atouts pour pouvoir doubler ce nombre en deux ans tout au plus.
+
+Schmidt parle par exemple d'une future baisse drastique envisageable grâce à ses fabricants asiatiques à l'instar de Samsung.
+
+De plus, l'entreprise compte sur son acquisition de ...]]></description>
+      <pubDate>Wed, 17 Apr 2013 18:51:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Flash Player 11.5 et AIR 3.5 en betas : meilleur débogage pour les deux et support de Jelly Beans pour AIR]]></title>
-      <link>http://www.developpez.com/actu/48168/Flash-Player-11-5-et-AIR-3-5-en-betas-meilleur-debogage-pour-les-deux-et-support-de-Jelly-Beans-pour-AIR/</link>
-      <guid>http://www.developpez.com/actu/48168/Flash-Player-11-5-et-AIR-3-5-en-betas-meilleur-debogage-pour-les-deux-et-support-de-Jelly-Beans-pour-AIR/</guid>
-      <description><![CDATA[Flash Player 11.5 et AIR 3.5 en betas
-Meilleur débogage pour les deux et support de Jelly Beans pour AIR
+      <title><![CDATA[Foxconn payera des royalties à Microsoft, pour ses terminaux sous Android et Chrome OS]]></title>
+      <link>http://www.developpez.com/actu/54274/Foxconn-payera-des-royalties-a-Microsoft-pour-ses-terminaux-sous-Android-et-Chrome-OS/</link>
+      <guid>http://www.developpez.com/actu/54274/Foxconn-payera-des-royalties-a-Microsoft-pour-ses-terminaux-sous-Android-et-Chrome-OS/</guid>
+      <description><![CDATA[Foxconn payera des royalties à Microsoft,
+Pour ses terminaux sous Android et Chrome OS  
 
+Microsoft continue de faire passer son message « Android n'est pas gratuit ». 
 
-Adobe vient de confirmer l'arrivée de la bêta de son Flash Player 11.5.
+Après l'accord signé avec HTC, Samsung et une dizaine d'autres constructeurs, c'est au tour de la maison mère du géant taïwanais de la production d'équipements high-tech, sous-traitant notamment d'Apple, Motorola ou ASUS de rejoindre le programme de licences Android de Microsoft.
 
-Au menu de cette préversion, on notera surtout un nouvel outil de déboggage pour les développeurs ou la possibilité de partager la mémoire pour les ActionScript Workers.
-
-Si Adobe ne supportera plus la technologie dans le mobile, elle n'a cependant pas abandonné AIR dont la version 3.5 passe elle aussi en beta.
-
-Mieux, depuis que les runtimes d'Adobe partagent la même base il est possible de reprendre le code d'applications Rich Media pour les porter de Flash vers Air et inversement.]]></description>
-      <pubDate>Tue, 02 Oct 2012 14:12:00 +0200</pubDate>
+Foxconn bénéficierait alors du portefeuille de brevets de la société pour couvrir ses terminaux sous Android et Chrome OS parmi lesquels des smartphones, des tablettes et des télévisions, en échange de royalties dont les modalités de calcul ...]]></description>
+      <pubDate>Wed, 17 Apr 2013 17:47:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Google revoit ses capacités de stockage Cloud à la baisse et ses prix à la hausse, presque tous les utilisateurs de Drive concernés]]></title>
-      <link>http://www.developpez.com/actu/48159/Google-revoit-ses-capacites-de-stockage-Cloud-a-la-baisse-et-ses-prix-a-la-hausse-presque-tous-les-utilisateurs-de-Drive-concernes/</link>
-      <guid>http://www.developpez.com/actu/48159/Google-revoit-ses-capacites-de-stockage-Cloud-a-la-baisse-et-ses-prix-a-la-hausse-presque-tous-les-utilisateurs-de-Drive-concernes/</guid>
-      <description><![CDATA[Cloud : Google revoit ses espaces de stockage à la baisse
-Et ses prix à la hausse, du pain béni pour la concurrence ?
+      <title><![CDATA[Google pénalise-t-il les "entreprises qui ne payent pas" ? Une étude révèle que Flight Search favoriserait certaines compagnies aériennes]]></title>
+      <link>http://www.developpez.com/actu/54270/Google-penalise-t-il-les-entreprises-qui-ne-payent-pas-Une-etude-revele-que-Flight-Search-favoriserait-certaines-compagnies-aeriennes/</link>
+      <guid>http://www.developpez.com/actu/54270/Google-penalise-t-il-les-entreprises-qui-ne-payent-pas-Une-etude-revele-que-Flight-Search-favoriserait-certaines-compagnies-aeriennes/</guid>
+      <description><![CDATA[Google Flight Search pénalise-t-il les « entreprises qui ne payent pas » ? 
+Le moteur responsable de la baisse du trafic internet de compagnies aériennes selon une étude  
 
-Encore plus de « nettoyage de printemps » est à prévoir pour ses services en ligne, prévient Google. Il s'agit en fait d'un toilettage d'automne. Et autant le dire tout de suite, il n'est pas porteur de bonnes nouvelles pour les utilisateurs de Google Drive et de Picassa.
+L'étude a été menée par des étudiants d'Harvard sur des compagnies aériennes. Il apparaît que depuis que la firme a amorcé son moteur de recherche de vols Google Flight Search, cinq agences ont perdu 80 % de leur trafic alors que celles qui ont payé la publicité ont vu leur trafic grimper à 160 %.
 
-Google annonce en effet que les capacités de ces deux espaces de stockage « seront consolidées » et que la capacité totale gratuite sera désormais de 5 GB « pour les deux services ». Autrement dit, l'espace gratuit total perd 1 GB (- 16.5%) puisque auparavant Google Drive proposait déjà ces 5...]]></description>
-      <pubDate>Tue, 02 Oct 2012 12:55:00 +0200</pubDate>
+L'étude fournit des données sur la façon dont la promotion des services propres à Google dans les résultats des recherches peut porter préjudice à la concurrence.
+
+Selon Ben Edelman, professeur associé à Harvard Business...]]></description>
+      <pubDate>Wed, 17 Apr 2013 17:11:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,12 +11,15 @@
 		<div class="header"></div>
 		<div class="container">
 			<div class="access">
-				<div class="menu">
-					<div class="menu_item update" onclick="loadRSS();">
+				<div class="row-fluid" style="text-align:center">
+					<div class="span4 menu_item update" onclick="My_RSS_reader.loader();">
 						update
 					</div>
-					<div class="menu_item update" onclick="display_feed();">
+					<div class="span4 menu_item update" onclick="display_feed();">
 						Show feeds
+					</div>
+					<div class="span4 menu_item update" onclick="My_RSS_reader.read_marked();">
+						read marked !
 					</div>
 				</div>
 			</div>

@@ -6,361 +6,399 @@
 	
 	<link>http://www.goopilation.com</link>
 	<description>Toute l'actu Google en français : Gmail, AdSense, Blogger, Chrome, Docs, Picasa...</description>
-	<lastBuildDate>Thu, 27 Sep 2012 15:42:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Mar 2013 17:39:22 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 		
 		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Goopilation" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="goopilation" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://www.goopilation.com/?pushpress=hub" /><feedburner:emailServiceId xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">Goopilation</feedburner:emailServiceId><feedburner:feedburnerHostname xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://feedburner.google.com</feedburner:feedburnerHostname><item>
-		<title>[Google Maps] L’historique de vos recherches accessible depuis tous vos appareils</title>
-		<link>http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html</link>
-		<comments>http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html#comments</comments>
-		<pubDate>Thu, 27 Sep 2012 15:41:13 +0000</pubDate>
+		<title>[YouTube] Un milliard de visiteurs uniques par mois !</title>
+		<link>http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html</link>
+		<comments>http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html#comments</comments>
+		<pubDate>Thu, 28 Mar 2013 17:39:22 +0000</pubDate>
 		<dc:creator>Vincent</dc:creator>
-				<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google Maps]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<category><![CDATA[Recherche]]></category>
-
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11491</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2010/09/google_maps_logo.jpg" alt="" />Lorsque vous êtes en déplacement, il n&#8217;est pas toujours évident de se rappeler de ses précédentes recherches. Afin de rendre Google Maps plus utile et complet, nous avons apporté quelques améliorations à la synchronisation de vos expériences sur vos appareils. Aujourd&#8217;hui, avec la dernière version de Google Maps pour Android, il vous sera beaucoup plus [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2010/09/google_maps_logo.jpg" alt="" /><p>Lorsque vous êtes en déplacement, il n&rsquo;est pas toujours évident de se rappeler de ses précédentes recherches. Afin de rendre Google Maps plus utile et complet, nous avons apporté quelques améliorations à la <strong>synchronisation</strong> de vos expériences sur vos appareils. Aujourd&rsquo;hui, avec la dernière version de <a  href="http://maps.google.com/android" target="_blank">Google Maps pour Android</a>, il vous sera beaucoup plus rapide et facile d&rsquo;<strong>accéder aux lieux que vous avez recherché sur votre ordinateur depuis votre téléphone Android</strong>.</p>
-<p>Vérifiez simplement que vous êtes connecté à Google Maps et que votre <strong>historique Web</strong> est activé afin de profiter d&rsquo;un certain nombre de nouvelles fonctionnalités comme l&rsquo;historique des recherches et des itinéraires. Lorsque vous commencerez à taper le nom d&rsquo;un lieu ou d&rsquo;un itinéraire dans la barre de recherche de votre téléphone, vous verrez dans les suggestions des lieux et des itinéraires que vous avez déjà recherché.</p>
-<div class="wp-caption aligncenter" style="width: 650px"><a  href="http://3.bp.blogspot.com/-EdrgmlvXk-Q/UFn6QYmKgBI/AAAAAAAABak/kR7LVKu_llM/s1600/blog10.png" target="_blank" class="thickbox no_icon" rel="gallery-11491" title=""><img style="border: 0px;" src="http://3.bp.blogspot.com/-EdrgmlvXk-Q/UFn6QYmKgBI/AAAAAAAABak/kR7LVKu_llM/s640/blog10.png" alt="" width="640" height="313" border="0" /></a><p class="wp-caption-text">Synchronisation des historiques de recherche entre téléphone et ordinateur</p></div>
-<p style="text-align: left;">Vous pouvez également consulter vos historiques Google Maps via les onglets &laquo;&nbsp;Recherche&nbsp;&raquo; et &laquo;&nbsp;Itinéraires&nbsp;&raquo; dans <strong>Mes Adresses</strong>.</p>
-<div class="wp-caption aligncenter" style="width: 214px"><img src="https://lh3.googleusercontent.com/i1_A8NgEOxCSWSe1NYpw40eUhP002KcRiBRZfvQ-CiZ-8I28HtoZrhJLXTfIGPkT_y3nYGT84rSq-D90Hp2hzbBEdMUWZg94_wqtL5VUGUKMI00fZPU" alt="" width="204" height="320" /><p class="wp-caption-text">Consultez vos historiques de recherche depuis Mes Adresses</p></div>
-<p style="text-align: left;">De plus, comme dans les précédentes versions de <strong>Google Maps pour Android</strong>, si vous indiquez vos lieux de résidence et de travail, vous pouvez facilement accéder aux itinéraires vers ces lieux en tapant &laquo;&nbsp;<em>domicile</em>&nbsp;&raquo; ou &laquo;&nbsp;<em>travail</em>&nbsp;&raquo; dans le champ de recherche de votre appareil.<strong></strong></p>
-<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Keiji Maekawa,Ingénieur sur Google Maps</em></p>
-<hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html#comments">Aucun commentaire</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html&title=[Google Maps] L&rsquo;historique de vos recherches accessible depuis tous vos appareils">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html&t=[Google Maps] L&rsquo;historique de vos recherches accessible depuis tous vos appareils">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html&title=[Google Maps] L&rsquo;historique de vos recherches accessible depuis tous vos appareils">Twitter</a>
-<br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/lp-ExcBT-6g5i_AW-8DqffVTU-A/0/da"><img src="http://feedads.g.doubleclick.net/~a/lp-ExcBT-6g5i_AW-8DqffVTU-A/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/lp-ExcBT-6g5i_AW-8DqffVTU-A/1/da"><img src="http://feedads.g.doubleclick.net/~a/lp-ExcBT-6g5i_AW-8DqffVTU-A/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/09/google-maps-android-historiques-recherche-itineraires.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>[Android] Les bénéfices et l’importance de la compatibilité</title>
-		<link>http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html</link>
-		<comments>http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html#comments</comments>
-		<pubDate>Wed, 19 Sep 2012 06:00:08 +0000</pubDate>
-		<dc:creator>Vincent</dc:creator>
-				<category><![CDATA[Android]]></category>
-		<category><![CDATA[Mobile]]></category>
-
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11488</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/05/logo-android.jpg" alt="" />Nous avons développé Android comme une plateforme mobile Open Source utilisable gratuitement par quiconque désire l&#8217;utiliser. En 2008, Android a été lancé sous la licence Open Source Apache, et nous continuons à développer et à innover sous cette même licence libre. Le code est accessible à tous sur http://source.android.com. Cette ouverture permet aux constructeurs de personnaliser [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/05/logo-android.jpg" alt="" /><p>Nous avons développé <strong>Android</strong> comme une <strong>plateforme mobile Open Source</strong> utilisable gratuitement par quiconque désire l&rsquo;utiliser. En 2008, Android a été lancé sous la licence Open Source Apache, et nous continuons à développer et à innover sous cette même licence libre. Le code est accessible à tous sur <a  href="http://source.android.com/" target="_blank">http://source.android.com</a>. Cette ouverture permet aux constructeurs de personnaliser Android afin de créer de nouvelles expériences, ce qui est bénéfique à la fois pour l&rsquo;innovation et pour les consommateurs.</p>
-<p>En tant que principaux contributeurs de la plateforme, nous sommes conscients de notre responsabilité vis à vis des développeurs d&rsquo;applications &#8211; ceux qui investissent dans la plateforme en l&rsquo;adoptant et en créant des applis spécifiquement pour Android. Ces développeurs contribuent chacun à l&rsquo;amélioration de la plateforme dans son ensemble, car lorsqu&rsquo;un éditeur choisit de prendre en charge une plateforme, cette dernière devient plus riche et plus attractive pour les consommateurs. Alors que de plus en plus développeurs prennent en charge la plateforme Android, de nouveaux consommateurs sont susceptibles d&rsquo;opter pour des appareils Android grâce à la grande variété des contenus proposés. Et alors que le nombre d&rsquo;utilisateurs Android croît, les développeurs ont davantage d&rsquo;opportunité de vendre des applis. Le résultat de tout ceci est une stratégie à la fois bénéfique aux développeurs (qui vendent plus d&rsquo;applis), aux constructeurs (qui vendent plus d&rsquo;appareils), et aux consommateurs (qui ont accès à plus d&rsquo;innovations).</p>
-<p>En terme biologique, cet ensemble est souvent définit comme un <strong>écosystème</strong>. En terme économique, c&rsquo;est un <strong>cercle vertueux</strong> &#8211; un ensemble d&rsquo;évènements qui profitent tous de la croissance de chacun. Chaque itération du cycle renforce positivement le précédent. Ces cycles continueront à évoluer vers leur momentum jusqu&rsquo;à ce qu&rsquo;un <strong>facteur extérieur</strong> ne viennent les briser.</p>
-<p>Lorsque nous avons imaginé Android et constitué l&rsquo;<a  href="http://www.openhandsetalliance.com/" target="_blank">Open Handset Alliance</a>, nous voulions créer un cercle vertueux ouvert profitable à chacun de ces membres. Nous avons beaucoup réfléchi aux facteurs extérieurs susceptibles d&rsquo;affaiblir l&rsquo;écosystème. L&rsquo;un des facteurs que nous avons pu identifié est l&rsquo;<strong>incompatibilité</strong> entre les différentes implémentations d&rsquo;Android. Laissez-moi vous expliquer :</p>
-<p>Imaginez que la plateforme intégrée dans chaque téléphone soit légèrement différente selon l&rsquo;appareil. Suffisamment différente pour que Google Maps fonctionne normalement sur l&rsquo;un, mais très lentement sur l&rsquo;autre. Disons également que, pour cet exemple, Android implémente une API permettant de mettre le téléphone en veille une fraction de seconde si rien ne se passe sur l&rsquo;écran afin d&rsquo;économiser la batterie. Le prototype d&rsquo;une telle API pourrait ressembler à <strong>SystemClock.sleep(millis)</strong> où le paramètre millis est le nombre de millisecondes pendant lequel le téléphone doit rester en mode veille.</p>
-<p>Si un constructeur implémentait <strong>SystemClock.sleep()</strong> de façon incorrecte, et traitait le paramètre en secondes et non en millisecondes, le téléphone serait mis en veille mille fois plus longtemps que normalement ! Le téléphone de ce constructeur aurait beaucoup de mal à faire tourner Google Maps. Si les applis ne fonctionnent pas bien sur tous les appareils pour cause d&rsquo;incompatibilité, les consommateurs quitteraient l&rsquo;écosystème, suivis par les développeurs. Fin du cercle vertueux.</p>
-<p>Nous n&rsquo;avons jamais cru à une <a  href="http://android-developers.blogspot.com/2011/04/i-think-im-having-gene-amdahl-moment.html" target="_blank">taille imposée</a>, nous avons donc trouvé un moyen de permettre la différenciation pour les constructeurs tout en limitant les incompatibilités pour les consommateurs et les développeurs en offrant un outil de test de compatibilité. Cet outil teste  la plateforme pour s&rsquo;assurer que (par exemple) <strong>SystemClock(millis)</strong> ne met le téléphone en veille que pendant quelques millisecondes. Comme Android, cet outil est disponible gratuitement sous la licence Open Source Apache : <a  href="http://source.android.com/compatibility/cts-intro.html" target="_blank">http://source.android.com/compatibility/cts-intro.html </a></p>
-<p>Bien qu&rsquo;Android reste gratuit pour tous et utilisable à n&rsquo;importe quelle fin, seuls les appareils entièrement compatibles bénéficieront de l&rsquo;écosystème Android complet. En rejoignant l&rsquo;Open Handset Alliance, chaque membre contribue à une seule plateforme Android, pas à plusieurs versions incompatibles entre elles. Nous sommes très reconnaissants envers les 85 membres de l&rsquo;Alliance qui nous ont aidé à construire l&rsquo;écosystème, et qui ont continué à innover à un rythme incroyable. Grâce à leur soutien, l&rsquo;écosystème Android compte désormais plus de 500 millions d&rsquo;appareils compatibles, et c&rsquo;est loin d&rsquo;être terminé !</p>
-<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Andy Rubin, Vice Président des contenus mobiles et digitaux chez Google</em></p>
-<blockquote><p><strong>Note de Vincent :</strong></p>
-<p>Cet article fait suite à une <a  href="http://www.frandroid.com/actualites-generales/111111_google-fait-pression-sur-acer-pour-le-marche-chinois/" target="_blank">affaire</a> opposant <strong>Google</strong> à <strong>Allibaba</strong>, le géant de l&rsquo;eCommerce en Chine. Alibaba a en effet développé un OS mobile dérivé d&rsquo;Android nommé <strong>Aliyun</strong>, dont l&rsquo;ambition affichée est de devenir &laquo;&nbsp;l&rsquo;Android chinois&nbsp;&raquo;.</p>
-<p>Alors qu&rsquo;Acer s&rsquo;apprétait à lancer le première téléphone équipé d&rsquo;Aliyun, Google est <a  href="http://www.frandroid.com/actualites-generales/111151_acer-et-alibaba-google-a-une-explication/" target="_blank">intervenu</a> pour bloquer la vente de ce dernier pour une raison d&rsquo;incompatibilité avec l&rsquo;écosystème Android.</p></blockquote>
-<hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html#comments">Aucun commentaire</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html&title=[Android] Les bénéfices et l&rsquo;importance de la compatibilité">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html&t=[Android] Les bénéfices et l&rsquo;importance de la compatibilité">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html&title=[Android] Les bénéfices et l&rsquo;importance de la compatibilité">Twitter</a>
-<br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/SjvbpBguD2-5Zl-UEm1sYdUj7kM/0/da"><img src="http://feedads.g.doubleclick.net/~a/SjvbpBguD2-5Zl-UEm1sYdUj7kM/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/SjvbpBguD2-5Zl-UEm1sYdUj7kM/1/da"><img src="http://feedads.g.doubleclick.net/~a/SjvbpBguD2-5Zl-UEm1sYdUj7kM/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/09/android-alibaba-acer-compatibilite.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>[Google Drive] Mise à jour des applis iOS et Android</title>
-		<link>http://www.goopilation.com/2012/09/google-drive-ios-android.html</link>
-		<comments>http://www.goopilation.com/2012/09/google-drive-ios-android.html#comments</comments>
-		<pubDate>Fri, 14 Sep 2012 12:16:32 +0000</pubDate>
-		<dc:creator>Vincent</dc:creator>
-				<category><![CDATA[Android]]></category>
-		<category><![CDATA[Bureautique]]></category>
-		<category><![CDATA[Google Drive]]></category>
-		<category><![CDATA[Google Mobile]]></category>
-		<category><![CDATA[Mobile]]></category>
-
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11482</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2012/09/google-drive-logo.jpg" alt="" />Chaque jour, de plus en plus de personnes choisissent de passer au tout numérique et d&#8217;effectuer des tâches sur le cloud. Contribuant à rendre tout ceci possible, Google Drive vous permet de créer, partager et conserver l&#8217;ensemble de vos données. Drive est accessible en ligne sur le Web, ainsi que sur Mac, Windows, Android et [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2012/09/google-drive-logo.jpg" alt="" /><p>Chaque jour, de plus en plus de personnes choisissent de passer au <a  href="http://googleblog.blogspot.com/2012/05/get-stuff-done-in-cloud-go-google.html" target="_blank">tout numérique</a> et d&rsquo;effectuer des tâches sur le cloud. Contribuant à rendre tout ceci possible, <a  href="http://googleblog.blogspot.com/2012/04/introducing-google-drive-yes-really.html" target="_blank">Google Drive</a> vous permet de <strong>créer</strong>, <strong>partager</strong> et <strong>conserver</strong> l&rsquo;ensemble de vos données. <strong>Drive</strong> est accessible en ligne sur le Web, ainsi que sur <a  href="http://support.google.com/a/bin/answer.py?hl=fr&#038;answer=2490101" target="_blank">Mac</a>, <a  href="http://support.google.com/a/bin/answer.py?hl=fr&#038;answer=2490101" target="_blank">Windows</a>, <a  href="http://support.google.com/drive/bin/answer.py?hl=fr&#038;answer=1257518&#038;topic=1361437&#038;ctx=topic" target="_blank">Android</a> et <a  href="http://support.google.com/drive/bin/answer.py?hl=fr&#038;answer=2497971&#038;topic=2429901&#038;ctx=topic" target="_blank">iOS</a>.</p>
-<h1>Mise à jour iOS</h1>
-<p>A partir d&rsquo;aujourd&rsquo;hui, si vous utilisez votre <a  href="http://itunes.apple.com/app/google-drive/id507874739?mt=8" target="_blank">application Drive</a> sur un appareil <strong>iOS</strong>, vous pourrez modifier les documents Google, comme sur l&rsquo;<a  href="http://googleblog.blogspot.com/2012/02/collaborate-and-edit-anywhere-with.html" target="_blank">appli Android</a>. Vous pourrez ainsi <a  href="http://support.google.com/drive/?hl=fr&#038;p=mktg_ios_documents" target="_blank">créer un document, en modifier un déjà existant ou mettre en forme du texte</a> depuis votre <strong>iPhone</strong> ou votre <strong>iPad</strong>. Et de la même façon que sur votre ordinateur, vous pourrez voir en instantané les modifications des autres contributeurs.</p>
-<p style="text-align: center;"><a  href="http://3.bp.blogspot.com/-8ad99pdqhVc/UE350IjRcYI/AAAAAAAAItc/aD6b60lk_34/s1600/ipad-editor-medium+(1).png" target="_blank" class="thickbox no_icon" rel="gallery-11482" title=""><img class="aligncenter" style="border: 0px;" src="http://3.bp.blogspot.com/-8ad99pdqhVc/UE350IjRcYI/AAAAAAAAItc/aD6b60lk_34/s400/ipad-editor-medium+(1).png" alt="" width="287" height="400" border="0" /></a></p>
-<p>Vous remarquerez aussi d&rsquo;autres améliorations, comme la possibilité de visualiser les <a  href="http://support.google.com/drive/?hl=fr&#038;p=mktg_ios_presentations" target="_blank">présentations</a> depuis votre iPhone, avec le mode plein-écran et la possibilité de faire défiler les slides. Vous pouvez aussi <a  href="http://support.google.com/drive/?hl=fr&#038;p=mktg_ios_organize" target="_blank">créer de nouveaux dossiers, déplacer des fichiers dans des dossiers, et télécharger des fichiers</a> (comme des photos ou des vidéos) depuis votre téléphones directement dans l&rsquo;appli Drive.</p>
-<h2>Mise à jour Android</h2>
-<p>Nous déployons également une mise à jour de l&rsquo;appli Drive pour <strong>Android</strong>. Vous pouvez désormais ajouter des <strong>commentaires</strong>, répondre à des commentaires existants, et visualiser des tableaux dans vos documents Google. Et vous aurez également la possibilité de voir des présentations et d&rsquo;organiser vos données comme vos amis possesseurs d&rsquo;iPhone.</p>
-<h2>Dans les cartons&#8230;</h2>
-<p style="text-align: left;">Nous avons beaucoup d&rsquo;autres choses de prévues pour les applis mobiles Drive, comme la modification native et la <strong>collaboration en temps-réel pour les feuilles de calcul</strong>. A suivre.</p>
-<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/5tthVEzX-UI" frameborder="0" width="560" height="349"></iframe></p>
-<p style="text-align: left;"><span>Installez Drive sur votre iPhone, iPad ou iPod Touch depuis l&rsquo;</span><a  href="http://itunes.apple.com/app/google-drive/id507874739?mt=8" target="_blank">App Store</a><span>, ou visitez le </span><a  href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs" target="_blank">Play Store</a><span> pour obtenir l&rsquo;appli Android. Pour en savoir plus, rendez-vous sur </span><a  href="http://drive.google.com/start" target="_blank">drive.google.com/start</a><span>.</span></p>
-<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Anil Sabharwal,<br />
-Chef de produit sénior sur Google Drive</em></p>
-<hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/09/google-drive-ios-android.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/09/google-drive-ios-android.html#comments">Aucun commentaire</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/09/google-drive-ios-android.html&title=[Google Drive] Mise à jour des applis iOS et Android">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/09/google-drive-ios-android.html&t=[Google Drive] Mise à jour des applis iOS et Android">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/09/google-drive-ios-android.html&title=[Google Drive] Mise à jour des applis iOS et Android">Twitter</a>
-<br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/N2Khp_EeNbLUOObwPS10tjAmQlE/0/da"><img src="http://feedads.g.doubleclick.net/~a/N2Khp_EeNbLUOObwPS10tjAmQlE/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/N2Khp_EeNbLUOObwPS10tjAmQlE/1/da"><img src="http://feedads.g.doubleclick.net/~a/N2Khp_EeNbLUOObwPS10tjAmQlE/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/09/google-drive-ios-android.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>[YouTube] Arrivée de la nouvelle application iPhone et iPod Touch</title>
-		<link>http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html</link>
-		<comments>http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html#comments</comments>
-		<pubDate>Tue, 11 Sep 2012 09:21:42 +0000</pubDate>
-		<dc:creator>florentM</dc:creator>
-				<category><![CDATA[Mobile]]></category>
-		<category><![CDATA[Social]]></category>
+				<category><![CDATA[Social]]></category>
 		<category><![CDATA[YouTube]]></category>
 
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11479</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/youtube-logo.jpg" alt="" />Vous, fans purs et durs de YouTube qui n&#8217;avez pas assez de votre dose de vidéos YouTube sur votre mobile, nous avons quelques bonnes nouvelles: à partir d&#8217;aujourd&#8217;hui, vous pouvez télécharger l&#8217;application officielle de YouTube pour iPhone et iPod touch à partir de l&#8217; App Store, vous apportant une expérience de visionnage améliorée des vidéos [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/youtube-logo.jpg" alt="" /><p>Vous, fans purs et durs de YouTube qui n&rsquo;avez pas assez de votre dose de vidéos YouTube sur votre mobile, nous avons quelques bonnes nouvelles: à partir d&rsquo;aujourd&rsquo;hui, vous pouvez <a  href="http://itunes.apple.com/app/youtube/id544007664" target="_blank">télécharger</a> l&rsquo;application officielle de YouTube pour iPhone et iPod touch à partir de l&rsquo; <a  href="http://itunes.apple.com/app/youtube/id544007664" target="_blank">App Store</a>, vous apportant une expérience de visionnage améliorée des vidéos que vous aimez et de nouvelles façons de les partager avec les gens que vous aimez.</p>
-<p>La nouvelle application a été développée par les ingénieurs YouTube, pour donner à votre iPhone et iPod touch la meilleure expérience mobile. Voici ce que vous trouverez:</p>
-<p><strong>Des dizaines de milliers d&rsquo;autres vidéos:</strong> Regardez les clips officiels comme <a  href="http://youtu.be/WA4iX5D9Z64" target="_blank">le dernier hit de Taylor Swift</a> .</p>
-<div><img class="aligncenter" style="border: 0pt none;" src="https://lh3.googleusercontent.com/oiVsW1GV7oBVnLPDB4o60Ex7KQNsrqHTpfsqhbRkWoESTYb7V88y_Sw0CMo3aWQPxT3wnhEMD54cV5iBQN2u5IkyzxQswMSgBdaBuv8WXRWwR_r4RKU" alt="" width="169" height="300" border="0" /></div>
-<p><strong>Un nouveau guide des chaînes YouTube:</strong> Faites glisser votre doigt à partir du bord gauche de l&rsquo;écran pour révéler un guide des chaines auquelles vous êtes abonnés sur YouTube, vous donnant un accès instantané à tout, de <a  href="http://www.youtube.com/allisports"> Alli Sports</a> à <a  href="http://www.youtube.com/yomyomf">YOMYOMF</a>.</p>
-<div><img class="aligncenter" src="https://lh4.googleusercontent.com/MezXWWHEcN3cK3HbI5iGrHYbCpZDHHdkbtkbO449aKWNWGf-27Qj_DMubz0ORAct-59o-XuI-wD0qpZ9qEVmTwJtzr6j0AaEmZTjCjH4Yx06Dc3bf2o" alt="" width="169" height="300" /></div>
-<p><strong>Trouvez rapidement des vidéos incroyables:</strong> retrouvez plus rapidement les vidéo de <strong>“<a  href="http://www.youtube.com/watch?v=9bZkp7q19f0">Gangnam Style</a>”</strong> à l&rsquo;aide des nouveaux outils de recherche qui donnent des suggestions pendant que vous tapez, et vous permettent de trier les résultats par vidéos ou chaines YouTube. Parcourez les listes de vidéos, les commentaires et les descriptifs des vidéos, tout en regardant une vidéo.</p>
-<p style="text-align: center;"><strong><img class="aligncenter" src="https://lh3.googleusercontent.com/tLGa91OYkoKGBKnXbtjgwjSoo6AbJn_kToEH9DUUZtRcLwkvzpBe69BdXIFvpS0sOnAZ1p0jw_t_y4dnC9h-2IReFWuU5KKLkRfrzxbbrX7zBhb6axA" alt="" width="169" height="300" /></strong></p>
-<p><strong>Plus de façons de partager vos vidéos avec les gens que vous aimez:</strong> Partager avec vos amis cette <a  href="http://translate.google.com/translate?sl=en&#038;tl=fr&#038;u=http://www.youtube.com/watch%3Fv%3DW_6SfMZxoLc" target="_blank">incroyable vidéo</a> YouTube sur Google+, Facebook, Twitter, par mail ou envoyez un message texte (SMS) directement depuis l&rsquo;application.</p>
-<p style="text-align: center;"><strong><img class="aligncenter" src="https://lh5.googleusercontent.com/D5ptT0rp8irImYzKBvezPs4N9te0OVgRgeHLV2rKszuF--D88oKZUnV-iV3fbQi9RbyQm9NRalyjjuANyhQXrl1cgrThZwGbwOb98u342rY1Et_eDFE" alt="" width="169" height="300" /></strong></p>
-<p>Il y a encore plus de choses à découvrir avec la <strong>nouvelle application YouTube pour iPhone et iPod touch</strong>, disponible dès aujourd&rsquo;hui en téléchargement sur l&rsquo;App Store. Nous travaillons sur une version optimisée de l&rsquo;application YouTube pour iPad pour les mois à venir, et restez à l&rsquo;écoute pour plus de détails.</p>
-<p>Vous nous avez déjà montré que vous aimez aller sur YouTube depuis votre mobile à hauteur de <strong>1 milliard d&rsquo;affichages mobiles par jour</strong> ainsi nous ne pouvons pas attendre de voir ce que vous pensez de cette nouvelle expérience.</p>
-<p style="text-align: right;"><em><span style="color: #888888;">Publié dans sa version originale par Andrey Doronichev, responsable de YouTube mobile</span></em></p>
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11751</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/youtube-logo.jpg" alt="" />Depuis huit ans, vous venez sur YouTube pour regarder et regarder des vidéos provenant du monde entier. Des dizaines de milliers de partenaires ont créé des chaînes qui ont su trouver leur public de passionnés. Les publicitaires ont compris la tendance : les 100 plus grandes marques du monde font toutes de la publicité sur [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/youtube-logo.jpg" alt="" /><p>Depuis huit ans, vous venez sur YouTube pour regarder et regarder des vidéos provenant du monde entier. Des dizaines de milliers de partenaires ont créé des chaînes qui ont su trouver leur public de passionnés. Les publicitaires ont compris la tendance : les <a  href="http://adage.com/article/datacenter-advertising-spending/100-leading-national-advertisers/234882/" target="_blank">100 plus grandes marques du monde</a> font toutes de la publicité sur YouTube. Et aujourd&rsquo;hui, nous annonçons un nouveau record : <strong>YouTube a atteint le nombre symbolique du milliard de visiteurs uniques par mois.</strong></p>
+<p>Qu&rsquo;est-ce que cela signifie ?</p>
+<ul>
+<li>Un internaute sur deux visite YouTube chaque mois.</li>
+<li>Notre audience mensuelle est l&rsquo;équivalent de 10 fois celle du Super Bowl.</li>
+<li>Si YouTube était un pays, nous serions le troisième plus peuplé dans le monde après la Chine et l&rsquo;Inde.</li>
+<li>PSY et Madonna devraient répéter leur <a  href="https://www.google.com/search?q=madonna+psy&#038;hl=en&#038;tbm=isch&#038;tbo=u&#038;source=univ&#038;sa=X&#038;ei=7_BIUdbbO4bPiwKJqIDgAw&#038;sqi=2&#038;pjf=1&#038;ved=0CDQQsAQ&#038;biw=1633&#038;bih=868" target="_blank">performance sur Madison Square Garden</a> plus de 200 000 autres fois.</li>
+</ul>
+<p>Au cinéaste amateur dans sa cave, au prochain phénomène pop, et à tous les fans du monde entier qui se connectent, s&rsquo;abonnent et partagent leurs vidéos préférées avec la planète : merci d&rsquo;avoir fait de YouTube ce qu&rsquo;il est aujourd&rsquo;hui. Vous avez réellement créé quelque chose d&rsquo;unique.</p>
+<p style="text-align: right;"><em>Posté dans sa version originale en anglais par l&rsquo;équipe YouTube</em></p>
 <hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html#comments">Un commentaire</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html&title=[YouTube] Arrivée de la nouvelle application iPhone et iPod Touch">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html&t=[YouTube] Arrivée de la nouvelle application iPhone et iPod Touch">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html&title=[YouTube] Arrivée de la nouvelle application iPhone et iPod Touch">Twitter</a>
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html&title=[YouTube] Un milliard de visiteurs uniques par mois !">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html&t=[YouTube] Un milliard de visiteurs uniques par mois !">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html&title=[YouTube] Un milliard de visiteurs uniques par mois !">Twitter</a>
 <br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/CCfzAo4UVD0EgO2IN89cK8Rg9rg/0/da"><img src="http://feedads.g.doubleclick.net/~a/CCfzAo4UVD0EgO2IN89cK8Rg9rg/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/CCfzAo4UVD0EgO2IN89cK8Rg9rg/1/da"><img src="http://feedads.g.doubleclick.net/~a/CCfzAo4UVD0EgO2IN89cK8Rg9rg/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/09/nouvelle-application-youtube-iphone-ipod-touch.html/feed</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>[Google Agenda] Ajouter des chats vidéos à un évènements via Google+ Hangouts</title>
-		<link>http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html</link>
-		<comments>http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html#comments</comments>
-		<pubDate>Mon, 03 Sep 2012 06:30:36 +0000</pubDate>
-		<dc:creator>Vincent</dc:creator>
-				<category><![CDATA[Bureautique]]></category>
-		<category><![CDATA[Google Agenda]]></category>
-		<category><![CDATA[Google+]]></category>
-		<category><![CDATA[Social]]></category>
-
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11454</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2010/03/google-agenda.png" alt="" />Utilisez-vous Google Agenda pour organiser des retrouvailles avec des amis et des membres de votre famille ? Désormais, si vous avez activé Google+, vous pouvez planifier des chats vidéo depuis Google Agenda via Google+ Hangouts. Il ne suffit que d&#8217;un clic pour ajouter un chat vidéo à un évènement, et un autre clic pour rejoindre [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2010/03/google-agenda.png" alt="" /><p>Utilisez-vous Google Agenda pour organiser des retrouvailles avec des amis et des membres de votre famille ? Désormais, si vous avez <a  href="https://plus.google.com/up/accounts/upgrade/?gpsrc=caho0" target="_blank">activé Google+</a>, vous pouvez planifier des <strong>chats vidéo</strong> depuis <a  href="https://www.google.com/calendar" target="_blank">Google Agenda</a> via <strong>Google+ Hangouts</strong>. Il ne suffit que d&rsquo;un clic pour ajouter un chat vidéo à un évènement, et un autre clic pour rejoindre un chat.</p>
-<div><a  href="http://www.goopilation.com/wp-content/uploads/2012/09/Capture-d’écran-2012-09-02-à-13.30.41.png" class="thickbox no_icon" rel="gallery-11454" title="Capture d’écran 2012-09-02 à 13.30.41"><img class="aligncenter size-medium wp-image-11455" title="Capture d’écran 2012-09-02 à 13.30.41" src="http://www.goopilation.com/wp-content/uploads/2012/09/Capture-d’écran-2012-09-02-à-13.30.41-400x210.png" alt="" width="400" height="210" /></a></div>
-<hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html#comments">Aucun commentaire</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html&title=[Google Agenda] Ajouter des chats vidéos à un évènements via Google+ Hangouts">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html&t=[Google Agenda] Ajouter des chats vidéos à un évènements via Google+ Hangouts">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html&title=[Google Agenda] Ajouter des chats vidéos à un évènements via Google+ Hangouts">Twitter</a>
-<br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/6Jnxdf1gBjB0HocwuseDd3xLoqE/0/da"><img src="http://feedads.g.doubleclick.net/~a/6Jnxdf1gBjB0HocwuseDd3xLoqE/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/6Jnxdf1gBjB0HocwuseDd3xLoqE/1/da"><img src="http://feedads.g.doubleclick.net/~a/6Jnxdf1gBjB0HocwuseDd3xLoqE/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/09/google-agenda-hangouts-video.html/feed</wfw:commentRss>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/03/youtube-un-milliard-de-visiteurs-uniques-par-mois.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>[Webmaster Tools] Recevez des alertes email en cas de comportement inhabituel de vos sites sur les pages de recherche de Google</title>
-		<link>http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html</link>
-		<comments>http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html#comments</comments>
-		<pubDate>Thu, 23 Aug 2012 12:10:23 +0000</pubDate>
-		<dc:creator>Vincent</dc:creator>
-				<category><![CDATA[Google Webmaster Tools]]></category>
-		<category><![CDATA[Webmasters]]></category>
-
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11435</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://3.bp.blogspot.com/_kbfnyxSgq-s/SJyN0gYeTBI/AAAAAAAAASU/5Kybm2TcCrU/s400/Google+Webmaster+Tools+Logo.gif" alt="" />Nous savons qu&#8217;un bon nombre d&#8217;entre vous consultent nos Outils pour les Webmasters chaque jour (merci !), mais tout le monde n&#8217;a pas le temps de surveiller le bon fonctionnement de son site 24 heures sur 24 et 7 jours sur 7. L&#8217;analyse des données et l&#8217;identification des problèmes importants peuvent prendre beaucoup de temps. [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://3.bp.blogspot.com/_kbfnyxSgq-s/SJyN0gYeTBI/AAAAAAAAASU/5Kybm2TcCrU/s400/Google+Webmaster+Tools+Logo.gif" alt="" /><p>Nous savons qu&rsquo;un bon nombre d&rsquo;entre vous consultent nos <strong>Outils pour les Webmasters</strong> chaque jour (merci !), mais tout le monde n&rsquo;a pas le temps de surveiller le bon fonctionnement de son site 24 heures sur 24 et 7 jours sur 7. L&rsquo;analyse des données et l&rsquo;identification des problèmes importants peuvent prendre beaucoup de temps. Afin de rendre les choses un peu plus simples, nous avons ajouté des <strong>alertes</strong> dans les Outils pour les Webmasters. Nous traitons les données issues de votre site et essayons de détecter les évènements susceptibles de vous intéresser. Après avoir récemment déployé les <a  href="http://googlewebmastercentral.blogspot.com/2012/07/new-crawl-error-alerts-from-webmaster.html" target="_blank">alertes sur les erreurs d&rsquo;exploration</a>, nous ajoutons aujourd&rsquo;hui les <strong>alertes concernant les données des requêtes de recherche</strong>.</p>
-<p>La fonctionnalité <a  href="http://support.google.com/webmasters/bin/answer.py?hl=fr&#038;answer=35252" target="_blank">Requêtes de recherche</a> montre, entre autres, les impressions et les clics pour vos principales pages. Pour la majorité des sites, ces courbes suivent souvent des modèles répétitifs. Par conséquent, si un pic ou une chute intervient, il est pertinent de vous en avertir afin que vous puissiez identifier la cause de cet évènement. Certains changements peuvent être causés par des problèmes techniques qui doivent être solutionnés, comme des redirections mal configurées. Par exemple, un flux continue de clics chutant soudainement à zéro est un évènement à investiguer.</p>
-<p>Les alertes ressemblent à ceci :</p>
-<p><a  href="http://www.goopilation.com/wp-content/uploads/2012/08/tsq_alerts-1.png" class="thickbox no_icon" rel="gallery-11435" title="tsq_alerts (1)"><img class="aligncenter size-medium wp-image-11437" title="tsq_alerts (1)" src="http://www.goopilation.com/wp-content/uploads/2012/08/tsq_alerts-1-400x256.png" alt="" width="400" height="256" /></a></p>
-<p>Nous sommes encore en train d&rsquo;affiner les seuil d&rsquo;alerte pour les messages et vos retours sont les bienvenus dans nos <a  href="http://groups.google.com/a/googleproductforums.com/forum/#!forum/webmasters" target="_blank">forums</a>. Nous espérons que ces alertes vous seront utiles. N&rsquo;oubliez pas d&rsquo;activer le <a  href="http://support.google.com/webmasters/bin/answer.py?hl=fr&#038;answer=140528" target="_blank">transfert des messages</a> pour les recevoir dans votre boîte email.</p>
-<p style="text-align: right;"><em>Posté dans sa version originale en anglais Javier Tordable, </em><br />
-<em>Chef d&rsquo;équipe sur Google Webmaser Tools</em></p>
-<hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html#comments">4 commentaires</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html&title=[Webmaster Tools] Recevez des alertes email en cas de comportement inhabituel de vos sites sur les pages de recherche de Google">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html&t=[Webmaster Tools] Recevez des alertes email en cas de comportement inhabituel de vos sites sur les pages de recherche de Google">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html&title=[Webmaster Tools] Recevez des alertes email en cas de comportement inhabituel de vos sites sur les pages de recherche de Google">Twitter</a>
-<br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/J27Lg1sIAYmhrmj2pgQgJ-KET5w/0/da"><img src="http://feedads.g.doubleclick.net/~a/J27Lg1sIAYmhrmj2pgQgJ-KET5w/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/J27Lg1sIAYmhrmj2pgQgJ-KET5w/1/da"><img src="http://feedads.g.doubleclick.net/~a/J27Lg1sIAYmhrmj2pgQgJ-KET5w/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/08/google-webmaster-tools-alertes-requetes-recherche.html/feed</wfw:commentRss>
-		<slash:comments>4</slash:comments>
-		</item>
-		<item>
-		<title>[Google+] Introduction des URLs personnalisées</title>
-		<link>http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html</link>
-		<comments>http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html#comments</comments>
-		<pubDate>Mon, 20 Aug 2012 20:26:18 +0000</pubDate>
-		<dc:creator>sakiman</dc:creator>
-				<category><![CDATA[Google+]]></category>
-		<category><![CDATA[Social]]></category>
-
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11433</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2011/06/google-plus.png" alt="" />Cet article, écrit en anglais sur le site Mashable par Anita Li, traite de l’annonce par Google de la possibilité de personnaliser l’URL des pages sur Google+. Google a annoncé lundi 13 aout l’introduction des &#171;&#160;vanity URLs&#160;&#187; sur Google+, permettant ainsi aux utilisateurs de customiser leur page de profil. Les vanity URLs sont des adresses web [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2011/06/google-plus.png" alt="" /><blockquote><p><em>Cet <a  href="http://mashable.com/2012/08/14/google-plus-vanity-urls/" target="_blank">article</a>, écrit en anglais sur le site Mashable par Anita Li, traite de l’annonce par Google de la possibilité de personnaliser l’URL des pages sur Google+.</em></p></blockquote>
-<p>Google a annoncé lundi 13 aout l’introduction des &laquo;&nbsp;<strong>vanity URLs</strong>&nbsp;&raquo; sur Google+, permettant ainsi aux utilisateurs de customiser leur page de profil.</p>
-<p>Les vanity URLs sont des adresses web courtes, faciles à retenir, apparaissant dans la barre de navigation correspondant à la page ou profil d’un membre sur Google+, d’après le <a  href="https://plus.google.com/109179785755319022525/posts/aWREtiDhse2." target="_blank">post</a> d’un employé, Saurabh Sharma.</p>
-<p>Les nouvelles adresses diffèreront de leur format actuel. Jusqu’ici, chaque utilisateur était identifié par un numéro long et unique similaire à : <a  href="https://plus.google.com/107341475998486822497" target="_blank">https://plus.google.com/107341475998486822497.</a></p>
-<p>Sharma, Product manager chez Google basé dans les bureaux de San Francisco, précise que les adresses URL personnalisées seront « <em>disponibles dans le monde entier</em> », sans spécifier pour autant de date exacte. « <em>D’abord, les URLSs customisées sont introduites auprès d’un nombre limité de profils vérifiés. A terme, nous planifions d’étendre leur usage a beaucoup plus d’individus et de marques</em> ». Sharma ajoute que ces URLs faciliteront la recherche de profils sur le réseau social.</p>
-<p>Cette annonce de Google a recueilli des échos favorables, certains ne manquant pas de rappeler que cette customisation était attendue.</p>
-<p>Auparavant, les vanity URLs étaient seulement disponibles à travers des parties tierces, comme <a  href="http://gplus.to/)." target="_blank">Gplus.to</a>.</p>
-<p>Pour l’heure, seul un nombre limité de célébrités telles que <a  href="https://plus.google.com/+davidbeckham" target="_blank">David Beckham</a> (<a  href="http://google.com/+davidbeckham" target="_blank">google.com/+davidbeckham</a>), <a  href="https://plus.google.com/+hughjackman" target="_blank">Hugh Jackman</a> et <a  href="https://plus.google.com/+BritneySpears" target="_blank">Britney Spears</a>, et des marques comme <a  href="https://plus.google.com/+hugoboss" target="_blank">Hugo Boss</a>, <a  href="https://plus.google.com/+Toyota" target="_blank">Toyota</a> et <a  href="https://plus.google.com/+Delta" target="_blank">Delta</a> ont bénéficié d’adresses spécialisées.</p>
-<p>Google+ emboite le pas d’autres réseaux sociaux qui offrent cette option, tels que Facebook ou Twitter.</p>
-<hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html#comments">2 commentaires</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html&title=[Google+] Introduction des URLs personnalisées">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html&t=[Google+] Introduction des URLs personnalisées">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html&title=[Google+] Introduction des URLs personnalisées">Twitter</a>
-<br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/X8-JABzDSRwcBa4sf32Tefbdi0M/0/da"><img src="http://feedads.g.doubleclick.net/~a/X8-JABzDSRwcBa4sf32Tefbdi0M/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/X8-JABzDSRwcBa4sf32Tefbdi0M/1/da"><img src="http://feedads.g.doubleclick.net/~a/X8-JABzDSRwcBa4sf32Tefbdi0M/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/08/google-plus-vanity-urls-personnalisees.html/feed</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>[Google Maps] Les horaires de plus d’un million de stations de métro, train, bus et tram dans le creux de votre main</title>
-		<link>http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html</link>
-		<comments>http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html#comments</comments>
-		<pubDate>Mon, 20 Aug 2012 11:57:39 +0000</pubDate>
+		<title>[Google Now] Et maintenant, le widget !</title>
+		<link>http://www.goopilation.com/2013/02/google-now-widget.html</link>
+		<comments>http://www.goopilation.com/2013/02/google-now-widget.html#comments</comments>
+		<pubDate>Fri, 15 Feb 2013 07:43:01 +0000</pubDate>
 		<dc:creator>Vincent</dc:creator>
 				<category><![CDATA[A la Une]]></category>
 		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google Maps]]></category>
+		<category><![CDATA[Mobile]]></category>
+
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11732</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2013/02/google-now-logo.jpg" alt="" />Lorsque vous laissez les ordinateurs s&#8217;occuper des tâches laborieuses, vous pouvez vous concentrer sur ce qui compte vraiment dans la vie. Google Now vous aide dans ce sens, vous donnant les informations dont vous avez besoin, avant même que vous n&#8217;en fassiez la demande. Comme par exemple vous avertir en cas de changement de vos [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2013/02/google-now-logo.jpg" alt="" /><p>Lorsque vous laissez les ordinateurs s&rsquo;occuper des tâches laborieuses, vous pouvez vous concentrer sur ce qui compte vraiment dans la vie. <a  href="http://www.google.com/now/" target="_blank">Google Now</a> vous aide dans ce sens, vous donnant les informations dont vous avez besoin, avant même que vous n&rsquo;en fassiez la demande. Comme par exemple vous avertir en cas de changement de vos horaires de vol, vous proposer les billets lorsque vous arrivez à l&rsquo;aéroport, ou vous informer sur la météo de votre prochaine destination. Aujourd&rsquo;hui, nous rendons <strong>Google Now</strong> encore plus utile en y intégrant de nouveaux partenaires et en facilitant l&rsquo;accès à toutes vos informations.</p>
+<p>Vous avez prévu d&rsquo;aller au cinéma ? Les cartes <strong>Films</strong> incluent désormais les dernières critiques de <strong>Rotten Tomatoes</strong>, afin que vous puissiez choisir votre film. Si vous achetez vos billets sur <strong>Fandango</strong>, Google Now vous rappellera de vous mettre en route pour le cinéma, et affichera les billets lorsque vous y serez</p>
+<p>A la recherche d&rsquo;une nouvelle maison ? Google Now vous notifie des biens en vente dans votre secteur via le site <strong>Zillow</strong>. De plus, lorsque vous irez visiter une maison, Google Now vous sortira automatiquement plus d&rsquo;informations sur cette dernière.</p>
+<p><a  href="http://3.bp.blogspot.com/-XX-D3r2APKs/URv2LqaN_bI/AAAAAAAAANA/cDgjP_olJro/s400/ZillowListing.png" class="thickbox no_icon" rel="gallery-11732" title=""><img class="aligncenter" alt="" src="http://3.bp.blogspot.com/-XX-D3r2APKs/URv2LqaN_bI/AAAAAAAAANA/cDgjP_olJro/s400/ZillowListing.png" width="240" height="400" /></a></p>
+<p>Bien entendu, toutes ces informations sont plus utiles si elles se trouvent devant vos yeux lorsque vous en avez besoin. Avec le nouveau <strong>widget Google Now</strong>, les cartes les plus importantes seront directement affichées sur votre écran d’accueil  vous n&rsquo;aurez même plus à lancer l&rsquo;appli.</p>
+<p><a  href="http://4.bp.blogspot.com/-tnqmGwk_Y6w/URwByVJP8jI/AAAAAAAAANY/Gx8lRMn0OgY/s400/widget_home.png" class="thickbox no_icon" rel="gallery-11732" title=""><img class="aligncenter" alt="" src="http://4.bp.blogspot.com/-tnqmGwk_Y6w/URwByVJP8jI/AAAAAAAAANY/Gx8lRMn0OgY/s400/widget_home.png" width="240" height="400" /></a></p>
+<p>Lors du lancement de Google Now en été dernier, nous avions promis que ce n&rsquo;était qu&rsquo;un début, et que le service irait en s&rsquo;améliorant en vous offrant plus d&rsquo;informations, lorsque vous en avez besoin, sans même que  vous ne le demandiez. Cette mise à jour est la quatrième depuis le lancement, et vous n&rsquo;avez encore rien vu !</p>
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/SpaLZOjqMew" height="281" width="500" frameborder="0"></iframe></p>
+<p>Pour tester ces nouvelles cartes, installez la dernière version de l&rsquo;application Google Recherche pour Android, disponible sur le <a  href="https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox" target="_blank">Google Play</a> pour les appareils équipés d&rsquo;Android 4.1 et plus.</p>
+<p style="text-align: right;"><em>Posté dans sa version originale en anglais Baris Gultekin,<br />
+Directeur Développement Produit chez Google</em></p>
+<hr />
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/google-now-widget.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/google-now-widget.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/google-now-widget.html&title=[Google Now] Et maintenant, le widget !">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/google-now-widget.html&t=[Google Now] Et maintenant, le widget !">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/google-now-widget.html&title=[Google Now] Et maintenant, le widget !">Twitter</a>
+<br/>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/google-now-widget.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Google] Planifiez votre soirée de la Saint Valentin — même si vous êtes un peu en retard</title>
+		<link>http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html</link>
+		<comments>http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html#comments</comments>
+		<pubDate>Wed, 13 Feb 2013 12:55:46 +0000</pubDate>
+		<dc:creator>florentM</dc:creator>
+				<category><![CDATA[Google Mobile]]></category>
+		<category><![CDATA[Google Recherche]]></category>
 		<category><![CDATA[Mobile]]></category>
 		<category><![CDATA[Recherche]]></category>
 
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11425</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2010/09/google_maps_logo.jpg" alt="" />Depuis 2005, nous avons collaboré avec des centaines d&#8217;administrations dans le monde pour offrir à des millions d&#8217;usagers une ressource centralisée pour trouver quels bus, trains, métros ou trams prendre pour se rendre vers leurs prochaines destinations. Aujourd&#8217;hui, Google Maps propose les horaires des transports en commun dans plus d&#8217;un million d&#8217;arrêts dans le monde, [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2010/09/google_maps_logo.jpg" alt="" /><p><a  href="http://googleblog.blogspot.com/2005/12/public-transit-via-google.html" target="_blank">Depuis 2005</a>, nous avons collaboré avec des centaines d&rsquo;administrations dans le monde pour offrir à des millions d&rsquo;usagers une ressource centralisée pour trouver quels <strong>bus, trains, métros ou trams</strong> prendre pour se rendre vers leurs prochaines destinations. Aujourd&rsquo;hui, Google Maps propose les <strong>horaires des transports en commun</strong> dans plus d&rsquo;un million d&rsquo;arrêts dans le monde, dans presque <a  href="http://www.google.com/intl/fr/landing/transit/text.html#mdy" target="_blank">500 villes</a> dont <a  href="http://www.google.com/maps?ie=UTF8&#038;ll=40.739593,-73.892556&#038;spn=0.327669,0.277049&#038;dirflg=r" target="_blank">New York</a>, <a  href="http://www.google.com/maps?ie=UTF8&#038;ll=51.5,-0.13&#038;spn=0.08,0.18&#038;dirflg=r" target="_blank">Londres</a>, <a  href="http://www.google.com/maps?ie=UTF8&#038;ll=48.86,2.34&#038;spn=0.13,0.36&#038;lci=transit_comp" target="_blank">Paris</a>, <a  href="http://www.google.com/maps?ie=UTF8&#038;ll=43.3,5.38&#038;spn=0.12,0.23&#038;lci=transit_comp" target="_blank">Marseille</a>, <a  href="http://www.google.com/maps?ie=UTF8&#038;ll=50.846115,4.39013&#038;spn=0.160675,0.245445&#038;dirflg=r" target="_blank">Bruxelles</a> et <a  href="http://www.google.com/maps?ie=UTF8&#038;ll=45.55541,-73.623505&#038;spn=0.743314,1.248322&#038;dirflg=r" target="_blank">Montréal</a>.</p>
-<p>Les informations concernant les transports en commun sont particulièrement utiles lorsque vous les avez dans la pomme de votre main. Nous déployons aujourd&rsquo;hui une mise à jour de <a  href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps&#038;hl=en" target="_blank">Google Maps pour Android</a> (version 6.10) rendant ces informations encore plus utiles. Nous avons apporté une série de modifications au calque Transport en Commun afin que vous puissiez sélectionner un certain type de transport (train, bus, tram ou métro) à afficher sur votre téléphone. Cette fonctionnalité s&rsquo;avère très utile dans les zones concentrant un grand nombre de transports en commun.</p>
-<div id="attachment_11426" class="wp-caption aligncenter" style="width: 410px"><a  href="http://www.goopilation.com/wp-content/uploads/2012/08/goofle-maps-transports-commun-lignes.jpg" class="thickbox no_icon" rel="gallery-11425" title="goofle-maps-transports-commun-lignes"><img class="size-full wp-image-11426" title="goofle-maps-transports-commun-lignes" src="http://www.goopilation.com/wp-content/uploads/2012/08/goofle-maps-transports-commun-lignes.jpg" alt="" width="400" height="302" /></a><p class="wp-caption-text"><em>A gauche : la carte affichant tous les modes de transports. </em><br /><em>A droite : la carte n&rsquo;affichant que le mode Métro.</em></p></div>
-<p style="text-align: left;">Nous avons également mis à jour la page d&rsquo;info sur chaque station, que vous pouvez afficher en cliquant sur le nom d&rsquo;une station :</p>
-<div id="attachment_11427" class="wp-caption aligncenter" style="width: 210px"><a  href="http://www.goopilation.com/wp-content/uploads/2012/08/google-maps-page-station.jpg" class="thickbox no_icon" rel="gallery-11425" title="google-maps-page-station"><img class="size-full wp-image-11427" title="google-maps-page-station" src="http://www.goopilation.com/wp-content/uploads/2012/08/google-maps-page-station.jpg" alt="" width="200" height="303" /></a><p class="wp-caption-text"><em>La page d&rsquo;info sur les stations affichent les horaires de départ, les lignes desservant la station, et la distance des stations les plus proches</em></p></div>
-<p style="text-align: left;">En plus de ces nouvelles fonctionnalités, nous avons mis à jour la mise en surbrillance des régions, de Mes Lieux et de l&rsquo;historique :</p>
-<ul>
-<li>Désormais, dès que vous recherchez le nom d&rsquo;une ville ou un code postal, les limites de la région sont mises en surbrillance.</li>
-<li>Dans Mes Lieux, vous remarquerez de nouveaux onglets, qui vous aideront à accéder à toutes vos informations depuis un seul et même endroit (vos cartes enregistrées, vos lieux favoris, et vos cartes personnalisées).</li>
-<li>Si vous activez l&rsquo;historique de navigation, vous pourrez consulter les lieux que vous avez visité depuis un tableau de bord amélioré.</li>
-</ul>
-<p>Que vous ayez besoin de connaître les horaires et les prix des transports en commun, de rechercher un itinéraire, ou de repérer la station la plus proche, Google Maps met à  votre disposition des informations complètes et précises à portée de vos doigts. Passez à la <strong>nouvelle version de Google Maps</strong> pour Android depuis le <a  href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps&#038;hl=fr" target="_blank">Google Play Store</a>.</p>
-<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Christopher Van Der Westhuizen, Ingénieur Google Maps</em></p>
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11727</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-logo.jpg" alt="" />Il vous reste moins de 2 jours avant la Saint Valentin, est-ce que votre programme de cette soirée est au point ? Si vous êtes submergé de travail et pressé de trouver une réservation de dernière minute dans un restaurant, un fleuriste, du chocolat et un endroit romantique pour emmener votre dulcinée, Google peut vous [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-logo.jpg" alt="" /><p>Il vous reste moins de 2 jours avant la Saint Valentin, est-ce que votre programme de cette soirée est au point ? Si vous êtes submergé de travail et pressé de trouver une réservation de dernière minute dans un restaurant, un fleuriste, du chocolat et un endroit romantique pour emmener votre dulcinée, Google peut vous aider comme un as et ce, même si vous vous y mettez que maintenant.</p>
+<h3>À la recherche de fleurs et de chocolats ?</h3>
+<p>Appuyez tout simplement sur l&rsquo;icône en forme de micro de votre <a  href="http://www.google.com/insidesearch/features/voicesearch/index-chrome.html" target="_blank">application Google Recherche de votre appareil Android ou iOS</a> et demandez &laquo;&nbsp;Où est le fleuriste le plus proche?&nbsp;&raquo; pour trouver où vous pourrez trouver des roses (rouges bien sûr) pour quelqu&rsquo;un qui vous est cher. Vous souhaitez trouver une boite de délicieux chocolats proche de l&rsquo;endroit où vous êtes ? Demandez &laquo;&nbsp;Où puis-je acheter du chocolat à San Francisco?&nbsp;&raquo; En quelques secondes vous pouvez parcourir la liste des différentes boutiques proposées et appeler le magasin d&rsquo;une tape sur votre écran et obtenir l&rsquo;itinéraire motorisé ou à pied pour vous y rendre.</p>
+<p><img alt="" src="http://4.bp.blogspot.com/-sBHmHbBU_eI/URqiLhx9xKI/AAAAAAAAAeo/XaCkDJBHaFM/s400/Screenshot_2013-02-06-15-18-09.png" width="234" height="400" border="0" /><img alt="" src="http://1.bp.blogspot.com/-ThdPA0D5_Ak/URqiUdnnJnI/AAAAAAAAAe4/JAsdboGfEok/s400/photo.png" width="234" height="400" border="0" /></p>
+<h3><b>Trouver l&rsquo;endroit parfait pour votre rendez-vous.</b></h3>
+<p>Si vous êtes à la recherche pour la St Valentin d&rsquo;un nouveau restaurant ou endroit romantique bien caché dans votre ville, Google peut vous aider à trouver l&rsquo;endroit parfait. Avez-vous l&rsquo;espoir de diner dans un lieu peu commun? Demandez à Google de trouver des &laquo;&nbsp;restaurants avec un concert live à San Francisco&nbsp;&raquo;, et parcourrez les restaurants locaux qui correspondent à vos goûts et votre budget. Vous cherchez un endroit romantique parfait? Dites: &laquo;&nbsp;Montrez-moi des photos de lieux romantiques à San Francisco&nbsp;&raquo;, et naviguez à travers une collection de photos pour choisir l&rsquo;endroit idéal.</p>
+<p><a  href="http://1.bp.blogspot.com/-87EeOv4GL_U/URqj0BnYTpI/AAAAAAAAAfE/LY1YECGQDzw/s1600/photo%2B%25283%2529.png" class="thickbox no_icon" rel="gallery-11727" title=""><img alt="" src="http://1.bp.blogspot.com/-87EeOv4GL_U/URqj0BnYTpI/AAAAAAAAAfE/LY1YECGQDzw/s400/photo%2B%25283%2529.png" width="233" height="400" border="0" /></a> <a  href="http://4.bp.blogspot.com/-zo0dJIVvzl0/URqj7B9TQ-I/AAAAAAAAAfQ/32W2oTGepug/s1600/Screenshot_2013-02-11-18-54-11.png" class="thickbox no_icon" rel="gallery-11727" title=""><img alt="" src="http://4.bp.blogspot.com/-zo0dJIVvzl0/URqj7B9TQ-I/AAAAAAAAAfQ/32W2oTGepug/s400/Screenshot_2013-02-11-18-54-11.png" width="235" height="400" border="0" /></a></p>
+<p>Que vous soyez à la recherche d&rsquo;un peu de nouveauté avec votre moitié ou que vous avez besoin de rassembler votre courage pour vous déclarer à votre dulcinée en ce jour de Saint Valentin, nous espérons que ces astuces vous aideront à planifier cette sortie plutôt spéciale.</p>
+<p>Bonne chance!</p>
+<p style="text-align: right;"><span style="color: #888888;"><em>Publié dans sa version originale par <span style="color: #888888;">Roya Soleimani</span>, de l&rsquo;équipe Search Communications</em></span></p>
 <hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html#comments">5 commentaires</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html&title=[Google Maps] Les horaires de plus d&rsquo;un million de stations de métro, train, bus et tram dans le creux de votre main">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html&t=[Google Maps] Les horaires de plus d&rsquo;un million de stations de métro, train, bus et tram dans le creux de votre main">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html&title=[Google Maps] Les horaires de plus d&rsquo;un million de stations de métro, train, bus et tram dans le creux de votre main">Twitter</a>
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html&title=[Google] Planifiez votre soirée de la Saint Valentin — même si vous êtes un peu en retard">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html&t=[Google] Planifiez votre soirée de la Saint Valentin — même si vous êtes un peu en retard">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html&title=[Google] Planifiez votre soirée de la Saint Valentin — même si vous êtes un peu en retard">Twitter</a>
 <br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/nzbBLFwPUQcmDXPDc3Ael4uZK-g/0/da"><img src="http://feedads.g.doubleclick.net/~a/nzbBLFwPUQcmDXPDc3Ael4uZK-g/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/nzbBLFwPUQcmDXPDc3Ael4uZK-g/1/da"><img src="http://feedads.g.doubleclick.net/~a/nzbBLFwPUQcmDXPDc3Ael4uZK-g/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/08/google-maps-horaires-metro-bus.html/feed</wfw:commentRss>
-		<slash:comments>5</slash:comments>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/google-planifier-soiree-saint-valentin.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>[Google] Prise en compte des plaintes pour infraction au copyright dans le classement des résultats de recherche</title>
-		<link>http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html</link>
-		<comments>http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html#comments</comments>
-		<pubDate>Mon, 13 Aug 2012 13:21:38 +0000</pubDate>
-		<dc:creator>Vincent</dc:creator>
-				<category><![CDATA[Google Recherche]]></category>
-		<category><![CDATA[Recherche]]></category>
-
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11414</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-logo.jpg" alt="" />Nous avons pour objectif d&#8217;offrir une expérience de qualité à nos utilisateurs, et avons développé pour cela plus de 200 signaux afin que nos algorithmes délivrent les résultats les plus pertinents possibles. A partir de la semaine prochaine, nous commencerons à prendre en compte un nouveau signal dans nos classements : le nombre de plaintes [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-logo.jpg" alt="" /><p>Nous avons pour objectif d&rsquo;offrir une expérience de qualité à nos utilisateurs, et avons développé pour cela plus de 200 signaux afin que nos algorithmes délivrent les résultats les plus pertinents possibles. A partir de la semaine prochaine, nous commencerons à prendre en compte un nouveau signal dans nos classements : le nombre de <a  href="http://www.google.com/transparencyreport/" target="_blank">plaintes pour infraction au copyright</a> que nous recevons pour chaque site. Les sites ayant été l&rsquo;objet de plusieurs plaintes valides apparaîtront désormais plus bas dans nos résultats, ce qui aidera nos internautes à trouver du contenu légal et de qualité plus facilement, comme une musique sur le site de <a  href="http://www.npr.org/music/" target="_blank">NPR</a> ou de <a  href="http://www.spotify.com/" target="_blank">Spotify</a> ou une série sur <a  href="http://www.hulu.com/" target="_blank">Hulu</a>.</p>
-<p>Depuis que nous avons relancé notre service de plainte pour infraction au copyright il y a deux ans, nous recevons plus de données chaque jour que pendant toute l&rsquo;année 2009 &#8212; <a  href="http://www.google.com/transparencyreport/removals/copyright/" target="_blank">plus de 4.3 millions d&rsquo;URLs rien que ces 30 derniers jours</a>. Nous utiliserons désormais ces données dans le classement des résultats de recherche.</p>
-<p>Seuls les ayants-droits savent si quelque chose est autorisé, et seuls les tribunaux peuvent déterminer si un copyright a été enfreint : Google ne peut en aucun cas décider si une page est en violation avec la loi. Par conséquent, même si ce signal entre désormais en compte, nous ne supprimerons aucune page à moins de <a  href="http://support.google.com/bin/static.py?hl=en&#038;ts=1114905&#038;page=ts.cs" target="_blank">recevoir</a> une demande de suppression valide des ayant-droits. Et nous continuerons à fournir des <a  href="http://www.chillingeffects.org/question.cgi?QuestionID=132" target="_blank">outils</a> permettant aux éditeurs de contester la plainte et réinstaurer leur position dans les résultats.</p>
-<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Amit Singhal, Vice Président de Google</em></p>
-<hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html#comments">Un commentaire</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html&title=[Google] Prise en compte des plaintes pour infraction au copyright dans le classement des résultats de recherche">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html&t=[Google] Prise en compte des plaintes pour infraction au copyright dans le classement des résultats de recherche">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html&title=[Google] Prise en compte des plaintes pour infraction au copyright dans le classement des résultats de recherche">Twitter</a>
-<br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/64H439MMCOtdFpo31cHB0WZZuuo/0/da"><img src="http://feedads.g.doubleclick.net/~a/64H439MMCOtdFpo31cHB0WZZuuo/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/64H439MMCOtdFpo31cHB0WZZuuo/1/da"><img src="http://feedads.g.doubleclick.net/~a/64H439MMCOtdFpo31cHB0WZZuuo/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/08/google-recherche-seo-copyright-plaintes.html/feed</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>[Google] Une nouvelle étape vers le moteur de recherche du futur</title>
-		<link>http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html</link>
-		<comments>http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html#comments</comments>
-		<pubDate>Thu, 09 Aug 2012 06:00:07 +0000</pubDate>
+		<title>[Google Drive] Intégrez vos applications directement dans Google Drive</title>
+		<link>http://www.goopilation.com/2013/02/google-drive-applications-integration.html</link>
+		<comments>http://www.goopilation.com/2013/02/google-drive-applications-integration.html#comments</comments>
+		<pubDate>Tue, 12 Feb 2013 12:37:56 +0000</pubDate>
 		<dc:creator>Vincent</dc:creator>
 				<category><![CDATA[A la Une]]></category>
-		<category><![CDATA[Google Recherche]]></category>
+		<category><![CDATA[Bureautique]]></category>
+		<category><![CDATA[Google Code]]></category>
+		<category><![CDATA[Google Drive]]></category>
+		<category><![CDATA[Webmasters]]></category>
+
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11720</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2013/02/google-developers-logo.jpg" alt="" />Lors du lancement de Google Drive, nous vous avions également présenté le SDK Google Drive, qui vous permet d&#8217;intégrer vos applications au sein de Drive. Avec le SDK, vous pouvez offrir une expérience similaire à Google Docs. Plus d&#8217;une centaine d&#8217;applications sont désormais intégrées à Drive de cette façon. Nous apportons aujourd&#8217;hui plusieurs changements à [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2013/02/google-developers-logo.jpg" alt="" /><p>Lors du lancement de <strong>Google Drive</strong>, nous vous avions également <a  href="http://googledevelopers.blogspot.ch/2012/04/introducing-google-drive-and-google.html" target="_blank">présenté</a> le SDK Google Drive, qui vous permet d&rsquo;<a  href="https://developers.google.com/drive/about-sdk#create_and_open_files_directly_from_the_drive_ui" target="_blank">intégrer</a> vos applications au sein de Drive. Avec le <a  href="https://developers.google.com/drive/" target="_blank">SDK</a>, vous pouvez offrir une expérience similaire à <a  href="https://www.google.com/intl/en_US/drive/start/apps.html#product=docs" target="_blank">Google Docs</a>. Plus d&rsquo;une centaine d&rsquo;applications sont désormais intégrées à Drive de cette façon.</p>
+<p>Nous apportons aujourd&rsquo;hui plusieurs changements à Google Drive pour aider les utilisateurs à découvrir et interagir avec ces applis plus facilement.<a  href="http://www.goopilation.com/wp-content/uploads/2013/02/google-developers-logo.jpg"><br />
+</a></p>
+<h2>Menu Créer</h2>
+<p>Le menu Créer de Google Drive affiche désormais les applis tierces au même niveau que les applis Google comme les documents et les feuilles de calcul. Vos applis connectées à Drive seront désormais plus visibles aux utilisateurs.</p>
+<p><a  href="http://www.goopilation.com/wp-content/uploads/2013/02/google-drive-creer-applis.jpg" class="thickbox no_icon" rel="gallery-11720" title="google-drive-creer-applis"><img class="aligncenter size-full wp-image-11724" alt="google-drive-creer-applis" src="http://www.goopilation.com/wp-content/uploads/2013/02/google-drive-creer-applis.jpg" width="419" height="371" /></a></p>
+<p>Comme vous pouvez le voir, nous avons ajouté de l&rsquo;espace dans le menu <em>Créer</em> pour vos applis, que les utilisateurs peuvent ajouter en cliquant sur le lien &laquo;&nbsp;<em>Connecter plus d&rsquo;applications</em>&laquo;&nbsp;.</p>
+<h2>Découvrir et connecter des applis Drive</h2>
+<p>Les utilisateurs de Google Drive peuvent maintenant parcourir et connecter des applis directement depuis Drive grâce à la nouvelle fenêtre &laquo;&nbsp;<em>Connecter des application à Google Drive</em>&nbsp;&raquo; :</p>
+<p><a  href="http://www.goopilation.com/wp-content/uploads/2013/02/google-drive-connecter-appli.jpg" class="thickbox no_icon" rel="gallery-11720" title="google-drive-connecter-appli"><img class="aligncenter size-full wp-image-11723" alt="google-drive-connecter-appli" src="http://www.goopilation.com/wp-content/uploads/2013/02/google-drive-connecter-appli.jpg" width="735" height="695" /></a></p>
+<p>Après avoir installé une appli, les utilisateurs peuvent tout de suite commencer créer et utiliser votre appli directement depuis Drive.</p>
+<p>Si votre appli est déjà compatible avec Drive et listée dans la <a  href="https://chrome.google.com/webstore/category/collection/drive_apps" target="_blank">collection Drive</a> du <strong>Chrome Web Store</strong>, vous n&rsquo;avez rien à faire. Nous ajouterons automatiquement toutes les informations renseignées sur le Chrome Web Store.</p>
+<p>Si ce n&rsquo;est pas le cas, suivez ce guide pour savoir comment <a  href="https://developers.google.com/drive/enable-sdk" target="_blank">intégrer les actions &laquo;&nbsp;créer&nbsp;&raquo; et &laquo;&nbsp;ouvrir&nbsp;&raquo;</a>, et ainsi <a  href="https://developers.google.com/drive/listing" target="_blank">lister votre appli</a> dans la fenêtre &laquo;&nbsp;<em>Connecter des applications à Google Drive</em>&laquo;&nbsp;.</p>
+<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Nicolas Garnier, </em><br />
+<em>chargé des relations avec les développeurs chez Google</em></p>
+<hr />
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/google-drive-applications-integration.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/google-drive-applications-integration.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/google-drive-applications-integration.html&title=[Google Drive] Intégrez vos applications directement dans Google Drive">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/google-drive-applications-integration.html&t=[Google Drive] Intégrez vos applications directement dans Google Drive">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/google-drive-applications-integration.html&title=[Google Drive] Intégrez vos applications directement dans Google Drive">Twitter</a>
+<br/>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/google-drive-applications-integration.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Google Images] Visualisez les images directement depuis la liste des résultats</title>
+		<link>http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html</link>
+		<comments>http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html#comments</comments>
+		<pubDate>Fri, 08 Feb 2013 13:00:42 +0000</pubDate>
+		<dc:creator>Vincent</dc:creator>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Google Image]]></category>
 		<category><![CDATA[Recherche]]></category>
 
-		<guid isPermaLink="false">http://www.goopilation.com/?p=11405</guid>
-		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-logo.jpg" alt="" />Larry Page décrivait autrefois le moteur de recherche parfait comme étant capable de comprendre exactement ce que vous recherchez et de vous retourner exactement ce que vous voulez. C&#8217;est un peu comme l&#8217;ordinateur dont je rêvais durant mon enfance en Inde, scotché à notre télé en noir et blanc à chaque nouvel épisode de Star [...]]]></description>
-			<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-logo.jpg" alt="" /><p>Larry Page décrivait autrefois le moteur de recherche parfait comme étant capable de comprendre exactement ce que vous recherchez et de vous retourner exactement ce que vous voulez. C&rsquo;est un peu comme l&rsquo;ordinateur dont je rêvais durant mon enfance en Inde, scotché à notre télé en noir et blanc à chaque nouvel épisode de Star Trek. J&rsquo;imaginais un futur dans lequel un ordinateur interstéllaire pourrait répondre à m&rsquo;importe laquelle de mes questions, instantanément. Aujourd&rsquo;hui, nous nous rapprochons de cette réalité que j&rsquo;ai toujours considérée comme possible, et voici quelques unes de nos dernières innovations vers une recherche encore plus intelligente.</p>
-<h2>Comprendre le monde</h2>
-<p>En mai, nous avons lancé le <a  href="http://googleblog.blogspot.com/2012/05/introducing-knowledge-graph-things-not.html" target="_blank">Knowledge Graph</a>, une base de données contenant des informations sur plus de 500 millions de personnes, endroits et autres reliés entre eux par 3,5 milliards d&rsquo;attributs et de connexions. Les retours ont été très positifs, et nous désirons étendre cette fonctionnalité aux personnes résidant hors des Etats-Unis. A partir d&rsquo;aujourd&rsquo;hui, le <strong>Knowledge Graph</strong> devient accessible pour tous les <strong>pays anglophones</strong> du monde. Si par exemple vous habitez en Australie et que vous recherchez [chiefs], vous obtiendrez des informations sur l&rsquo;équipe de rugby : ses joueurs, ses résultats, son histoire.</p>
-<p>Nous utiliserons également cette intelligence pour vous aider à trouver le bon résultat plus rapidement dans le cas où votre requête peut avoir plusieurs significations. Par exemple, si vous recherchez [rio], vous voulez peut-être des informations sur la ville brésilienne, sur le récent film d&rsquo;animation, ou sur le casino de Las Vegas. Grâce au Knowledge Graph, nous pouvons désormais vous proposer ces différentes suggestions directement dans le champ de recherche pendant que vous tapez.</p>
-<div style="text-align: center;"><a  href="http://1.bp.blogspot.com/-fdJg8oYwmok/UCKf6h0s7OI/AAAAAAAAJgM/Ll3a1itrslk/s1600/rio.png" target="_blank" class="thickbox no_icon" rel="gallery-11405" title=""><img src="http://1.bp.blogspot.com/-fdJg8oYwmok/UCKf6h0s7OI/AAAAAAAAJgM/Ll3a1itrslk/s500/rio.png" alt="" width="500" border="0" /></a></div>
-<p>Pour finir, la meilleure réponse à votre question n&rsquo;est pas forcément unique, mais peut être un groupe d&rsquo;éléments connectés entre eux. Constituer ces listes automatiquement est relativement complexe. Et c&rsquo;est pourtant ce que nous commençons à faire. Si vous recherchez par exemple [phares de californie], [ouragan en 2008] ou [femmes astronautes célèbres], nous vous afficherons une liste de ces éléments en haut de la page. Et en combinant notre Knowledge Graph avec les connaissances accumulées sur le Web, nous pouvons fournir des listes encore plus subjectives comme [meilleurs films d'actions des années 2000] ou [choses à faire à paris] . Si vous cliquez sur l&rsquo;un des éléments, vous pourrez explorer les résultats en rapport plus profondément.</p>
-<div style="text-align: center;"><a  href="http://3.bp.blogspot.com/-H-DXAlhBTiU/UCKf6A6tZ4I/AAAAAAAAJgE/pGGGrsFXsCw/s1600/paris.png" target="_blank" class="thickbox no_icon" rel="gallery-11405" title=""><img src="http://3.bp.blogspot.com/-H-DXAlhBTiU/UCKf6A6tZ4I/AAAAAAAAJgE/pGGGrsFXsCw/s500/paris.png" alt="" width="500" border="0" /></a></div>
-<p>A l&rsquo;heure actuelle, nous pouvons produire des centaines de milliers de listes impliquant des millions d&rsquo;éléments, et nous continuerons à l&rsquo;ettoffer au grès de nos curiosités. Un petit aperçu :</p>
-<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/mg91_trV4hY" frameborder="0" width="560" height="315"></iframe></p>
-<h2>Vos infos à portée de main</h2>
-<p>Parfois, la meilleure réponse à votre question n&rsquo;est pas disponible sur le Web public. Elle peut être se trouver autre part, comme par exemple <strong>dans vos emails</strong>. Nous pensons que vous ne devriez pas être votre propre petit moteur de recherche pour trouver les informations les plus utiles. Une recherche est une recherche, et nous voulons que nos résultats soient réellement universels. Nous avons donc développé un moyen que nous pensons pertinent et non intrusif de vous retourner ces informations, et nous adorerions <a  href="https://productforums.google.com/forum/#!categories/websearch/gmail-in-personal-results-field-trial" target="_blank">savoir ce que vous en pensez</a>. A partir d&rsquo;aujourd&rsquo;hui, nous lançons une phase d&rsquo;expérimentation limitée (sur <a  href="http://g.co/searchtrial" target="_blank">inscription</a>) au cours de la laquelle vous pourrez vous connecter pour <strong>rechercher dans votre boîte de réception Gmail directement depuis le champ de recherche de Google</strong>.</p>
-<p>Si par exemple vous planifiez un voyage à Tahoe, vous pourriez voir des emails de vos amis sur les meilleurs parcours de randonnées, ou sur les meilleurs restaurants, le tout sur la droite de la page de résultats. Si l&rsquo;info vous semble pertinente, vous pouvez étendre la fenêtre pour lire vos emails :</p>
-<div style="text-align: center;"><a  href="http://2.bp.blogspot.com/-xS1V4F8VPV4/UCKf5rzL4PI/AAAAAAAAJf8/iCZmJy_iu_I/s1600/gmail.png" target="_blank" class="thickbox no_icon" rel="gallery-11405" title=""><img src="http://2.bp.blogspot.com/-xS1V4F8VPV4/UCKf5rzL4PI/AAAAAAAAJf8/iCZmJy_iu_I/s500/gmail.png" alt="" width="500" border="0" /></a></div>
-<p>Nous travaillons par ailleurs sur des fonctionnalités encore plus utiles. Par exemple, si vous recherchez [mes vols], nous organiserons les emails de confirmation de vol pour tous les trajets à venir de façon lisible sur la page de résultats :</p>
-<div style="text-align: center;"><a  href="http://2.bp.blogspot.com/-fcq8vMsG0EI/UCKf5Or24CI/AAAAAAAAJf0/pgUGUSv4wAk/s1600/flights.png" target="_blank" class="thickbox no_icon" rel="gallery-11405" title=""><img src="http://2.bp.blogspot.com/-fcq8vMsG0EI/UCKf5Or24CI/AAAAAAAAJf0/pgUGUSv4wAk/s500/flights.png" alt="" width="500" border="0" /></a></div>
-<h2>Comprendre vos intentions</h2>
-<p>Souvent, la façon la plus naturelle de poser une question est de la poser à haute voix. Nous avons donc combiner notre expertise de reconnaissance vocale avec notre compréhension du langage ainsi qu&rsquo;avec le Knowledge Graph afin que la recherche vocale soit capable d&rsquo;interpréter vos questions et de parfois vous lire les réponses. Cette fonctionnalité est disponible sur <strong>Android</strong> depuis quelques semaines, et les gens semblent l&rsquo;adorer. Nous la proposerons également bientôt sur votre <a  href="http://itunes.apple.com/us/app/google-search/id284815942?mt=8" target="_blank">iPhone ou iPad</a> (iOS version 4.2).</p>
-<p>Il vous suffit d&rsquo;appuyer sur l&rsquo;icône microphone et de poser votre question, de la meme façon que vous la poseriez à un ami. Par exemple, demandez &laquo;&nbsp;<em>quels films sont diffusés ce soir ?</em>&nbsp;&raquo; et vous verrez vos mots apparaître rapidement pendant que vous parlez. Google vous affichera ensuite la liste des derniers films diffusés dans les cinémas aux alentours, avec les horaires et mêmes les bandes-annonces. La recherche vocale fonctionne pour tout, des infos sur les stars à la hauteur du Kilamanjaro. Dès que Google est en mesure de vous donner une réponse directe, il vous la dira à voix haute.</p>
-<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/-cZ4mdrlWYM" frameborder="0" width="560" height="315"></iframe></p>
-<p>Ces innovations sont certes mineures, mais elles sont importantes dans notre course vers le moteur de recherche du futur, un qui soit bien plus intelligent et utile que celui d&rsquo;il y a quelques années.</p>
-<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Amit Singhal,<br />
-</em><em>Vice Président de Google en charge de la Recherche</em></p>
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11709</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2011/07/google-images.jpg" alt="" />Lorsque vous recherchez des images, il y a des chances pour que vous ayez besoin d&#8217;en voir plus d&#8217;une. Nous avons donc repensé la recherche d&#8217;images pour qu&#8217;il soit plus simple de consulter des listes d&#8217;images. Elle est maintenant plus rapide, plus pertinente, et laisse plus de place aux images. A la place d&#8217;ouvrir chaque [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2011/07/google-images.jpg" alt="" /><p>Lorsque vous recherchez des images, il y a des chances pour que vous ayez besoin d&rsquo;en voir plus d&rsquo;une. Nous avons donc repensé la <a  href="http://images.google.com/" target="_blank">recherche d&rsquo;images</a> pour qu&rsquo;il soit plus simple de consulter des listes d&rsquo;images. Elle est maintenant plus rapide, plus pertinente, et laisse plus de place aux images.</p>
+<p><a  href="http://4.bp.blogspot.com/-IKZO7cYxggA/UQG0v6jNUaI/AAAAAAAAAc8/ZtKAnkquXwk/s1600/Screen%2BShot%2B2013-01-24%2Bat%2B2.01.55%2BPM.png" class="thickbox no_icon" rel="gallery-11709" title=""><img class="aligncenter" alt="" src="http://4.bp.blogspot.com/-IKZO7cYxggA/UQG0v6jNUaI/AAAAAAAAAc8/ZtKAnkquXwk/s1600/Screen%2BShot%2B2013-01-24%2Bat%2B2.01.55%2BPM.png" width="500" height="290" /></a></p>
+<p style="text-align: left;">A la place d&rsquo;ouvrir chaque image dans une nouvelle page, vous verrez une <strong>prévisualisation de l&rsquo;image directement dans les résultats de recherche</strong>. Une fois que vous avez cliqué sur une image, vous pouvez facilement passer aux images suivantes et précédentes à l&rsquo;aide de votre clavier. Et si vous voulez retourner à la liste des résultats, il vous suffit de faire défiler vers le bas pour reprendre exactement là où vous en étiez. Enfin, pour accéder au site sur lequel l&rsquo;image est hébergée, cliquez sur la photo ou utilisez les outils mis à votre disposition.</p>
+<p>La nouvelle interface sera déployée dans le monde dans les prochains jours. <strong>Google Images</strong> a toujours eu pour but de vous donner des réponses visuelles. Nous espérons que cette mise à jour vous permettra de trouver les images que vous recherchez plus facilement, et peut-être même en vous amusant un peu plus.</p>
+<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Hongyi Li, Chef de produit Google Images</em></p>
 <hr />
-<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2012. |
-<a href="http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html">Lien vers l'article</a> |
-<a href="http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html#comments">6 commentaires</a><br/>
-Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html&title=[Google] Une nouvelle étape vers le moteur de recherche du futur">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html&t=[Google] Une nouvelle étape vers le moteur de recherche du futur">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html&title=[Google] Une nouvelle étape vers le moteur de recherche du futur">Twitter</a>
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html&title=[Google Images] Visualisez les images directement depuis la liste des résultats">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html&t=[Google Images] Visualisez les images directement depuis la liste des résultats">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html&title=[Google Images] Visualisez les images directement depuis la liste des résultats">Twitter</a>
 <br/>
-</small></p>
-<p><a href="http://feedads.g.doubleclick.net/~a/OCTEafZTCTCPY-EcExxPuw_7nYE/0/da"><img src="http://feedads.g.doubleclick.net/~a/OCTEafZTCTCPY-EcExxPuw_7nYE/0/di" border="0" ismap="true"></img></a><br/>
-<a href="http://feedads.g.doubleclick.net/~a/OCTEafZTCTCPY-EcExxPuw_7nYE/1/da"><img src="http://feedads.g.doubleclick.net/~a/OCTEafZTCTCPY-EcExxPuw_7nYE/1/di" border="0" ismap="true"></img></a></p>]]></content:encoded>
-			<wfw:commentRss>http://www.goopilation.com/2012/08/google-moteur-recherche-futur.html/feed</wfw:commentRss>
-		<slash:comments>6</slash:comments>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/google-images-visualisez-les-images-directement-depuis-la-liste-des-resultats.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Google Analytics] Utilisez les segments avancés pour affinez vos tableaux de bord</title>
+		<link>http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html</link>
+		<comments>http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html#comments</comments>
+		<pubDate>Thu, 07 Feb 2013 07:30:28 +0000</pubDate>
+		<dc:creator>Vincent</dc:creator>
+				<category><![CDATA[Google Analytics]]></category>
+		<category><![CDATA[Webmasters]]></category>
+
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11689</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-analytics.jpg" alt="" />Nous essayons constamment de rendre Analytics plus simple à utiliser. Depuis le lancement de la dernière version de Google Analytics (v5), nous avons collecté un certain nombre de retours de nos utilisateurs afin d&#8217;améliorer l&#8217;expérience d&#8217;utilisation. Voici un résumé des dernières mises à jour, qui seront déployées sur l&#8217;ensembles des comptes dans quelques jours. Enrichissez [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2009/03/google-analytics.jpg" alt="" /><p>Nous essayons constamment de rendre Analytics plus simple à utiliser. Depuis le lancement de la dernière version de Google Analytics (v5), nous avons collecté un certain nombre de retours de nos utilisateurs afin d&rsquo;améliorer l&rsquo;expérience d&rsquo;utilisation. Voici un résumé des dernières mises à jour, qui seront déployées sur l&rsquo;ensembles des comptes dans quelques jours.</p>
+<h2>Enrichissez vos tableaux de bord avec de nouveaux widgets et options de mise en page<b> </b></h2>
+<p><center><a  href="http://1.bp.blogspot.com/-O49txmCVD2M/UQGPKldE4II/AAAAAAAABDY/W50WSLu4KrI/s1600/1.png" target="_blank" class="thickbox no_icon" rel="gallery-11689" title=""><img class="aligncenter" style="border: 0px;" alt="" src="http://1.bp.blogspot.com/-O49txmCVD2M/UQGPKldE4II/AAAAAAAABDY/W50WSLu4KrI/s1600/1.png" width="508" height="284" border="0" /></a></center>Utilisez les widgets <strong>Cartes, Appareils et Graphiques</strong> pour créer le tableau de bord parfaitement adapté à votre audience. Soyez créatif et produisez, partagez et exportez des tableaux de bord personnalisés idéalement agencés pour les données qui comptent pour vous. Nous avons également introduit un certain nombre d&rsquo;améliorations vous permettant de mieux personnaliser la mise en forme de vos tableaux de bord pour mieux correspondre à vos besoins. De plus, les tableaux de bord prennent désormais en charge les segments avancés !</p>
+<h2>Consultez plus rapidement les rapports que vous utilisez le plus</h2>
+<p>Vous remarquerez que nous avons rendu la barre d&rsquo;outils de Google Analytics encore plus pratique à utiliser, avec un accès rapide à vos raccourcis favoris :</p>
+<p><center><a  href="http://2.bp.blogspot.com/-i6G7gWXJ2k8/UQGcpmeS7eI/AAAAAAAABEU/FJ-h25YXeZQ/s1600/3.png" target="_blank" class="thickbox no_icon" rel="gallery-11689" title=""><img alt="" src="http://2.bp.blogspot.com/-i6G7gWXJ2k8/UQGcpmeS7eI/AAAAAAAABEU/FJ-h25YXeZQ/s1600/3.png" border="0" /></a></center><center></center>Si vous n&rsquo;utilisez pas encore les raccourcis, <a  href="http://support.google.com/analytics/bin/answer.py?hl=fr&#038;answer=2676996" target="_blank">familiarisez-vous avec</a> et utilisez les dès aujourd&rsquo;hui. Nous avons également activé les raccourcis pour les rapports en temps réel, ce qui vous permet par exemple de créer un raccourci vers un rapport présentant le trafic dans une région, en temps réel.</p>
+<h2>Naviguez vers les rapports et les profils récemment utilisés plus rapidement avec l&rsquo;historique récent</h2>
+<p><center><a  href="http://1.bp.blogspot.com/-IdeUqAM9q58/UQGcwvIl0mI/AAAAAAAABEc/Ar6brq-g-UU/s1600/4.png" target="_blank" class="thickbox no_icon" rel="gallery-11689" title=""><img alt="" src="http://1.bp.blogspot.com/-IdeUqAM9q58/UQGcwvIl0mI/AAAAAAAABEc/Ar6brq-g-UU/s1600/4.png" border="0" /></a></center>Vous vous baladez dans Analytics et vous désirez revenir à un rapport que vous venez de consulter ? A la place de le chercher dans l&rsquo;interface, utilisez l&rsquo;historique récent.</p>
+<h2>Amélioration de la recherche</h2>
+<p><center><a  href="http://1.bp.blogspot.com/-46W_2bVai3I/UQGc57h1_QI/AAAAAAAABEk/x-mKMwKsWmc/s1600/5.png" target="_blank" class="thickbox no_icon" rel="gallery-11689" title=""><img alt="" src="http://1.bp.blogspot.com/-46W_2bVai3I/UQGc57h1_QI/AAAAAAAABEk/x-mKMwKsWmc/s1600/5.png" border="0" /></a></center>Avec les nouvelles fonctionnalités de recherche, vous pouvez chercher parmi tous les rapports, les raccourcis, et les tableaux de bord, depuis un seul et même endroit.</p>
+<h2>Raccourcis clavier</h2>
+<p>Au cas où vous auriez loupé l&rsquo;info, Google Analytics propose une série de raccourcis clavier. En voici quelques uns :</p>
+<p><strong>Recherche :</strong> s,/ (Accéder à la liste de recherche rapide)</p>
+<p><strong>Liste des comptes :</strong> Maj + a (Accéder à liste condensée des comptes)</p>
+<p><strong>Périodes :</strong> d + t (Modifier la période d&rsquo;analyse à la date du jour)</p>
+<p><strong>Aide Raccourcis :</strong> Maj + ? (Voir la liste complète des raccourcis)</p>
+<h2>Simplification de la comparaison de périodes</h2>
+<p><center><a  href="http://3.bp.blogspot.com/-jqdeQxcniLY/UQGc_I7B2WI/AAAAAAAABEs/HF6vaMUQXy4/s1600/6.png" target="_blank" class="thickbox no_icon" rel="gallery-11689" title=""><img alt="" src="http://3.bp.blogspot.com/-jqdeQxcniLY/UQGc_I7B2WI/AAAAAAAABEs/HF6vaMUQXy4/s1600/6.png" border="0" /></a></center>Les nouvelles options de sélection rapide vous permettent de sélectionner l&rsquo;année précédente pour pré-remplir la période de comparaison.</p>
+<h2>Exporter vers Excel et Google Docs</h2>
+<p>L&rsquo;export ne cesse de s&rsquo;améliorer, et inclue désormais une prise en charge native de Excel XSLX et Google Docs :</p>
+<p><center><a  href="http://2.bp.blogspot.com/-22eo8UO_Mjk/UQGdEsGa4TI/AAAAAAAABE0/yDAbWBAeUy8/s1600/7.png" target="_blank" class="thickbox no_icon" rel="gallery-11689" title=""><img alt="" src="http://2.bp.blogspot.com/-22eo8UO_Mjk/UQGdEsGa4TI/AAAAAAAABE0/yDAbWBAeUy8/s1600/7.png" border="0" /></a></center>Nous espérons que vous trouverez ces améliorations utiles et n&rsquo;hésitez pas à nous faire part de vos ressentis et de vos suggestions pour rendre Analytics encore plus simple d&rsquo;utilisation.</p>
+<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Nikhil Roy, de l&rsquo;équipe Google Analytics</em></p>
+<hr />
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html&title=[Google Analytics] Utilisez les segments avancés pour affinez vos tableaux de bord">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html&t=[Google Analytics] Utilisez les segments avancés pour affinez vos tableaux de bord">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html&title=[Google Analytics] Utilisez les segments avancés pour affinez vos tableaux de bord">Twitter</a>
+<br/>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/google-analytics-segments-avances-tableaux-bord-raccourics.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Bon plan] Grosse promo chez PriceMinister sur la Galaxy Tab 2, le Nexus 10 et le Galaxy S3</title>
+		<link>http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html</link>
+		<comments>http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html#comments</comments>
+		<pubDate>Wed, 06 Feb 2013 09:36:13 +0000</pubDate>
+		<dc:creator>Vincent</dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chroniques]]></category>
+		<category><![CDATA[Mobile]]></category>
+
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11687</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://pmcdn.priceminister.com/photo/google-nexus-10-wifi-16-go-quad-core-10-android-4-2-929742886_ML.jpg" alt="" />Si vous êtes à la recherche d&#8217;une tablette ou d&#8217;un smartphone Android de dernière génération mais que le prix vous rebute un peu, vous aurez peut-être envi de profiter de cette promo valable uniquement aujourd&#8217;hui (mercredi 6 février 2013) sur PriceMinister : La Galaxy Tab 2 16go : 289€ livré Le Nexus 10 16 go : [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://pmcdn.priceminister.com/photo/google-nexus-10-wifi-16-go-quad-core-10-android-4-2-929742886_ML.jpg" alt="" /><p>Si vous êtes à la recherche d&rsquo;une <strong>tablette</strong> ou d&rsquo;un <strong>smartphone</strong> Android de dernière génération mais que le prix vous rebute un peu, vous aurez peut-être envi de profiter de cette promo valable <strong>uniquement aujourd&rsquo;hui </strong>(mercredi 6 février 2013) sur <strong>PriceMinister</strong> :</p>
+<ul>
+<li>La <a  href="http://track.effiliation.com/servlet/effi.redir?id_compteur=12587111&#038;url=http://www.priceminister.com/boutique/Mac-Deal/kw/galaxy+tab+2" target="_blank">Galaxy Tab 2</a> 16go : <strong>289€</strong> livré</li>
+<li>Le <a  href="http://track.effiliation.com/servlet/effi.redir?id_compteur=12587111&#038;url=http://www.priceminister.com/offer?action=desc&#038;aid=597729548" target="_blank">Nexus 10</a> 16 go : <strong>429.95€</strong> livré (indisponible actuellement sur le Play Store)<a  href="http://www.priceminister.com/offer?action=desc&#038;aid=597729548" target="_blank"><br />
+</a></li>
+<li>Le <a  href="http://track.effiliation.com/servlet/effi.redir?id_compteur=12587111&#038;url=http://www.priceminister.com/selections/SimplyFR/id/432974" target="_blank">Galaxy S3</a> 16go : <strong>468.95€</strong> livré</li>
+</ul>
+<p>Pour bénéficier de cette ristourne, utilisez le code promo suivant : <span style="color: #ff0000;"><b>FFFEV2013</b></span></p>
+<p>&nbsp;</p>
+<hr />
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html&title=[Bon plan] Grosse promo chez PriceMinister sur la Galaxy Tab 2, le Nexus 10 et le Galaxy S3">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html&t=[Bon plan] Grosse promo chez PriceMinister sur la Galaxy Tab 2, le Nexus 10 et le Galaxy S3">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html&title=[Bon plan] Grosse promo chez PriceMinister sur la Galaxy Tab 2, le Nexus 10 et le Galaxy S3">Twitter</a>
+<br/>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/bon-plan-grosse-promo-chez-priceminister-sur-la-galaxy-tab-2-le-nexus-10-et-le-galaxy-s3.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Google Drive] Mise à jour des formulaires</title>
+		<link>http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html</link>
+		<comments>http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html#comments</comments>
+		<pubDate>Wed, 06 Feb 2013 07:30:08 +0000</pubDate>
+		<dc:creator>Vincent</dc:creator>
+				<category><![CDATA[Bureautique]]></category>
+		<category><![CDATA[Google Drive]]></category>
+
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11670</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2012/09/google-drive-logo.jpg" alt="" />Avec Google Drive, vous pouvez faire bien plus que simplement créer, stocker et partager. Un véritable écosystème d&#8217;applications peut vous aider à accomplir à peu près n&#8217;importe quoi, de l&#8217;édition de feuilles de calcul, à la signature électronique de documents. Les formulaires vous permettent de facilement créer des questionnaires et de collecter automatiquement les réponses dans [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2012/09/google-drive-logo.jpg" alt="" /><p>Avec <strong>Google Drive</strong>, vous pouvez faire bien plus que simplement créer, stocker et partager. Un véritable écosystème d&rsquo;applications peut vous aider à accomplir à peu près <a  href="https://chrome.google.com/webstore/category/collection/drive_apps?utm_campaign=en_US&#038;utm_medium=et&#038;utm_source=drivemarketingpage?hl=en" target="_blank">n&rsquo;importe quoi</a>, de l&rsquo;<a  href="http://www.google.com/enterprise/apps/business/products.html#drive" target="_blank">édition de feuilles de calcul</a>, à la <a  href="https://chrome.google.com/webstore/detail/hellofax-free-online-faxi/bocmleclimfnadgmcdgecijlblfcmfnm?utm_campaign=en_US&#038;utm_medium=et&#038;utm_source=drivemarketingpage?hl=en" target="_blank">signature électronique de documents</a>.</p>
+<p>Les <a  href="https://www.google.com/intl/en_US/drive/start/apps.html#forms" target="_blank">formulaires</a><span style="color: #333333;"> vous permettent de facilement créer des <strong>questionnaires</strong> et de collecter automatiquement les réponses dans une feuille de calcul. Aujourd&rsquo;hui, nous lançons une <strong>nouvelle version</strong> de l&rsquo;outil, repensé pour vous offrir une expérience plus rapide, plus claire et plus collaborative.</span></p>
+<h2>En mode collaboratif</h2>
+<p>Comme pour les <a  href="http://www.google.com/enterprise/apps/business/products.html#drive" target="_blank">documents, les feuilles de calcul et les présentations</a>, vous pouvez désormais collaborer en temps réel avec d&rsquo;autres personnes. Si vous devez travailler avec deux collègues sur un sondage, vous pouvez travailler tous les trois sur le même formulaire simultanément et même démarrer une conversation au sein de l&rsquo;outil.</p>
+<div><a  href="http://2.bp.blogspot.com/-8Fix7df3Dj0/UQlaaqPR7sI/AAAAAAAABQ8/HSa-je86Bw0/s1600/Freebird+Forms+blog+image2.png" target="_blank" class="thickbox no_icon" rel="gallery-11670" title=""><img class="aligncenter" style="border: 0px;" alt="" src="http://2.bp.blogspot.com/-8Fix7df3Dj0/UQlaaqPR7sI/AAAAAAAABQ8/HSa-je86Bw0/s400/Freebird+Forms+blog+image2.png" width="400" height="237" border="0" /></a></div>
+<h2>Améliorations diverses</h2>
+<p>Même si vous travaillez en solo, certaines améliorations rendront la création et l&rsquo;édition de formulaires beaucoup plus simples. Toutes vos modifications sont <strong>automatiquement sauvegardées</strong>, et vous pouvez rapidement annuler/rétablir des  modifications. La fonctionnalité de copié-collé a également été améliorée, vous permettant désormais de copier une liste complète sur le Web ou plusieurs lignes d&rsquo;une feuille de calcul, pour les coller ensuite dans le formulaire. Les raccourcis clavier sont bien entendu là pour vous faciliter la vie.</p>
+<div style="text-align: center;"><iframe src="http://www.youtube.com/embed/EOU2YPflPkQ" height="315" width="560" frameborder="0"></iframe></div>
+<div><b> </b></div>
+<div>Avec le nouvel éditeur de formulaire, vous pouvez continuer à utiliser l&rsquo;ensemble des fonctionnalités auxquelles vous vous êtes habitué :</div>
+<ul>
+<li><strong>Évolutivité :</strong> Que vous collectiez des réponses de 10 amis pour une crémaillère, ou de dizaines de milliers de personnes en vue d&rsquo;une conférence, vous pouvez compter sur les formulaires pour collecter les données de façon fiable, quel que soit le nombre de réponses.</li>
+<li><strong>Analyse :</strong> Consultez les réponses directement dans le formulaire, ou bien dans une feuille de calcul pour plus de confort. Vous pouvez aussi télécharger les données au format .csv pour une analyse plus en détail.</li>
+<li><strong>Partage :</strong> Si vous partagez un formulaire sur Google+, quiconque se trouvant dans vos cercles peut y répondre sans quitter son flux d&rsquo;actu. Et si vous envoyez un formulaire par email, les destinataires peuvent y répondre sans quitter Gmail.</li>
+</ul>
+<div><a  href="http://2.bp.blogspot.com/-1wZnbS5Dn9Y/UQlVORoaokI/AAAAAAAABQs/3E7OOFRgKCg/s1600/Docs++form+image+(1).png" target="_blank" class="thickbox no_icon" rel="gallery-11670" title=""><img class="aligncenter" style="border: 0px;" alt="" src="http://2.bp.blogspot.com/-1wZnbS5Dn9Y/UQlVORoaokI/AAAAAAAABQs/3E7OOFRgKCg/s400/Docs++form+image+(1).png" width="400" height="383" border="0" /></a></div>
+<p>Cette mise à jour sera déployée au cours des prochains jours. Vous pouvez créer des formulaires directement depuis Google Drive, ou bien installé la <a  href="https://chrome.google.com/webstore/detail/forms/jhknlonaankphkkbnmjdlpehkinifeeg?hl=en" target="_blank">Web App </a>pour un accès plus rapide depuis votre navigateur.</p>
+<p style="text-align: right;"><em>Posté dans sa version originale en anglais par Nick Santos, ingénieur chez Google</em></p>
+<hr />
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html&title=[Google Drive] Mise à jour des formulaires">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html&t=[Google Drive] Mise à jour des formulaires">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html&title=[Google Drive] Mise à jour des formulaires">Twitter</a>
+<br/>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/google-drive-mise-a-jour-des-formulaires.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Chrome OS] HP Pavillon 14 Chromebook, le premier appareil chez HP sous Chrome OS</title>
+		<link>http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html</link>
+		<comments>http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html#comments</comments>
+		<pubDate>Tue, 05 Feb 2013 07:30:40 +0000</pubDate>
+		<dc:creator>Vincent</dc:creator>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Google Chrome OS]]></category>
+		<category><![CDATA[Logiciels]]></category>
+
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11661</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://4.bp.blogspot.com/-xNmxweYrUH0/UQ9g8OEUO-I/AAAAAAAAAuI/04tF6KEQBuU/s320/hpchromebook.jpg" alt="" />C&#8217;est une période excitante pour l&#8217;informatique. Plus que jamais, vous avez le choix en ce qui concerne les logiciels, le matériel, et les services. Avec les Chromebooks, les gens nous disent adorer leurs simplicité d&#8217;utilisation, leur vitesse, et leur sécurité, et apprécient également le grand choix en matière de taille, de forme et de prix. [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://4.bp.blogspot.com/-xNmxweYrUH0/UQ9g8OEUO-I/AAAAAAAAAuI/04tF6KEQBuU/s320/hpchromebook.jpg" alt="" /><p>C&rsquo;est une période excitante pour l&rsquo;informatique. Plus que jamais, vous avez le choix en ce qui concerne les logiciels, le matériel, et les services. Avec les <strong>Chromebooks</strong>, les gens nous disent adorer leurs simplicité d&rsquo;utilisation, leur vitesse, et leur sécurité, et apprécient également le grand choix en matière de taille, de forme et de prix. C&rsquo;est pourquoi nous sommes ravis d&rsquo;annoncer que notre nouveau partenaire, <strong>HP</strong>, lance aujourd&rsquo;hui le dernier né de la gamme Chromebook : le <a  href="http://www.google.com/intl/en/chrome/devices/hp-pavilion-chromebook.html" target="_blank">HP Pavillon 14 Chromebook</a>.</p>
+<p>Le <strong>Chromebook d&rsquo;HP</strong> est un excellent compagnon offrant toute la sécurité, la vitesse et la simplicité que vous pouvez espérer d&rsquo;un Chromebook, sur un écran de <strong>14 pouces</strong>. Regardez vos vidéos et photos favorites sous un nouvel angle, et avec ses ports HDMI et USB, le Chromebook d&rsquo;HP s&rsquo;entendra parfaitement avec vos autres appareils. Avec une épaisseur de moins de 3cm et son processeur <strong>Intel® Celeron</strong>, il convient autant au travail qu&rsquo;au divertissement.</p>
+<div><a  href="http://4.bp.blogspot.com/-xNmxweYrUH0/UQ9g8OEUO-I/AAAAAAAAAuI/04tF6KEQBuU/s1600/hpchromebook.jpg" target="_blank" class="thickbox no_icon" rel="gallery-11661" title=""><img class="aligncenter" style="border: 0px;" alt="" src="http://4.bp.blogspot.com/-xNmxweYrUH0/UQ9g8OEUO-I/AAAAAAAAAuI/04tF6KEQBuU/s320/hpchromebook.jpg" width="320" height="272" border="0" /></a></div>
+<p>Avec des produits populaires comme Gmail, Google+, YouTube et Maps directement intégrés, le meilleur de Google est toujours à portée de souris. Vous apprécierez également les 100Go de stockage gratuits offerts par Google Drive*, ce qui rend la sauvegarde de vos données en ligne très simple, vous permettant d&rsquo;y accéder depuis n&rsquo;importe quel autre de vos appareils.</p>
+<h6><em>*Vous pourrez bénéficier de 100Go de stockage gratuit pendant 2 ans, à compter de la date à laquelle vous utilisez le coupon associé à chaque appareil Chrome.</em></h6>
+<p>A partir d&rsquo;aujourd&rsquo;hui, le Chromebook d&rsquo;HP est disponible pour <strong>329.99$</strong> aux Etats-Unis sur le site <a  href="http://www.shopping.hp.com/en_US/home-office/-/products/-/-/D1A48UA" target="_blank">HPDirect.com</a>, et bientôt chez d&rsquo;autres revendeurs (aucune date annoncée pour une commercialisation hors des Etats-Unis).</p>
+<p>Le Chromebook d&rsquo;HP est un excellent ajout à la <a  href="http://www.google.com/intl/en/chrome/devices/features.html" target="_blank">famille des Chromebook</a>, et nous espérons que vous l&rsquo;accueillerez bientôt dans la votre. De nouveaux Chromebook, plus de choix, pour tous les goûts.</p>
+<p style="text-align: right;"><em>Posté dans sa version originale par Felix Lin, Chef de produit chez Google</em></p>
+<hr />
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html&title=[Chrome OS] HP Pavillon 14 Chromebook, le premier appareil chez HP sous Chrome OS">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html&t=[Chrome OS] HP Pavillon 14 Chromebook, le premier appareil chez HP sous Chrome OS">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html&title=[Chrome OS] HP Pavillon 14 Chromebook, le premier appareil chez HP sous Chrome OS">Twitter</a>
+<br/>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/chrome-os-hp-pavillon-14-chromebook-le-premier-appareil-chez-hp-sous-chrome-os.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Interview] Larry Page tacle Facebook et Apple</title>
+		<link>http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html</link>
+		<comments>http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html#comments</comments>
+		<pubDate>Mon, 04 Feb 2013 07:00:13 +0000</pubDate>
+		<dc:creator>Vincent</dc:creator>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Chroniques]]></category>
+		<category><![CDATA[Interviews]]></category>
+
+		<guid isPermaLink="false">http://www.goopilation.com/?p=11628</guid>
+		<description><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2012/04/Larry-Page-Google.jpg" alt="" />Larry Page, cofondateur et PDG de Google, a donné une interview au magasine américain Wired. Dans cette interview, Page répond à des questions sur la thématique de l&#8217;innovation et de la concurrence, et aborde notamment le projet Google X, le bilan de Google+, et sa vision de l&#8217;ouverture sur Internet. Voici la traduction complète de [...]]]></description>
+				<content:encoded><![CDATA[<p><img style="float:right;margin:10px 0px 0px 10px;" src="http://www.goopilation.com/wp-content/uploads/2012/04/Larry-Page-Google.jpg" alt="" /><p>Larry Page, cofondateur et PDG de Google, a donné une interview au magasine américain <a  href="http://www.wired.com/business/2013/01/ff-qa-larry-page/all" target="_blank">Wired</a>. Dans cette interview, Page répond à des questions sur la thématique de l&rsquo;innovation et de la concurrence, et aborde notamment le projet Google X, le bilan de Google+, et sa vision de l&rsquo;ouverture sur Internet.</p>
+<p>Voici la traduction complète de cette interview :</p>
+<p><strong>Google est connu pour encourager ses employés à relever des défis ambitieux et à prendre des risques. Pourquoi est-ce si important ?</strong></p>
+<p><strong>Larry Page :</strong> Je crains que quelque chose ait mal tourné dans la façon dont nous dirigeons nos entreprises. Si vous lisez la couverture médiatique de notre société, ou du secteur technologique en général, tout est une question de compétition. Les articles sont écrits comme s&rsquo;ils couvraient un évènement sportif. Mais il est difficile de trouver des exemples de produits réellement innovants, ayant vus le jour uniquement pour des raisons de concurrence. Est-ce vraiment excitant de venir au travail tous les matins dans le seul but d&rsquo;écraser d&rsquo;autres entreprises dont l&rsquo;activité est sensiblement la même que la votre ?</p>
+<p>C&rsquo;est pour cela que la majorité des entreprises décline lentement avec le temps. Elles ont tendance à répéter ce qu&rsquo;elles font déjà, avec à chaque fois de petites améliorations. Il est naturel de vouloir travailler sur quelque chose dont le succès est assuré. Mais l&rsquo;amélioration incrémentale finit forcément par devenir obsolète. Tout particulièrement dans le secteur high-tech, où vous savez que des changements non incrémentaux vont se produire.</p>
+<p>Une grande partie de mon job consiste à inciter les personnes qui m&rsquo;entourent à se concentrer sur des choses non incrémentales. Prenez Gmail. Lorsque nous avons lancé ce produit, notre coeur de métier était la recherche ; nous lancer dans les services de messagerie représentait un saut hors de notre zone de confort. Ce ne serait pas arrivé si nous n&rsquo;avions que procédé à des améliorations incrémentales.</p>
+<p><strong>Mais vous devez également améliorer graduellement vos produits existants, non ?</strong></p>
+<p><strong>Larry Page : </strong>Bien sûr. Mais de temps en temps, chaque n année, vous devez prendre le temps de travailler sur un sujet qui vous passionne vraiment. Je pourrai vous dresser une liste de 10 choses qui ne vont pas dans les emails. J&rsquo;essai de garder des listes comme celle-ci dans ma tête.</p>
+<p><strong>Vous avez désormais une division dédiée à ce genre de projets, comme les <a  href="http://www.wired.com/magazine/2012/01/ff_autonomouscars/" target="_blank">voitures autonomes</a>, nommée Google X. Pourquoi avez-vous décidé de consacrer un département entier à cela ?</strong></p>
+<p><strong>Larry Page : </strong>Je crois fermement que nous devons aller vers davantage d&rsquo;innovation non incrémentale dans tous les secteurs. Mais pour le moment, Google X se consacre à des projets de façon plus indépendante.</p>
+<p>Vous savez, nous avons constamment ce genre de débat : nous avons tout cet argent, nous avons toutes ces personnes, pourquoi ne faisons nous pas plus. Vous pourriez dire qu&rsquo;Apple concentre ses activité sur un nombre très limité de domaines, et que cela leur réussit plutôt bien. Mais je trouve ça peu satisfaisant. Chez Google, nous nous attaquons à 0.1% de ce que nous pourrions faire. Et l&rsquo;ensemble des entreprises technologiques ne parviennent qu&rsquo;à seulement disons 1%. Il reste donc 99% de territoire vierge. Les investisseurs sont toujours inquiets : &laquo;&nbsp;<em>oh, vous allez encore dépenser tout cet argent dans des projets fous</em>&laquo;&nbsp;. Mais ces projets autrefois &laquo;&nbsp;<em>fous</em>&nbsp;&raquo; sont ceux qu&rsquo;ils adorent le plus aujourd&rsquo;hui : YouTube, Chrome, Android. Si vous ne faites rien de fou, alors vous ne faites pas les bonnes choses.</p>
+<blockquote><p><em>Vous pourriez dire qu&rsquo;Apple concentre ses activité sur un nombre très limité de domaines, et que cela leur réussit plutôt bien. Mais je trouve ça peu satisfaisant.</em></p></blockquote>
+<p><strong>D&rsquo;un autre côté, ceux qui innovent le plus semblent prendre le plus de coups. Regardez l&rsquo;expérience de Xerox PARC, leurs fantastiques innovations n&rsquo;ont pas semblé <a  href="http://www.newyorker.com/reporting/2011/05/16/110516fa_fact_gladwell" target="_blank">vraiment les aider</a>.</strong></p>
+<p><strong>Larry Page : </strong>PARC avait un fantastique département Recherche, et ils ont inventé une bonne partie des outils de l&rsquo;informatique moderne. Mais ils n&rsquo;étaient pas suffisamment tournés vers la commercialisation. Vous avez besoin des deux. Prenez une entreprise que j&rsquo;admire, Tesla. Non seulement ils ont conçu une voiture particulièrement innovante, mais ils consacrent en plus 99% de leurs efforts à essayer de l&rsquo;emmener vers les consommateurs. Lorsque j&rsquo;étais enfant, je voulais être inventeur. Puis je me suis rendu compte qu&rsquo;il y avait beaucoup d&rsquo;histoires tristes sur les inventeurs, comme Nikola Tesla, des gens extraordinaires, mais qui n&rsquo;ont eu que peu d&rsquo;impact, car ils n&rsquo;ont jamais transformé leurs inventions en succès commercial.</p>
+<p><strong>Pourquoi ne voyons-nous pas plus de gens ayant ce genre d&rsquo;ambition ?</strong></p>
+<p><strong>Larry Page : </strong>Il n&rsquo;est pas facile de trouver le bon filon. Et nous n&rsquo;enseignons pas aux gens à identifier ces projets délicats. Il n&rsquo;existe aucune école pour apprendre sur quel genre de programmes techniques il est bon de travailler. Aucun diplôme la dessus. Nos systèmes forment nos ingénieurs à se spécialiser, pas à choisir les projets susceptibles d&rsquo;avoir un réel impact sur la société.</p>
+<p><strong>Je sais que vous et Sergey Brin, avec qui vous avez cofondé Google, réfléchissaient depuis longtemps à ce genre de défis. Dans une interview datant de 2002, vous m&rsquo;aviez déjà tous deux parlé du projet Google Glass dans ses grandes lignes.</strong></p>
+<p><strong>Larry Page : </strong>Pourquoi ne l&rsquo;avons-nous pas fait à l&rsquo;époque dans ce cas ? Nous aurions eu beaucoup plus de temps ! C&rsquo;est comme les voitures autonomes. Je voulais déjà m&rsquo;attaquer à ce projet lorsque j&rsquo;étais étudiant à Stanford il y a plus de 14 ans. La seule chose qui a changé depuis, c&rsquo;est que nous avons eu le courage de le faire.</p>
+<p><strong>Google X mis à part, qu&rsquo;est-ce qui occupe votre temps chez Google ?</strong></p>
+<p><strong>Larry Page : </strong>Une grande partie de mon travail à l&rsquo;heure actuelle consiste à garantir une excellent expérience utilisateur sur l&rsquo;ensemble de nos produits. Que vous utilisiez Chrome, Gmail, ou notre moteur de recherche, cela reste Google, avec une expérience d&rsquo;utilisation reconnaissable et consistante. Ce n&rsquo;est pas bon s&rsquo;il y a 50 façons différentes de partager quelque chose. Nous avons besoin d&rsquo;intégration.</p>
+<p><strong>Alors que Google est de plus en plus assimilé à une entreprise puissante et parfois effrayante, devient-il difficile d&rsquo;implémenter d&rsquo;important changements ?</strong></p>
+<p><strong>Larry Page : </strong>C&rsquo;est certes plus compliqué, mais les bénéfices sont également plus importants. Nous avons un milliard d&rsquo;utilisateurs sur nos produits.</p>
+<p><strong>Mais avez-vous suffisamment expliqué vos intentions ? Prenez la recherche de livres. Offrir un moyen de rechercher parmi tous les livres du monde semble être incroyablement bénéfique. Mais vous vous heurtez constamment à des levers de boucliers.</strong></p>
+<p><strong>Larry Page : </strong>C&rsquo;est pour le moins déplaisant. Mais citez-moi une seule entreprise qui a échoué à cause de contestations. Je n&rsquo;en vois pas. Les entreprises échouent car elles font les mauvais choix, ou car elles ne sont pas ambitieuses, pas à cause de contestation ou de la concurrence.</p>
+<p><strong>Steve Jobs se sentait lui assez compétitif pour déclarer la &laquo;&nbsp;guerre thermonucléaire&nbsp;&raquo; à Android.</strong></p>
+<p><strong>Larry Page : </strong>Et quel est le résultat ?</p>
+<p><strong>Pensez-vous que l&rsquo;énorme part de marché d&rsquo;Android est décisive ?</strong></p>
+<p><strong>Larry Page : </strong>Android connaît un succès certain, et nous en sommes très contents.</p>
+<p><strong>Imaginiez-vous un succès de cet ampleur lorsque vous avez racheté la petite entreprise d&rsquo;Andy Rubin en 2005 ?</strong></p>
+<p><strong>Larry Page : </strong>Nous avons une assez bonne aptitude à voir ce qui est de l&rsquo;ordre du possible, et à ne pas nous laisser freiner par le status quo. A l&rsquo;époque où nous avons racheté Android, il est était assez évident que les systèmes d&rsquo;exploitation mobiles étaient vraiment dépassés. Comparez à ce que nous avons maintenant. Donc non, je ne pense pas que le pari que nous avons fait sur Android était aussi risqué que cela. Vous deviez juste avoir la conviction de procéder à des investissements sur le long-terme, et croire fermement que les choses pouvaient n&rsquo;être que meilleures.</p>
+<p><strong>Un domaine dans lequel vous semblez motivé par la concurrence est le social. Vous avez en effet travaillé dur pendant ces deux dernières années sur un secteur alors dominé par un seul rival, Facebook. Ce n&rsquo;est pas le cas ?</strong></p>
+<p><strong>Larry Page : </strong>Ce n&rsquo;est pas comme cela que je vois la chose. Nous avions un réel problème avec les façons dont nos utilisateurs partageaient l&rsquo;information, exprimaient leur identité, etc. Et oui, une entreprise est implanté dans ce secteur. Mais ils font également beaucoup d&rsquo;erreurs sur leurs produits. Pour que nous réussissions, d&rsquo;autres entreprises doivent mourir ? Non. Nous faisons en fait quelque chose de différent. je pense qu&rsquo;il est outrageux d&rsquo;affirmer qu&rsquo;il n&rsquo;y a de la place que pour un seul acteur dans un domaine donné. Lorsque nous avons lancé notre moteur de recherche, tout le monde s&rsquo;est exclamé : &laquo;&nbsp;<em>vous allez échoué, il y a déjà 5 sociétés sur le secteur</em>&laquo;&nbsp;. Ce à quoi nous avons répondu : &laquo;&nbsp;<em>nous faisons de la recherche, mais nous le faisons différemment</em>&laquo;&nbsp;. C&rsquo;est comme cela que je vois le domaine du social.</p>
+<blockquote><p><em>Et oui, une entreprise est implanté dans ce secteur. Mais ils font également beaucoup d&rsquo;erreurs sur leurs produits.</em></p></blockquote>
+<p><strong>Quel est votre bilan de Google+ ?</strong></p>
+<p><strong>Larry Page : </strong>Je suis très satisfait de notre parcours. Nous travaillons sur beaucoup de projets très intéressants. Et nombreux ont été copié par nos concurrents, donc je pense que nous sommes sur la bonne voie.</p>
+<p><strong>Android s&rsquo;est toujours targué d&rsquo;être une plateforme plus ouverte, comparée à l&rsquo;approche d&rsquo;Apple. Cette différence de stratégie s&rsquo;est particulièrement fait sentir lorsque Apple a choisi de se passer de Google Maps sur iOS6 pour lancer leur propre service de cartographie. Est-ce que cette décision renforce votre engagement vers plus d&rsquo;ouverture ?</strong></p>
+<p><strong>Larry Page : </strong>Je ne veux pas commencer nos relations commerciales. Mais nous avons consacré beaucoup de temps à Google Maps, et il est bon de voir que les gens s&rsquo;en rendent à présent compte.</p>
+<p>Vous voyez, vous pouvez avoir le meilleur service de cartographie du monde, mais si personne ne l&rsquo;utilise, quelle différence ? Notre philosophie a toujours été d&rsquo;offrir nos produits au maximum de gens possibles. Malheureusement, ce n&rsquo;est pas toujours facile de nos jours. Le Web a été bénéfique pour cela, nous avons pu proposer nos produits à tous, très rapidement, et avec de la qualité. Nous faisons aujourd&rsquo;hui machine arrière avec de plus en plus de plateformes disponibles. Les entreprises essaient de tout privatiser, et je pense que cela va nuire à la l&rsquo;innovation.</p>
+<blockquote><p><em>Les entreprises essaient de tout privatiser, et je pense que cela va nuire à la l&rsquo;innovation.</em></p></blockquote>
+<p><strong>Google a été menacé par le système des brevets, un problème que vous avez résolu en rachetant le portefeuille de Motorola.</strong></p>
+<p><strong>Larry Page : </strong>Nous avons également acheté l&rsquo;entreprise, dans son intégralité.</p>
+<p><strong>En effet. Mais étant donné que seuls des produits déjà existants ont été lancés depuis votre acquisition, nous ne savons pas ce vous comptez faire de cette entreprise. Devons-nous nous attendre à ce que Google soit aussi innovant et agressif avec Motorola qu&rsquo;il l&rsquo;a été dans d&rsquo;autres secteurs ?</strong></p>
+<p><strong>Larry Page : </strong>Comme nous l&rsquo;avons expliqué au moment de l&rsquo;acquisition de Motorola, l&rsquo;entreprise reste une unité indépendante, avec à sa tête Dennis Woodside. Il reste cependant beaucoup de place à l&rsquo;innovation. Les téléphones que nous utilisons aujourd&rsquo;hui ont des écrans en verre, que tout le monde a peur de briser au moindre impact. Dans 5 ou 10 ans, il en sera autrement. Il va y avoir beaucoup de changements.</p>
+<p><strong>A cet instant, quiconque allant sur la page d&rsquo;accueil de Google peut voir un lien vers une page d&rsquo;information sur les méfaits d&rsquo;une proposition d&rsquo;Union Internationale des Télécommunications, susceptibles de restreindre l&rsquo;ouverture d&rsquo;Internet. L&rsquo;année dernière, vous avez entrepris une initiative similaire contre la proposition de loi SOPA. Nous n&rsquo;étions pas habitué à voir ce genre de lobbying sur la Google.com. Pourquoi le faire aujourd&rsquo;hui ?</strong></p>
+<p><strong>Larry Page : </strong>Réfléchissez à notre propre histoire. Lorsque nous avons fondé Google, la régulation était déjà au centre des débats. Souvenez-vous, le seul fait de copier un fichier d&rsquo;un ordinateur à un autre était considéré comme un acte de piratage. Nous avons stocké tout Internet sur nos serveurs, donc si ce genre de régulation voit le jour, autant dire adieu aux moteurs de recherche. Internet a été particulièrement bénéfique pour les entreprises, et dans 10 ou 20 ans, nous nous rendrons compte que nous avons été à deux doigts de mettre un point final à ce système.</p>
+<p><strong>Je devine que parler aux régulateurs n&rsquo;est pas votre tâche favorite.</strong></p>
+<p><strong>Larry Page : </strong>J&rsquo;aime parler à tout le monde. C&rsquo;est dans ma nature. Mais je pense que la menace pesant sur Internet n&rsquo;a jamais été aussi grande que maintenant. Les gouvernements ont peur d&rsquo;Internet à cause des printemps arabes, et ils sont plus enclins à écouter les intérêts commerciaux de personnes dont le seul objectif est de se faire de l&rsquo;argent en bridant la liberté de chacun. Mais il y a également eu énormément de réactions d&rsquo;internautes, comme les protestations contre SOPA. Je pense que les gouvernements combattent la liberté des peuples à leur propre perte.</p>
+<blockquote><p><em>Je pense que les gouvernements combattent la liberté des peuples à leur propre perte.</em></p></blockquote>
+<p><strong>Comment parvenez-vous à maintenir l&rsquo;esprit Google, dont l&rsquo;obligation de penser gros, dans une si grosse entreprise ?</strong></p>
+<p><strong>Larry Page : </strong>Nous sommes une entreprise de taille moyenne en terme de masse salariale. Nous avons des dizaines de milliers d&rsquo;employés. D&rsquo;autres entreprises emploient des millions de gens. C&rsquo;est un facteur de cent. Imaginez ce que nous pourrions faire avec autant de ressources.</p>
+<p><strong>Vous organisez une réunion hebdomadaire, où n&rsquo;importe quel employé peut vous interpeller, soit en personne, soit virtuellement. Comment parvenez-vous à garder ce genre d&rsquo;intimité connaissant votre croissance ?</strong></p>
+<p><strong>Larry Page : </strong>Tout s&rsquo;adapte. Nous devons faire attention aux fuseaux horaires car nous avons des employés partout dans le monde. Nous faisons désormais cette réunion le mardi, afin que les collaborateurs habitant en Asie puissent nous rejoindre pendant leur semaine de travail. Cette façon de fonctionner convient plutôt bien à notre taille, et je suis certain qu&rsquo;elle peut convenir à des entreprises employant jusqu&rsquo;à un million de collaborateurs.</p>
+<p><strong>Attendez, c&rsquo;est la deuxième fois que vous mentionner le chiffre d&rsquo;un million d&rsquo;employés.</strong></p>
+<p><strong>Larry Page : </strong>Walmart emploie plus d&rsquo;un million de personnes, non ? Ok, peut-être n&rsquo;est pas si important que cela pour nous d&rsquo;avoir un million d&rsquo;employés, mais j&rsquo;aime croire qu&rsquo;il est possible de rester innovant même à cette taille. Ce serait génial pour nous. Nous sommes une des plus grosses entreprises du monde, et j&rsquo;aimerai que nous fassions plus, sans nous contenter de faire ce que d&rsquo;autres ont déjà fait.</p>
+<hr />
+<p><small>® <a href="http://www.goopilation.com">Goopilation</a>, 2013. |
+<a href="http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html">Lien vers l'article</a> |
+<a href="http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html#comments">Aucun commentaire</a><br/>
+Publier sur : <a href="http://del.icio.us/post?url=http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html&title=[Interview] Larry Page tacle Facebook et Apple">del.icio.us</a>, <a href="http://www.facebook.com/sharer.php?src=bm&v=4&i=1237396940&u=http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html&t=[Interview] Larry Page tacle Facebook et Apple">Facebook</a>, <a href="http://twitthis.com/twit?url=http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html&title=[Interview] Larry Page tacle Facebook et Apple">Twitter</a>
+<br/>
+</small></p>]]></content:encoded>
+			<wfw:commentRss>http://www.goopilation.com/2013/02/interview-larry-page-tacle-facebook-et-apple.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss><!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Minified using disk: basic (Feed is rejected)
 Page Caching using disk: enhanced
-Database Caching 2/6 queries in 0.012 seconds using disk: basic
-Object Caching 2244/2254 objects using disk: basic
+Database Caching 1/8 queries in 0.013 seconds using disk: basic
+Object Caching 2132/2150 objects using disk: basic
 
-Served from: www.goopilation.com @ 2012-09-28 15:19:02 -->
+Served from: www.goopilation.com @ 2013-04-18 16:46:00 -->

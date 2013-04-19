@@ -57,7 +57,7 @@ function compile_rss()
 	$c_rss_a=array();
 	$r_path=$path.'rss/received/';
 	$dir=scandir($r_path);
-	$today=mktime(0, 0, 0, date("m"), date("d"), date("y"));
+	$today=mktime(0, 0, 0, date("m"), date("d"), date("y")) - 172800;
 	foreach($dir as $r)
 	{
 		if($r=='.' or $r=='..' or $r=='received')
