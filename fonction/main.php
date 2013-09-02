@@ -1,5 +1,5 @@
 <?php
-$path='/home/didi/workspace/nwt/rss_reader/';
+$path=__FILE__.'/../';
 
 function get_rss($ids=false)
 {
