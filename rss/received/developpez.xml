@@ -3,13 +3,13 @@
   <channel>
     <title><![CDATA[Developpez.com]]></title>
     <link>http://www.developpez.com/index/rss</link>
-    <description><![CDATA[Club des décideurs et professionnels en informatique]]></description>
-    <pubDate>Fri, 19 Apr 2013 04:46:05 +0200</pubDate>
-    <lastBuildDate>Fri, 19 Apr 2013 04:46:05 +0200</lastBuildDate>
+    <description><![CDATA[Club des développeurs et IT Pro]]></description>
+    <pubDate>Sun, 01 Sep 2013 16:25:03 +0200</pubDate>
+    <lastBuildDate>Sun, 01 Sep 2013 16:25:03 +0200</lastBuildDate>
     <managingEditor>(www.developpez.com)</managingEditor>
     <copyright>Copyright © 2000-2013 www.developpez.com</copyright>
     <image>
-      <url>http://www.developpez.com/template/favicon.ico</url>
+      <url>http://www.developpez.com/template/favicon.png</url>
       <title><![CDATA[Developpez.com]]></title>
       <link>http://www.developpez.com/index/rss</link>
     </image>
@@ -17,292 +17,170 @@
     <language>fr-FR</language>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-      <title><![CDATA[La FFT évalue l'évasion fiscale massive des « géants du net » et dénonce la lourde pression fiscale subie par les télécoms]]></title>
-      <link>http://www.developpez.com/actu/54348/La-FFT-evalue-l-evasion-fiscale-massive-des-geants-du-net-et-denonce-la-lourde-pression-fiscale-subie-par-les-telecoms/</link>
-      <guid>http://www.developpez.com/actu/54348/La-FFT-evalue-l-evasion-fiscale-massive-des-geants-du-net-et-denonce-la-lourde-pression-fiscale-subie-par-les-telecoms/</guid>
-      <description><![CDATA[La FFT évalue l'évasion fiscale massive des « géants du net »
-Et dénonce la lourde pression fiscale subie par les télécoms 
-
-À la demande de la Fédération Française des Télécoms, le cabinet Greenwich Consulting a mené une étude comparative internationale sur la fiscalité spécifique des opérateurs télécoms et les schémas d'optimisation fiscale des acteurs « Over-the-Top ».
-
-Il est apparu que les géants du net pratiquent allègrement une optimisation fiscale très poussée, leur permettant d'échapper presque totalement à l'imposition pour leur activité sur le territoire français.
-
-Pourtant, il apparaît que les opérateurs télécoms subiraient une très lourde pression fiscale, la plus élevée ...]]></description>
-      <pubDate>Thu, 18 Apr 2013 19:01:00 +0200</pubDate>
+      <title><![CDATA[Deux chercheurs trouvent une faille de sécurité sur Dropbox, permettant aux pirates d'accéder aux comptes des utilisateurs]]></title>
+      <link>http://www.developpez.com/actu/60622/Deux-chercheurs-trouvent-une-faille-de-securite-sur-Dropbox-permettant-aux-pirates-d-acceder-aux-comptes-des-utilisateurs/</link>
+      <guid>http://www.developpez.com/actu/60622/Deux-chercheurs-trouvent-une-faille-de-securite-sur-Dropbox-permettant-aux-pirates-d-acceder-aux-comptes-des-utilisateurs/</guid>
+      <description><![CDATA[<b>Deux chercheurs trouvent une faille de sécurité sur Dropbox</b><br />
+<b>permettant aux pirates d'accéder aux comptes des utilisateurs</b><br/><br/>Des chercheurs révèlent avoir cassé la sécurité de Dropbox.<br/><br/><a href="http://www.developpez.com/public/images/news/dropboxlogo.jpeg" target="_blank"><img src="http://www.developpez.com/public/images/news/dropboxlogo_resized.jpeg" /></a><br />
+DropBox est une plateforme de stockage de données dans le Cloud, qui compte plus de 100 millions d'utilisateurs.<br/><br/>Le langage de programmation utilisé pour le développement du client DropBox est Python. Dhiru Kholia et Przemyslaw Wegrzyn ont effectué des travaux de recherche sur la plateforme. <br/><br/>D'après leurs travaux, le mécanisme d'authentification à deux facteurs n'est pas uti...]]></description>
+      <pubDate>Sat, 31 Aug 2013 20:12:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Developpez.com devient « Le Club des développeurs et IT pro », découvrez pourquoi]]></title>
-      <link>http://club.developpez.com/actu/54346/Developpez-com-devient-Le-Club-des-Developpeurs-et-It-Pro-decouvrez-pourquoi/</link>
-      <guid>http://club.developpez.com/actu/54346/Developpez-com-devient-Le-Club-des-Developpeurs-et-It-Pro-decouvrez-pourquoi/</guid>
-      <description><![CDATA[Salut à tous 
-
-Avant on avait « Club des développeurs ». Problème, se sont joints au club des IT pro non développeurs, comme par exemple des DBA, spécialistes BI, ingénieurs systèmes et réseaux, etc.
-
-Pour ne pas se cantonner aux « développeurs », on est donc passé à « Club des professionnels de l'informatique ». Problème, on n'a jamais eu l'intention de ne pas continuer à accueillir avec plaisir les débutants et les développeurs amateurs. 
-
-Entre les deux extrêmes, nous vous proposons un « compromis » entre les deux :
-
-[IMG]http://club.developpez.com/webd...]]></description>
-      <pubDate>Thu, 18 Apr 2013 18:50:00 +0200</pubDate>
+      <title><![CDATA[Apple voudrait faire du mot « STARTUP » une marque déposée, la proposition en attente de validation en Australie]]></title>
+      <link>http://www.developpez.com/actu/60619/Apple-voudrait-faire-du-mot-STARTUP-une-marque-deposee-la-proposition-en-attente-de-validation-en-Australie/</link>
+      <guid>http://www.developpez.com/actu/60619/Apple-voudrait-faire-du-mot-STARTUP-une-marque-deposee-la-proposition-en-attente-de-validation-en-Australie/</guid>
+      <description><![CDATA[<b>Apple voudrait faire du mot STARTUP sa marque déposée</b><br />
+<b>La proposition est en attente de validation en Australie</b><br/><br/>Un fait pour le moins surprenant en provenance d'Australie nous est relaté par TMWATCH : Apple aurait l'intention de déposer le mot « STARTUP » comme une marque l'appartenant.<br/><br/>La société entend ainsi utiliser ce mot pour une pléthore de consommables et de services comme les logiciels, la récupération de données, l'électronique grand public, dans des conférences et séminaires relatifs à l'informatique, des ateliers de travaux informatiques, les téléphones mobiles, le développement logiciel et matériel, le support technique et bien d'autres. On peut ainsi constater que quasiment tous les secteurs touchant de loin comme de près à l'informatique ...]]></description>
+      <pubDate>Sat, 31 Aug 2013 20:07:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Anonymous : le collectif de hackers récolte 54 798 $ pour Your Anon News, son journal alternatif et indépendant en ligne]]></title>
-      <link>http://www.developpez.com/actu/54343/Anonymous-le-collectif-de-hackers-recolte-54-798-pour-Your-Anon-News-son-journal-alternatif-et-independant-en-ligne/</link>
-      <guid>http://www.developpez.com/actu/54343/Anonymous-le-collectif-de-hackers-recolte-54-798-pour-Your-Anon-News-son-journal-alternatif-et-independant-en-ligne/</guid>
-      <description><![CDATA[Anonymous : le collectif de hackers récolte 54 798 dollars pour Your Anon News
-Son journal alternatif et indépendant en ligne 
-
-Le groupe Anonymous s'est lancé dans le crowdfunding, un mode de financement alternatif en temps de crise, dans le but de développer un média alternatif pour couvrir des sujets passés à la censure de la « presse dominante ».
-
-Le projet amorcé sur Indiegogo  avait pour but d'atteindre les 2 000 dollars pour gérer les premiers frais. 
-
-Le groupe a pourtant réussi à récolter pas moins de 54 798 dollars US auprès de 1 309 donateurs  pour financer le développement, l'hébergement et autres frais nécessaires.
-
-C'est sur le compte tumblr du groupe que l...]]></description>
-      <pubDate>Thu, 18 Apr 2013 17:55:00 +0200</pubDate>
+      <title><![CDATA[IDC revoit encore à la baisse ses prévisions pour le marché du PC, le cabinet réduit également le nombre d'expéditions des tablettes pour 2013]]></title>
+      <link>http://www.developpez.com/actu/60616/IDC-revoit-encore-a-la-baisse-ses-previsions-pour-le-marche-du-PC-le-cabinet-reduit-egalement-le-nombre-d-expeditions-des-tablettes-pour-2013/</link>
+      <guid>http://www.developpez.com/actu/60616/IDC-revoit-encore-a-la-baisse-ses-previsions-pour-le-marche-du-PC-le-cabinet-reduit-egalement-le-nombre-d-expeditions-des-tablettes-pour-2013/</guid>
+      <description><![CDATA[<b>IDC revoit encore à la baisse ses prévisions pour le marché du PC</b><br />
+<b>Le cabinet réduit également le nombre d'expéditions des tablettes pour 2013</b><br/><br/>Les rapports d'IDC sont disponibles. Selon les prévisions du cabinet d'analyse, le marché du PC devrait poursuivre son déclin et enregistrer un recul net de 9,7 % en 2013.<br/><br/>Et même les pays émergents qui restaient jusque-là fidèles au PC subiront aussi la forte influence de la mouvance des périphériques mobiles. Les tablettes et les smartphones y sont de plus en plus populaires.<br/><br/>Toutefois, IDC prédit un regain des utilisateurs pour le PC dès 2015. Cependant, il ne faudrait pas sauter de joie, puisque le nombre d'unités écoulées sera largement en dessous du pic observé pour la dernière fois en 2011.<br/>]]></description>
+      <pubDate>Sat, 31 Aug 2013 20:03:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Windows 8.1 intégrerait ReFS, le système de fichiers fiable introduit par Windows Server 2012]]></title>
-      <link>http://www.developpez.com/actu/54337/Windows-8-1-integrerait-ReFS-le-systeme-de-fichiers-fiable-introduit-par-Windows-Server-2012/</link>
-      <guid>http://www.developpez.com/actu/54337/Windows-8-1-integrerait-ReFS-le-systeme-de-fichiers-fiable-introduit-par-Windows-Server-2012/</guid>
-      <description><![CDATA[Windows Blue la prochaine mise à jour majeure de Windows 8 ?
-Microsoft aurait adopté un cycle annuel
- 
-
-À peine Windows 8 disponible que des rumeurs courent déjà sur son successeur.
-
-Selon un article du quotidien The Verge, se référant à des sources anonymes proches de Microsoft, la firme serait déjà en train de travailler sur Windows Blue, la prochaine version de son système d'exploitation.
-
-Décrit comme une mise à jour majeure pour Windows 8, l'OS serait disponible mi-2013, à un prix nettement inférieur, voire même gratuit. Cet OS mettra fin aux cycles longs des sorties de nouvelles versions de Windows et aux Services Pack,  pour adopter un rythme de mises à jour annuelles to...]]></description>
-      <pubDate>Thu, 18 Apr 2013 17:09:00 +0200</pubDate>
+      <title><![CDATA[Apple la cible préférée des Patents troll,  des trolls à brevets plus avides que jamais]]></title>
+      <link>http://www.developpez.com/actu/60611/Apple-la-cible-preferee-des-Patents-troll-des-trolls-a-brevets-plus-avides-que-jamais/</link>
+      <guid>http://www.developpez.com/actu/60611/Apple-la-cible-preferee-des-Patents-troll-des-trolls-a-brevets-plus-avides-que-jamais/</guid>
+      <description><![CDATA[<b>Apple la cible préférée des Patents troll,   </b><br />
+<b>des trolls à brevets plus avides que jamais   </b><br/><br/>Patent Freedom est un regroupement d'entreprises qui contrôle l'industrie florissante des NPE (Non-Practicing Entities - littéralement « personnes morales sans activités » - le nom communément donné aux Patents trolls étant donné que leur principale caractéristique est de ne produire aucun bien ni service). En 2012, il  a établi que Cupertino était en tête de liste sur les litiges de brevets : 44 procès engagés sans compter les 24 au premier semestre 2013.<br/><br/>Cette première place était détenue avant par Samsung mais le constructeur coréen a désormais la seconde place avec 37 procès intenté contre lui en 2012. Verizon, LG et Google sont ex-aequo avec 25 procès cha...]]></description>
+      <pubDate>Sat, 31 Aug 2013 13:20:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[L'USPTO responsable de la guerre des brevets selon l'EFF, l'organisme l'accuse de délivrer des « brevets merdiques »]]></title>
-      <link>http://www.developpez.com/actu/54333/L-USPTO-responsable-de-la-guerre-des-brevets-selon-l-EFF-l-organisme-l-accuse-de-delivrer-des-brevets-merdiques/</link>
-      <guid>http://www.developpez.com/actu/54333/L-USPTO-responsable-de-la-guerre-des-brevets-selon-l-EFF-l-organisme-l-accuse-de-delivrer-des-brevets-merdiques/</guid>
-      <description><![CDATA[L'USPTO responsable de la guerre des brevets selon l'EFF
-L'organisme l'accuse de délivrer des « brevets merdiques » 
-
-Depuis quelque temps déjà, une guerre des brevets fait rage aux États-Unis. 
-
-À ce propos, une étude a démontré que plus de la moitié de ces procès étaient liés aux « patents trolls ».
-
-Plusieurs voix se lèvent contre cette pratique d'intenter des procès à tout va comme celle de la ]]></description>
-      <pubDate>Thu, 18 Apr 2013 16:13:00 +0200</pubDate>
+      <title><![CDATA[Les utilisateurs de Java 6 s'exposent à un exploit zero day,  les experts recommandent de migrer vers Java 7]]></title>
+      <link>http://www.developpez.com/actu/60605/Les-utilisateurs-de-Java-6-s-exposent-a-un-exploit-zero-day-les-experts-recommandent-de-migrer-vers-Java-7/</link>
+      <guid>http://www.developpez.com/actu/60605/Les-utilisateurs-de-Java-6-s-exposent-a-un-exploit-zero-day-les-experts-recommandent-de-migrer-vers-Java-7/</guid>
+      <description><![CDATA[<b>Les utilisateurs de Java 6 s'exposent à un exploit zero day,   </b><br />
+<b>les experts recommandent de migrer vers Java 7   </b><br/><br/>De nombreux experts en sécurité s'accordent à dire que les entreprises devraient migrer vers Java 7. En effet,  Timo Hirvonen, analyste senior chez F-Secure, a reporté que le code d'un exploit d'une vulnérabilité précédemment corrigée a été introduit dans le kit de l'exploit Neutrino, le trojan bancaire dont l'architecture rappelle celle de Zeus.  « <i>Un hacker peut exécuter du code sur le système et l'infecter d'un malware. Vous pourriez obtenir un lien dans vos spams qui vous conduirait au kit Neutrino ou vous ferait visiter des sites infectés</i> » confie-t-il.<br/><br/>La vulnérabilité CVE-2013-2463, a été corrigée en juin dernier lorsqu'Oracl...]]></description>
+      <pubDate>Sat, 31 Aug 2013 03:27:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[AgoraCMS : le programme est disponible pour la 1re édition de la conférence sur les gestionnaires de contenu Web, le 15 mai à Paris]]></title>
-      <link>http://www.developpez.com/actu/53437/AgoraCMS-le-programme-est-disponible-pour-la-1re-edition-de-la-conference-sur-les-gestionnaires-de-contenu-Web-le-15-mai-a-Paris/</link>
-      <guid>http://www.developpez.com/actu/53437/AgoraCMS-le-programme-est-disponible-pour-la-1re-edition-de-la-conference-sur-les-gestionnaires-de-contenu-Web-le-15-mai-a-Paris/</guid>
-      <description><![CDATA[undefined]]></description>
-      <pubDate>Thu, 18 Apr 2013 15:24:00 +0200</pubDate>
+      <title><![CDATA[Processeurs : vers la fin de la loi de Moore ? Un expert donne son point de vue, ainsi que des pistes pour améliorer les performances des puces]]></title>
+      <link>http://www.developpez.com/actu/60601/Processeurs-vers-la-fin-de-la-loi-de-Moore-Un-expert-donne-son-point-de-vue-ainsi-que-des-pistes-pour-ameliorer-les-performances-des-puces/</link>
+      <guid>http://www.developpez.com/actu/60601/Processeurs-vers-la-fin-de-la-loi-de-Moore-Un-expert-donne-son-point-de-vue-ainsi-que-des-pistes-pour-ameliorer-les-performances-des-puces/</guid>
+      <description><![CDATA[<b>Y'aura-t-il vraiment une fin à la loi de Moore ?</b><br />
+<b>Un expert donne son point de vue, ainsi que des pistes pour améliorer les performances des puces</b><br/><br/>En 1965, un jeune ingénieur de Fairchild Semiconductor, postulait que le nombre de transistors (éléments atomiques des puces électroniques à savoir microprocesseurs et autres) devait doubler tous les deux ans. Les prédictions de l'ingénieur se sont basées uniquement sur des lois empiriques et non physiques.<br/><br/>La loi a résisté longtemps à ses nombreux détracteurs qui lui avaient prédit une fin immédiate dès l'instant où elle a été formulée.<br/><br/>Toute chose a une fin. La nature a repris ses droits. Les avantages que la miniaturisation des composants électroniques a fourni aux puces ont atteint leur limite. ...]]></description>
+      <pubDate>Fri, 30 Aug 2013 17:25:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Le guide de Lua et ses applications - manuel d'apprentissage, critique de livre d'Alexandre Laurent]]></title>
-      <link>http://c.developpez.com/livres/#L9782822700153</link>
-      <guid>http://c.developpez.com/livres/#L9782822700153</guid>
-      <description><![CDATA[Bonjour à tous,
-
-Tout récemment, j'ai lu deux livres sur Lua : Le manuel d'apprentissage et le manuel de référence de la série nommée &quot;Le guide de Lua et ses applications&quot;.
-
-Vous pouvez retrouver tous les détails de ces livres en suivant les liens ci-dessous :
-Manuel de référence
-Manuel d'apprentissage
-
- Qu'en pensez-vous ?
- Avez-vous lu ces livres ? Allez-vous les lire ?...]]></description>
-      <pubDate>Thu, 18 Apr 2013 15:00:00 +0200</pubDate>
+      <title><![CDATA[Microsoft : la baisse de prix de Surface Pro devient permanente et s'étend à tous les pays]]></title>
+      <link>http://www.developpez.com/actu/60597/Microsoft-la-baisse-de-prix-de-Surface-Pro-devient-permanente-et-s-etend-a-tous-les-pays/</link>
+      <guid>http://www.developpez.com/actu/60597/Microsoft-la-baisse-de-prix-de-Surface-Pro-devient-permanente-et-s-etend-a-tous-les-pays/</guid>
+      <description><![CDATA[<b>Microsoft : la baisse de prix de Surface Pro devient permanente</b><br />
+<b>et s'étend à tous les pays </b><br/><br/>La réduction de prix qui a été apportée par Microsoft à la tablette Surface Pro a été étendue à tous les pays du monde, et ceci de façon permanente.<br/><br/>La campagne promotionnelle pour Surface Pro avait été lancée depuis le 4 aout aux États-Unis, au Canada et dans quelques pays d'Asie. Devant s'achever hier, les prix de Surface Pro n'ont finalement pas été remontés et les Microsoft Store de plusieurs autres pays, notamment la France, affichent désormais des prix réduits.<br/><br/>Les prix de Surface Pro 64 Go et 128 Go baissent de 100 euros et passent respectivement à 779 et 879 euros.<br/><br/>La réduction s'applique également aux accessoires, notamment le clavier...]]></description>
+      <pubDate>Fri, 30 Aug 2013 14:42:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Le guide de Lua et ses applications - manuel de référence, critique de livre d'Alexandre Laurent]]></title>
-      <link>http://c.developpez.com/livres/#L9782822700054</link>
-      <guid>http://c.developpez.com/livres/#L9782822700054</guid>
-      <description><![CDATA[Bonjour à tous,
-
-Tout récemment, j'ai lu deux livres sur Lua : Le manuel d'apprentissage et le manuel de référence de la série nommée &quot;Le guide de Lua et ses applications&quot;.
-
-Vous pouvez retrouver tous les détails de ces livres en suivant les liens ci-dessous :
-Manuel de référence
-Manuel d'apprentissage
-
- Qu'en pensez-vous ?
- Avez-vous lu ces livres ? Allez-vous les lire ?...]]></description>
-      <pubDate>Thu, 18 Apr 2013 15:00:00 +0200</pubDate>
+      <title><![CDATA[Un membre de l'EFF donne des recommandations pour une navigation internet plus sécurisée,  la meilleure arme contre PRISM ?]]></title>
+      <link>http://www.developpez.com/actu/60590/Un-membre-de-l-EFF-donne-des-recommandations-pour-une-navigation-internet-plus-securisee-la-meilleure-arme-contre-PRISM/</link>
+      <guid>http://www.developpez.com/actu/60590/Un-membre-de-l-EFF-donne-des-recommandations-pour-une-navigation-internet-plus-securisee-la-meilleure-arme-contre-PRISM/</guid>
+      <description><![CDATA[<b>Un membre de l'EFF donne des recommandations pour une navigation internet plus sécurisée,     </b><br />
+<b>la meilleure arme contre PRISM ?   </b><br/><br/>Depuis déjà plusieurs semaines, Edward Snowden expose au grand jour les diverses stratégies d'espionnage des services secrets américains. Les populations du monde entier ne décolèrent pas face à ce scandale. Mais est-ce que les différentes manifestations observées sont la meilleure réponse ? <br/><br/>Micah Lee, un technologue membre du personnel de l'EFF (Electronic Frontier Foundation) et responsable du projet HTTPS Everywhere, recommande sur son blog de déprécier le protocole http en faveur du HTTPS. « <i>Il serait naïf de croire que seuls les gouvernements britanniques et américains le font (espionner). Internet n'est pas sûr e...]]></description>
+      <pubDate>Fri, 30 Aug 2013 13:53:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Samsung avoue avoir lancé une opération pour discréditer HTC et essaye de rattraper l'hécatombe provoquée par son staff à Taiwan]]></title>
-      <link>http://www.developpez.com/actu/54324/Samsung-avoue-avoir-lance-une-operation-pour-discrediter-HTC-et-essaye-de-rattraper-l-hecatombe-provoquee-par-son-staff-a-Taiwan/</link>
-      <guid>http://www.developpez.com/actu/54324/Samsung-avoue-avoir-lance-une-operation-pour-discrediter-HTC-et-essaye-de-rattraper-l-hecatombe-provoquee-par-son-staff-a-Taiwan/</guid>
-      <description><![CDATA[Samsung avoue avoir lancé une opération pour discréditer HTC
-Le constructeur essaye de rattraper l'hécatombe provoquée par son staff à Taiwan 
-
-La branche taïwanaise de Samsung avait pour habitude de laisser des forums ouverts aux publications anonymes.
-
-Malheureusement, cette année les évènements ont très vite été hors de contrôle quand des propos haineux ont été tenus contre son rival HTC.
-
-Par exemple dans une publication, un anonyme dit que sa petite amie a un HTC ONE X qui est très souvent victime de bogues, une autre publication affirme que le Galaxy Note est supérieur au HTC Sensation XL. Une troisième exhibe des graphiques de batteries du Galaxy S III et du HTC One X, prétenda...]]></description>
-      <pubDate>Thu, 18 Apr 2013 14:50:00 +0200</pubDate>
+      <title><![CDATA[CodeWay Tour 2013 : un évènement en avant-première sur le développement Android et iOS le 10 septembre 2013 à la Défense (Paris)]]></title>
+      <link>http://delphi.developpez.com/actu/60576/CodeWay-Tour-2013-un-evenement-en-avant-premiere-sur-le-developpement-Android-et-iOS-le-10-septembre-2013-a-la-Defense-Paris/</link>
+      <guid>http://delphi.developpez.com/actu/60576/CodeWay-Tour-2013-un-evenement-en-avant-premiere-sur-le-developpement-Android-et-iOS-le-10-septembre-2013-a-la-Defense-Paris/</guid>
+      <description><![CDATA[Embarcadero organise un évènement technique exclusif en avant-première sur le développement Android et iOS, le 10 septembre 2013 à la Défense. Inscrivez-vous dès maintenant pour cette session exclusive où vous apprendrez comment passer du développement pour applications de bureau au développement mobile en créant de véritables applications natives Android et iOS.]]></description>
+      <pubDate>Fri, 30 Aug 2013 13:52:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Titan bat le record de rapidité de stockage grâce à Spider II, le supercalculateur le plus rapide du monde conserve son rang]]></title>
-      <link>http://www.developpez.com/actu/54321/Titan-bat-le-record-de-rapidite-de-stockage-grace-a-Spider-II-le-supercalculateur-le-plus-rapide-du-monde-conserve-son-rang/</link>
-      <guid>http://www.developpez.com/actu/54321/Titan-bat-le-record-de-rapidite-de-stockage-grace-a-Spider-II-le-supercalculateur-le-plus-rapide-du-monde-conserve-son-rang/</guid>
-      <description><![CDATA[Titan bat les records de rapidité de stockage avec une vitesse de 1,4 To/s grâce à Spider II
-le supercalculateur le plus rapide du monde conserve son rang
-
-Titan conserve son rang dans la classe des supercalculateurs les plus rapides au monde, grâce à l'acquisition d'un nouveau système de stockage produit par la société DataDirect Networks.
-
-Après que  RoadRunner, le premier supercalculateur à avoir atteint la puissance de calcul de 1 pétaFLOPS, ait été mis hors service, aujourd'hui commence une nouvelle ère placée sous l'hégémonie de Titan.
-
-Comme son équivalent mythologique, ce nouveau supercalculateur dispose de tous les atouts nécessaires pour éclipser la concurrence. Il embarque ...]]></description>
-      <pubDate>Thu, 18 Apr 2013 13:24:00 +0200</pubDate>
+      <title><![CDATA[Nokia 515 : design raffiné et hautes performances, le « feature phone » sous S40 revendique une autonomie de 38 jours]]></title>
+      <link>http://www.developpez.com/actu/60587/Nokia-515-design-raffine-et-hautes-performances-le-feature-phone-sous-S40-revendique-une-autonomie-de-38-jours/</link>
+      <guid>http://www.developpez.com/actu/60587/Nokia-515-design-raffine-et-hautes-performances-le-feature-phone-sous-S40-revendique-une-autonomie-de-38-jours/</guid>
+      <description><![CDATA[<b>Nokia 515 : design raffiné et hautes performances</b><br />
+<b>Le « feature phone » sous S40 disposerait d'une autonomie de 38 jours</b><br/><br/>Nokia relance sa gamme de « feature phone », avec son nouveau Nokia 515 qui remet son OS Symbian S40 sous les feux des projecteurs.<br/><br/>Alliant finitions, hautes performances et petit prix, le Nokia 515 est un téléphone mobile classique haut de gamme, conçu pour les clients soucieux de leur style. Enveloppé d'aluminium léger, le mobile «<i> combine les meilleures fonctionnalités de Nokia : un design contemporain, des matériaux de qualité et des performances remarquables</i> ».<br/><br/>Le dispositif est équipé d'un verre Gorilla 2 résistant aux éraflures, légèrement arrondi pour une belle finition, ainsi qu'un encadrement classique  poli...]]></description>
+      <pubDate>Fri, 30 Aug 2013 13:32:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[JScrambler 3 disponible, l'outil permet de protéger son code JavaScript et HTML5 avant déploiement en obfusquant celui-ci]]></title>
-      <link>http://www.developpez.com/actu/54317/JScrambler-3-disponible-l-outil-permet-de-proteger-son-code-JavaScript-et-HTML5-avant-deploiement-en-obfusquant-celui-ci/</link>
-      <guid>http://www.developpez.com/actu/54317/JScrambler-3-disponible-l-outil-permet-de-proteger-son-code-JavaScript-et-HTML5-avant-deploiement-en-obfusquant-celui-ci/</guid>
-      <description><![CDATA[JScrambler 3 disponible
- l'outil permet de protéger son code JavaScript et HTML5 avant déploiement en obfusquant celui-ci
-
-Le code source des applications JavaScript peut être lu lorsque les utilisateurs entrent en possession d'une application entièrement codée dans ce langage. Ceci constitue un réel problème pour des applications à but commercial, car JavaScript n'offre pas nativement de méthodes pour protéger le code des regards indiscrets. 
-
-JScrambler permet de contourner toutes ces difficultés en apportant la fonctionnalité d'obfuscation du code JavaScript pour les applications Web, Desktop ou mobiles. 
-
-Actuellement l'outil en est à sa version 3. Il est utile dans plusieurs cas ...]]></description>
-      <pubDate>Thu, 18 Apr 2013 12:54:00 +0200</pubDate>
+      <title><![CDATA[L'univers Arduino - Partie 1 : aperçu de la plateforme Arduino et ses cartes d'interface (shields), un tutoriel par f-leb]]></title>
+      <link>http://f-leb.developpez.com/tutoriels/arduino/univers_arduino/part1/</link>
+      <guid>http://f-leb.developpez.com/tutoriels/arduino/univers_arduino/part1/</guid>
+      <description><![CDATA[Bonjour à tous,<br/><br/>Elle a tout d'une grande la pt'ite, non ?<br/><br/><img src="http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg" /><br/><br/>Voici un premier article de présentation de la carte Arduino et son écosystème :<br />
+<a href="http://f-leb.developpez.com/tutoriels/arduino/univers_arduino/part1/" target="_blank"><br />
+L'univers Arduino<br />
+Partie I : Aperçu de la plateforme Arduino et ses cartes d'interface (<i> shields</i>)</a><br/><br/>
+	Citation:
+	
+	
+		<i>Véritable mini-ordinateur au succès planétaire, traitant les données provenant de composants et capteurs divers (capteur de température, luminosité, mouvement ou boutons poussoir, etc.) et communiquant des ordres pour allumer des lampes ou actionner des moteurs électriques, la carte électronique...]]></description>
+      <pubDate>Fri, 30 Aug 2013 12:57:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Les PME cibles favorites des pirates, ceux-ci profiteraient de leurs faibles moyens de sécurité pour attaquer des organisations plus grandes]]></title>
-      <link>http://www.developpez.com/actu/54313/Les-PME-cibles-favorites-des-pirates-ceux-ci-profiteraient-de-leurs-faibles-moyens-de-securite-pour-attaquer-des-organisations-plus-grandes/</link>
-      <guid>http://www.developpez.com/actu/54313/Les-PME-cibles-favorites-des-pirates-ceux-ci-profiteraient-de-leurs-faibles-moyens-de-securite-pour-attaquer-des-organisations-plus-grandes/</guid>
-      <description><![CDATA[Les PME cibles favorites des pirates ?
-Ceux-ci profiteraient de leurs faibles moyens de sécurité pour attaquer des organisations plus grandes, selon Symantec
-
-Symantec vient de publier son rapport de sécurité pour internet. Le rapport  long de 58 pages est un récapitulatif des différents évènements de sécurité qui ont eu lieu au cours des années précédentes et en début de cette année 2013.
-
-Selon  une idée préconçue, les petites entreprises ne sont pas des cibles potentielles pour les hackers. La réalité est tout autre, comme le souligne le rapport de Symantec. La plupart des  petites entreprises n'investissent pas un budget conséquent pour la sécurité. 
-
-Cette tendance fâcheuse est s...]]></description>
-      <pubDate>Thu, 18 Apr 2013 12:01:00 +0200</pubDate>
+      <title><![CDATA[Un scientifique contrôle la main de son collègue par son cerveau,  la naissance des technologies de télépathie ?]]></title>
+      <link>http://www.developpez.com/actu/60581/Un-scientifique-controle-la-main-de-son-collegue-par-son-cerveau-la-naissance-des-technologies-de-telepathie/</link>
+      <guid>http://www.developpez.com/actu/60581/Un-scientifique-controle-la-main-de-son-collegue-par-son-cerveau-la-naissance-des-technologies-de-telepathie/</guid>
+      <description><![CDATA[<b>Un scientifique contrôle la main de son collègue par son cerveau,   </b><br />
+<b>la naissance des technologies de télépathie ?   </b><br/><br/>Des chercheurs de l'université de Washington ont mis sur pied un procédé permettant à un cerveau de contrôler deux corps. <br/><br/>L'un d'eux, Rajesh Rao, s'est muni d'un casque comportant des électrodes et relié à une machine d'électroencéphalographie, pour détecter l'activité électrique de son cerveau. Pendant ce temps, son collègue Andrea Stocco était de l'autre côté du campus, revêtant pour sa part une bobine de stimulation magnétique, placée directement sur le lobe gauche de son cortex qui contrôle les mouvements de la main.   <br/><br/>Pour démontrer la communication effective entre les deux cerveaux, Rao s'est mis à jouer à un jeu vidéo...]]></description>
+      <pubDate>Fri, 30 Aug 2013 10:57:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Apple devrait vendre 75 millions d'iPhone low-cost en 2014, avec une part qui passera de 0 % en 2012 à 11 % sur ce segment]]></title>
-      <link>http://www.developpez.com/actu/54309/Apple-devrait-vendre-75-millions-d-iPhone-low-cost-en-2014-avec-une-part-qui-passera-de-0-en-2012-a-11-sur-ce-segment/</link>
-      <guid>http://www.developpez.com/actu/54309/Apple-devrait-vendre-75-millions-d-iPhone-low-cost-en-2014-avec-une-part-qui-passera-de-0-en-2012-a-11-sur-ce-segment/</guid>
-      <description><![CDATA[Apple devrait vendre 75 millions d'iPhone low-cost en 2014,
-Avec une part qui passerait de 0 % en 2012 à 11 % sur ce segment 
-
-Gene Munster, analyste de projets chez Piper Jaffray, explique dans une note adressée aux investisseurs qu'il s'attend à ce qu'Apple vende des iPhone non subventionnés à 300 dollars l'unité dès septembre à raison de 75 millions d'appareils. Un tel dispositif pourrait occasionner un taux de cannibalisation de 30 % ; pour trois iPhone vendus ainsi, un iPhone plein tarif serait cannibalisé.
-
-[IMG]http://stephanelecalme.developpez.com/images/iphone.jpg[/IMG]
-Ce qui pourrait entraîner que le marché haut de gamme d'Apple passe de 43 % à 37 %. Cepe...]]></description>
-      <pubDate>Thu, 18 Apr 2013 11:42:00 +0200</pubDate>
+      <title><![CDATA[HTC développe un OS mobile destiné au marché chinois,  l'entreprise veut réduire sa dépendance à Android]]></title>
+      <link>http://www.developpez.com/actu/60572/HTC-developpe-un-OS-mobile-destine-au-marche-chinois-l-entreprise-veut-reduire-sa-dependance-a-Android/</link>
+      <guid>http://www.developpez.com/actu/60572/HTC-developpe-un-OS-mobile-destine-au-marche-chinois-l-entreprise-veut-reduire-sa-dependance-a-Android/</guid>
+      <description><![CDATA[<b>HTC développe un OS mobile destiné au marché chinois, </b><br />
+<b>l'entreprise veut réduire sa dépendance à Android   </b><br/><br/>Avec plus d'un milliard d'habitants à elle toute seule, la Chine est un marché de consommation très prisé par les entreprises, indépendamment du secteur d'activité.  HTC, qui connait depuis quelque temps déjà des difficultés dans ses ventes, espère les redynamiser grâce aux consommateurs chinois. <br/><br/><img src="http://www.developpez.com/public/images/news/htc_resized.jpg" /><br />
+Les ambitions de l'entreprise quant à la création d'un nouveau système d'exploitation mobile ne datent pas d'aujourd'hui. Toutefois, HTC a joué la carte de la prudence et, au lieu d'attaquer Android sur un marché où il a déjà le monopole, le Taïwanais s'est intéressé au m...]]></description>
+      <pubDate>Fri, 30 Aug 2013 01:09:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Humour : Chuck Norris est obsolète selon le W3C ? Il ne respecterait pas les standards du Web]]></title>
-      <link>http://www.developpez.com/actu/54308/Humour-Chuck-Norris-est-obsolete-selon-le-W3C-Il-ne-respecterait-pas-les-standards-du-Web/</link>
-      <guid>http://www.developpez.com/actu/54308/Humour-Chuck-Norris-est-obsolete-selon-le-W3C-Il-ne-respecterait-pas-les-standards-du-Web/</guid>
-      <description><![CDATA[Chuck Norris est-il validé par les standards du W3C ?
-
-Derrière cette question énigmatique et qui peut sembler incongrue se cache pourtant une réalité (ou un easter egg des navigateurs) !
-En effet, je viens de lire un billet prouvant que Chuck Norris ne respecte pas les standards du Web et n'apprécie pas la séparation du contenu et du style.
-Pour preuve, je vous invite à tester ce code :
-
-	Code  :
-        
-            Sélectionner tout -
-            ]]></description>
-      <pubDate>Thu, 18 Apr 2013 11:28:00 +0200</pubDate>
+      <title><![CDATA[Des Google Glass, oui mais pourquoi ?  Le chef du projet Glass explique en quoi ce dispositif est révolutionnaire]]></title>
+      <link>http://www.developpez.com/actu/60567/Des-Google-Glass-oui-mais-pourquoi-Le-chef-du-projet-Glass-explique-en-quoi-ce-dispositif-est-revolutionnaire/</link>
+      <guid>http://www.developpez.com/actu/60567/Des-Google-Glass-oui-mais-pourquoi-Le-chef-du-projet-Glass-explique-en-quoi-ce-dispositif-est-revolutionnaire/</guid>
+      <description><![CDATA[<b>Des Google Glass, oui mais pourquoi ?  </b><br />
+<b>Le chef du projet Glass explique en quoi ce dispositif est révolutionnaire  </b><br/><br/>« <i>Deux raisons principales expliquent pourquoi nous voulions faire les Google Glass. La première est que nous voulions un dispositif de communication imagé et la seconde rendre l'accès à différents types d'informations beaucoup plus rapide.</i> » a déclaré <a href="https://plus.google.com/100149980664588993669/posts" target="_blank">Babak Parviz</a>, directeur du projet Glass chez Google, pendant la conférence Hot Chips à l'université de Stanford.<br/><br/><img src="http://www.developpez.com/public/images/news/b_parviz.jpg" /><br />
+Malgré le fait qu'il se trouvait à un symposium sur les puces de hautes performances, Parviz s'est abstenu de ...]]></description>
+      <pubDate>Thu, 29 Aug 2013 22:26:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Google Play : hausse de 90 % des revenus des applications, la galerie talonne de près l'App Store en nombre de téléchargements]]></title>
-      <link>http://www.developpez.com/actu/54304/Google-Play-hausse-de-90-des-revenus-des-applications-la-galerie-talonne-de-pres-l-App-Store-en-nombre-de-telechargements/</link>
-      <guid>http://www.developpez.com/actu/54304/Google-Play-hausse-de-90-des-revenus-des-applications-la-galerie-talonne-de-pres-l-App-Store-en-nombre-de-telechargements/</guid>
-      <description><![CDATA[Google Play : hausse de 90 % des revenus des applications 
-La galerie talonne de près l'App Store en nombre de téléchargements 
-
-Apple, qui vendait quatre fois plus que Google lors du dernier trimestre de 2012, se voit vendre 2,6 fois plus que Google au cours du premier trimestre de 2013, selon un rapport de l'index d'App Annie.
-
-Un succès pour Google qui enregistre alors une hausse de 90 % de ses ventes rien que pour le début de l'année en cours.
-
-[IMG]http://stephanelecalme.developpez.com/images/store.png[/IMG]
-Pour le nombre de téléchargements, Google peut remercier dans l'ordre les États-Unis, la Corée du Sud, l'Inde, la Russie et le Japon. Les qua...]]></description>
-      <pubDate>Thu, 18 Apr 2013 11:07:00 +0200</pubDate>
+      <title><![CDATA[Windows 8.1 : les développeurs en colère suite à la décision de Microsoft de ne pas mettre à leur disposition la RTM de l'OS]]></title>
+      <link>http://www.developpez.com/actu/60563/Windows-8-1-les-developpeurs-en-colere-suite-a-la-decision-de-Microsoft-de-ne-pas-mettre-a-leur-disposition-la-RTM-de-l-OS/</link>
+      <guid>http://www.developpez.com/actu/60563/Windows-8-1-les-developpeurs-en-colere-suite-a-la-decision-de-Microsoft-de-ne-pas-mettre-a-leur-disposition-la-RTM-de-l-OS/</guid>
+      <description><![CDATA[<b>Windows 8.1 : les développeurs en colère</b><br />
+<b>suite à la décision de Microsoft de ne pas mettre à leur disposition la RTM de l'OS</b><br/><br/>Les développeurs abonnés aux programmes MSDN et TechNet avaient pour habitude de recevoir une RTM des nouvelles versions de Windows une quinzaine de jours après les constructeurs. Cela leur permettait de disposer d'une marge pour tester l'OS et adapter leurs applications en vue du lancement grand public.<br/><br/>Les prenant à contre-pied, Microsoft a annoncé lors de <a href="http://www.developpez.com/actu/60480/" target="_blank">la sortie de la RTM de Windows 8.1 pour les fabricants de PC et tablettes</a>, qu'il n'y aurait pas d'accès précoce pour les développeurs comme il est de coutume. Ceux-ci devront attendre la sortie grand public ...]]></description>
+      <pubDate>Thu, 29 Aug 2013 15:36:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Microsoft déploie l'authentification à deux facteurs sur « Microsoft Account », l'option améliore la sécurité des comptes utilisateurs]]></title>
-      <link>http://www.developpez.com/actu/54297/Microsoft-deploie-l-authentification-a-deux-facteurs-sur-Microsoft-Account-l-option-ameliore-la-securite-des-comptes-utilisateurs/</link>
-      <guid>http://www.developpez.com/actu/54297/Microsoft-deploie-l-authentification-a-deux-facteurs-sur-Microsoft-Account-l-option-ameliore-la-securite-des-comptes-utilisateurs/</guid>
-      <description><![CDATA[Microsoft adopte l'authentification à deux facteurs pour « Microsoft Account »
-pour mieux sécuriser les comptes des utilisateurs
-
-
-L'authentification  à deux facteurs est désormais à la mode pour mieux sécuriser les comptes des utilisateurs.
- 
-Après Google, Facebook, PayPal et récemment Apple,  ce serait au tour de Microsoft de se tourner vers ce mode d'identification sécurisé qui oblige l'utilisateur à posséder un mot de passe et un jeton ou un certificat.
-
-Selon le site spécialisé LiveSide.net, la firme aurait apporté des modifications à  Microsoft Account,  la fonctionnalité qui permet l'accès à  l'ensemble de ses services, notamment aux e-mails, contacts, SkyDrive ou encore...]]></description>
-      <pubDate>Thu, 18 Apr 2013 10:22:00 +0200</pubDate>
+      <title><![CDATA[Windows XP pourrait encore recevoir des correctifs de sécurité après avril 2014, via un programme « Custom Support » qui coûtera cher]]></title>
+      <link>http://www.developpez.com/actu/60559/Windows-XP-pourrait-encore-recevoir-des-correctifs-de-securite-apres-avril-2014-via-un-programme-Custom-Support-qui-coutera-cher/</link>
+      <guid>http://www.developpez.com/actu/60559/Windows-XP-pourrait-encore-recevoir-des-correctifs-de-securite-apres-avril-2014-via-un-programme-Custom-Support-qui-coutera-cher/</guid>
+      <description><![CDATA[<b>Windows XP pourrait encore recevoir des correctifs de sécurité après avril 2014</b><br />
+<b>via un programme « Custom Support » qui coûtera cher </b><br/><br/>Microsoft avait annoncé qu'il allait mettre fin au support de Windows XP le 8 avril 2014.<br/><br/>À pratiquement 8 mois de cette échéance, le système d'exploitation vieux de 12 ans reste encore l'OS le plus populaire du monde derrière Windows 7, grâce à une part de marché mondiale estimée à environ 37 %.<br/><br/>À compter de cette date, Microsoft ne publiera plus de mises à jour de sécurité pour l'OS qui sera désormais une proie facile pour les hackers. <br/><br/>L'éditeur tire d'ailleurs la sonnette d'alarme pour inciter les utilisateurs à migrer vers Windows 8, car les pirates conserveraient en secret des failles zero-day po...]]></description>
+      <pubDate>Thu, 29 Aug 2013 14:23:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Le « Dev du Jeudi » est consacré à la création de clients Windows 8 dans le séminaire Embarcadero en ligne du 18 avril 2013]]></title>
-      <link>http://www.developpez.com/actu/54295/Le-Dev-du-Jeudi-est-consacre-a-la-creation-de-clients-Windows-8-dans-le-seminaire-Embarcadero-en-ligne-du-18-avril-2013/</link>
-      <guid>http://www.developpez.com/actu/54295/Le-Dev-du-Jeudi-est-consacre-a-la-creation-de-clients-Windows-8-dans-le-seminaire-Embarcadero-en-ligne-du-18-avril-2013/</guid>
-      <description><![CDATA[Le « Dev du Jeudi » du 18 avril 2013 : création de clients Windows 8 (VCL et FMX)
-Épisode 8 de la saison 2 des séminaires en ligne d'Embarcadero
-
-Le huitième épisode de la seconde saison des « Dev du Jeudi », le 18 avril 2013, est consacré à la création de clients Windows 8.
-
-Le « Dev du Jeudi » est un événement en ligne, entièrement en français et gratuit, qui a lieu tous les jeudis (à l'exception du jeudi 9 mai) jusqu'au jeudi 27 juin. Soit en tout 17 semaines de séminaires dédiés aux produits Embarcadero dont le RAD Studio XE3.
-
-L'horaire est identique pour chaque session  : 10h-12h et 14h-17h (soit 5h par session).
-
-Le sujet de la semaine prochaine (jeudi 25 avril 2013) sera la cr...]]></description>
-      <pubDate>Thu, 18 Apr 2013 10:18:00 +0200</pubDate>
+      <title><![CDATA[SkyDrive se dote d'une technologie permettant d'extraire du texte des images, l'espace de stockage gratuit pour la version Pro passe à 25 Go]]></title>
+      <link>http://www.developpez.com/actu/60553/SkyDrive-se-dote-d-une-technologie-permettant-d-extraire-du-texte-des-images-l-espace-de-stockage-gratuit-pour-la-version-Pro-passe-a-25-Go/</link>
+      <guid>http://www.developpez.com/actu/60553/SkyDrive-se-dote-d-une-technologie-permettant-d-extraire-du-texte-des-images-l-espace-de-stockage-gratuit-pour-la-version-Pro-passe-a-25-Go/</guid>
+      <description><![CDATA[<b>SkyDrive se dote d'une technologie permettant d'extraire du texte des images</b><br />
+<b>L'espace de stockage gratuit pour la version Pro passe à 25 Go</b><br/><br/>Microsoft a doté sa plateforme de stockage Cloud SkyDrive d'une nouvelle fonctionnalité de reconnaissance  optique de caractères (OCR).<br/><br/>Reposant sur une technologie développée par le moteur de recherche Bing, cette fonction permet d'extraire les textes à partir d'une photo stockée sur son espace personnel SkyDrive.<br/><br/>Le but est de faciliter la lecture des images contenant beaucoup de texte. À l'affichage d'une photo sur SkyDrive, l'OCR s'exécute automatiquement, de telle sorte que l'utilisateur puisse voir instantanément, sur un volet, le texte contenu dans l'image.<br/><br/>]]></description>
+      <pubDate>Thu, 29 Aug 2013 13:28:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Android atteindra le milliard d'utilisateurs avant la fin d'année, Motorola préparerait des smartphones « phénoménaux »]]></title>
-      <link>http://www.developpez.com/actu/54280/Android-atteindra-le-milliard-d-utilisateurs-avant-la-fin-d-annee-Motorola-preparerait-des-smartphones-phenomenaux/</link>
-      <guid>http://www.developpez.com/actu/54280/Android-atteindra-le-milliard-d-utilisateurs-avant-la-fin-d-annee-Motorola-preparerait-des-smartphones-phenomenaux/</guid>
-      <description><![CDATA[Android atteindra le milliard d'utilisateurs avant la fin de l'année
-Les prochains smartphones de Motorola seront « phénoménaux » selon Eric Schmidt 
-
-Eric Schmidt, président de Google, voit d'un bon oeil la progression de l'OS de la firme sur le marché du mobile. Pour lui, dans les huit ou neuf mois à venir, le nombre de possesseurs d'appareils Android devrait atteindre la barre du milliard. 
-
-La firme voudrait miser sur tous ses atouts pour pouvoir doubler ce nombre en deux ans tout au plus.
-
-Schmidt parle par exemple d'une future baisse drastique envisageable grâce à ses fabricants asiatiques à l'instar de Samsung.
-
-De plus, l'entreprise compte sur son acquisition de ...]]></description>
-      <pubDate>Wed, 17 Apr 2013 18:51:00 +0200</pubDate>
+      <title><![CDATA[Sortie de Qt 5.1.1, qui confirme la maturité des Qt Quick Controls et la stabilité des ports pour Android et iOS]]></title>
+      <link>http://qt.developpez.com/actu/60546/Sortie-de-Qt-5-1-1-qui-confirme-la-maturite-des-Qt-Quick-Controls-et-la-stabilite-des-ports-pour-Android-et-iOS/</link>
+      <guid>http://qt.developpez.com/actu/60546/Sortie-de-Qt-5-1-1-qui-confirme-la-maturite-des-Qt-Quick-Controls-et-la-stabilite-des-ports-pour-Android-et-iOS/</guid>
+      <description><![CDATA[C'est aujourd'hui que sort Qt 5.1.1, la première version corrective de la série Qt 5.1. Elle apporte de nombreux changement par rapport à Qt 5.1.0 et vient avec Qt Creator 2.8.1 dans les installateurs. En qualité de correctif, cette sortie n'ajoute pas de nouvelle fonctionnalité et préserve la compatibilité binaire avec Qt 5.1.0.<br/><br/>Huit semaines se sont écoulées depuis la sortie de Qt 5.1.0 et les retours sont bons. Beaucoup d'entre vous ont déjà expérimenté ou se servent des Qt Quick Controls ainsi que des ports mobiles pour Android et iOS. Qt 5.1.1 apporte les améliorations attendues par la communauté, et ce dans les différents modules. Cette version inclus Qt Creator 2.8.1 pour une installation aisée via les installateurs hors ou en-ligne.<br/><br/>La liste détaillée des changeme...]]></description>
+      <pubDate>Thu, 29 Aug 2013 13:26:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Foxconn payera des royalties à Microsoft, pour ses terminaux sous Android et Chrome OS]]></title>
-      <link>http://www.developpez.com/actu/54274/Foxconn-payera-des-royalties-a-Microsoft-pour-ses-terminaux-sous-Android-et-Chrome-OS/</link>
-      <guid>http://www.developpez.com/actu/54274/Foxconn-payera-des-royalties-a-Microsoft-pour-ses-terminaux-sous-Android-et-Chrome-OS/</guid>
-      <description><![CDATA[Foxconn payera des royalties à Microsoft,
-Pour ses terminaux sous Android et Chrome OS  
-
-Microsoft continue de faire passer son message « Android n'est pas gratuit ». 
-
-Après l'accord signé avec HTC, Samsung et une dizaine d'autres constructeurs, c'est au tour de la maison mère du géant taïwanais de la production d'équipements high-tech, sous-traitant notamment d'Apple, Motorola ou ASUS de rejoindre le programme de licences Android de Microsoft.
-
-Foxconn bénéficierait alors du portefeuille de brevets de la société pour couvrir ses terminaux sous Android et Chrome OS parmi lesquels des smartphones, des tablettes et des télévisions, en échange de royalties dont les modalités de calcul ...]]></description>
-      <pubDate>Wed, 17 Apr 2013 17:47:00 +0200</pubDate>
+      <title><![CDATA[Sortie de Qt Creator 2.8.1, désormais disponible par les installateurs en ligne, avec des traductions améliorées]]></title>
+      <link>http://qt.developpez.com/actu/60549/Sortie-de-Qt-Creator-2-8-1-desormais-disponible-par-les-installateurs-en-ligne-avec-des-traductions-ameliorees/</link>
+      <guid>http://qt.developpez.com/actu/60549/Sortie-de-Qt-Creator-2-8-1-desormais-disponible-par-les-installateurs-en-ligne-avec-des-traductions-ameliorees/</guid>
+      <description><![CDATA[C'est aujourd'hui que sort Qt Creator 2.8.1 ainsi que le framework d'installation Qt 1.4.0.<br/><br/>Vous avez peut-être remarqué que Qt Creator 2.8.0 n'était pas disponible via les installateurs en ligne. Ceci était dû à des conflits entre le framework d'installation et Qt Creator 2.8.0 : ce dernier cassait dans certains cas les mises à jour. Réjouissez-vous, Qt Creator 2.8.1 est maintenant disponible en tant que mise à jour.<br/><br/>Qt Creator 2.8.1 contient 132 changements apportés par 28 contributeurs. Il y a eu des correctifs un peu partout, notamment des corrections de bogues entraînant la fermeture de l'application. Les traductions en tchèque, polonais, russe et ukrainien ont été mises à jour, un grand merci aux contributeurs de ces communautés. Référez-vous à la ]]></description>
+      <pubDate>Thu, 29 Aug 2013 13:26:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Google pénalise-t-il les "entreprises qui ne payent pas" ? Une étude révèle que Flight Search favoriserait certaines compagnies aériennes]]></title>
-      <link>http://www.developpez.com/actu/54270/Google-penalise-t-il-les-entreprises-qui-ne-payent-pas-Une-etude-revele-que-Flight-Search-favoriserait-certaines-compagnies-aeriennes/</link>
-      <guid>http://www.developpez.com/actu/54270/Google-penalise-t-il-les-entreprises-qui-ne-payent-pas-Une-etude-revele-que-Flight-Search-favoriserait-certaines-compagnies-aeriennes/</guid>
-      <description><![CDATA[Google Flight Search pénalise-t-il les « entreprises qui ne payent pas » ? 
-Le moteur responsable de la baisse du trafic internet de compagnies aériennes selon une étude  
-
-L'étude a été menée par des étudiants d'Harvard sur des compagnies aériennes. Il apparaît que depuis que la firme a amorcé son moteur de recherche de vols Google Flight Search, cinq agences ont perdu 80 % de leur trafic alors que celles qui ont payé la publicité ont vu leur trafic grimper à 160 %.
-
-L'étude fournit des données sur la façon dont la promotion des services propres à Google dans les résultats des recherches peut porter préjudice à la concurrence.
-
-Selon Ben Edelman, professeur associé à Harvard Business...]]></description>
-      <pubDate>Wed, 17 Apr 2013 17:11:00 +0200</pubDate>
+      <title><![CDATA[Intel publie « C++ Compiler v 13.0 », son compilateur optimisé pour le développement d'applications natives Android]]></title>
+      <link>http://www.developpez.com/actu/60542/Intel-publie-C-Compiler-v-13-0-son-compilateur-optimise-pour-le-developpement-d-applications-natives-Android/</link>
+      <guid>http://www.developpez.com/actu/60542/Intel-publie-C-Compiler-v-13-0-son-compilateur-optimise-pour-le-developpement-d-applications-natives-Android/</guid>
+      <description><![CDATA[<b>Intel publie Intel C++ Compiler v 13.0 son compilateur destiné au développement natif pour Android</b><br />
+<b>compatible avec Android NDK</b><br/><br/>Intel publie son compilateur Intel C++ Compiler v 13.0 compatible Android NDK (Native Developpement Kit), destiné au développement d'applications natives pour la plateforme mobile de Google.<br/><br/>Pour l'instant, seuls les systèmes d'exploitation Ubuntu 10.0.4 et 11.0.4 peuvent être utilisés comme environnements de développement pour le compilateur d'Intel. Les versions pour les autres systèmes (OSX, Windows, et autres) devraient voir le jour à une date ultérieure, s'est contenté d'annoncer Intel sans aucune autre précision.<br/><br/>Intel C++ Compiler v 13.0 produit du code natif pour tous les périphériques mobiles (équipés des puc...]]></description>
+      <pubDate>Thu, 29 Aug 2013 12:38:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
