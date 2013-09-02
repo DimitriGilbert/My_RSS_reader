@@ -1,5 +1,5 @@
 <?php
-$path=__FILE__.'/../';
+$path=dirname(__FILE__).'/../';
 
 function get_rss($ids=false)
 {
