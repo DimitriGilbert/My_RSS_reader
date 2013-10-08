@@ -450,6 +450,7 @@ var My_RSS_reader={
 		r_cont.appendChild(jsi.h2(['class'],['reader_title'],title));
 		r_cont.appendChild(jsi.div(['class'],['reader_date'],d));
 		r_cont.appendChild(jsi.div(['class'],['reader_descrip'],descrip));
+		r_cont.appendChild(jsi.div(['class'],['reader_descrip'],link));
 		
 		r_cont.appendChild(jsi.div(['class','onclick'],['go_previou float_left','$("#'+id+'").previous().click();'],'<< previous'));
 		r_cont.appendChild(jsi.div(['class','onclick'],['go_web','My_RSS_reader.go_web("'+id+'")'],'GO WEB !'));
