@@ -4,8 +4,8 @@
     <title><![CDATA[Developpez.com]]></title>
     <link>http://www.developpez.com/index/rss</link>
     <description><![CDATA[Club des développeurs et IT Pro]]></description>
-    <pubDate>Sun, 01 Sep 2013 16:25:03 +0200</pubDate>
-    <lastBuildDate>Sun, 01 Sep 2013 16:25:03 +0200</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2013 17:46:51 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2013 17:46:51 +0200</lastBuildDate>
     <managingEditor>(www.developpez.com)</managingEditor>
     <copyright>Copyright © 2000-2013 www.developpez.com</copyright>
     <image>
@@ -17,170 +17,166 @@
     <language>fr-FR</language>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-      <title><![CDATA[Deux chercheurs trouvent une faille de sécurité sur Dropbox, permettant aux pirates d'accéder aux comptes des utilisateurs]]></title>
-      <link>http://www.developpez.com/actu/60622/Deux-chercheurs-trouvent-une-faille-de-securite-sur-Dropbox-permettant-aux-pirates-d-acceder-aux-comptes-des-utilisateurs/</link>
-      <guid>http://www.developpez.com/actu/60622/Deux-chercheurs-trouvent-une-faille-de-securite-sur-Dropbox-permettant-aux-pirates-d-acceder-aux-comptes-des-utilisateurs/</guid>
-      <description><![CDATA[<b>Deux chercheurs trouvent une faille de sécurité sur Dropbox</b><br />
-<b>permettant aux pirates d'accéder aux comptes des utilisateurs</b><br/><br/>Des chercheurs révèlent avoir cassé la sécurité de Dropbox.<br/><br/><a href="http://www.developpez.com/public/images/news/dropboxlogo.jpeg" target="_blank"><img src="http://www.developpez.com/public/images/news/dropboxlogo_resized.jpeg" /></a><br />
-DropBox est une plateforme de stockage de données dans le Cloud, qui compte plus de 100 millions d'utilisateurs.<br/><br/>Le langage de programmation utilisé pour le développement du client DropBox est Python. Dhiru Kholia et Przemyslaw Wegrzyn ont effectué des travaux de recherche sur la plateforme. <br/><br/>D'après leurs travaux, le mécanisme d'authentification à deux facteurs n'est pas uti...]]></description>
-      <pubDate>Sat, 31 Aug 2013 20:12:00 +0200</pubDate>
+      <title><![CDATA[L'iPhone 5S et 5C victimes de nombreux bogues qui les font redémarrer en affichant un écran bleu de la mort]]></title>
+      <link>http://www.developpez.com/actu/62562/L-iPhone-5S-et-5C-victimes-de-nombreux-bogues-qui-les-font-redemarrer-en-affichant-un-ecran-bleu-de-la-mort/</link>
+      <guid>http://www.developpez.com/actu/62562/L-iPhone-5S-et-5C-victimes-de-nombreux-bogues-qui-les-font-redemarrer-en-affichant-un-ecran-bleu-de-la-mort/</guid>
+      <description><![CDATA[<b>L'iPhone 5s et l'iPhone 5c sont victimes de nombreux bogues</b><br />
+<b>qui les font redémarrer en affichant un écran bleu de la mort</b><br/><br/>Les tests d'avant déploiement sur le marché, réalisés pour les produits d'entreprises (logiciels, matériels) ne permettent pas de détecter tous les bogues existants. C'est ainsi que les nouveaux produits sur le marché gagnent en maturité et en robustesse avec le temps. Les produits de la firme de Cupertino n'échappent pas à cette règle.<br/><br/>Récemment, des possesseurs d'iPhone 5s et...]]></description>
+      <pubDate>Mon, 14 Oct 2013 17:21:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Apple voudrait faire du mot « STARTUP » une marque déposée, la proposition en attente de validation en Australie]]></title>
-      <link>http://www.developpez.com/actu/60619/Apple-voudrait-faire-du-mot-STARTUP-une-marque-deposee-la-proposition-en-attente-de-validation-en-Australie/</link>
-      <guid>http://www.developpez.com/actu/60619/Apple-voudrait-faire-du-mot-STARTUP-une-marque-deposee-la-proposition-en-attente-de-validation-en-Australie/</guid>
-      <description><![CDATA[<b>Apple voudrait faire du mot STARTUP sa marque déposée</b><br />
-<b>La proposition est en attente de validation en Australie</b><br/><br/>Un fait pour le moins surprenant en provenance d'Australie nous est relaté par TMWATCH : Apple aurait l'intention de déposer le mot « STARTUP » comme une marque l'appartenant.<br/><br/>La société entend ainsi utiliser ce mot pour une pléthore de consommables et de services comme les logiciels, la récupération de données, l'électronique grand public, dans des conférences et séminaires relatifs à l'informatique, des ateliers de travaux informatiques, les téléphones mobiles, le développement logiciel et matériel, le support technique et bien d'autres. On peut ainsi constater que quasiment tous les secteurs touchant de loin comme de près à l'informatique ...]]></description>
-      <pubDate>Sat, 31 Aug 2013 20:07:00 +0200</pubDate>
+      <title><![CDATA[Ikoula fête ses 15 ans et lance une promotion pour ses serveurs dédiés]]></title>
+      <link>http://www.developpez.com/actu/62558/Ikoula-fete-ses-15-ans-et-lance-une-promotion-pour-ses-serveurs-dedies/</link>
+      <guid>http://www.developpez.com/actu/62558/Ikoula-fete-ses-15-ans-et-lance-une-promotion-pour-ses-serveurs-dedies/</guid>
+      <description><![CDATA[<b>Ikoula fête ses 15 ans</b><br />
+<b>et lance une promotion pour ses serveurs dédiés</b><br/><br/>Ikoula, la petite pépite française du cloud computing fête déjà ses 15 ans ! Acteur précurseur du cloud « made in France », l'entreprise poursuit son développement en France et à l'international avec le lancement de solutions et de services  à destination des entreprises. Avec un chiffre d'affaires qui s'élève pour l'exercice 2012 / 2013 à plus de 6 millions d'euros, Ikoula est une vraie success-story, en évolution constante....]]></description>
+      <pubDate>Mon, 14 Oct 2013 17:11:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[IDC revoit encore à la baisse ses prévisions pour le marché du PC, le cabinet réduit également le nombre d'expéditions des tablettes pour 2013]]></title>
-      <link>http://www.developpez.com/actu/60616/IDC-revoit-encore-a-la-baisse-ses-previsions-pour-le-marche-du-PC-le-cabinet-reduit-egalement-le-nombre-d-expeditions-des-tablettes-pour-2013/</link>
-      <guid>http://www.developpez.com/actu/60616/IDC-revoit-encore-a-la-baisse-ses-previsions-pour-le-marche-du-PC-le-cabinet-reduit-egalement-le-nombre-d-expeditions-des-tablettes-pour-2013/</guid>
-      <description><![CDATA[<b>IDC revoit encore à la baisse ses prévisions pour le marché du PC</b><br />
-<b>Le cabinet réduit également le nombre d'expéditions des tablettes pour 2013</b><br/><br/>Les rapports d'IDC sont disponibles. Selon les prévisions du cabinet d'analyse, le marché du PC devrait poursuivre son déclin et enregistrer un recul net de 9,7 % en 2013.<br/><br/>Et même les pays émergents qui restaient jusque-là fidèles au PC subiront aussi la forte influence de la mouvance des périphériques mobiles. Les tablettes et les smartphones y sont de plus en plus populaires.<br/><br/>Toutefois, IDC prédit un regain des utilisateurs pour le PC dès 2015. Cependant, il ne faudrait pas sauter de joie, puisque le nombre d'unités écoulées sera largement en dessous du pic observé pour la dernière fois en 2011.<br/>]]></description>
-      <pubDate>Sat, 31 Aug 2013 20:03:00 +0200</pubDate>
+      <title><![CDATA[Un nouveau moteur de recherche russe bientôt disponible,  Sputnik bénéficie du soutien de l'État]]></title>
+      <link>http://www.developpez.com/actu/62552/Un-nouveau-moteur-de-recherche-russe-bientot-disponible-Sputnik-beneficie-du-soutien-de-l-Etat/</link>
+      <guid>http://www.developpez.com/actu/62552/Un-nouveau-moteur-de-recherche-russe-bientot-disponible-Sputnik-beneficie-du-soutien-de-l-Etat/</guid>
+      <description><![CDATA[<b>Un nouveau moteur de recherche russe bientôt disponible,  </b><br />
+<b>Sputnik bénéficie du soutien de l'État    </b><br/><br/>Le gouvernement russe et Rostelecom, opérateur Télécom dont les principales décisions sont dictées par la présidence, ont annoncé leur projet de création d'un nouveau moteur de recherche sur le territoire. Baptisé du même nom que le premier satellite artificiel lancé par l'Union Soviétique en octobre 1957, Sputnik (sputnik.ru) sera mis en ligne au premier trimestre de l'année prochaine. Son développement...]]></description>
+      <pubDate>Mon, 14 Oct 2013 16:38:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Apple la cible préférée des Patents troll,  des trolls à brevets plus avides que jamais]]></title>
-      <link>http://www.developpez.com/actu/60611/Apple-la-cible-preferee-des-Patents-troll-des-trolls-a-brevets-plus-avides-que-jamais/</link>
-      <guid>http://www.developpez.com/actu/60611/Apple-la-cible-preferee-des-Patents-troll-des-trolls-a-brevets-plus-avides-que-jamais/</guid>
-      <description><![CDATA[<b>Apple la cible préférée des Patents troll,   </b><br />
-<b>des trolls à brevets plus avides que jamais   </b><br/><br/>Patent Freedom est un regroupement d'entreprises qui contrôle l'industrie florissante des NPE (Non-Practicing Entities - littéralement « personnes morales sans activités » - le nom communément donné aux Patents trolls étant donné que leur principale caractéristique est de ne produire aucun bien ni service). En 2012, il  a établi que Cupertino était en tête de liste sur les litiges de brevets : 44 procès engagés sans compter les 24 au premier semestre 2013.<br/><br/>Cette première place était détenue avant par Samsung mais le constructeur coréen a désormais la seconde place avec 37 procès intenté contre lui en 2012. Verizon, LG et Google sont ex-aequo avec 25 procès cha...]]></description>
-      <pubDate>Sat, 31 Aug 2013 13:20:00 +0200</pubDate>
+      <title><![CDATA[Java est-il un langage de programmation mourant ? un expert présente son point de vue]]></title>
+      <link>http://www.developpez.com/actu/62548/Java-est-il-un-langage-de-programmation-mourant-un-expert-presente-son-point-de-vue/</link>
+      <guid>http://www.developpez.com/actu/62548/Java-est-il-un-langage-de-programmation-mourant-un-expert-presente-son-point-de-vue/</guid>
+      <description><![CDATA[<b>Java est-il un langage de programmation mourant ?</b><br />
+<b>un expert présente son point de vue</b><br/><br/>Malgré son extrême popularité et le fait qu'il soit le langage de programmation adopté par de nombreux professionnels en entreprises, Java a toujours essuyé de nombreuses critiques.<br/><br/>Certains développeurs l'accusent d'être lourd, lent (comme exemple, les interfaces graphiques utilisant Swing se chargent lentement) et beaucoup trop verbeux. <br/><br/>Des alternatives comme Scala et Groovy ont vu le jour pour libérer les développeurs...]]></description>
+      <pubDate>Mon, 14 Oct 2013 13:19:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Les utilisateurs de Java 6 s'exposent à un exploit zero day,  les experts recommandent de migrer vers Java 7]]></title>
-      <link>http://www.developpez.com/actu/60605/Les-utilisateurs-de-Java-6-s-exposent-a-un-exploit-zero-day-les-experts-recommandent-de-migrer-vers-Java-7/</link>
-      <guid>http://www.developpez.com/actu/60605/Les-utilisateurs-de-Java-6-s-exposent-a-un-exploit-zero-day-les-experts-recommandent-de-migrer-vers-Java-7/</guid>
-      <description><![CDATA[<b>Les utilisateurs de Java 6 s'exposent à un exploit zero day,   </b><br />
-<b>les experts recommandent de migrer vers Java 7   </b><br/><br/>De nombreux experts en sécurité s'accordent à dire que les entreprises devraient migrer vers Java 7. En effet,  Timo Hirvonen, analyste senior chez F-Secure, a reporté que le code d'un exploit d'une vulnérabilité précédemment corrigée a été introduit dans le kit de l'exploit Neutrino, le trojan bancaire dont l'architecture rappelle celle de Zeus.  « <i>Un hacker peut exécuter du code sur le système et l'infecter d'un malware. Vous pourriez obtenir un lien dans vos spams qui vous conduirait au kit Neutrino ou vous ferait visiter des sites infectés</i> » confie-t-il.<br/><br/>La vulnérabilité CVE-2013-2463, a été corrigée en juin dernier lorsqu'Oracl...]]></description>
-      <pubDate>Sat, 31 Aug 2013 03:27:00 +0200</pubDate>
+      <title><![CDATA[PRISM : la NSA peut continuer à collecter des données téléphoniques]]></title>
+      <link>http://www.developpez.com/actu/62544/PRISM-la-NSA-peut-continuer-a-collecter-des-donnees-telephoniques/</link>
+      <guid>http://www.developpez.com/actu/62544/PRISM-la-NSA-peut-continuer-a-collecter-des-donnees-telephoniques/</guid>
+      <description><![CDATA[]]></description>
+      <pubDate>Mon, 14 Oct 2013 12:49:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Processeurs : vers la fin de la loi de Moore ? Un expert donne son point de vue, ainsi que des pistes pour améliorer les performances des puces]]></title>
-      <link>http://www.developpez.com/actu/60601/Processeurs-vers-la-fin-de-la-loi-de-Moore-Un-expert-donne-son-point-de-vue-ainsi-que-des-pistes-pour-ameliorer-les-performances-des-puces/</link>
-      <guid>http://www.developpez.com/actu/60601/Processeurs-vers-la-fin-de-la-loi-de-Moore-Un-expert-donne-son-point-de-vue-ainsi-que-des-pistes-pour-ameliorer-les-performances-des-puces/</guid>
-      <description><![CDATA[<b>Y'aura-t-il vraiment une fin à la loi de Moore ?</b><br />
-<b>Un expert donne son point de vue, ainsi que des pistes pour améliorer les performances des puces</b><br/><br/>En 1965, un jeune ingénieur de Fairchild Semiconductor, postulait que le nombre de transistors (éléments atomiques des puces électroniques à savoir microprocesseurs et autres) devait doubler tous les deux ans. Les prédictions de l'ingénieur se sont basées uniquement sur des lois empiriques et non physiques.<br/><br/>La loi a résisté longtemps à ses nombreux détracteurs qui lui avaient prédit une fin immédiate dès l'instant où elle a été formulée.<br/><br/>Toute chose a une fin. La nature a repris ses droits. Les avantages que la miniaturisation des composants électroniques a fourni aux puces ont atteint leur limite. ...]]></description>
-      <pubDate>Fri, 30 Aug 2013 17:25:00 +0200</pubDate>
+      <title><![CDATA[Kiosque robotisé : la presse papier peut-elle innover en imitant la VOD ? Un système pour imprimer le magazine/journal sur demande est-il viable ?]]></title>
+      <link>http://www.developpez.com/actu/62542/Kiosque-robotise-la-presse-papier-peut-elle-innover-en-imitant-la-VOD-Un-systeme-pour-imprimer-le-magazine-journal-sur-demande-est-il-viable/</link>
+      <guid>http://www.developpez.com/actu/62542/Kiosque-robotise-la-presse-papier-peut-elle-innover-en-imitant-la-VOD-Un-systeme-pour-imprimer-le-magazine-journal-sur-demande-est-il-viable/</guid>
+      <description><![CDATA[C'est une idée intéressante, testée en suède depuis le mois de juin par la société Meganews.<br />
+Depuis quelques années, on peut lire des dirigeants de magazine/journaux papier se plaindre d'internet: se plaignant de voir leur ventes chuter.<br/><br/><b>Un point sur le contexte</b><br />
+Une chose à prendre en compte, c'est le risque que prennent les journaux/magazines à chaque numéro: ils doivent avoir une ligne éditoriale à la fois originale mais également tempéré pour essayer de vendre un maximum d'exemplaires.<br />
+Mais...]]></description>
+      <pubDate>Mon, 14 Oct 2013 11:34:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Microsoft : la baisse de prix de Surface Pro devient permanente et s'étend à tous les pays]]></title>
-      <link>http://www.developpez.com/actu/60597/Microsoft-la-baisse-de-prix-de-Surface-Pro-devient-permanente-et-s-etend-a-tous-les-pays/</link>
-      <guid>http://www.developpez.com/actu/60597/Microsoft-la-baisse-de-prix-de-Surface-Pro-devient-permanente-et-s-etend-a-tous-les-pays/</guid>
-      <description><![CDATA[<b>Microsoft : la baisse de prix de Surface Pro devient permanente</b><br />
-<b>et s'étend à tous les pays </b><br/><br/>La réduction de prix qui a été apportée par Microsoft à la tablette Surface Pro a été étendue à tous les pays du monde, et ceci de façon permanente.<br/><br/>La campagne promotionnelle pour Surface Pro avait été lancée depuis le 4 aout aux États-Unis, au Canada et dans quelques pays d'Asie. Devant s'achever hier, les prix de Surface Pro n'ont finalement pas été remontés et les Microsoft Store de plusieurs autres pays, notamment la France, affichent désormais des prix réduits.<br/><br/>Les prix de Surface Pro 64 Go et 128 Go baissent de 100 euros et passent respectivement à 779 et 879 euros.<br/><br/>La réduction s'applique également aux accessoires, notamment le clavier...]]></description>
-      <pubDate>Fri, 30 Aug 2013 14:42:00 +0200</pubDate>
+      <title><![CDATA[Des chercheurs du MIT créent un algorithme permettant d'avoir « du visible dans l'invisible », le code disponible en open source]]></title>
+      <link>http://www.developpez.com/actu/62532/Des-chercheurs-du-MIT-creent-un-algorithme-permettant-d-avoir-du-visible-dans-l-invisible-le-code-disponible-en-open-source/</link>
+      <guid>http://www.developpez.com/actu/62532/Des-chercheurs-du-MIT-creent-un-algorithme-permettant-d-avoir-du-visible-dans-l-invisible-le-code-disponible-en-open-source/</guid>
+      <description><![CDATA[Des chercheurs du célèbre Massachusetts Institute of Technology (MIT) ont développé et mis à disposition un nouvel algorithme nommé &quot;Eulerian Video Magnification&quot;.<br/><br/>A partir d'une simple vidéo (morceau de film, webcam, etc.), cet algorithme permet d'augmenter les variations (de couleurs et/ou de mouvements) imperceptibles à l'oeil nu.<br/><br/>Toute la difficulté de l'élaboration d'un tel algorithme, consiste à différencier ce qui est du bruit de ce qui est une variation &quot;pertinente&quot;. En...]]></description>
+      <pubDate>Mon, 14 Oct 2013 10:07:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Un membre de l'EFF donne des recommandations pour une navigation internet plus sécurisée,  la meilleure arme contre PRISM ?]]></title>
-      <link>http://www.developpez.com/actu/60590/Un-membre-de-l-EFF-donne-des-recommandations-pour-une-navigation-internet-plus-securisee-la-meilleure-arme-contre-PRISM/</link>
-      <guid>http://www.developpez.com/actu/60590/Un-membre-de-l-EFF-donne-des-recommandations-pour-une-navigation-internet-plus-securisee-la-meilleure-arme-contre-PRISM/</guid>
-      <description><![CDATA[<b>Un membre de l'EFF donne des recommandations pour une navigation internet plus sécurisée,     </b><br />
-<b>la meilleure arme contre PRISM ?   </b><br/><br/>Depuis déjà plusieurs semaines, Edward Snowden expose au grand jour les diverses stratégies d'espionnage des services secrets américains. Les populations du monde entier ne décolèrent pas face à ce scandale. Mais est-ce que les différentes manifestations observées sont la meilleure réponse ? <br/><br/>Micah Lee, un technologue membre du personnel de l'EFF (Electronic Frontier Foundation) et responsable du projet HTTPS Everywhere, recommande sur son blog de déprécier le protocole http en faveur du HTTPS. « <i>Il serait naïf de croire que seuls les gouvernements britanniques et américains le font (espionner). Internet n'est pas sûr e...]]></description>
-      <pubDate>Fri, 30 Aug 2013 13:53:00 +0200</pubDate>
+      <title><![CDATA[Valve publie une vidéo de démonstration de sa manette « Steam Controller » utilisée avec Portal 2, Civilisation V, Counter Striker GO]]></title>
+      <link>http://jeux.developpez.com/actu/62531/Valve-publie-une-video-de-demonstration-de-sa-manette-Steam-Controller-utilisee-avec-Portal-2-Civilisation-V-Counter-Striker-GO/</link>
+      <guid>http://jeux.developpez.com/actu/62531/Valve-publie-une-video-de-demonstration-de-sa-manette-Steam-Controller-utilisee-avec-Portal-2-Civilisation-V-Counter-Striker-GO/</guid>
+      <description><![CDATA[<b>Valve présente « Steam Controller », une manette de jeu Steam</b><br/><br/>(mis à jour le 14 octobre 2013)<br/><br/>La semaine se finit et Valve la conclut avec une troisième annonce. Après <a href="http://www.developpez.com/actu/61750/SteamOS-Valve-presente-son-OS-dedie-aux-jeux-video/" target="_blank">SteamOS</a> et <a href="http://jeux.developpez.com/actu/61887/Valve-presente-les-Steam-Machines-des-machines-specialement-concues-pour-les-joueurs-et-fonctionnant-avec-SteamOS/" target="_blank">SteamMachines</a>, le développeur présente maintenant un nouveau contrôleur.<br/><br/><a href="http://jeux.developpez.com/news/images/steam_controller.jpg" target="_blank"><img src="http://jeux.developpez.com/news/images/steam_controller_thumb.jpg" /></a><br />
+D'après Valve, cette manette de jeu est la dernière pièce manquante à l'ensemble de son projet. En effet, ils avaient le système (<a href="http://www.developpez.com/actu/61750/SteamOS-Valve-presente-son-OS-dedie-aux-jeux-video/" target="_blank">SteamOS</a>), la machine de salon (<a href="http://jeux.developpez.com/actu/61887/Valve-presente-les-Steam-Machines-des-machines-specialement-concues-pour-les-joueurs-et-fonctionnant-avec-SteamOS/" target="_blank">SteamMachines</a>) mais ils utilisaient encore des périphériques pensés pour d'autres conditions...]]></description>
+      <pubDate>Mon, 14 Oct 2013 10:04:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[CodeWay Tour 2013 : un évènement en avant-première sur le développement Android et iOS le 10 septembre 2013 à la Défense (Paris)]]></title>
-      <link>http://delphi.developpez.com/actu/60576/CodeWay-Tour-2013-un-evenement-en-avant-premiere-sur-le-developpement-Android-et-iOS-le-10-septembre-2013-a-la-Defense-Paris/</link>
-      <guid>http://delphi.developpez.com/actu/60576/CodeWay-Tour-2013-un-evenement-en-avant-premiere-sur-le-developpement-Android-et-iOS-le-10-septembre-2013-a-la-Defense-Paris/</guid>
-      <description><![CDATA[Embarcadero organise un évènement technique exclusif en avant-première sur le développement Android et iOS, le 10 septembre 2013 à la Défense. Inscrivez-vous dès maintenant pour cette session exclusive où vous apprendrez comment passer du développement pour applications de bureau au développement mobile en créant de véritables applications natives Android et iOS.]]></description>
-      <pubDate>Fri, 30 Aug 2013 13:52:00 +0200</pubDate>
+      <title><![CDATA[Nouveau moteur de recherche pour les manpages d'OpenGL, accédez à la documentation d'OpenGL sur Developpez.com]]></title>
+      <link>http://www.developpez.com/actu/62529/Nouveau-moteur-de-recherche-pour-les-manpages-d-OpenGL-accedez-a-la-documentation-d-OpenGL-sur-Developpez-com/</link>
+      <guid>http://www.developpez.com/actu/62529/Nouveau-moteur-de-recherche-pour-les-manpages-d-OpenGL-accedez-a-la-documentation-d-OpenGL-sur-Developpez-com/</guid>
+      <description><![CDATA[<img src="http://opengl.developpez.com/images/opengl-logo.gif" /><br />
+Bonjour à tous.<br/><br/>Nous avons le plaisir de mettre à disposition un nouveau <a href="http://opengl.developpez.com/docs/man/" target="_blank">moteur de recherche pour les manpages OpenGL</a> vous permettant d'accéder à la documentation des fonctions OpenGL et cela, tout en restant sur Developpez.com.<br/><br/>Ce moteur est prévu pour se ré-alimenter directement à partir du <a href="http://www.opengl.org/" target="_blank">site d'OpenGL</a> afin d'avoir des pages le plus à jour possible. <br />
+Actuellement il propose plus de 1000 manpages pour 534 fonctions au total pour les versions 2.X, 3.X et 4.X.<br/><br/>N'hésitez pas à laisser vos avis ici...]]></description>
+      <pubDate>Mon, 14 Oct 2013 09:54:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Nokia 515 : design raffiné et hautes performances, le « feature phone » sous S40 revendique une autonomie de 38 jours]]></title>
-      <link>http://www.developpez.com/actu/60587/Nokia-515-design-raffine-et-hautes-performances-le-feature-phone-sous-S40-revendique-une-autonomie-de-38-jours/</link>
-      <guid>http://www.developpez.com/actu/60587/Nokia-515-design-raffine-et-hautes-performances-le-feature-phone-sous-S40-revendique-une-autonomie-de-38-jours/</guid>
-      <description><![CDATA[<b>Nokia 515 : design raffiné et hautes performances</b><br />
-<b>Le « feature phone » sous S40 disposerait d'une autonomie de 38 jours</b><br/><br/>Nokia relance sa gamme de « feature phone », avec son nouveau Nokia 515 qui remet son OS Symbian S40 sous les feux des projecteurs.<br/><br/>Alliant finitions, hautes performances et petit prix, le Nokia 515 est un téléphone mobile classique haut de gamme, conçu pour les clients soucieux de leur style. Enveloppé d'aluminium léger, le mobile «<i> combine les meilleures fonctionnalités de Nokia : un design contemporain, des matériaux de qualité et des performances remarquables</i> ».<br/><br/>Le dispositif est équipé d'un verre Gorilla 2 résistant aux éraflures, légèrement arrondi pour une belle finition, ainsi qu'un encadrement classique  poli...]]></description>
-      <pubDate>Fri, 30 Aug 2013 13:32:00 +0200</pubDate>
+      <title><![CDATA[Afrique du Sud : le ministère de l'Éducation bannit les logiciels libres et open source, Delphi adopté pour remplacer Java]]></title>
+      <link>http://www.developpez.com/actu/62524/Afrique-du-Sud-le-ministere-de-l-Education-bannit-les-logiciels-libres-et-open-source-Delphi-adopte-pour-remplacer-Java/</link>
+      <guid>http://www.developpez.com/actu/62524/Afrique-du-Sud-le-ministere-de-l-Education-bannit-les-logiciels-libres-et-open-source-Delphi-adopte-pour-remplacer-Java/</guid>
+      <description><![CDATA[<b>Afrique du Sud : le ministère de l'Éducation bannit les logiciels libres et open source</b><br />
+<b>Delphi adopté comme langage de programmation pour remplacer Java</b><br/><br/>Le ministère de l'Éducation de l'Afrique du Sud a banni l'utilisation des logiciels gratuits et open source dans l'éducation.<br/><br/>Dans une récente circulaire, le gouvernement précise que dans toutes les écoles publiques, les cours  « Computer Applications Technology » (CAT) et  « Information Technology » (IT), ainsi que les examens relatifs se feront...]]></description>
+      <pubDate>Mon, 14 Oct 2013 09:42:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[L'univers Arduino - Partie 1 : aperçu de la plateforme Arduino et ses cartes d'interface (shields), un tutoriel par f-leb]]></title>
-      <link>http://f-leb.developpez.com/tutoriels/arduino/univers_arduino/part1/</link>
-      <guid>http://f-leb.developpez.com/tutoriels/arduino/univers_arduino/part1/</guid>
-      <description><![CDATA[Bonjour à tous,<br/><br/>Elle a tout d'une grande la pt'ite, non ?<br/><br/><img src="http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg" /><br/><br/>Voici un premier article de présentation de la carte Arduino et son écosystème :<br />
-<a href="http://f-leb.developpez.com/tutoriels/arduino/univers_arduino/part1/" target="_blank"><br />
-L'univers Arduino<br />
-Partie I : Aperçu de la plateforme Arduino et ses cartes d'interface (<i> shields</i>)</a><br/><br/>
-	Citation:
-	
-	
-		<i>Véritable mini-ordinateur au succès planétaire, traitant les données provenant de composants et capteurs divers (capteur de température, luminosité, mouvement ou boutons poussoir, etc.) et communiquant des ordres pour allumer des lampes ou actionner des moteurs électriques, la carte électronique...]]></description>
-      <pubDate>Fri, 30 Aug 2013 12:57:00 +0200</pubDate>
+      <title><![CDATA[L'Internet Rapide et Permanent - Le protocole de messagerie IMAP, un tutoriel de Christian Caleca]]></title>
+      <link>http://caleca.developpez.com/tutoriels/protocole-imap/</link>
+      <guid>http://caleca.developpez.com/tutoriels/protocole-imap/</guid>
+      <description><![CDATA[]]></description>
+      <pubDate>Mon, 14 Oct 2013 08:44:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Un scientifique contrôle la main de son collègue par son cerveau,  la naissance des technologies de télépathie ?]]></title>
-      <link>http://www.developpez.com/actu/60581/Un-scientifique-controle-la-main-de-son-collegue-par-son-cerveau-la-naissance-des-technologies-de-telepathie/</link>
-      <guid>http://www.developpez.com/actu/60581/Un-scientifique-controle-la-main-de-son-collegue-par-son-cerveau-la-naissance-des-technologies-de-telepathie/</guid>
-      <description><![CDATA[<b>Un scientifique contrôle la main de son collègue par son cerveau,   </b><br />
-<b>la naissance des technologies de télépathie ?   </b><br/><br/>Des chercheurs de l'université de Washington ont mis sur pied un procédé permettant à un cerveau de contrôler deux corps. <br/><br/>L'un d'eux, Rajesh Rao, s'est muni d'un casque comportant des électrodes et relié à une machine d'électroencéphalographie, pour détecter l'activité électrique de son cerveau. Pendant ce temps, son collègue Andrea Stocco était de l'autre côté du campus, revêtant pour sa part une bobine de stimulation magnétique, placée directement sur le lobe gauche de son cortex qui contrôle les mouvements de la main.   <br/><br/>Pour démontrer la communication effective entre les deux cerveaux, Rao s'est mis à jouer à un jeu vidéo...]]></description>
-      <pubDate>Fri, 30 Aug 2013 10:57:00 +0200</pubDate>
+      <title><![CDATA[La programmation fonctionnelle en Perl - Partie 1 : Les opérateurs de listes, un tutoriel de Laurent Rosenfeld]]></title>
+      <link>http://laurent-rosenfeld.developpez.com/tutoriels/perl/programmation-fonctionnelle/operateurs-listes/</link>
+      <guid>http://laurent-rosenfeld.developpez.com/tutoriels/perl/programmation-fonctionnelle/operateurs-listes/</guid>
+      <description><![CDATA[Ce document est le premier d'une série de tutoriels visant à montrer comment utiliser certaines techniques de la programmation fonctionnelle en Perl et acquérir ainsi une bien meilleure expressivité. Cette première partie aborde en particulier les opérateurs de listes (grep, map, for, sort, etc.) et montre comment il est possible d'enchaîner certains d'entre eux pour former une espèce de « pipeline » dans lequel les données transitent et subissent une série de transformations successives permettant...]]></description>
+      <pubDate>Mon, 14 Oct 2013 08:00:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[HTC développe un OS mobile destiné au marché chinois,  l'entreprise veut réduire sa dépendance à Android]]></title>
-      <link>http://www.developpez.com/actu/60572/HTC-developpe-un-OS-mobile-destine-au-marche-chinois-l-entreprise-veut-reduire-sa-dependance-a-Android/</link>
-      <guid>http://www.developpez.com/actu/60572/HTC-developpe-un-OS-mobile-destine-au-marche-chinois-l-entreprise-veut-reduire-sa-dependance-a-Android/</guid>
-      <description><![CDATA[<b>HTC développe un OS mobile destiné au marché chinois, </b><br />
-<b>l'entreprise veut réduire sa dépendance à Android   </b><br/><br/>Avec plus d'un milliard d'habitants à elle toute seule, la Chine est un marché de consommation très prisé par les entreprises, indépendamment du secteur d'activité.  HTC, qui connait depuis quelque temps déjà des difficultés dans ses ventes, espère les redynamiser grâce aux consommateurs chinois. <br/><br/><img src="http://www.developpez.com/public/images/news/htc_resized.jpg" /><br />
-Les ambitions de l'entreprise quant à la création d'un nouveau système d'exploitation mobile ne datent pas d'aujourd'hui. Toutefois, HTC a joué la carte de la prudence et, au lieu d'attaquer Android sur un marché où il a déjà le monopole, le Taïwanais s'est intéressé au m...]]></description>
-      <pubDate>Fri, 30 Aug 2013 01:09:00 +0200</pubDate>
+      <title><![CDATA[Firefox : Mozilla dévoile les nouvelles fonctionnalités des outils de développement et l'évolution de  Firebug]]></title>
+      <link>http://www.developpez.com/actu/62500/Firefox-Mozilla-devoile-les-nouvelles-fonctionnalites-des-outils-de-developpement-et-l-evolution-de-Firebug/</link>
+      <guid>http://www.developpez.com/actu/62500/Firefox-Mozilla-devoile-les-nouvelles-fonctionnalites-des-outils-de-developpement-et-l-evolution-de-Firebug/</guid>
+      <description><![CDATA[<b>L'équipe de Firefox poursuit l'amélioration des outils intégrés du développeur web</b><br />
+<b>Et annonce la publication d'une documentation des API pour ces outils</b><br/><br/>Le nom Firebug est très populaire dans le monde du développement Web. Beaucoup de membres appartenant à cette communauté l'ont longtemps utilisé comme arme secrète dans leurs nombreux débogages.<br/><br/>Cependant, force est de constater que Firebug a vieilli. Comme conséquence directe, certains développeurs ont remarqué des ralentissements anormaux de leurs...]]></description>
+      <pubDate>Sat, 12 Oct 2013 12:01:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Des Google Glass, oui mais pourquoi ?  Le chef du projet Glass explique en quoi ce dispositif est révolutionnaire]]></title>
-      <link>http://www.developpez.com/actu/60567/Des-Google-Glass-oui-mais-pourquoi-Le-chef-du-projet-Glass-explique-en-quoi-ce-dispositif-est-revolutionnaire/</link>
-      <guid>http://www.developpez.com/actu/60567/Des-Google-Glass-oui-mais-pourquoi-Le-chef-du-projet-Glass-explique-en-quoi-ce-dispositif-est-revolutionnaire/</guid>
-      <description><![CDATA[<b>Des Google Glass, oui mais pourquoi ?  </b><br />
-<b>Le chef du projet Glass explique en quoi ce dispositif est révolutionnaire  </b><br/><br/>« <i>Deux raisons principales expliquent pourquoi nous voulions faire les Google Glass. La première est que nous voulions un dispositif de communication imagé et la seconde rendre l'accès à différents types d'informations beaucoup plus rapide.</i> » a déclaré <a href="https://plus.google.com/100149980664588993669/posts" target="_blank">Babak Parviz</a>, directeur du projet Glass chez Google, pendant la conférence Hot Chips à l'université de Stanford.<br/><br/><img src="http://www.developpez.com/public/images/news/b_parviz.jpg" /><br />
-Malgré le fait qu'il se trouvait à un symposium sur les puces de hautes performances, Parviz s'est abstenu de ...]]></description>
-      <pubDate>Thu, 29 Aug 2013 22:26:00 +0200</pubDate>
+      <title><![CDATA[Trois chercheurs reçoivent le prix Nobel de chimie, pour avoir été des pionniers de la modélisation informatique]]></title>
+      <link>http://www.developpez.com/actu/62499/Trois-chercheurs-recoivent-le-prix-Nobel-de-chimie-pour-avoir-ete-des-pionniers-de-la-modelisation-informatique/</link>
+      <guid>http://www.developpez.com/actu/62499/Trois-chercheurs-recoivent-le-prix-Nobel-de-chimie-pour-avoir-ete-des-pionniers-de-la-modelisation-informatique/</guid>
+      <description><![CDATA[<b>Trois chercheurs reçoivent le prix Nobel de chimie</b><br />
+<b>pour la création d'un modèle largement employé dans les logiciels de simulations de réactions chimiques</b><br/><br/>Dans les années 70, trois chercheurs Martin Karplus de l'université d'Harvard, Michael Levitt de l'université de Stanford et Arieh Warshel de l'université de Californie jetaient les bases de la modélisation des systèmes chimiques qui sont largement employés aujourd'hui par les logiciels scientifiques.<br/><br/>Les trois hommes ont été récompensés à juste...]]></description>
+      <pubDate>Sat, 12 Oct 2013 11:50:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Windows 8.1 : les développeurs en colère suite à la décision de Microsoft de ne pas mettre à leur disposition la RTM de l'OS]]></title>
-      <link>http://www.developpez.com/actu/60563/Windows-8-1-les-developpeurs-en-colere-suite-a-la-decision-de-Microsoft-de-ne-pas-mettre-a-leur-disposition-la-RTM-de-l-OS/</link>
-      <guid>http://www.developpez.com/actu/60563/Windows-8-1-les-developpeurs-en-colere-suite-a-la-decision-de-Microsoft-de-ne-pas-mettre-a-leur-disposition-la-RTM-de-l-OS/</guid>
-      <description><![CDATA[<b>Windows 8.1 : les développeurs en colère</b><br />
-<b>suite à la décision de Microsoft de ne pas mettre à leur disposition la RTM de l'OS</b><br/><br/>Les développeurs abonnés aux programmes MSDN et TechNet avaient pour habitude de recevoir une RTM des nouvelles versions de Windows une quinzaine de jours après les constructeurs. Cela leur permettait de disposer d'une marge pour tester l'OS et adapter leurs applications en vue du lancement grand public.<br/><br/>Les prenant à contre-pied, Microsoft a annoncé lors de <a href="http://www.developpez.com/actu/60480/" target="_blank">la sortie de la RTM de Windows 8.1 pour les fabricants de PC et tablettes</a>, qu'il n'y aurait pas d'accès précoce pour les développeurs comme il est de coutume. Ceux-ci devront attendre la sortie grand public ...]]></description>
-      <pubDate>Thu, 29 Aug 2013 15:36:00 +0200</pubDate>
+      <title><![CDATA[Google récompense les découvertes de failles dans des logiciels Open Source,  une initiative en phase de test]]></title>
+      <link>http://www.developpez.com/actu/62487/Google-recompense-les-decouvertes-de-failles-dans-des-logiciels-Open-Source-une-initiative-en-phase-de-test/</link>
+      <guid>http://www.developpez.com/actu/62487/Google-recompense-les-decouvertes-de-failles-dans-des-logiciels-Open-Source-une-initiative-en-phase-de-test/</guid>
+      <description><![CDATA[<b>Google récompense les découvertes de failles dans des logiciels Open Source,   </b><br />
+<b>une initiative en phase de test   </b><br/><br/>Dans son traditionnel programme de récompenses des chasseurs de vulnérabilités amorcé en novembre 2010, Google a apporté une nouvelle clause. Cette fois-ci, les développeurs ne se contenteront plus de mettre à l'épreuve uniquement des solutions directement éditées par la firme puisqu'ils pourront aussi faire de même pour des logiciels Open Source.  <br/><br/>« <i>Nous avons décidé d'essayer quelque...</i>]]></description>
+      <pubDate>Fri, 11 Oct 2013 23:38:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Windows XP pourrait encore recevoir des correctifs de sécurité après avril 2014, via un programme « Custom Support » qui coûtera cher]]></title>
-      <link>http://www.developpez.com/actu/60559/Windows-XP-pourrait-encore-recevoir-des-correctifs-de-securite-apres-avril-2014-via-un-programme-Custom-Support-qui-coutera-cher/</link>
-      <guid>http://www.developpez.com/actu/60559/Windows-XP-pourrait-encore-recevoir-des-correctifs-de-securite-apres-avril-2014-via-un-programme-Custom-Support-qui-coutera-cher/</guid>
-      <description><![CDATA[<b>Windows XP pourrait encore recevoir des correctifs de sécurité après avril 2014</b><br />
-<b>via un programme « Custom Support » qui coûtera cher </b><br/><br/>Microsoft avait annoncé qu'il allait mettre fin au support de Windows XP le 8 avril 2014.<br/><br/>À pratiquement 8 mois de cette échéance, le système d'exploitation vieux de 12 ans reste encore l'OS le plus populaire du monde derrière Windows 7, grâce à une part de marché mondiale estimée à environ 37 %.<br/><br/>À compter de cette date, Microsoft ne publiera plus de mises à jour de sécurité pour l'OS qui sera désormais une proie facile pour les hackers. <br/><br/>L'éditeur tire d'ailleurs la sonnette d'alarme pour inciter les utilisateurs à migrer vers Windows 8, car les pirates conserveraient en secret des failles zero-day po...]]></description>
-      <pubDate>Thu, 29 Aug 2013 14:23:00 +0200</pubDate>
+      <title><![CDATA[Android : un ingénieur crée un chargeur capable de détecter des malwares et estime qu'il offre une meilleure sécurité aux  smartphones]]></title>
+      <link>http://www.developpez.com/actu/62478/Android-un-ingenieur-cree-un-chargeur-capable-de-detecter-des-malwares-et-estime-qu-il-offre-une-meilleure-securite-aux-smartphones/</link>
+      <guid>http://www.developpez.com/actu/62478/Android-un-ingenieur-cree-un-chargeur-capable-de-detecter-des-malwares-et-estime-qu-il-offre-une-meilleure-securite-aux-smartphones/</guid>
+      <description><![CDATA[<b>Un chargeur USB qui détecte les malwares d'Android est en préparation</b><br />
+<b>Son créateur dit qu'il offre une meilleure sécurité pour les smartphones</b><br/><br/><a href="http://www.developpez.com/public/images/news/andr.jpg" target="_blank"><img src="http://www.developpez.com/public/images/news/andr_resized.jpg" /></a><br />
+Les rapports des experts en termes de sécurité informatique sont tous unanimes sur le fait que le nombre de menaces de sécurité pour les plateformes mobiles est sans cesse grandissant, et les tendances pour le futur sont toujours à la hausse.<br/><br/>Récemment un groupe de Hacker a prouvé combien il était aisé d'installer un malware dans un iPhone en se servant...]]></description>
+      <pubDate>Fri, 11 Oct 2013 15:12:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[SkyDrive se dote d'une technologie permettant d'extraire du texte des images, l'espace de stockage gratuit pour la version Pro passe à 25 Go]]></title>
-      <link>http://www.developpez.com/actu/60553/SkyDrive-se-dote-d-une-technologie-permettant-d-extraire-du-texte-des-images-l-espace-de-stockage-gratuit-pour-la-version-Pro-passe-a-25-Go/</link>
-      <guid>http://www.developpez.com/actu/60553/SkyDrive-se-dote-d-une-technologie-permettant-d-extraire-du-texte-des-images-l-espace-de-stockage-gratuit-pour-la-version-Pro-passe-a-25-Go/</guid>
-      <description><![CDATA[<b>SkyDrive se dote d'une technologie permettant d'extraire du texte des images</b><br />
-<b>L'espace de stockage gratuit pour la version Pro passe à 25 Go</b><br/><br/>Microsoft a doté sa plateforme de stockage Cloud SkyDrive d'une nouvelle fonctionnalité de reconnaissance  optique de caractères (OCR).<br/><br/>Reposant sur une technologie développée par le moteur de recherche Bing, cette fonction permet d'extraire les textes à partir d'une photo stockée sur son espace personnel SkyDrive.<br/><br/>Le but est de faciliter la lecture des images contenant beaucoup de texte. À l'affichage d'une photo sur SkyDrive, l'OCR s'exécute automatiquement, de telle sorte que l'utilisateur puisse voir instantanément, sur un volet, le texte contenu dans l'image.<br/><br/>]]></description>
-      <pubDate>Thu, 29 Aug 2013 13:28:00 +0200</pubDate>
+      <title><![CDATA[GTA V s'inscrit sept fois dans le Guinness World Records, l'industrie du jeu vidéo a-t-elle dépassé celle du cinéma ?]]></title>
+      <link>http://jeux.developpez.com/actu/62471/GTA-V-s-inscrit-sept-fois-dans-le-Guinness-World-Records-l-industrie-du-jeu-video-a-t-elle-depasse-celle-du-cinema/</link>
+      <guid>http://jeux.developpez.com/actu/62471/GTA-V-s-inscrit-sept-fois-dans-le-Guinness-World-Records-l-industrie-du-jeu-video-a-t-elle-depasse-celle-du-cinema/</guid>
+      <description><![CDATA[<b>GTA V s'inscrit sept fois dans le Guinness World Records</b><br/><br/>La sortie de GTA V sur PlayStation 3 et Xbox 360 a entraîné des ventes records. En moins de vingt quatre heures, onze millions de copies du jeu ont été vendues. <br />
+<a href="http://jeux.developpez.com/public/images/news/gta-v.jpg" target="_blank"><img src="http://jeux.developpez.com/public/images/news/gta-v_thumb.jpg" /></a>Voici la liste des records : <ul><li>meilleure vente d'un jeu d'action-aventure en 24 heures ;</li>
+<li>meilleure vente de jeu vidéo en 24 heures ;</li>
+<li>produit de divertissement ayant atteint le milliard de revenu le plus rapidement ;</li>
+<li>produit vidéo-ludique ayant atteint le milliard de revenu le plus rapidement...</li></ul>]]></description>
+      <pubDate>Fri, 11 Oct 2013 14:54:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Sortie de Qt 5.1.1, qui confirme la maturité des Qt Quick Controls et la stabilité des ports pour Android et iOS]]></title>
-      <link>http://qt.developpez.com/actu/60546/Sortie-de-Qt-5-1-1-qui-confirme-la-maturite-des-Qt-Quick-Controls-et-la-stabilite-des-ports-pour-Android-et-iOS/</link>
-      <guid>http://qt.developpez.com/actu/60546/Sortie-de-Qt-5-1-1-qui-confirme-la-maturite-des-Qt-Quick-Controls-et-la-stabilite-des-ports-pour-Android-et-iOS/</guid>
-      <description><![CDATA[C'est aujourd'hui que sort Qt 5.1.1, la première version corrective de la série Qt 5.1. Elle apporte de nombreux changement par rapport à Qt 5.1.0 et vient avec Qt Creator 2.8.1 dans les installateurs. En qualité de correctif, cette sortie n'ajoute pas de nouvelle fonctionnalité et préserve la compatibilité binaire avec Qt 5.1.0.<br/><br/>Huit semaines se sont écoulées depuis la sortie de Qt 5.1.0 et les retours sont bons. Beaucoup d'entre vous ont déjà expérimenté ou se servent des Qt Quick Controls ainsi que des ports mobiles pour Android et iOS. Qt 5.1.1 apporte les améliorations attendues par la communauté, et ce dans les différents modules. Cette version inclus Qt Creator 2.8.1 pour une installation aisée via les installateurs hors ou en-ligne.<br/><br/>La liste détaillée des changeme...]]></description>
-      <pubDate>Thu, 29 Aug 2013 13:26:00 +0200</pubDate>
+      <title><![CDATA[Le marché du PC toujours sombre avec une baisse de 8,6 %, Lonovo leader mondial devant HP]]></title>
+      <link>http://www.developpez.com/actu/62475/Le-marche-du-PC-toujours-sombre-avec-une-baisse-de-8-6-Lonovo-leader-mondial-devant-HP/</link>
+      <guid>http://www.developpez.com/actu/62475/Le-marche-du-PC-toujours-sombre-avec-une-baisse-de-8-6-Lonovo-leader-mondial-devant-HP/</guid>
+      <description><![CDATA[<b>Lenovo est le leader mondial de la vente PC devant HP</b><br />
+<b>d'après les récentes statistiques de Gartner</b><br/><br/>La firme Gartner, spécialiste dans l'analyse des marchés, vient de livrer ses chiffres pour le troisième trimestre de l'année 2013. Rien de nouveau sous le soleil, le monde du PC continue de s'effondrer. En effet pour ce troisième trimestre, 80,3 millions d'unités ont été écoulées mondialement, soit une diminution de 8,6 % par rapport au troisième trimestre de l'année dernière.<br/><br/>Côté constructeurs, Lenovo...]]></description>
+      <pubDate>Fri, 11 Oct 2013 14:44:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Sortie de Qt Creator 2.8.1, désormais disponible par les installateurs en ligne, avec des traductions améliorées]]></title>
-      <link>http://qt.developpez.com/actu/60549/Sortie-de-Qt-Creator-2-8-1-desormais-disponible-par-les-installateurs-en-ligne-avec-des-traductions-ameliorees/</link>
-      <guid>http://qt.developpez.com/actu/60549/Sortie-de-Qt-Creator-2-8-1-desormais-disponible-par-les-installateurs-en-ligne-avec-des-traductions-ameliorees/</guid>
-      <description><![CDATA[C'est aujourd'hui que sort Qt Creator 2.8.1 ainsi que le framework d'installation Qt 1.4.0.<br/><br/>Vous avez peut-être remarqué que Qt Creator 2.8.0 n'était pas disponible via les installateurs en ligne. Ceci était dû à des conflits entre le framework d'installation et Qt Creator 2.8.0 : ce dernier cassait dans certains cas les mises à jour. Réjouissez-vous, Qt Creator 2.8.1 est maintenant disponible en tant que mise à jour.<br/><br/>Qt Creator 2.8.1 contient 132 changements apportés par 28 contributeurs. Il y a eu des correctifs un peu partout, notamment des corrections de bogues entraînant la fermeture de l'application. Les traductions en tchèque, polonais, russe et ukrainien ont été mises à jour, un grand merci aux contributeurs de ces communautés. Référez-vous à la ]]></description>
-      <pubDate>Thu, 29 Aug 2013 13:26:00 +0200</pubDate>
+      <title><![CDATA[Microsoft travaille sur une alternative aux cookies pour les publicités ciblées, un mouvement anti-cookie est-il en marche ?]]></title>
+      <link>http://www.developpez.com/actu/62472/Microsoft-travaille-sur-une-alternative-aux-cookies-pour-les-publicites-ciblees-un-mouvement-anti-cookie-est-il-en-marche/</link>
+      <guid>http://www.developpez.com/actu/62472/Microsoft-travaille-sur-une-alternative-aux-cookies-pour-les-publicites-ciblees-un-mouvement-anti-cookie-est-il-en-marche/</guid>
+      <description><![CDATA[<b>Microsoft travaille sur une alternative aux cookies pour les publicités ciblées,   </b><br />
+<b>un mouvement anti-cookie est-il en marche ?    </b><br/><br/>Après Google, Apple, Facebook mais aussi Amazon, c'est au tour de Microsoft de travailler sur une technologie de traçage qui s'étendrait à l'ensemble de ses appareils et services et qui offrirait ainsi une alternative au cookie tiers. La raison ? Adage, spécialiste de l'actualité de l'industrie publicitaire, souligne des limitations communes aux cookies : bien qu'ils...]]></description>
+      <pubDate>Fri, 11 Oct 2013 14:08:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Intel publie « C++ Compiler v 13.0 », son compilateur optimisé pour le développement d'applications natives Android]]></title>
-      <link>http://www.developpez.com/actu/60542/Intel-publie-C-Compiler-v-13-0-son-compilateur-optimise-pour-le-developpement-d-applications-natives-Android/</link>
-      <guid>http://www.developpez.com/actu/60542/Intel-publie-C-Compiler-v-13-0-son-compilateur-optimise-pour-le-developpement-d-applications-natives-Android/</guid>
-      <description><![CDATA[<b>Intel publie Intel C++ Compiler v 13.0 son compilateur destiné au développement natif pour Android</b><br />
-<b>compatible avec Android NDK</b><br/><br/>Intel publie son compilateur Intel C++ Compiler v 13.0 compatible Android NDK (Native Developpement Kit), destiné au développement d'applications natives pour la plateforme mobile de Google.<br/><br/>Pour l'instant, seuls les systèmes d'exploitation Ubuntu 10.0.4 et 11.0.4 peuvent être utilisés comme environnements de développement pour le compilateur d'Intel. Les versions pour les autres systèmes (OSX, Windows, et autres) devraient voir le jour à une date ultérieure, s'est contenté d'annoncer Intel sans aucune autre précision.<br/><br/>Intel C++ Compiler v 13.0 produit du code natif pour tous les périphériques mobiles (équipés des puc...]]></description>
-      <pubDate>Thu, 29 Aug 2013 12:38:00 +0200</pubDate>
+      <title><![CDATA[Le portage du moteur Source sous Linux : les leçons retenues par Valve]]></title>
+      <link>http://alexandre-laurent.developpez.com/evenements/GPU-computing-2013/NVIDIA-Valve/portage-source-linux/</link>
+      <guid>http://alexandre-laurent.developpez.com/evenements/GPU-computing-2013/NVIDIA-Valve/portage-source-linux/</guid>
+      <description><![CDATA[]]></description>
+      <pubDate>Fri, 11 Oct 2013 08:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
