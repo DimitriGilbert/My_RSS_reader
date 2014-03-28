@@ -37,6 +37,9 @@ switch($_GET['a'])
 		header('content-type text/xml');
 		echo compile_rss();
 		break;
+	case'latest':
+		echo get_latest();
+		break;
 	case'feed':
 		header('content-type text/xml');
 		echo file_get_contents($path.'media/sites.xml');

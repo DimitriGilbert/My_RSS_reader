@@ -60,10 +60,7 @@ function compile_rss()
 	$today=mktime(0, 0, 0, date("m"), date("d"), date("y")) - 172800;
 	foreach($dir as $r)
 	{
-		if($r=='.' or $r=='..' or $r=='received')
-		{
-		}
-		else
+		if(!in_array($r, array('.', '..', 'received')))
 		{
 			$from=explode('.', $r);
 			$from=$from[0];
@@ -138,5 +135,17 @@ function del_feed($id)
 	{
 		return 'probleme de sauvegarde !';
 	}
+}
+
+/**
+*
+*/
+function get_latest()
+{
+	$files = scandir($path.'rss/compiled/', SCANDIR_SORT_DESCENDING);
+	$file = $files[1];
+	$xml = new DOMDocument();
+	$xml->load($path.'rss/compiled/'.$file);
+	return $xml->saveXML();
 }
 ?>

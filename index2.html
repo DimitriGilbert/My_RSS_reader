@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" href="media/css/bootstrap.min.css" type="text/css" />
+		<link rel="stylesheet" href="media/css/bootstrap-theme.min.css" type="text/css"  />
+		<link rel="stylesheet" href="media/css/rss_reader.css" type="text/css" media="all" />
+		<title></title>
+	</head>
+	<body>
+		<div class="header"></div>
+		<div class="container-fluid">
+			<div class="access">
+				<div class="row" style="text-align:center">
+					<div class="col-sm-4 menu_item update" onclick="My_RSS_reader.loader();">
+						update
+					</div>
+					<div class="col-sm-4 menu_item update" onclick="display_feed();">
+						Show feeds
+					</div>
+					<div class="col-sm-4 menu_item update" onclick="My_RSS_reader.read_marked();">
+						read marked !
+					</div>
+				</div>
+			</div>
+			<div id="loader" style="display:none;">
+				<div class="progress progress-info progress-striped">
+					<div id="loader_bar" class="bar" style="width: 1%"></div>
+				</div>
+				<div id="loader_info">
+				</div>
+			</div>
+			<div class="row" id="main">
+				<div class="col-sm-4" id="infos">
+				</div>
+				<div class="col-sm-8" id="reader">
+				</div>
+				<div class="col-sm-12" id="sharer">
+					<div id="tweet_share" class="tweet share" >tweet it !</div>
+					<div id="g_share" class="g share" >Google+</div>
+					<div id="fb_share" class="fb share">Facebook</div>
+				</div>
+			</div>
+			<div class="site_liste" id="site_liste">
+				<div class="feed_list" id="feed_list"></div>
+				<div class="add_feed_form">
+					<div>
+						<label for="feed_id">Identifiant de la feed (pas d'espace svp ^^')</label>
+						<input type="text" id="feed_id" name="feed_id" />
+					</div>
+					<div>
+						<label for="feed_name">Nom de la feed</label>
+						<input type="text" id="feed_name" name="feed_name" />
+					</div>
+					<div>
+						<label for="feed_url">URL de la feed</label>
+						<input type="text" id="feed_url" name="feed_url" />
+					</div>
+					<div>
+						<button type="button" class="btn btn-primary">
+							Add Feed
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer"></div>
+		<script type="text/javascript" src="media/js/jsi.js"></script>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
+		<script type="text/javascript" src="media/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="media/js/rss_reader.js"></script>
+		<script type="text/javascript">
+		$(document).ready(function () {
+			rss_reader.controller.loadFeed();
+		})
+		</script>
+	</body>
+</html>
