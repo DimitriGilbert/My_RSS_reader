@@ -18,6 +18,7 @@ function get_rss($ids=false)
 			file_put_contents($out,$feed);
 		}
 	}
+	return $ids;
 }
 
 function get_item_pub_date($item)

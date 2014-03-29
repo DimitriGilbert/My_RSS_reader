@@ -29,7 +29,7 @@ Jsi.textNode=function(content){
 *		"attribute1":"value of attr 1",
 *		"...":"..."
 *	},
-*	"inner":"the inner content of the node"
+*	"inner":"the text content of the node"
 *}
 */
 Jsi.elt = function(c) {
@@ -63,6 +63,9 @@ Jsi.elt = function(c) {
 					break;
 				case 'onsubmit':
 					elt.addEventListener('submit', c.attr[key]);
+					break;
+				case 'checked':
+					elt.checked = c.attr[key];
 					break;
 				case 'className':
 					elt.setAttribute('class',c.attr[key]);

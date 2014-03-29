@@ -4,8 +4,8 @@
     <title><![CDATA[Developpez.com]]></title>
     <link>http://www.developpez.com/index/rss</link>
     <description><![CDATA[Club des développeurs et IT Pro]]></description>
-    <pubDate>Fri, 28 Mar 2014 17:21:58 +0100</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2014 17:21:58 +0100</lastBuildDate>
+    <pubDate>Sat, 29 Mar 2014 09:53:32 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Mar 2014 09:53:32 +0100</lastBuildDate>
     <copyright>Copyright © 2000-2014 www.developpez.com</copyright>
     <image>
       <url>http://www.developpez.com/template/favicon.png</url>
@@ -15,6 +15,47 @@
     <generator>www.developpez.com</generator>
     <language>fr-FR</language>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Gingerbread deux fois plus stable qu'iOS 7.1, d'après une étude de Crittercism]]></title>
+      <link>http://www.developpez.com/actu/69472/Gingerbread-deux-fois-plus-stable-qu-iOS-7-1-d-apres-une-etude-de-Crittercism/</link>
+      <guid>http://www.developpez.com/actu/69472/Gingerbread-deux-fois-plus-stable-qu-iOS-7-1-d-apres-une-etude-de-Crittercism/</guid>
+      <description><![CDATA[<b>Gingerbread deux fois plus stable qu'iOS 7.1 </b><br />
+<b>d'après une étude de Crittercism  </b><br/><br/>Une étude de Crittercism, une entreprise de monitoring de performance réputée pour ses rapports de crash, a publié son premier rapport « State of Mobile » qui croise les données issues d'utilisateurs actifs afin d'établir une variété d'indicateurs de performance de mobile. Pour les besoins du rapport, l'étude s'est basée sur les 30 000 requêtes reçues par seconde en temps réel à partir des données de plus d'un milliard...]]></description>
+      <pubDate>Sat, 29 Mar 2014 04:26:00 +0100</pubDate>
+      <comments>http://www.developpez.com/actu/69472/Gingerbread-deux-fois-plus-stable-qu-iOS-7-1-d-apres-une-etude-de-Crittercism/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/ios.gif" type="image/jpeg" length="3869"/>
+    </item>
+    <item>
+      <title><![CDATA[Facebook travaille sur des drones pour fournir l'accès à internet, dans le cadre de l'initiative internet.org]]></title>
+      <link>http://www.developpez.com/actu/69469/Facebook-travaille-sur-des-drones-pour-fournir-l-acces-a-internet-dans-le-cadre-de-l-initiative-internet-org/</link>
+      <guid>http://www.developpez.com/actu/69469/Facebook-travaille-sur-des-drones-pour-fournir-l-acces-a-internet-dans-le-cadre-de-l-initiative-internet-org/</guid>
+      <description><![CDATA[<b>Facebook s'associe à six compagnies </b><br />
+<b>pour rendre effective la connexion Internet partout dans les pays en développement</b><br/><br/>Mark Zuckerberg, à la suite de Google avec son projet <b><a href="http://www.developpez.com/actu/56849/Google-presente-Loon-son-projet-de-distribution-d-internet-via-des-ballons-envoyes-dans-la-stratosphere/" target="_blank">Loon</a></b> ou encore Microsoft avec <b><a href="http://www.developpez.com/actu/59355/Microsoft-etend-son-projet-4Afrika-a-l-Afrique-du-Sud-pour-connecter-les-zones-rurales-a-Internet/" target="_blank">4Afrika</a></b>, veut connecter la vaste majorité de personnes qui demeurent encore à ce jour exclues du réseau des réseaux. Pour ce faire, le jeune milliardaire s'est associé pour cette aventure à Samsung, Ericsson, Mediatek, Nokia et Qualcom.<br/><br/><img src="http://www.developpez.com/public/images/news/internetdotorg.png" /><br />
+Connecter ce nombre important d'utilisateurs à Internet est...]]></description>
+      <pubDate>Sat, 29 Mar 2014 03:19:00 +0100</pubDate>
+      <comments>http://www.developpez.com/actu/69469/Facebook-travaille-sur-des-drones-pour-fournir-l-acces-a-internet-dans-le-cadre-de-l-initiative-internet-org/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/facebook.png" type="image/jpeg" length="1314"/>
+    </item>
+    <item>
+      <title><![CDATA[Yahoo se lance dans le social gaming avec Game Networks, sa plateforme pour les développeurs tiers]]></title>
+      <link>http://www.developpez.com/actu/69465/Yahoo-se-lance-dans-le-social-gaming-avec-Game-Networks-sa-plateforme-pour-les-developpeurs-tiers/</link>
+      <guid>http://www.developpez.com/actu/69465/Yahoo-se-lance-dans-le-social-gaming-avec-Game-Networks-sa-plateforme-pour-les-developpeurs-tiers/</guid>
+      <description><![CDATA[<b>Yahoo se lance dans le social gaming avec Game Networks,  </b><br />
+<b>sa plateforme pour les développeurs tiers   </b><br/><br/>Yahoo présente Yahoo Game Network, une nouvelle plateforme pour développeurs tiers de jeux distribués sur son réseau. L'entreprise bénéficie de 800 millions de joueurs potentiels dont la moitié est sur mobile. Le SDK est déjà disponible en téléchargement. Les développeurs pourront alors gérer plus facilement l'authentification des joueurs, la monétisation du jeu, le partage social, l'analyse et...]]></description>
+      <pubDate>Fri, 28 Mar 2014 23:57:00 +0100</pubDate>
+      <comments>http://www.developpez.com/actu/69465/Yahoo-se-lance-dans-le-social-gaming-avec-Game-Networks-sa-plateforme-pour-les-developpeurs-tiers/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/yahoo.gif" type="image/jpeg" length="3294"/>
+    </item>
+    <item>
+      <title><![CDATA[Google Transparency Report : la France second pays le plus demandeur  de renseignements sur les utilisateurs]]></title>
+      <link>http://www.developpez.com/actu/69462/Google-Transparency-Report-la-France-second-pays-le-plus-demandeur-de-renseignements-sur-les-utilisateurs/</link>
+      <guid>http://www.developpez.com/actu/69462/Google-Transparency-Report-la-France-second-pays-le-plus-demandeur-de-renseignements-sur-les-utilisateurs/</guid>
+      <description><![CDATA[<b>Google fait la lumière sur les demandes de désindexation adressées à son moteur de recherche</b><br />
+<b>Microsoft, numéro 1 des ayants droit les plus concernés</b><br/><br/>Les demandes de désindexation de son moteur de recherche se multiplient pour Google.<br/><br/>Ces demandes émanent majoritairement des ayants droit qui souhaitent que les sites qui partagent  illégalement  les contenus dont ils sont les auteurs n'apparaissent plus dans les résultats du moteur.<br/><br/>Chaque semaine, c'est ainsi plus de 250.000 demandes qui sont formulées....]]></description>
+      <pubDate>Fri, 28 Mar 2014 20:26:00 +0100</pubDate>
+      <comments>http://www.developpez.com/actu/69462/Google-Transparency-Report-la-France-second-pays-le-plus-demandeur-de-renseignements-sur-les-utilisateurs/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/google2.gif" type="image/jpeg" length="1988"/>
+    </item>
     <item>
       <title><![CDATA[NVIDIA présente la GTX Titan Z, la plus performante de la gamme GeForce, avec  une puissance de 8 téraFlops]]></title>
       <link>http://www.developpez.com/actu/69459/NVIDIA-presente-la-GTX-Titan-Z-la-plus-performante-de-la-gamme-GeForce-avec-une-puissance-de-8-teraFlops/</link>
@@ -180,47 +221,6 @@ Concernant...]]></description>
       <pubDate>Thu, 27 Mar 2014 10:39:00 +0100</pubDate>
       <comments>http://www.developpez.com/actu/69389/Fin-du-support-de-Windows-XP-seriez-vous-pret-le-8-avril-pour-XP-Apocalypse-Quelques-astuces-pour-ceux-qui-vont-continuer-a-utiliser-l-OS/#comments</comments>
       <enclosure url="http://www.developpez.com/images/logos/windows-xp.gif" type="image/jpeg" length="2501"/>
-    </item>
-    <item>
-      <title><![CDATA[Toughpad 4K UT-MA6 : une tablette 20 pouces haut de gamme par Panasonic, Intel Core i7, NVIDIA Quadro, SSD et 16 Go RAM]]></title>
-      <link>http://www.developpez.com/actu/69388/Toughpad-4K-UT-MA6-une-tablette-20-pouces-haut-de-gamme-par-Panasonic-Intel-Core-i7-NVIDIA-Quadro-SSD-et-16-Go-RAM/</link>
-      <guid>http://www.developpez.com/actu/69388/Toughpad-4K-UT-MA6-une-tablette-20-pouces-haut-de-gamme-par-Panasonic-Intel-Core-i7-NVIDIA-Quadro-SSD-et-16-Go-RAM/</guid>
-      <description><![CDATA[<b> Toughpad 4K UT-MA6 : tablette 20" haut de gamme par Panasonic, Intel Core i7, NVIDIA Quadro, SSD et 16 Go RAM</b><br/><br/>Panasonic a annoncé le lancement de la tablette Toughpad 4K UT-MB5 au mois de septembre 2013.<br/><br/>Une nouvelle version UT-MA6 haut de gamme sera équipée d'un processeur plus puissant, d'une carte graphique professionnelle, d'une quantité de mémoire plus importante et pour finir d'un port Ethernet<br/><br/><img src="http://briot-jerome.developpez.com/images/hardware/panasonic/UT-MA6_4k_performancemodel_front_w8.1-3.jpg" /><br />
-Voici les caractéristiques annoncées (les différences avec la UT-MB5 sont en gris):<br/><br/><ul><li style="">processeur :...</li></ul>]]></description>
-      <pubDate>Thu, 27 Mar 2014 09:51:00 +0100</pubDate>
-      <comments>http://www.developpez.com/actu/69388/Toughpad-4K-UT-MA6-une-tablette-20-pouces-haut-de-gamme-par-Panasonic-Intel-Core-i7-NVIDIA-Quadro-SSD-et-16-Go-RAM/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/panasonic.png" type="image/jpeg" length="2234"/>
-    </item>
-    <item>
-      <title><![CDATA[Windows représente 22% des machines intelligentes, Microsoft reconnait qu'ils ont encore du travail à faire]]></title>
-      <link>http://www.developpez.com/actu/69381/Windows-represente-22pourcent-des-machines-intelligentes-Microsoft-reconnait-qu-ils-ont-encore-du-travail-a-faire/</link>
-      <guid>http://www.developpez.com/actu/69381/Windows-represente-22pourcent-des-machines-intelligentes-Microsoft-reconnait-qu-ils-ont-encore-du-travail-a-faire/</guid>
-      <description><![CDATA[<b>Seulement 22 % des machines intelligentes exécutent Windows</b><br />
-<b>Microsoft reconnait qu'ils ont encore du travail à faire</b><br/><br/>La dernière étude de bonnet a révélé que la part de marché de l'OS Windows de Microsoft a chuté de 93 % à 58 %. Un véritable effondrement de la part de Microsoft. Quand on prend ensemble toutes les machines intelligentes, PC, smartphones, tablettes et autres, Microsoft n'a que 22 % de part de marché.<br/><br/>Sur le marché des OS mobiles, Microsoft possède seulement 3 % des parts. Phil Sorgen,...]]></description>
-      <pubDate>Thu, 27 Mar 2014 09:43:00 +0100</pubDate>
-      <comments>http://www.developpez.com/actu/69381/Windows-represente-22pourcent-des-machines-intelligentes-Microsoft-reconnait-qu-ils-ont-encore-du-travail-a-faire/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/win8-pre-2.gif" type="image/jpeg" length="5055"/>
-    </item>
-    <item>
-      <title><![CDATA[Tango, le smartphone de cartographie bientôt dans l'espace ? La NASA a déjà effectué des tests et veut atteindre les astéroïdes]]></title>
-      <link>http://www.developpez.com/actu/69378/Tango-le-smartphone-de-cartographie-bientot-dans-l-espace-La-NASA-a-deja-effectue-des-tests-et-veut-atteindre-les-asteroides/</link>
-      <guid>http://www.developpez.com/actu/69378/Tango-le-smartphone-de-cartographie-bientot-dans-l-espace-La-NASA-a-deja-effectue-des-tests-et-veut-atteindre-les-asteroides/</guid>
-      <description><![CDATA[<b>Google a annoncé le Projet Tango, un smartphone capable de reproduire votre environnement</b><br />
-<b>grâce à son processeur Myriad 1 et ses capteurs 3D Kinect</b><br/><br/>Google a dévoilé la date de sortie de son smartphone cartographie Tango. Tango est un projet de l'équipe des « projets et technologies avancées de Google » (ATAP) dirigé par Johnny Lee, ancien membre de l'équipe de Kinect de Microsoft. ATAP est une scission de Motorola que Google n'a pas vendue à Lenovo lors du rachat de Motorola.<br/><br/><a href="http://www.developpez.com/public/images/news/tango_1.jpg" target="_blank"><img src="http://www.developpez.com/public/images/news/tango_1_resized.jpg" /></a><br />
-Tango est un smartphone...]]></description>
-      <pubDate>Thu, 27 Mar 2014 09:37:00 +0100</pubDate>
-      <comments>http://www.developpez.com/actu/69378/Tango-le-smartphone-de-cartographie-bientot-dans-l-espace-La-NASA-a-deja-effectue-des-tests-et-veut-atteindre-les-asteroides/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/smartphone.png" type="image/jpeg" length="2361"/>
-    </item>
-    <item>
-      <title><![CDATA[Les entreprises trouveraient les Mac plus fiables que les PC Windows, selon une enquête de Parallels]]></title>
-      <link>http://www.developpez.com/actu/69373/Les-entreprises-trouveraient-les-Mac-plus-fiables-que-les-PC-Windows-selon-une-enquete-de-Parallels/</link>
-      <guid>http://www.developpez.com/actu/69373/Les-entreprises-trouveraient-les-Mac-plus-fiables-que-les-PC-Windows-selon-une-enquete-de-Parallels/</guid>
-      <description><![CDATA[<b>Les entreprises trouveraient les Mac  plus fiables que les PC Windows</b><br />
-<b>Selon une enquête de Parallels</b><br/><br/>Lors de la conférence MacIT qui se tient actuellement à San Francisco, Parallels, la société éditrice de Parallels Desktop for Mac, a publié les résultats d'une enquête qu'elle a menée auprès de 200 décideurs IT. Les résultats de l'enquête ont permis de conclure que les entreprises ont plus de confiance aux Mac d'Apple qu'aux machines exécutant Windows de Microsoft.<br/><br/>77% des développeurs informatiques...]]></description>
-      <pubDate>Thu, 27 Mar 2014 09:20:00 +0100</pubDate>
-      <comments>http://www.developpez.com/actu/69373/Les-entreprises-trouveraient-les-Mac-plus-fiables-que-les-PC-Windows-selon-une-enquete-de-Parallels/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/sondage1.gif" type="image/jpeg" length="1820"/>
     </item>
   </channel>
 </rss>
