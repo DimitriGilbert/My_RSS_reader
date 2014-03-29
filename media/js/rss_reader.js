@@ -31,6 +31,15 @@ rss_reader.controller.loadFeed = function () {
 	})
 };
 
+rss_reader.controller.addFeed = function () {
+	$.get('goulot.php?a=add_feed&i='+$('#feed_id').val()+'&n='+$('#feed_name').val()+'&u='+$('#feed_url').val(), function(){
+		$('#feed_id').val('');
+		$('#feed_name').val('');
+		$('#feed_url').val('');
+		$('#add_feed').modal('hide');
+	});
+}
+
 /*********************************END CONTROLLER*********************************/
 
 /*********************************VIEW*********************************/
@@ -61,6 +70,11 @@ rss_reader.view.goWeb = function (elt) {
 	var link = elt.getAttribute('data_link');
 	$('#reader').empty();
 	Jsi.append('reader', rss_reader.template.readerIframe(link));
+}
+
+rss_reader.view.addFeed = function () {
+	$('#add_feed').modal();
+	$('#add_feed').fadeIn();
 }
 
 /*********************************END VIEW*********************************/
@@ -124,7 +138,7 @@ rss_reader.template.feedItem = function (item) {
 
 rss_reader.template.readerTitle = function (title) {
 	var tpl = rss_reader.template.feedItemTitle(title);
-	tpl.attr.className = "col-sm-12 reader_title";
+	tpl.attr.className = "col-sm-12 text-center reader_title";
 	return tpl;
 }
 
