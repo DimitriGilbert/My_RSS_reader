@@ -73,6 +73,7 @@ function compile_rss()
 				if(((int)get_item_timestamp($i))>$today)
 				{
 					$i->setAttribute('from',$from);
+					$i->setAttribute('id',get_primkey());
 					array_push($c_rss_a,$i);
 				}				
 			}
@@ -148,5 +149,21 @@ function get_latest()
 	$xml = new DOMDocument();
 	$xml->load($path.'rss/compiled/'.$file);
 	return $xml->saveXML();
+}
+
+function get_primkey()
+{
+	$key=time();
+	for($i=0;$i<2;$i++)
+	{
+		$k=rand(48 ,57);
+		$key.=chr($k);
+	}
+	for($i=0;$i<5;$i++)
+	{
+		$k=rand(97 ,122);
+		$key.=chr($k);
+	}
+	return $key;
 }
 ?>

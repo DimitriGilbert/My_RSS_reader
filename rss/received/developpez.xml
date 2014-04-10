@@ -4,8 +4,8 @@
     <title><![CDATA[Developpez.com]]></title>
     <link>http://www.developpez.com/index/rss</link>
     <description><![CDATA[Club des développeurs et IT Pro]]></description>
-    <pubDate>Tue, 01 Apr 2014 08:32:31 +0200</pubDate>
-    <lastBuildDate>Tue, 01 Apr 2014 08:32:31 +0200</lastBuildDate>
+    <pubDate>Thu, 10 Apr 2014 09:28:20 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Apr 2014 09:28:20 +0200</lastBuildDate>
     <copyright>Copyright © 2000-2014 www.developpez.com</copyright>
     <image>
       <url>http://www.developpez.com/template/favicon.png</url>
@@ -16,203 +16,196 @@
     <language>fr-FR</language>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-      <title><![CDATA[World Backup Day : la journée internationale de la sauvegarde, une initiative pour anticiper sur la perte des données]]></title>
-      <link>http://www.developpez.com/actu/69568/World-Backup-Day-la-journee-internationale-de-la-sauvegarde-une-initiative-pour-anticiper-sur-la-perte-des-donnees/</link>
-      <guid>http://www.developpez.com/actu/69568/World-Backup-Day-la-journee-internationale-de-la-sauvegarde-une-initiative-pour-anticiper-sur-la-perte-des-donnees/</guid>
-      <description><![CDATA[<b>World Backup Day : la journée internationale de la sauvegarde,  </b><br />
-<b>une initiative pour anticiper sur la perte des données  </b><br/><br/>Depuis trois ans déjà, le « World Backup Day », journée internationale de la sauvegarde, est célébré tous les 31 mars. Une campagne pour sensibiliser les uns et les autres sur l'importance de faire une sauvegarde de ses données. <br/><br/>D'après les résultats d'études présentés par le site mis à la disposition du public pour l'occasion, 30% des gens n'auraient jamais effectué de sauvegarde,...]]></description>
-      <pubDate>Mon, 31 Mar 2014 23:38:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69568/World-Backup-Day-la-journee-internationale-de-la-sauvegarde-une-initiative-pour-anticiper-sur-la-perte-des-donnees/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/dvp.gif" type="image/jpeg" length="2138"/>
+      <title><![CDATA[Chrome 34 : import des utilisateurs supervisés, auto-remplissage de mots de passe même en 'autocomplete=off' mais pas de commande vocale]]></title>
+      <link>http://www.developpez.com/actu/69930/Chrome-34-import-des-utilisateurs-supervises-auto-remplissage-de-mots-de-passe-meme-en-autocompleteegaloff-mais-pas-de-commande-vocale/</link>
+      <guid>http://www.developpez.com/actu/69930/Chrome-34-import-des-utilisateurs-supervises-auto-remplissage-de-mots-de-passe-meme-en-autocompleteegaloff-mais-pas-de-commande-vocale/</guid>
+      <description><![CDATA[<b>Chrome 34 bêta met le cap sur le responsive design avec le support de srcset,  </b><br />
+<b>Google améliore au passage son API Web audio    </b><br/><br/>Dans la version bêta de Chrome 34, le dispositif d'importation de profils utilisateurs se voit amélioré. La nouvelle mouture intègre également la recherche vocale Google. Pour rappel, pour avoir recours à la fonctionnalité OK Google, il fallait passer par une extension Google Voice Search Hotword pour les utilisateurs Chrome sur ordinateur de bureau. Pour l'instant, comme...]]></description>
+      <pubDate>Thu, 10 Apr 2014 09:00:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69930/Chrome-34-import-des-utilisateurs-supervises-auto-remplissage-de-mots-de-passe-meme-en-autocompleteegaloff-mais-pas-de-commande-vocale/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/chrome.gif" type="image/jpeg" length="2432"/>
     </item>
     <item>
-      <title><![CDATA[Pays-Bas : un crâne remplacé par une impression 3D sur une femme avec succès, une première mondiale]]></title>
-      <link>http://www.developpez.com/actu/69566/Pays-Bas-un-crane-remplace-par-une-impression-3D-sur-une-femme-avec-succes-une-premiere-mondiale/</link>
-      <guid>http://www.developpez.com/actu/69566/Pays-Bas-un-crane-remplace-par-une-impression-3D-sur-une-femme-avec-succes-une-premiere-mondiale/</guid>
-      <description><![CDATA[<b>Pays-Bas : un crâne remplacé par une impression 3D sur une femme avec succès, </b><br />
-<b>une première mondiale  </b><br/><br/>Une Néerlandaise âgée de 22 ans, souffrait d'une maladie qui augmentait l'épaisseur de son crâne. Ce dernier avait déjà atteint les 5 centimètres d'épaisseur (la moyenne étant  de 1,5 cm), celui-ci comprimait son cerveau et affectait sa vue et ses capacités motrices, en plus de nombreuses autres fonctions cruciales a expliqué Bon Verweij, un des chirurgiens qui opéré la patiente. Sa vie était alors...]]></description>
-      <pubDate>Mon, 31 Mar 2014 22:58:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69566/Pays-Bas-un-crane-remplace-par-une-impression-3D-sur-une-femme-avec-succes-une-premiere-mondiale/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/dvp.gif" type="image/jpeg" length="2138"/>
+      <title><![CDATA[Internet Explorer 6 : le fléau des développeurs Web est mort, le navigateur tire sa révérence avec Windows XP]]></title>
+      <link>http://www.developpez.com/actu/69919/Internet-Explorer-6-le-fleau-des-developpeurs-Web-est-mort-le-navigateur-tire-sa-reverence-avec-Windows-XP/</link>
+      <guid>http://www.developpez.com/actu/69919/Internet-Explorer-6-le-fleau-des-developpeurs-Web-est-mort-le-navigateur-tire-sa-reverence-avec-Windows-XP/</guid>
+      <description><![CDATA[<b>Internet Explorer 6 : le fléau des développeurs Web est mort</b><br />
+<b> le navigateur tire sa révérence avec Windows XP</b><br/><br/>La fin du support de Windows XP dissimule une autre information qui pourrait rappeler des souvenirs amers aux développeurs Web : Internet Explorer 6.<br/><br/>La mort officielle de Windows XP implique également la fin du support du navigateur qui est embarqué par défaut dans le système d'exploitation depuis son lancement en 2001.<br/><br/><br />
+<img src="http://rdonfack.developpez.com/ieend2.jpg" /><br />
+<br />
+Stable et moderne à son époque (comparer à ses concurrents, notamment...]]></description>
+      <pubDate>Wed, 09 Apr 2014 18:00:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69919/Internet-Explorer-6-le-fleau-des-developpeurs-Web-est-mort-le-navigateur-tire-sa-reverence-avec-Windows-XP/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/ie7.gif" type="image/jpeg" length="2892"/>
     </item>
     <item>
-      <title><![CDATA[Opération Nymrod : la NSA a espionné 122 personnages politiques depuis 2009, la chancelière allemande dans la liste des « cibles de grandes valeurs »]]></title>
-      <link>http://www.developpez.com/actu/69562/Operation-Nymrod-la-NSA-a-espionne-122-personnages-politiques-depuis-2009-la-chanceliere-allemande-dans-la-liste-des-cibles-de-grandes-valeurs/</link>
-      <guid>http://www.developpez.com/actu/69562/Operation-Nymrod-la-NSA-a-espionne-122-personnages-politiques-depuis-2009-la-chanceliere-allemande-dans-la-liste-des-cibles-de-grandes-valeurs/</guid>
-      <description><![CDATA[<b>Le projet PRISM autorise les fédéraux américains à fouiller nos données stockées en ligne</b><br />
-<b>un ancien employé aux renseignements le dévoile</b><br/><br/>Se basant sur des fuites d'un ancien employé au renseignement américain, l'éditorial américain Washington Post a révélé que l'agence de sécurité nationale américaine (NSA) et le FBI avaient accès aux bases de données de neuf poids lourds sur internet, parmi lesquels Facebook, Google ou même encore plus récemment Apple. <br/><br/>Le projet, au nom de code PRISM, mis en place...]]></description>
-      <pubDate>Mon, 31 Mar 2014 22:32:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69562/Operation-Nymrod-la-NSA-a-espionne-122-personnages-politiques-depuis-2009-la-chanceliere-allemande-dans-la-liste-des-cibles-de-grandes-valeurs/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/sofa.gif" type="image/jpeg" length="2465"/>
+      <title><![CDATA[Patch Tuesday : correctifs ultimes pour Windows XP et Office 2003,  Microsoft livre quatre mises à jour pour corriger onze vulnérabilités]]></title>
+      <link>http://www.developpez.com/actu/69913/Patch-Tuesday-correctifs-ultimes-pour-Windows-XP-et-Office-2003-Microsoft-livre-quatre-mises-a-jour-pour-corriger-onze-vulnerabilites/</link>
+      <guid>http://www.developpez.com/actu/69913/Patch-Tuesday-correctifs-ultimes-pour-Windows-XP-et-Office-2003-Microsoft-livre-quatre-mises-a-jour-pour-corriger-onze-vulnerabilites/</guid>
+      <description><![CDATA[<b>Patch Tuesday : correctifs ultimes pour Windows XP et Office 2003,  </b><br />
+<b>Microsoft livre quatre mises à jour pour corriger onze vulnérabilités dans Windows, IE et Office  </b><br/><br/>Microsoft a annoncé la disponibilité d'un Patch Tuesday assez particulier puisque deux de ses produits phares, notamment sa suite bureautique Office 2003 et son SE Windows XP, recevront là leurs ultimes correctifs en matière de sécurité. Redmond apporte quatre mises à jour dont deux critiques avec pour objectif de combler un total...]]></description>
+      <pubDate>Wed, 09 Apr 2014 17:53:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69913/Patch-Tuesday-correctifs-ultimes-pour-Windows-XP-et-Office-2003-Microsoft-livre-quatre-mises-a-jour-pour-corriger-onze-vulnerabilites/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/microsoft-v2.gif" type="image/jpeg" length="2780"/>
     </item>
     <item>
-      <title><![CDATA[Yahoo! se prépare pour le marché de la vidéo en ligne, l'entreprise espère bientôt concurrencer YouTube]]></title>
-      <link>http://www.developpez.com/actu/69560/Yahoo-se-prepare-pour-le-marche-de-la-video-en-ligne-l-entreprise-espere-bientot-concurrencer-YouTube/</link>
-      <guid>http://www.developpez.com/actu/69560/Yahoo-se-prepare-pour-le-marche-de-la-video-en-ligne-l-entreprise-espere-bientot-concurrencer-YouTube/</guid>
-      <description><![CDATA[<b>Yahoo! se prépare pour le marché de la vidéo en ligne,  </b><br />
-<b>l'entreprise espère bientôt concurrencer YouTube  </b><br/><br/>Yahoo! voudrait redorer son blason. Depuis l'arrivée de Marissa Mayer à sa tête, l'entreprise tente de diversifier ses activités média et vise en l'occurrence le marché de la vidéo en ligne. Après avoir tenté un rachat du français DailyMotion qui s'est soldé par un échec, la compagnie voudrait concurrencer YouTube ainsi que d'autres sites comme Vimeo, Hulu, Metacafe et Veoh avec sa propre...]]></description>
-      <pubDate>Mon, 31 Mar 2014 21:16:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69560/Yahoo-se-prepare-pour-le-marche-de-la-video-en-ligne-l-entreprise-espere-bientot-concurrencer-YouTube/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/yahoo.gif" type="image/jpeg" length="3294"/>
+      <title><![CDATA[Windows XP est officiellement mort, quel souvenir gardez-vous de l'emblématique OS ?]]></title>
+      <link>http://www.developpez.com/actu/69901/Windows-XP-est-officiellement-mort-quel-souvenir-gardez-vous-de-l-emblematique-OS/</link>
+      <guid>http://www.developpez.com/actu/69901/Windows-XP-est-officiellement-mort-quel-souvenir-gardez-vous-de-l-emblematique-OS/</guid>
+      <description><![CDATA[<b>Windows XP est officiellement mort</b><br />
+<b>quel souvenir gardez-vous de l'emblématique OS ?</b><br/><br/>Le 8 avril dernier, Windows XP a officiellement tiré sa révérence, après environ 12 ans et demi de service. Microsoft a publié le dernier correctif de sécurité pour le système d'exploitation. Désormais, il sera laissé à la merci des pirates.<br/><br/>Lancé le 25 octobre 2001, Windows XP repose sur le noyau de l'architecture NT et vient succéder à Windows 2000. L'OS proposé en 25 langues, dispose d'une interface utilisateur...]]></description>
+      <pubDate>Wed, 09 Apr 2014 13:18:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69901/Windows-XP-est-officiellement-mort-quel-souvenir-gardez-vous-de-l-emblematique-OS/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/windows-xp.gif" type="image/jpeg" length="2501"/>
     </item>
     <item>
-      <title><![CDATA[Google dénonce la redirection de son service DNS public en Turquie, après le blocage de Twitter et YouTube sur le territoire]]></title>
-      <link>http://www.developpez.com/actu/69553/Google-denonce-la-redirection-de-son-service-DNS-public-en-Turquie-apres-le-blocage-de-Twitter-et-YouTube-sur-le-territoire/</link>
-      <guid>http://www.developpez.com/actu/69553/Google-denonce-la-redirection-de-son-service-DNS-public-en-Turquie-apres-le-blocage-de-Twitter-et-YouTube-sur-le-territoire/</guid>
-      <description><![CDATA[<b>Google dénonce la redirection de son service DNS public en Turquie,  </b><br />
-<b>après le blocage de Twitter et YouTube sur le territoire   </b><br/><br/>Google a annoncé que son service DNS gratuit a été détourné par la plupart des FAI turcs alors que le gouvernement de Recep Tayyip Erdogan poursuit ses efforts pour bloquer les utilisateurs qui tentent de contourner la censure mise en place récemment à l'encontre de Twitter et YouTube. <br/><br/>Depuis le 21 mars, le gouvernement turc a commencé sa censure avec Twitter, prétextant...]]></description>
-      <pubDate>Mon, 31 Mar 2014 20:32:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69553/Google-denonce-la-redirection-de-son-service-DNS-public-en-Turquie-apres-le-blocage-de-Twitter-et-YouTube-sur-le-territoire/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/google2.gif" type="image/jpeg" length="1988"/>
+      <title><![CDATA[RD Congo : des robots remplacent les policiers dans les carrefours, une uvre d'une association de femmes ingénieures]]></title>
+      <link>http://www.developpez.com/actu/69894/RD-Congo-des-robots-remplacent-les-policiers-dans-les-carrefours-une-oeuvre-d-une-association-de-femmes-ingenieures/</link>
+      <guid>http://www.developpez.com/actu/69894/RD-Congo-des-robots-remplacent-les-policiers-dans-les-carrefours-une-oeuvre-d-une-association-de-femmes-ingenieures/</guid>
+      <description><![CDATA[<b>RD Congo : des robots remplacent les policiers dans les carrefours,</b><br />
+<b>une oeuvre d'une association de femmes ingénieures</b><br/><br/>Deux ingénieures congolaises en électronique industrielle ont mis au point un automate capable de réguler la circulation routière. Il a été appelé « robot roulage » en référence au nom donné aux agents de circulation au Congo. Ce robot 100% congolais, a été financé par l'association Women Technology, l'association de femmes ingénieures de la RDC.<br/><br/>L'automate de 2,5 mètres de hauteur...]]></description>
+      <pubDate>Wed, 09 Apr 2014 10:40:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69894/RD-Congo-des-robots-remplacent-les-policiers-dans-les-carrefours-une-oeuvre-d-une-association-de-femmes-ingenieures/#comments</comments>
     </item>
     <item>
-      <title><![CDATA[La réutilisation dans la POO et ses limites actuelles : est-il possible d'y remédier ? Que faut-il faire ?]]></title>
-      <link>http://www.developpez.com/actu/69542/La-reutilisation-dans-la-POO-et-ses-limites-actuelles-est-il-possible-d-y-remedier-Que-faut-il-faire/</link>
-      <guid>http://www.developpez.com/actu/69542/La-reutilisation-dans-la-POO-et-ses-limites-actuelles-est-il-possible-d-y-remedier-Que-faut-il-faire/</guid>
-      <description><![CDATA[<b> La réutilisation dans la POO et ses limitations actuelles </b><br />
-<b> Est-il possible d'y remédier ? Que faut-il faire ? </b> <br/><br/>Au début des années 1990, l'un des principaux concepts faisant l'éloge de la programmation orientée objet était la réutilisation. Aujourd'hui, Scott Westfall, programmeur et chef de projet, revient sur ce concept et sa situation actuelle dans un billet de blog.<br/><br/>« <i>Il n'est pas rare de découvrir que plusieurs personnes au sein de votre équipe ont codé essentiellement la même fonctionnalité....</i>]]></description>
-      <pubDate>Mon, 31 Mar 2014 16:19:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69542/La-reutilisation-dans-la-POO-et-ses-limites-actuelles-est-il-possible-d-y-remedier-Que-faut-il-faire/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/discussions.gif" type="image/jpeg" length="1157"/>
+      <title><![CDATA[Live Chats .NET : le rendez-vous avec les experts de Microsoft aujourd'hui à 13h, posez vos questions et obtenez des réponses en direct sur le chat]]></title>
+      <link>http://www.developpez.com/actu/69891/Live-Chats-NET-le-rendez-vous-avec-les-experts-de-Microsoft-aujourd-hui-a-13h-posez-vos-questions-et-obtenez-des-reponses-en-direct-sur-le-chat/</link>
+      <guid>http://www.developpez.com/actu/69891/Live-Chats-NET-le-rendez-vous-avec-les-experts-de-Microsoft-aujourd-hui-a-13h-posez-vos-questions-et-obtenez-des-reponses-en-direct-sur-le-chat/</guid>
+      <description><![CDATA[<b>Microsoft lance "Développeurs d'applications desktop, l'avenir vous appartient"</b><br />
+<b>une série de livechats interactifs avec ses experts sur Developpez.com</b><br/><br/>Les développeurs occupent une place importante au sein de l'écosystème de Microsoft. La société donne la parole à ceux-ci afin de mieux répondre à leurs besoins.<br/><br/>D'avril à juin, Microsoft en collaboration avec Developpez.com organise une série de livechats pour vous aider dans vos projets.<br/><br/>Sébastien Pertus et Eric Vernié, experts techniques Microsoft,...]]></description>
+      <pubDate>Wed, 09 Apr 2014 10:37:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69891/Live-Chats-NET-le-rendez-vous-avec-les-experts-de-Microsoft-aujourd-hui-a-13h-posez-vos-questions-et-obtenez-des-reponses-en-direct-sur-le-chat/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/microsoft-v2-3.gif" type="image/jpeg" length="2935"/>
     </item>
     <item>
-      <title><![CDATA[IBM développe un outil pour prédire votre géolocalisation, en se basant sur votre comportement sur Twitter]]></title>
-      <link>http://www.developpez.com/actu/69539/IBM-developpe-un-outil-pour-predire-votre-geolocalisation-en-se-basant-sur-votre-comportement-sur-Twitter/</link>
-      <guid>http://www.developpez.com/actu/69539/IBM-developpe-un-outil-pour-predire-votre-geolocalisation-en-se-basant-sur-votre-comportement-sur-Twitter/</guid>
-      <description><![CDATA[<b>IBM développe un outil pour prédire votre géolocalisation</b><br />
-<b> En se basant sur votre comportement sur Twitter </b><br/><br/>IBM et ses équipes de recherche viennent de frapper un grand coup dans le domaine de la géolocalisation. En effet, dans une récente publication, une équipe d'IBM a dévoilé un outil capable de prédire la principale localisation d'un utilisateur de Twitter, c'est-à-dire le lieu principal à partir duquel les tweets sont envoyés, par déduction du comportement de l'utilisateur et sans recourir...]]></description>
-      <pubDate>Mon, 31 Mar 2014 15:59:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69539/IBM-developpe-un-outil-pour-predire-votre-geolocalisation-en-se-basant-sur-votre-comportement-sur-Twitter/#comments</comments>
+      <title><![CDATA[Les premiers mainframes d'IBM ont 50 ans, et ils continuent à être utilisés dans de nombreuses entreprises]]></title>
+      <link>http://www.developpez.com/actu/69890/Les-premiers-mainframes-d-IBM-ont-50-ans-et-ils-continuent-a-etre-utilises-dans-de-nombreuses-entreprises/</link>
+      <guid>http://www.developpez.com/actu/69890/Les-premiers-mainframes-d-IBM-ont-50-ans-et-ils-continuent-a-etre-utilises-dans-de-nombreuses-entreprises/</guid>
+      <description><![CDATA[<b>Les premiers mainframes d'IBM ont 50 ans,</b><br />
+<b>et ils continuent à être utilisés dans de nombreuses entreprises</b><br/><br/>Le monde est aujourd'hui rempli de milliards d'ordinateurs composés de microprocesseur. Mais il y a plus d'un demi-siècle, un ordinateur avait la taille d'un salon. À la place des bus, les ingénieurs utilisaient des câbles pour transporter les données. Ce fut sans doute très impressionnant d'avoir de telles machines, capables de faire des calculs que le cerveau de l'Homme ne pouvait pas faire...]]></description>
+      <pubDate>Wed, 09 Apr 2014 10:28:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69890/Les-premiers-mainframes-d-IBM-ont-50-ans-et-ils-continuent-a-etre-utilises-dans-de-nombreuses-entreprises/#comments</comments>
       <enclosure url="http://www.developpez.com/images/logos/ibm.gif" type="image/jpeg" length="1896"/>
     </item>
     <item>
-      <title><![CDATA[Les employés, maillon faible de la sécurité des entreprises ? Une récente étude révèle six attaques communément utilisées à leur encontre]]></title>
-      <link>http://www.developpez.com/actu/69536/Les-employes-maillon-faible-de-la-securite-des-entreprises-Une-recente-etude-revele-six-attaques-communement-utilisees-a-leur-encontre/</link>
-      <guid>http://www.developpez.com/actu/69536/Les-employes-maillon-faible-de-la-securite-des-entreprises-Une-recente-etude-revele-six-attaques-communement-utilisees-a-leur-encontre/</guid>
-      <description><![CDATA[<b>Les employés, maillon faible de la sécurité informatique des entreprises ?</b><br />
-<b> une récente étude révèle six attaques communément utilisées à leur encontre </b><br/><br/>La Rand Corporation est une institution californienne spécialisée dans la recherche, l'analyse et le consulting dans plusieurs domaines d'expertises y compris les nouvelles technologies et les TIC. Récemment, cette dernière a publié une étude intitulée « <a href="http://www.zdnet.com/story/create/%20http:/www.rand.org/pubs/research_reports/RR610.html" target="_blank">Markets for Cybercrime Tools and Stolen Data</a> » pour le compte de l'équipementier de télécommunications...]]></description>
-      <pubDate>Mon, 31 Mar 2014 15:46:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69536/Les-employes-maillon-faible-de-la-securite-des-entreprises-Une-recente-etude-revele-six-attaques-communement-utilisees-a-leur-encontre/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/securite.gif" type="image/jpeg" length="2351"/>
+      <title><![CDATA[W4 présente BPMN+ à la conférence bpmNEXT, la puissance de la suite BPM mise en avant à travers plusieurs démonstrations]]></title>
+      <link>http://www.developpez.com/actu/69882/W4-presente-BPMNplus-a-la-conference-bpmNEXT-la-puissance-de-la-suite-BPM-mise-en-avant-a-travers-plusieurs-demonstrations/</link>
+      <guid>http://www.developpez.com/actu/69882/W4-presente-BPMNplus-a-la-conference-bpmNEXT-la-puissance-de-la-suite-BPM-mise-en-avant-a-travers-plusieurs-demonstrations/</guid>
+      <description><![CDATA[<b>W4 présente BPMN+ à la conférence bpmNEXT</b><br />
+<b>la puissance de la suite BPM mise en avant à travers plusieurs démonstrations</b><br/><br/>W4 a profité de la conférence bpmNEXT, la grand-messe du BPM qui s'est tenu à Pacific Grove, près de Monterey en Californie du 25 au 27 Mars, pour présenter sa solution BPMN+, <br/><br/>La conférence bpmNEXT a ressemblé le gratin du monde du BPM. 40% des participants étaient, comme W4, des éditeurs hors-USA, et les 60% de public américain était composé d'analystes, experts des processus,...]]></description>
+      <pubDate>Wed, 09 Apr 2014 10:14:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69882/W4-presente-BPMNplus-a-la-conference-bpmNEXT-la-puissance-de-la-suite-BPM-mise-en-avant-a-travers-plusieurs-demonstrations/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/calendrier.gif" type="image/jpeg" length="2226"/>
     </item>
     <item>
-      <title><![CDATA[Facebook, Google, Twitter, LinkedIn s'unissent pour publier WebScaleSql un fork de MySQL]]></title>
-      <link>http://www.developpez.com/actu/69529/Facebook-Google-Twitter-LinkedIn-s-unissent-pour-publier-WebScaleSql-un-fork-de-MySQL/</link>
-      <guid>http://www.developpez.com/actu/69529/Facebook-Google-Twitter-LinkedIn-s-unissent-pour-publier-WebScaleSql-un-fork-de-MySQL/</guid>
-      <description><![CDATA[<b>Facebook, Google, Twitter, LinkedIn s'unissent pour publier WebScaleSql</b><br />
-<b>un fork de MySQL</b><br/><br/>Pour permettre aux utilisateurs de profiter au maximum des performances et optimisations qu'ils ont apportées à  MySQL, Facebook, Google, Twitter et LinkedIn se sont associées pour concevoir WebScaleSql, un SGBD émanant  de la version 5.6 du SGBDR open source d'Oracle. <br/><br/>De nombreux bugs de MySQL ont été corrigés et une révision du code a été faite. Des entreprises tierces peuvent personnaliser WebScaleSql selon...]]></description>
-      <pubDate>Mon, 31 Mar 2014 14:28:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69529/Facebook-Google-Twitter-LinkedIn-s-unissent-pour-publier-WebScaleSql-un-fork-de-MySQL/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/mysql.gif" type="image/jpeg" length="1910"/>
+      <title><![CDATA[Tutoriel OpenGL Moderne : un cube coloré, apprenez à afficher une forme 3D et en couleurs dans OpenGL 3 et supérieur]]></title>
+      <link>http://jeux.developpez.com/tutoriels/OpenGL-moderne/tutoriel-4-cube-colore/</link>
+      <guid>http://jeux.developpez.com/tutoriels/OpenGL-moderne/tutoriel-4-cube-colore/</guid>
+      <description><![CDATA[Bonjour à tous,<br/><br/>La rubrique <a href="http://jeux.developpez.com/" target="_blank">2D/3D/Jeux</a> est heureuse de vous présenter une <a href="http://jeux.developpez.com/tutoriels/OpenGL-moderne/" target="_blank">la suite de la série de tutoriels</a> consacrée à OpenGL moderne (les versions à partir d'OpenGL 3.3).<br />
+Ces tutoriels vous permettront d'intégrer facilement les nouveaux concepts d'OpenGL afin de profiter au maximum des dernières technologies de vos cartes graphiques.<br />
+Ce <a href="http://jeux.developpez.com/tutoriels/OpenGL-moderne/tutoriel-4-cube-colore/" target="_blank">quatrième tutoriel</a> vous permettra d'afficher votre premier cube coloré. Dans celui-ci vous pourrez envoyer de nouveaux attributs de sommets à la carte graphique...]]></description>
+      <pubDate>Wed, 09 Apr 2014 08:30:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[gDNA : l'étude de Google pour mieux comprendre ses employés, les premiers résultats identifient déjà deux populations]]></title>
-      <link>http://www.developpez.com/actu/69527/gDNA-l-etude-de-Google-pour-mieux-comprendre-ses-employes-les-premiers-resultats-identifient-deja-deux-populations/</link>
-      <guid>http://www.developpez.com/actu/69527/gDNA-l-etude-de-Google-pour-mieux-comprendre-ses-employes-les-premiers-resultats-identifient-deja-deux-populations/</guid>
-      <description><![CDATA[<b>gDNA : l'étude de Google pour mieux comprendre ses employés,  </b><br />
-<b>les premiers résultats identifient déjà deux populations  </b><br/><br/>Depuis deux ans déjà, Mountain View a mis sur pied une étude inspirée de la célèbre Etude Framingham sur les maladies cardiovasculaires démarrée il y a plus de 65 ans aux Etats-Unis. Le but est de mieux comprendre ses employés explique dans un billet Laszlo Bock, le vice-président chargé du personnel. <br/><br/>Menée par les docteurs Brian Welle et Jennifer Kurkoski, l'étude consiste en...]]></description>
-      <pubDate>Mon, 31 Mar 2014 13:23:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69527/gDNA-l-etude-de-Google-pour-mieux-comprendre-ses-employes-les-premiers-resultats-identifient-deja-deux-populations/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/google2.gif" type="image/jpeg" length="1988"/>
+      <title><![CDATA[Samsung annonce avoir une méthode de fabrication « révolutionnaire » du graphène, le matériau remplacera-t-il bientôt le silicium ?]]></title>
+      <link>http://www.developpez.com/actu/69880/Samsung-annonce-avoir-une-methode-de-fabrication-revolutionnaire-du-graphene-le-materiau-remplacera-t-il-bientot-le-silicium/</link>
+      <guid>http://www.developpez.com/actu/69880/Samsung-annonce-avoir-une-methode-de-fabrication-revolutionnaire-du-graphene-le-materiau-remplacera-t-il-bientot-le-silicium/</guid>
+      <description><![CDATA[<b>Samsung annonce avoir une méthode de fabrication « révolutionnaire » du graphène,</b><br />
+<b>le matériau remplacera-t-il bientôt le silicium ? </b><br/><br/>Il y a déjà dix ans qu'Andre Geim, du département de physique de l'Université de Manchester, avait isolé pour la première fois le graphène, un cristal bidimensionnel (monoplan) de carbone dont l'empilement constitue le graphite. Les qualités électriques et mécaniques de ce matériau en font un bon candidat appliquées à de nombreux domaines, notamment l'électronique....]]></description>
+      <pubDate>Wed, 09 Apr 2014 08:26:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69880/Samsung-annonce-avoir-une-methode-de-fabrication-revolutionnaire-du-graphene-le-materiau-remplacera-t-il-bientot-le-silicium/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/calendrier.gif" type="image/jpeg" length="2226"/>
     </item>
     <item>
-      <title><![CDATA[Windows Phone 8.1 aurait atteint le stade de RTM, la mise à jour à jour et de nouveaux appareils seront présentés cette semaine à la conférence Build]]></title>
-      <link>http://www.developpez.com/actu/69522/Windows-Phone-8-1-aurait-atteint-le-stade-de-RTM-la-mise-a-jour-a-jour-et-de-nouveaux-appareils-seront-presentes-cette-semaine-a-la-conference-Build/</link>
-      <guid>http://www.developpez.com/actu/69522/Windows-Phone-8-1-aurait-atteint-le-stade-de-RTM-la-mise-a-jour-a-jour-et-de-nouveaux-appareils-seront-presentes-cette-semaine-a-la-conference-Build/</guid>
-      <description><![CDATA[<b>Windows Phone 8.1 introduira un assistant personnel et un centre de notifications</b><br />
-<b>son store franchit le cap des 200 000 applications</b><br/><br/>Petit à petit, Windows Phone se fraye un passage sur le marché hautement concurrentiel des smartphones. Bien que la part de marché de l'OS reste encore très faible, celui-ci est sur la bonne voie et Microsoft n'arrête pas d'innover afin que son système d'exploitation mobile n'ait rien à envier de la concurrence.<br/><br/>Jusqu'ici, Windows Phone manque encore d'un assistant...]]></description>
-      <pubDate>Mon, 31 Mar 2014 12:31:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69522/Windows-Phone-8-1-aurait-atteint-le-stade-de-RTM-la-mise-a-jour-a-jour-et-de-nouveaux-appareils-seront-presentes-cette-semaine-a-la-conference-Build/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/windows-phone-8-2.gif" type="image/jpeg" length="3793"/>
+      <title><![CDATA[Windows 8.1 Update 1 disponible via la fonction de mises à jour de Windows, ce qu'il faut savoir pour l'installer]]></title>
+      <link>http://www.developpez.com/actu/69876/Windows-8-1-Update-1-disponible-via-la-fonction-de-mises-a-jour-de-Windows-ce-qu-il-faut-savoir-pour-l-installer/</link>
+      <guid>http://www.developpez.com/actu/69876/Windows-8-1-Update-1-disponible-via-la-fonction-de-mises-a-jour-de-Windows-ce-qu-il-faut-savoir-pour-l-installer/</guid>
+      <description><![CDATA[<b>Windows 8.1 Update 1 sera disponible le 8 avril</b><br />
+<b>le support de la souris et du clavier au centre des améliorations</b><br/><br/>Le premier jour de la conférence Build, l'événement annuel de Microsoft pour les développeurs, a été riche en annonces.<br/><br/>La première nouvelle majeure de la journée a été la présentation de Windows 8.1 Update 1, la prochaine mise à jour du système d'exploitation de Microsoft.<br/><br/>Microsoft a confirmé les informations que nous avons relayées jusqu'ici. Windows 8.1 Update 1 a été développé avec...]]></description>
+      <pubDate>Wed, 09 Apr 2014 00:32:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69876/Windows-8-1-Update-1-disponible-via-la-fonction-de-mises-a-jour-de-Windows-ce-qu-il-faut-savoir-pour-l-installer/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/win8-pre-2.gif" type="image/jpeg" length="5055"/>
     </item>
     <item>
-      <title><![CDATA[Yahoo! publie son second rapport de transparence, les requêtes des gouvernements sur les données utilisateurs en baisse]]></title>
-      <link>http://www.developpez.com/actu/69519/Yahoo-publie-son-second-rapport-de-transparence-les-requetes-des-gouvernements-sur-les-donnees-utilisateurs-en-baisse/</link>
-      <guid>http://www.developpez.com/actu/69519/Yahoo-publie-son-second-rapport-de-transparence-les-requetes-des-gouvernements-sur-les-donnees-utilisateurs-en-baisse/</guid>
-      <description><![CDATA[<b>Yahoo! publie son premier rapport de transparence</b><br />
-<b>qui donne les statistiques sur les données d'utilisateurs divulguées aux gouvernements</b><br/><br/>À la suite de Facebook il y a quelques semaines, Yahoo! joue à son tour la carte de la transparence.<br/><br/>La firme américaine dévoile les statistiques sur les informations d'utilisateurs qu'elle a rendues publiques pendant  la période allant du 01/01/2013 au 30/06/2013, suite aux requêtes spéciales des gouvernements de pays, notamment celles des États-Unis. <br/><br/>Au cours...]]></description>
-      <pubDate>Mon, 31 Mar 2014 11:58:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69519/Yahoo-publie-son-second-rapport-de-transparence-les-requetes-des-gouvernements-sur-les-donnees-utilisateurs-en-baisse/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/yahoo.gif" type="image/jpeg" length="3294"/>
+      <title><![CDATA[Virus Shield : le numéro un des antivirus payant sur Android  est une arnaque]]></title>
+      <link>http://www.developpez.com/actu/69867/Virus-Shield-le-numero-un-des-antivirus-payant-sur-Android-est-une-arnaque/</link>
+      <guid>http://www.developpez.com/actu/69867/Virus-Shield-le-numero-un-des-antivirus-payant-sur-Android-est-une-arnaque/</guid>
+      <description><![CDATA[<b>Virus Shield : le numéro un des antivirus payant sur Android </b><br />
+<b>est une arnaque  </b><br/><br/>Présentée comme une solution de sécurité pour les terminaux mobiles, l'application Virus Shield a réussi à atteindre la tête des nouveautés payantes et en troisième position des applications les plus achetées sur la vitrine Play Store de Google. Pour 3,99 dollars, l'éditeur promet aux utilisateurs une protection efficace de leurs smartphones et tablettes, le tout pour une consommation d'énergie revue à la baisse et sans...]]></description>
+      <pubDate>Tue, 08 Apr 2014 18:50:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69867/Virus-Shield-le-numero-un-des-antivirus-payant-sur-Android-est-une-arnaque/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/android.gif" type="image/jpeg" length="1990"/>
     </item>
     <item>
-      <title><![CDATA[« Le développeur est un créateur, pas la cheville ouvrière de l'informatique », entretien avec Thomas Lucchini de Microsoft France]]></title>
-      <link>http://www.developpez.com/actu/69506/-Le-developpeur-est-un-createur-pas-la-cheville-ouvriere-de-l-informatique-entretien-avec-Thomas-Lucchini-de-Microsoft-France/</link>
-      <guid>http://www.developpez.com/actu/69506/-Le-developpeur-est-un-createur-pas-la-cheville-ouvriere-de-l-informatique-entretien-avec-Thomas-Lucchini-de-Microsoft-France/</guid>
-      <description><![CDATA[<b>« Le développeur est un créateur, pas la cheville ouvrière de l'informatique »</b><br />
-<b>Entretien avec Thomas Lucchini, Responsable Marketing Plateforme Développeur de Microsoft France</b><br/><br/>C'est le message actuel de Microsoft : les développeurs sont au coeur des principales évolutions du monde. Il faut donc les choyer, quelles que soient leurs technologies de prédilection (mais de préférence avec du Cloud) et quels que soient leurs statuts.<br/><br/><i>« Le métier de développeur, c'est un métier à part »</i>, résume Thomas Lucchini,...]]></description>
-      <pubDate>Mon, 31 Mar 2014 11:06:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69506/-Le-developpeur-est-un-createur-pas-la-cheville-ouvriere-de-l-informatique-entretien-avec-Thomas-Lucchini-de-Microsoft-France/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/discussions.gif" type="image/jpeg" length="1157"/>
-    </item>
-    <item>
-      <title><![CDATA[Vidéo sur MongoDB, la base NoSQL qui réinvente la gestion de données, par David Wursteisen]]></title>
-      <link>http://soat.developpez.com/videos/nosql/introduction-mongodb/</link>
-      <guid>http://soat.developpez.com/videos/nosql/introduction-mongodb/</guid>
+      <title><![CDATA[Microsoft dévoile la version 1.0 de TypeScript, son sur-ensemble de JavaScript]]></title>
+      <link>http://www.developpez.com/actu/69866/Microsoft-devoile-la-version-1-0-de-TypeScript-son-sur-ensemble-de-JavaScript/</link>
+      <guid>http://www.developpez.com/actu/69866/Microsoft-devoile-la-version-1-0-de-TypeScript-son-sur-ensemble-de-JavaScript/</guid>
       <description><![CDATA[]]></description>
-      <pubDate>Mon, 31 Mar 2014 09:00:00 +0200</pubDate>
-      <enclosure url="http://www.developpez.com/images/logos/video.gif" type="image/jpeg" length="2545"/>
+      <pubDate>Tue, 08 Apr 2014 15:51:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69866/Microsoft-devoile-la-version-1-0-de-TypeScript-son-sur-ensemble-de-JavaScript/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/js.gif" type="image/jpeg" length="3290"/>
     </item>
     <item>
-      <title><![CDATA[Faites attention aux clauses des politiques en vigueur, un développeur raconte comment il s'est fait bannir à vie du Google Store]]></title>
-      <link>http://www.developpez.com/actu/69498/Faites-attention-aux-clauses-des-politiques-en-vigueur-un-developpeur-raconte-comment-il-s-est-fait-bannir-a-vie-du-Google-Store/</link>
-      <guid>http://www.developpez.com/actu/69498/Faites-attention-aux-clauses-des-politiques-en-vigueur-un-developpeur-raconte-comment-il-s-est-fait-bannir-a-vie-du-Google-Store/</guid>
-      <description><![CDATA[<b>Faites attention aux clauses des politiques en vigueur,  </b><br />
-<b>un développeur raconte comment il s'est fait bannir à vie du Google Store  </b><br/><br/>Cette histoire servira probablement de rappel aux développeurs qui ne se soucieront probablement pas de lire (entièrement) les clauses du contrat une fois qu'ils auront soumis leurs applications à une vitrine quelconque. Elle est loin d'être unique.<br/><br/>Steve Gehrman, un développeur logiciel indépendant vivant à San Francisco a à son actif une multitude d'applications...]]></description>
-      <pubDate>Sun, 30 Mar 2014 21:28:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69498/Faites-attention-aux-clauses-des-politiques-en-vigueur-un-developpeur-raconte-comment-il-s-est-fait-bannir-a-vie-du-Google-Store/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/discussions.gif" type="image/jpeg" length="1157"/>
+      <title><![CDATA[Adoption de l'open source : les entreprises plus attirées par la qualité et la sécurité, que par la gratuité, selon un récent sondage]]></title>
+      <link>http://www.developpez.com/actu/69861/Adoption-de-l-open-source-les-entreprises-plus-attirees-par-la-qualite-et-la-securite-que-par-la-gratuite-selon-un-recent-sondage/</link>
+      <guid>http://www.developpez.com/actu/69861/Adoption-de-l-open-source-les-entreprises-plus-attirees-par-la-qualite-et-la-securite-que-par-la-gratuite-selon-un-recent-sondage/</guid>
+      <description><![CDATA[<b>Adoption de l'open source : les entreprises plus attirées par la qualité et la sécurité</b><br />
+<b>que par la gratuité, selon un récent sondage </b><br/><br/>L'open source occupe désormais une place non négligeable au sein de l'écosystème de l'IT. L'évolution de l'open source a créé une mutation de la vision de cet environnement par les entreprises.<br/><br/>Si celles-ci précédemment adoptaient les solutions open source principalement pour leur gratuité, les mentalités ont évolué et les entreprises sont désormais beaucoup plus séduites...]]></description>
+      <pubDate>Tue, 08 Apr 2014 14:51:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69861/Adoption-de-l-open-source-les-entreprises-plus-attirees-par-la-qualite-et-la-securite-que-par-la-gratuite-selon-un-recent-sondage/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/open-source.png" type="image/jpeg" length="3514"/>
     </item>
     <item>
-      <title><![CDATA[Les médias, une cible de choix pour les hackers ?  Plus de 80% des sites de news les plus populaires aux USA victimes de cyberattaques selon Google]]></title>
-      <link>http://www.developpez.com/actu/69491/Les-medias-une-cible-de-choix-pour-les-hackers-Plus-de-80pourcent-des-sites-de-news-les-plus-populaires-aux-USA-victimes-de-cyberattaques-selon-Google/</link>
-      <guid>http://www.developpez.com/actu/69491/Les-medias-une-cible-de-choix-pour-les-hackers-Plus-de-80pourcent-des-sites-de-news-les-plus-populaires-aux-USA-victimes-de-cyberattaques-selon-Google/</guid>
-      <description><![CDATA[<b>Les médias, une cible de choix pour les hackers ?  </b><br />
-<b>Plus de 80% des sites de news les plus populaires aux USA victimes de cyberattaques selon Google  </b><br/><br/>Durant la conférence Black Hat Asia 2014 qui s'est déroulée à Singapore, deux ingénieurs sécurité de Google ont présenté les résultats d'une étude menée par Mountain View qui suggère que plus de 80% des sites d'informations (21 sur 25) les plus populaires ont déjà été la cible de cyberattaques de malware sponsorisés par les Etats au courant de l'année...]]></description>
-      <pubDate>Sun, 30 Mar 2014 16:07:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69491/Les-medias-une-cible-de-choix-pour-les-hackers-Plus-de-80pourcent-des-sites-de-news-les-plus-populaires-aux-USA-victimes-de-cyberattaques-selon-Google/#comments</comments>
+      <title><![CDATA[Les cookies publicitaires pourraient permettre de vous identifier, selon une étude menée par des chercheurs de l'université de Princeton]]></title>
+      <link>http://www.developpez.com/actu/69856/Les-cookies-publicitaires-pourraient-permettre-de-vous-identifier-selon-une-etude-menee-par-des-chercheurs-de-l-universite-de-Princeton/</link>
+      <guid>http://www.developpez.com/actu/69856/Les-cookies-publicitaires-pourraient-permettre-de-vous-identifier-selon-une-etude-menee-par-des-chercheurs-de-l-universite-de-Princeton/</guid>
+      <description><![CDATA[<b>Les cookies publicitaires pourraient permettre de vous identifier,  </b><br />
+<b>selon une étude menée par des chercheurs de l'université de Princeton  </b><br/><br/>En décembre dernier, des documents présentés par Edward Snowden expliquaient que la NSA et son homologue britannique la GCHQ se servaient des cookies PREF de Google (cookies de préférence) pour identifier leurs cibles dans le cadre des programmes de surveillance. <br/><br/>Google explique que «<i> à l'aide de ces cookies, nos sites Web enregistrent des informations qui...</i>]]></description>
+      <pubDate>Tue, 08 Apr 2014 12:45:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69856/Les-cookies-publicitaires-pourraient-permettre-de-vous-identifier-selon-une-etude-menee-par-des-chercheurs-de-l-universite-de-Princeton/#comments</comments>
       <enclosure url="http://www.developpez.com/images/logos/securite.gif" type="image/jpeg" length="2351"/>
     </item>
     <item>
-      <title><![CDATA[BlackBerry publie ses résultats, l'entreprise déclare 5,9 milliards de perte à la fin de son année fiscale]]></title>
-      <link>http://www.developpez.com/actu/69487/BlackBerry-publie-ses-resultats-l-entreprise-declare-5-9-milliards-de-perte-a-la-fin-de-son-annee-fiscale/</link>
-      <guid>http://www.developpez.com/actu/69487/BlackBerry-publie-ses-resultats-l-entreprise-declare-5-9-milliards-de-perte-a-la-fin-de-son-annee-fiscale/</guid>
-      <description><![CDATA[<b>BlackBerry publie ses résultats,   </b><br />
-<b>l'entreprise déclare 5,9 milliards de perte à la fin de son année fiscale  </b><br/><br/>BlackBerry a publié le bilan de son année fiscale ce vendredi.  Au quatrième trimestre de son exercice qui couvrait décembre, janvier et février, la société accuse une perte nette de 423 millions de dollars. Sur la même période l'an dernier, Blackberry avait enregistré un bénéfice de 93 millions de dollars. Sur son année fiscale entière, le constructeur enregistre une perte de 5,9 milliards...]]></description>
-      <pubDate>Sun, 30 Mar 2014 03:10:00 +0200</pubDate>
-      <comments>http://www.developpez.com/actu/69487/BlackBerry-publie-ses-resultats-l-entreprise-declare-5-9-milliards-de-perte-a-la-fin-de-son-annee-fiscale/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/blackberry-2.gif" type="image/jpeg" length="4715"/>
+      <title><![CDATA[Microsoft met à jour Windows App Studio et étend la plateforme de développement Web en ligne aux tablettes]]></title>
+      <link>http://www.developpez.com/actu/69850/Microsoft-met-a-jour-Windows-App-Studio-et-etend-la-plateforme-de-developpement-Web-en-ligne-aux-tablettes/</link>
+      <guid>http://www.developpez.com/actu/69850/Microsoft-met-a-jour-Windows-App-Studio-et-etend-la-plateforme-de-developpement-Web-en-ligne-aux-tablettes/</guid>
+      <description><![CDATA[<b>Microsoft dévoile « Universal Apps »</b><br />
+<b>pour la création d'applications qui s'exécutent sur Windows Phone et Windows</b><br/><br/>« <i>Il faudrait vraiment que nous ayons une même interface pour l'ensemble de nos appareils. Nous devrions disposer d'un même ensemble d'API pour les développeurs sur nos appareils. Les applications que nous apportons aux utilisateurs devraient s'exécuter sur tous nos appareils.</i> », avait déclaré en fin d'année dernière Terry Myerson, patron de la division OS chez Microsoft.<br/><br/>Aujourd'hui,...]]></description>
+      <pubDate>Tue, 08 Apr 2014 12:00:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69850/Microsoft-met-a-jour-Windows-App-Studio-et-etend-la-plateforme-de-developpement-Web-en-ligne-aux-tablettes/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/microsoft-v2-3.gif" type="image/jpeg" length="2935"/>
     </item>
     <item>
-      <title><![CDATA[Microsoft ne fouillera plus dans le courrier de ses utilisateurs pour ses besoins d'enquêtes, la compagnie s'en remettra entièrement aux autorités]]></title>
-      <link>http://www.developpez.com/actu/69481/Microsoft-ne-fouillera-plus-dans-le-courrier-de-ses-utilisateurs-pour-ses-besoins-d-enquetes-la-compagnie-s-en-remettra-entierement-aux-autorites/</link>
-      <guid>http://www.developpez.com/actu/69481/Microsoft-ne-fouillera-plus-dans-le-courrier-de-ses-utilisateurs-pour-ses-besoins-d-enquetes-la-compagnie-s-en-remettra-entierement-aux-autorites/</guid>
-      <description><![CDATA[<b>Faut-il se venger de son employeur lorsqu'on est mécontent ?</b><br />
-<b>11 % d'employés seraient prêts à divulguer des informations confidentielles </b><br/><br/>Microsoft a fait face la semaine dernière à une polémique après avoir <a href="http://www.developpez.com/actu/69209/" target="_blank">consulté la messagerie d'un blogueur</a> afin de traquer et arrêter l'auteur des fuites des documents confidentiels sur le développement de Windows 8.<br/><br/>Derrière cet acte d'espionnage légitime pour certains et qualifié d'abus par d'autres, se cache un problème auquel est confronté un nombre important...]]></description>
-      <pubDate>Sat, 29 Mar 2014 21:17:00 +0100</pubDate>
-      <comments>http://www.developpez.com/actu/69481/Microsoft-ne-fouillera-plus-dans-le-courrier-de-ses-utilisateurs-pour-ses-besoins-d-enquetes-la-compagnie-s-en-remettra-entierement-aux-autorites/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/microsoft2.gif" type="image/jpeg" length="2337"/>
+      <title><![CDATA[Le Royaume-Uni et les Pays-Bas bénéficieront d'un an de support pour Windows XP, contre le versement d'une somme importante à Microsoft]]></title>
+      <link>http://www.developpez.com/actu/69835/Le-Royaume-Uni-et-les-Pays-Bas-beneficieront-d-un-an-de-support-pour-Windows-XP-contre-le-versement-d-une-somme-importante-a-Microsoft/</link>
+      <guid>http://www.developpez.com/actu/69835/Le-Royaume-Uni-et-les-Pays-Bas-beneficieront-d-un-an-de-support-pour-Windows-XP-contre-le-versement-d-une-somme-importante-a-Microsoft/</guid>
+      <description><![CDATA[<b>Le Royaume-Uni et les Pays-Bas bénéficieront d'un an du support de Windows XP</b><br />
+<b>contre le versement d'une somme importante à Microsoft</b><br/><br/>Après plus de douze ans de loyaux services, Windows XP doit, enfin, prendre sa retraite. Microsoft publiera la dernière mise à jour de sécurité pour l'OS aujourd'hui.<br/><br/>Après cette date importante pour les utilisateurs de l'OS, Windows XP sera laissé à la merci des pirates, qui pourront exploiter toutes les futures failles découvertes dans le système d'exploitation, puisque...]]></description>
+      <pubDate>Tue, 08 Apr 2014 10:09:00 +0200</pubDate>
+      <comments>http://www.developpez.com/actu/69835/Le-Royaume-Uni-et-les-Pays-Bas-beneficieront-d-un-an-de-support-pour-Windows-XP-contre-le-versement-d-une-somme-importante-a-Microsoft/#comments</comments>
+      <enclosure url="http://www.developpez.com/images/logos/windows-xp.gif" type="image/jpeg" length="2501"/>
     </item>
     <item>
-      <title><![CDATA[Gingerbread deux fois plus instable que KitKat, iOS 7.1, version la plus stable de l'OS mobile d'Apple]]></title>
-      <link>http://www.developpez.com/actu/69472/Gingerbread-deux-fois-plus-instable-que-KitKat-iOS-7-1-version-la-plus-stable-de-l-OS-mobile-d-Apple/</link>
-      <guid>http://www.developpez.com/actu/69472/Gingerbread-deux-fois-plus-instable-que-KitKat-iOS-7-1-version-la-plus-stable-de-l-OS-mobile-d-Apple/</guid>
-      <description><![CDATA[<b>Gingerbread deux fois plus instable que KitKat, </b><br />
-<b>iOS 7.1, version la plus stable de l'OS mobile d'Apple</b><br/><br/>Une étude de Crittercism, une entreprise de monitoring de performance réputée pour ses rapports de crash, a publié son premier rapport « State of Mobile » qui croise les données issues d'utilisateurs actifs afin d'établir une variété d'indicateurs de performance de mobile. Pour les besoins du rapport, l'étude s'est basée sur les 30 000 requêtes reçues par seconde en temps réel à partir des données...]]></description>
-      <pubDate>Sat, 29 Mar 2014 04:26:00 +0100</pubDate>
-      <comments>http://www.developpez.com/actu/69472/Gingerbread-deux-fois-plus-instable-que-KitKat-iOS-7-1-version-la-plus-stable-de-l-OS-mobile-d-Apple/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/ios.gif" type="image/jpeg" length="3869"/>
+      <title><![CDATA[Programmer un émulateur : exemples avec quelques instructions, un tutoriel de BestCoder sur l'implémentation des instructions de la Chip 8]]></title>
+      <link>http://jeux.developpez.com/tutoriels/programmer-emulateur-console/tutoriel-6-interface-homme-machine/</link>
+      <guid>http://jeux.developpez.com/tutoriels/programmer-emulateur-console/tutoriel-6-interface-homme-machine/</guid>
+      <description><![CDATA[Bonjour à tous,<br/><br/>Voici le <a href="http://jeux.developpez.com/tutoriels/programmer-emulateur-console/tutoriel-6-interface-homme-machine/" target="_blank">sixième tutoriel</a> de la série dont le but est de vous apprendre à programmer un <b>émulateur</b> Chip 8 !<br />
+Ce sixième et dernier chapitre explique comment finaliser l'émulateur Chip 8 en ajoutant l'interface homme-machine et donne une conclusion à cette sérieux.<br/><br/>N'hésitez pas à surveiller le <a href="http://jeux.developpez.com/tutoriels/programmer-emulateur-console/" target="_blank">sommaire</a> qui sera mis à jour au fur et à mesure.<br/><br/><b><a href="http://jeux.developpez.com/tutoriels/programmer-emulateur-console/tutoriel-6-interface-homme-machine/" target="_blank">Bonne lecture</a></b>.]]></description>
+      <pubDate>Tue, 08 Apr 2014 08:30:00 +0200</pubDate>
     </item>
     <item>
-      <title><![CDATA[Facebook travaille sur des drones pour fournir l'accès à internet, dans le cadre de l'initiative internet.org]]></title>
-      <link>http://www.developpez.com/actu/69469/Facebook-travaille-sur-des-drones-pour-fournir-l-acces-a-internet-dans-le-cadre-de-l-initiative-internet-org/</link>
-      <guid>http://www.developpez.com/actu/69469/Facebook-travaille-sur-des-drones-pour-fournir-l-acces-a-internet-dans-le-cadre-de-l-initiative-internet-org/</guid>
-      <description><![CDATA[<b>Facebook s'associe à six compagnies </b><br />
-<b>pour rendre effective la connexion Internet partout dans les pays en développement</b><br/><br/>Mark Zuckerberg, à la suite de Google avec son projet <b><a href="http://www.developpez.com/actu/56849/Google-presente-Loon-son-projet-de-distribution-d-internet-via-des-ballons-envoyes-dans-la-stratosphere/" target="_blank">Loon</a></b> ou encore Microsoft avec <b><a href="http://www.developpez.com/actu/59355/Microsoft-etend-son-projet-4Afrika-a-l-Afrique-du-Sud-pour-connecter-les-zones-rurales-a-Internet/" target="_blank">4Afrika</a></b>, veut connecter la vaste majorité de personnes qui demeurent encore à ce jour exclues du réseau des réseaux. Pour ce faire, le jeune milliardaire s'est associé pour cette aventure à Samsung, Ericsson, Mediatek, Nokia et Qualcom.<br/><br/><img src="http://www.developpez.com/public/images/news/internetdotorg.png" /><br />
-Connecter ce nombre important d'utilisateurs à Internet est...]]></description>
-      <pubDate>Sat, 29 Mar 2014 03:19:00 +0100</pubDate>
-      <comments>http://www.developpez.com/actu/69469/Facebook-travaille-sur-des-drones-pour-fournir-l-acces-a-internet-dans-le-cadre-de-l-initiative-internet-org/#comments</comments>
-      <enclosure url="http://www.developpez.com/images/logos/facebook.png" type="image/jpeg" length="1314"/>
+      <title><![CDATA[Création d'un générateur d'étiquettes avec Access, par Jean-Marie Bagnis (jimbolion)]]></title>
+      <link>http://jimbolion.developpez.com/articles/generateur/</link>
+      <guid>http://jimbolion.developpez.com/articles/generateur/</guid>
+      <description><![CDATA[]]></description>
+      <pubDate>Tue, 08 Apr 2014 08:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Routage dynamique - Le protocole OSPF, un article sur le routage dynamique avec le protocole OSPF par Pacôme Massol]]></title>
+      <link>http://inetdoc.developpez.com/tutoriels/routage-dynamique-protocole-ospf/</link>
+      <guid>http://inetdoc.developpez.com/tutoriels/routage-dynamique-protocole-ospf/</guid>
+      <description><![CDATA[]]></description>
+      <pubDate>Mon, 07 Apr 2014 22:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

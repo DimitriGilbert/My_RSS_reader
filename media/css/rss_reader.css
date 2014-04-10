@@ -4,6 +4,7 @@
 
 /************************************feed************************************/
 .feed_item{margin: 2px 0;}
+.feed_item:hover{background-color: #FCF8E3;color:#000;}
 .feed_item_title{font-size:15px;}
 
 /************************************reader************************************/

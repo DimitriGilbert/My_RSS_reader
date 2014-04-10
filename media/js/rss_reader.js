@@ -221,9 +221,11 @@ rss_reader.template.feedItem = function (item) {
 			"attr":{
 				"className":"col-sm-12 bg-primary feed_item",
 				"data_from":item.getAttribute('from'),
+				"id":item.getAttribute('id'),
 				"data_link":link[0].textContent,
 				"onclick":function () {
 					rss_reader.view.showItem(this);
+					$(this).addClass('bg-success');
 				}
 			},
 			"append":[
@@ -286,6 +288,13 @@ rss_reader.template.readerItem = function (item) {
 		"append":[
 			rss_reader.template.readerTitle(item.childNodes[0].textContent),
 			rss_reader.template.readerDescription(item.childNodes[1].innerHTML),
+			{
+				"tag":"div",
+				"attr":{
+					"className":"col-sm-12"
+				},
+				"inner":item.getAttribute('data_link')
+			},
 			rss_reader.template.readerGoWeb(item.getAttribute('data_link'))
 		]
 	}
