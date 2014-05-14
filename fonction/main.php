@@ -144,6 +144,7 @@ function del_feed($id)
 */
 function get_latest()
 {
+	global $path;
 	$files = scandir($path.'rss/compiled/', SCANDIR_SORT_DESCENDING);
 	$file = $files[0];
 	$xml = new DOMDocument();
